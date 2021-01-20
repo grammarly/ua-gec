@@ -5,7 +5,7 @@ This repository contains UA-GEC data and an accompanying Python library.
 
 ## Data
 
-All corpus data and metadata stays under the `./data`. It has two subfolders
+All corpus data and metadata stay under the `./data`. It has two subfolders
 for [train and test splits](#train-test-split)
 
 Each split (train and test) has further subfolders for different data
@@ -15,7 +15,7 @@ representations:
 
 `./data/{train,test}/source` and `./data/{train,test}/target` store the
 original and the corrected versions of documents. Text files in these
-directories are plain text, with no annotation markup. These files were
+directories are plain text with no annotation markup. These files were
 produced from the annotated data and are, in some way, redundant. We keep them
 because this format is convenient in some use cases.
 
@@ -30,11 +30,11 @@ the following fields:
 - `is_native` (int): 1 if the author is native-speaker, 0 otherwise
 - `region` (str): the author's region of birth. A special value "Інше"
   is used both for authors who were born outside Ukraine and authors
-  who prefered not to tell their region.
+  who preferred not to specify their region.
 - `gender` (str): could be "Жіноча" (female), "Чоловіча" (male), or "Інша" (other).
 - `occupation` (str): one of "Технічна", "Гуманітарна", "Природнича", "Інша"
 - `submission_type` (str): one of "essay", "translation", or "text\_donation"
-- `source_language` (str): for submissions of type "translation", this field
+- `source_language` (str): for submissions of the "translation" type, this field
     indicates the source language of the translated text. Possible values are
     "de", "en", "fr", "ru", and "pl".
 - `annotator_id` (int): ID of the annotator who corrected the document.
@@ -44,7 +44,7 @@ the following fields:
 
 Annotated files are text files that use the following in-text annotation format:
 `{error=>edit:::error_type=Tag}`, where `error` and `edit` stand for the text item before
-and after correction, respectively, and `Tag` denotes an error category
+and after correction respectively, and `Tag` denotes an error category
 (`Grammar`, `Spelling`, `Punctuation`, or `Fluency`).
 
 Example of an annotated sentence:
@@ -58,10 +58,10 @@ annotated texts. See its documentation for details.
 
 ## Train-test split
 
-We expect users of the corpus train and tune their models on the __train__ split
+We expect users of the corpus to train and tune their models on the __train__ split
 only. Feel free to further split it into train-dev (or use cross-validation).
 
-Please, use the __test__ split only for reporting scores of your final model.
+Please use the __test__ split only for reporting scores of your final model.
 In particular, never optimize on the test set. Do not tune hyperparameters on
 it. Do not use it for model selection in any way.
 
@@ -94,13 +94,13 @@ documents, read metadata, work with annotations, etc.
 
 ### Getting started
 
-A simple way to install the package is by `pip`:
+The package can be easily installed by `pip`:
 
 ```
     $ pip install ua_gec==1.0
 ```
 
-Alternatively, you can install it from source:
+Alternatively, you can install it from the source code:
 
 ```
     $ cd python
@@ -110,7 +110,7 @@ Alternatively, you can install it from source:
 
 ### Iterating through corpus
 
-Once installed, you may get annotated documents from Python code:
+Once installed, you may get annotated documents from the Python code:
 
 ```python
     
@@ -135,7 +135,7 @@ Once installed, you may get annotated documents from Python code:
   your Ukrainian writings or complete one of the writing tasks at
   https://ua-gec-dataset.grammarly.ai/
 
-* Code improvements and document are welcomed. Please, open a pull request.
+* Code improvements and document are welcomed. Please submit a pull request.
 
 
 ## Contacts
