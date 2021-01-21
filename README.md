@@ -49,7 +49,7 @@ and after correction respectively, and `Tag` denotes an error category
 
 Example of an annotated sentence:
 ```
-    I {like=>likes:::error_type=Grammar} turtles.
+    I {likes=>like:::error_type=Grammar} turtles.
 ```
 
 An accompanying Python package, `ua_gec`, provides many tools for working with
