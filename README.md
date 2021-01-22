@@ -117,16 +117,36 @@ Once installed, you may get annotated documents from the Python code:
     >>> from ua_gec import Corpus
     >>> corpus = Corpus(partition="train")
     >>> for doc in corpus:
-    ...     print(doc.source)
-    ...     print(doc.target)
-    ...     print(doc.annotated)
-    ...     print(doc.meta.region)
+    ...     print(doc.source)         # "I likes it."
+    ...     print(doc.target)         # "I like it."
+    ...     print(doc.annotated)      # <AnnotatedText("I {likes=>like} it.")
+    ...     print(doc.meta.region)    # "Київська"
 ```
+
+Note that the `doc.annotated` property is of type `AnnotatedText`. This
+class is described in the [next section](#working-with-annotations)
 
 
 ### Working with annotations
 
-[The docs are under construction]
+`ua_gec.AnnotatedText` is a class that provides tools for processing
+annotated texts. It can iterate over annotations, get annotation error
+type, remove some of the annotations, and more.
+
+While we're working on a detailed documentation, here is an example to
+get you started. It will remove all Fluency annotations from a text:
+
+```python
+    >>> from ua_gec import AnnotatedText
+    >>> text = AnnotatedText("I {likes=>like:::error_type=Grammar} it.")
+    >>> for ann in text.iter_annotations():
+    ...     print(ann.source_text)       # likes
+    ...     print(ann.top_suggestion)    # like
+    ...     print(ann.meta)              # {'error_type': 'Grammar'}
+    ...     if ann.meta["error_type"] == "Fluency":
+    ...         text.remove(ann)         # or `text.apply(ann)`
+```
+
 
 
 ## Contributing
