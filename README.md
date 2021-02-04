@@ -39,6 +39,7 @@ the following fields:
     "de", "en", "fr", "ru", and "pl".
 - `annotator_id` (int): ID of the annotator who corrected the document.
 - `partition` (str): one of "test" or "train"
+- `is_sensitive` (int): 1 if the document contains profanity or offensive language
 
 ## Annotation format
 
@@ -97,7 +98,7 @@ documents, read metadata, work with annotations, etc.
 The package can be easily installed by `pip`:
 
 ```
-    $ pip install ua_gec==1.0
+    $ pip install ua_gec==1.1
 ```
 
 Alternatively, you can install it from the source code:

@@ -7,7 +7,8 @@ from ua_gec.annotated_text import AnnotatedText
 
 Metadata = collections.namedtuple(
     "Metadata",
-    "doc_id author_id is_native region gender occupation submission_type source_language annotator_id partition")
+    "doc_id author_id is_native region gender occupation submission_type "
+    "source_language annotator_id partition is_sensitive")
 
 
 class Document:
@@ -101,6 +102,7 @@ class Corpus:
                     source_language=row["source_language"],
                     annotator_id=int(row["annotator_id"]),
                     partition=row['partition'],
+                    is_sensitive=bool(row['is_sensitive']),
                 )
                 self._metadata.append(record)
 
