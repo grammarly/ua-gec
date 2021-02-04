@@ -12,7 +12,7 @@ There is a Python package that consists of the data and the code to work with it
 A simple way to install the package is by `pip`:
 
 ```
-    $ pip install ua_gec==1.0
+    $ pip install ua_gec==1.1
 ```
 
 Alternatively, you can install it from source:
