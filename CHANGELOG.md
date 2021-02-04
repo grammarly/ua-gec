@@ -3,6 +3,7 @@
 ## [1.1.0] - 2021-02-05
 ### Added
 - `is_sensitive` metadata flag to mark documents that contain profanity.
+- `stats.txt` contains detailed dataset statistics
 
 ## [1.0.0] - 2021-01-20
 
