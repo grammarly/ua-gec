@@ -65,6 +65,7 @@ class Corpus:
         root_dir = pathlib.Path(__file__).parent
         self._data_dir = root_dir / "data"
         self._metadata = None
+        self._docs = None  # lazy loaded list of document
 
     def __repr__(self):
         return "<Corpus(partition={}, len={} docs>".format(
@@ -107,6 +108,13 @@ class Corpus:
                 self._metadata.append(record)
 
     def iter_documents(self):
+        """Iterate over documents. """
+
+        # Corpus is already loaded
+        if self._docs is not None:
+            return iter(self._docs)
+
+        # Iterate in a streaming fashion
         for meta in self._get_metadata():
             filename = f"{meta.doc_id}.a{self.annotator_id}.ann"
             path = self._data_dir / meta.partition / "annotated" / filename
@@ -117,4 +125,20 @@ class Corpus:
     def get_documents(self):
         """Return a list of all documents in the corpus. """
 
-        return list(self.iter_documents())
+        if self._docs is None:
+            self._docs = list(self.iter_documents())
+        return self._docs
+    
+    def get_doc(self, doc_id):
+        """Return one document by its ID.
+
+        Raises LookupError if the document is not found.
+        """
+
+        docs = self.get_documents()
+        match = [doc for doc in docs if doc.doc_id == doc_id]
+        if not match:
+            raise LookupError(f"Document {doc_id} not found!")
+        
+        assert len(match) == 1
+        return match[0]
