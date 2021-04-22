@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+import argparse
+import collections
 import spacy
 
 
@@ -8,11 +10,11 @@ class CorpusStatistics:
     def __init__(self, corpus):
         self.corpus = corpus
         self.stats = {}
-        self.nlp = spacy.load("xx_ent_wiki_sm")
+        self.spacy = spacy.load("xx_ent_wiki_sm")
         self.compute()
 
     def compute(self):
-        docs = corpus.get_documents()
+        docs = self.corpus.get_documents()
 
         self.stats["Total"] = {}
         self.stats["Total"]["All"] = self._subset_stats(docs)
@@ -22,6 +24,7 @@ class CorpusStatistics:
         self.stats["By occupation"] = self._breakdown(docs, "occupation")
         self.stats["By submission type"] = self._breakdown(docs, "submission_type")
         self.stats["By translation lang"] = self._breakdown(docs, "source_language")
+        self.stats["Number of errors"] = self._count_errors(docs)
 
     def _subset_stats(self, docs):
         stats = {}
@@ -48,7 +51,7 @@ class CorpusStatistics:
         return s.count(".") + s.count("?") + s.count("!")
 
     def count_tokens(self, s):
-        tokens = self.nlp(s)
+        tokens = self.spacy(s, disable=["parser", "ner"])
         return len(tokens)
 
     def _breakdown(self, docs, field):
@@ -66,9 +69,33 @@ class CorpusStatistics:
             result[value] = self._subset_stats(subset)
 
         return result
+    
+    def _count_errors(self, docs):
+        """Compute number of error annotations in the given docs. """
 
-if __name__ == "__main__":
+        errors = collections.Counter()
+        for doc in docs:
+            for ann in doc.annotated.get_annotations():
+                try:
+                    errors[ann.meta["error_type"]] += 1
+                except KeyError:
+                    print(doc.doc_id)
+                    print(ann)
+                    raise
+                    continue
+                errors["TOTAL"] += 1
+        return errors
+
+
+def main(args):
     from ua_gec import Corpus
-    corpus = Corpus("all")
+    corpus = Corpus(args.partition)
     stats = CorpusStatistics(corpus)
     stats.pretty_print()
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("partition", choices=["all", "train", "test"])
+    args = parser.parse_args()
+    main(args)
