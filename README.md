@@ -159,6 +159,21 @@ get you started. It will remove all Fluency annotations from a text:
 * Code improvements and document are welcomed. Please submit a pull request.
 
 
+## Citation
+
+The [accompanying paper](https://arxiv.org/abs/2103.16997) is:
+
+```
+@misc{syvokon2021uagec,
+      title={UA-GEC: Grammatical Error Correction and Fluency Corpus for the Ukrainian Language},
+      author={Oleksiy Syvokon and Olena Nahorna},
+      year={2021},
+      eprint={2103.16997},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}}
+```
+
+
 ## Contacts
 
 * oleksiy.syvokon@grammarly.com
