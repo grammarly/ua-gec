@@ -1,22 +1,22 @@
 # By gender
 Інше                           {'Documents': 5, 'Sentences': 70, 'Tokens': 980, 'Unique users': 5}
-Жіноча                         {'Documents': 512, 'Sentences': 9601, 'Tokens': 161634, 'Unique users': 288}
-Чоловіча                       {'Documents': 494, 'Sentences': 11044, 'Tokens': 166165, 'Unique users': 205}
+Жіноча                         {'Documents': 512, 'Sentences': 9601, 'Tokens': 161631, 'Unique users': 288}
+Чоловіча                       {'Documents': 494, 'Sentences': 11044, 'Tokens': 166160, 'Unique users': 205}
 
 # By native
-0                              {'Documents': 275, 'Sentences': 4247, 'Tokens': 65833, 'Unique users': 163}
-1                              {'Documents': 736, 'Sentences': 16468, 'Tokens': 262946, 'Unique users': 333}
+0                              {'Documents': 275, 'Sentences': 4247, 'Tokens': 65824, 'Unique users': 163}
+1                              {'Documents': 736, 'Sentences': 16468, 'Tokens': 262947, 'Unique users': 333}
 
 # By occupation
-Інше                           {'Documents': 124, 'Sentences': 1906, 'Tokens': 33440, 'Unique users': 65}
-Гуманітарна                    {'Documents': 339, 'Sentences': 6814, 'Tokens': 115796, 'Unique users': 188}
+Інше                           {'Documents': 124, 'Sentences': 1906, 'Tokens': 33441, 'Unique users': 65}
+Гуманітарна                    {'Documents': 339, 'Sentences': 6814, 'Tokens': 115792, 'Unique users': 188}
 Природнича                     {'Documents': 69, 'Sentences': 1232, 'Tokens': 18341, 'Unique users': 24}
-Технічна                       {'Documents': 479, 'Sentences': 10763, 'Tokens': 161202, 'Unique users': 224}
+Технічна                       {'Documents': 479, 'Sentences': 10763, 'Tokens': 161197, 'Unique users': 224}
 
 # By region
 AP Крим                        {'Documents': 9, 'Sentences': 112, 'Tokens': 1724, 'Unique users': 5}
-Івано-Франківська              {'Documents': 51, 'Sentences': 1191, 'Tokens': 19850, 'Unique users': 20}
-Інше                           {'Documents': 78, 'Sentences': 776, 'Tokens': 12495, 'Unique users': 69}
+Івано-Франківська              {'Documents': 51, 'Sentences': 1191, 'Tokens': 19849, 'Unique users': 20}
+Інше                           {'Documents': 78, 'Sentences': 776, 'Tokens': 12492, 'Unique users': 69}
 Волинська                      {'Documents': 22, 'Sentences': 485, 'Tokens': 10180, 'Unique users': 10}
 Вінницька                      {'Documents': 15, 'Sentences': 562, 'Tokens': 7421, 'Unique users': 12}
 Дніпропетровська               {'Documents': 38, 'Sentences': 834, 'Tokens': 15391, 'Unique users': 21}
@@ -24,18 +24,18 @@ AP Крим                        {'Documents': 9, 'Sentences': 112, 'Tokens': 
 Житомирська                    {'Documents': 19, 'Sentences': 477, 'Tokens': 9578, 'Unique users': 7}
 Закарпатська                   {'Documents': 2, 'Sentences': 22, 'Tokens': 449, 'Unique users': 1}
 Запорізька                     {'Documents': 4, 'Sentences': 65, 'Tokens': 1047, 'Unique users': 4}
-Київ                           {'Documents': 301, 'Sentences': 5963, 'Tokens': 96215, 'Unique users': 116}
+Київ                           {'Documents': 301, 'Sentences': 5963, 'Tokens': 96218, 'Unique users': 116}
 Київська                       {'Documents': 32, 'Sentences': 874, 'Tokens': 12248, 'Unique users': 17}
 Кіровоградська                 {'Documents': 5, 'Sentences': 153, 'Tokens': 2358, 'Unique users': 5}
 Луганська                      {'Documents': 5, 'Sentences': 146, 'Tokens': 2381, 'Unique users': 4}
-Львівська                      {'Documents': 138, 'Sentences': 3976, 'Tokens': 54721, 'Unique users': 85}
+Львівська                      {'Documents': 138, 'Sentences': 3976, 'Tokens': 54720, 'Unique users': 85}
 Миколаївська                   {'Documents': 3, 'Sentences': 43, 'Tokens': 702, 'Unique users': 3}
 Одеська                        {'Documents': 11, 'Sentences': 294, 'Tokens': 4227, 'Unique users': 7}
-Полтавська                     {'Documents': 63, 'Sentences': 571, 'Tokens': 8228, 'Unique users': 11}
+Полтавська                     {'Documents': 63, 'Sentences': 571, 'Tokens': 8225, 'Unique users': 11}
 Рівненська                     {'Documents': 19, 'Sentences': 584, 'Tokens': 11846, 'Unique users': 9}
 Сумська                        {'Documents': 22, 'Sentences': 384, 'Tokens': 7254, 'Unique users': 15}
 Тернопільська                  {'Documents': 28, 'Sentences': 567, 'Tokens': 9403, 'Unique users': 15}
-Харківська                     {'Documents': 66, 'Sentences': 1073, 'Tokens': 16693, 'Unique users': 21}
+Харківська                     {'Documents': 66, 'Sentences': 1073, 'Tokens': 16690, 'Unique users': 21}
 Херсонська                     {'Documents': 3, 'Sentences': 149, 'Tokens': 2165, 'Unique users': 3}
 Хмельницька                    {'Documents': 7, 'Sentences': 248, 'Tokens': 4590, 'Unique users': 7}
 Черкаська                      {'Documents': 19, 'Sentences': 225, 'Tokens': 3121, 'Unique users': 6}
@@ -43,18 +43,25 @@ AP Крим                        {'Documents': 9, 'Sentences': 112, 'Tokens': 
 Чернігівська                   {'Documents': 23, 'Sentences': 423, 'Tokens': 6606, 'Unique users': 6}
 
 # By submission type
-essay                          {'Documents': 62, 'Sentences': 791, 'Tokens': 10814, 'Unique users': 59}
-text_donation                  {'Documents': 609, 'Sentences': 15893, 'Tokens': 260785, 'Unique users': 216}
-translation                    {'Documents': 340, 'Sentences': 4031, 'Tokens': 57180, 'Unique users': 271}
+essay                          {'Documents': 62, 'Sentences': 791, 'Tokens': 10811, 'Unique users': 59}
+text_donation                  {'Documents': 609, 'Sentences': 15893, 'Tokens': 260783, 'Unique users': 216}
+translation                    {'Documents': 340, 'Sentences': 4031, 'Tokens': 57177, 'Unique users': 271}
 
 # By translation lang
-                               {'Documents': 671, 'Sentences': 16684, 'Tokens': 271599, 'Unique users': 266}
+                               {'Documents': 671, 'Sentences': 16684, 'Tokens': 271594, 'Unique users': 266}
 de                             {'Documents': 6, 'Sentences': 59, 'Tokens': 1188, 'Unique users': 5}
 en                             {'Documents': 181, 'Sentences': 1870, 'Tokens': 26952, 'Unique users': 165}
 fr                             {'Documents': 4, 'Sentences': 53, 'Tokens': 633, 'Unique users': 3}
 pl                             {'Documents': 8, 'Sentences': 114, 'Tokens': 1436, 'Unique users': 8}
-ru                             {'Documents': 141, 'Sentences': 1935, 'Tokens': 26971, 'Unique users': 112}
+ru                             {'Documents': 141, 'Sentences': 1935, 'Tokens': 26968, 'Unique users': 112}
+
+# Number of errors
+Spelling                       4894
+TOTAL                          23495
+Fluency                        5561
+Punctuation                    9314
+Grammar                        3726
 
 # Total
-All                            {'Documents': 1011, 'Sentences': 20715, 'Tokens': 328779, 'Unique users': 492}
+All                            {'Documents': 1011, 'Sentences': 20715, 'Tokens': 328771, 'Unique users': 492}
 
