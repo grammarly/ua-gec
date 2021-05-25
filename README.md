@@ -176,6 +176,6 @@ The [accompanying paper](https://arxiv.org/abs/2103.16997) is:
 
 ## Contacts
 
-* oleksiy.syvokon@grammarly.com
+* oleksiy.syvokon@gmail.com
 * olena.nahorna@grammarly.com
 * nastasiya.osidach@grammarly.com
