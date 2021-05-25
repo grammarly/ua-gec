@@ -16,15 +16,27 @@ def do_partition(out_dir, corpus):
     for doc in tqdm.tqdm(corpus.get_documents()):
         src = split_sentences(doc.source)
         tgt = split_sentences(doc.target)
+        output_src, output_tgt = align_sentences(src, tgt)
+
+        # Write sentences
         fname_src = f"{doc.doc_id}.src.txt"
         fname_tgt = f"{doc.doc_id}.a{doc.meta.annotator_id}.txt"
         path_src = out_dir / "source-sentences" / fname_src
         path_tgt = out_dir / "target-sentences" / fname_tgt
-        output_src, output_tgt = align_sentences(src, tgt)
         path_src.parent.mkdir(exist_ok=True)
         path_tgt.parent.mkdir(exist_ok=True)
         path_src.write_text("\n".join(output_src))
         path_tgt.write_text("\n".join(output_tgt))
+
+        # Write tokenized sentences
+        path_src = out_dir / "source-sentences-tokenized" / fname_src
+        path_tgt = out_dir / "target-sentences-tokenized" / fname_tgt
+        path_src.parent.mkdir(exist_ok=True)
+        path_tgt.parent.mkdir(exist_ok=True)
+        tokenized_src = [tokenize(s) for s in output_src]
+        tokenized_tgt = [tokenize(s) for s in output_tgt]
+        path_src.write_text("\n".join(tokenized_src))
+        path_tgt.write_text("\n".join(tokenized_tgt))
 
 
 def align_sentences(src_sentences, tgt_sentences):
@@ -71,6 +83,15 @@ def split_sentences(text: str) -> [str]:
 
     sentences = [s.text for s in nlp(text).sentences]
     return sentences
+
+
+def tokenize(text: str) -> [str]:
+    if not hasattr(tokenize, "nlp"):
+        tokenize.nlp = stanza.Pipeline(lang="uk", processors="tokenize")
+    nlp = tokenize.nlp
+
+    tokenized = " ".join([t.text for t in nlp(text).iter_tokens()])
+    return tokenized
 
 
 if __name__ == "__main__":
