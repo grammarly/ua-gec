@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.2.0] - 2021-05-25
+### Added
+- Sentence-level aligned data
+- Tokenized doc-level and sentence-level data
+
 ## [1.1.1] - 2021-04-09
 ### Added
 - `Corpus.get_doc()` method to find a document by id.
