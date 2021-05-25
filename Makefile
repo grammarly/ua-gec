@@ -1,4 +1,4 @@
-.PHONY: install stats
+.PHONY: install stats tokenize
 
 
 install:
@@ -6,3 +6,7 @@ install:
 
 stats:
 	./python/ua_gec/stats.py all | tee stats.txt
+
+tokenize:
+	rm -rf data/{train,test}/*-sentences
+	./scripts/sentencize.py
