@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.2.1] - 2021-05-25
+### Changed
+- Fixed bug with `is_sensitive` metadata
+
 ## [1.2.0] - 2021-05-25
 ### Added
 - Sentence-level aligned data
