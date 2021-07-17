@@ -103,7 +103,7 @@ class Corpus:
                     source_language=row["source_language"],
                     annotator_id=int(row["annotator_id"]),
                     partition=row['partition'],
-                    is_sensitive=bool(row['is_sensitive']),
+                    is_sensitive=bool(int(row['is_sensitive'])),
                 )
                 self._metadata.append(record)
 
