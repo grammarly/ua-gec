@@ -1,0 +1,4 @@
+stanza
+tqdm
+ua_gec
+pyxdameraulevenshtein

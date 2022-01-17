@@ -3,12 +3,13 @@ from pathlib import Path
 import stanza
 import tqdm
 import ua_gec
-from grampy.text import edit_distance
+from pyxdameraulevenshtein import damerau_levenshtein_distance
 
 
 def main(data_dir="./data"):
     data_dir = Path(data_dir)
     for partition in ("train", "test"):
+        print(f"~~~ Preprocess {partition} partition")
         do_partition(data_dir / partition, ua_gec.Corpus(partition))
 
 
@@ -61,7 +62,7 @@ def align_sentences(src_sentences, tgt_sentences):
         for take_src, take_tgt in combinations:
             src = " ".join(src_sentences[pos_src : pos_src + take_src])
             tgt = " ".join(tgt_sentences[pos_tgt : pos_tgt + take_tgt])
-            dist = edit_distance(src, tgt)
+            dist = damerau_levenshtein_distance(src, tgt)
             if dist < min_dist:
                 min_dist = dist
                 best_take_src = take_src
@@ -77,11 +78,15 @@ def align_sentences(src_sentences, tgt_sentences):
 
 
 def split_sentences(text: str) -> [str]:
+    sentences = []
     if not hasattr(split_sentences, "nlp"):
+        stanza.download("uk")
         split_sentences.nlp = stanza.Pipeline(lang="uk", processors="tokenize")
     nlp = split_sentences.nlp
 
-    sentences = [s.text for s in nlp(text).sentences]
+    for paragraph in text.split("\n"):
+        sentences += [s.text for s in nlp(paragraph).sentences]
+
     return sentences
 
 
