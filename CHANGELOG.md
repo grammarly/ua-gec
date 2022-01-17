@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.3.0.dev0] - 2022-01-17
+### Added
+- Annotations may indicate newline insertion/deletion by using the "\n" token
+
+### Changed
+- Fix annotations in ~10 docs (lists, tables, newlines)
+- Sentence-split source and target files are now guaranteed to have the same
+  number of lines
+
 ## [1.2.1] - 2021-05-25
 ### Changed
 - Fixed bug with `is_sensitive` metadata

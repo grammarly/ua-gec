@@ -1,4 +1,18 @@
 #!/usr/bin/env python3
+"""This scripts produces the following postprocessed views of the annotated dataset:
+
+1. `./data/source` -- the source (errorful) side of text (annotations stripped)
+2. `./data/target` -- the target (corrected) side of target (annotations stripped)
+3. `./data/source-sentences` -- the source side split into sentences
+4. `./data/target-sentences` -- same for target
+5. `./data/source-sentences-tokenized` -- the source side split into sentences and tokenized
+6. `./data/target-sentences-tokenized` -- same for target.
+
+All these views originate in `./data/annotated` which should be considered
+as the source of truth.
+
+"""
+
 from pathlib import Path
 import stanza
 import tqdm
@@ -18,10 +32,18 @@ def do_partition(out_dir, corpus):
         src = split_sentences(doc.source)
         tgt = split_sentences(doc.target)
         output_src, output_tgt = align_sentences(src, tgt)
-
-        # Write sentences
         fname_src = f"{doc.doc_id}.src.txt"
         fname_tgt = f"{doc.doc_id}.a{doc.meta.annotator_id}.txt"
+
+        # Write source-only and target-only docs (with no annotations)
+        path_src = out_dir / "source" / fname_src
+        path_tgt = out_dir / "target" / fname_tgt
+        path_src.parent.mkdir(exist_ok=True)
+        path_tgt.parent.mkdir(exist_ok=True)
+        path_src.write_text(doc.source)
+        path_tgt.write_text(doc.target)
+
+        # Write sentence-level documents
         path_src = out_dir / "source-sentences" / fname_src
         path_tgt = out_dir / "target-sentences" / fname_tgt
         path_src.parent.mkdir(exist_ok=True)

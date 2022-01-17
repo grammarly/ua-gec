@@ -1,4 +1,4 @@
-.PHONY: install stats tokenize
+.PHONY: install stats postprocess
 
 
 install:
@@ -7,6 +7,9 @@ install:
 stats:
 	./python/ua_gec/stats.py all | tee stats.txt
 
-tokenize:
-	rm -rf data/{train,test}/*-sentences
-	./scripts/sentencize.py
+postprocess:
+	rm -rf data/test/source*
+	rm -rf data/test/target*
+	rm -rf data/train/source*
+	rm -rf data/train/target*
+	./scripts/postprocess_dataset.py
