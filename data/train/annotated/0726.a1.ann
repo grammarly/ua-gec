@@ -2,11 +2,11 @@
 {-=>—:::error_type=Punctuation} От це вже інша справа{=>,:::error_type=Punctuation} {=>— :::error_type=Punctuation}-сказав Воланд, примружуючись, {-=>—:::error_type=Punctuation} тепер поговоримо. Хто {Ви=>ви:::error_type=Spelling} такий?
 {-=>—:::error_type=Punctuation} Я тепер ніхто, {-=>—:::error_type=Punctuation} відповів Майстер, і посмішка викривила його рота.
 {-=>—:::error_type=Punctuation} Звідки {Ви=>ви:::error_type=Spelling} щойно?
-{-=>—:::error_type=Punctuation} З {будинку скорботи=>божевільні:::error_type=Fluency}. Я {-=>—:::error_type=Punctuation} {психічнохворий=>психічно хворий:::error_type=Spelling}, {-=>—:::error_type=Punctuation} відповів прибулець.
-Цих слів Маргарита не витримала і знову заплакала. Згодом вона протерла очі і {вскрикнула=>викрикнула:::error_type=Grammar}:
-{-=>—:::error_type=Punctuation} Жахливі слова! Жахливі слова! Він Майстер, {мессір=>мессіре:::error_type=Grammar}, я {Вас=>вас:::error_type=Spelling} попереджаю про це. Вилікуйте його, він вартий того.
-{-=>—:::error_type=Punctuation} Ви знаєте, з ким зараз спілкуєтеся, {-=>—:::error_type=Punctuation} спитав у прибулого Воланд, {-=>—:::error_type=Punctuation} у кого {Ви=>ви:::error_type=Spelling} {знаходитеся=>перебуваєте:::error_type=Fluency}?
-{-=>—:::error_type=Punctuation} Знаю, {- =>—:::error_type=Punctuation}відповів Майстер, {- =>—:::error_type=Punctuation}моїм сусідом {в=>у:::error_type=Spelling} божевільні був цей хлопчик, Іван {Безхатній=>Бездомний:::error_type=Fluency}. Він розповів мені за {Вас=>вас:::error_type=Spelling}.
-{-=>—:::error_type=Punctuation} {А як же, а як же=>Аякже, аякже:::error_type=Fluency}, {-=>—:::error_type=Punctuation} озвався Воланд, {-=>—:::error_type=Punctuation} я мав задоволення зустрітися з цим молодиком на Патріархових ставках. Він ледь мене самого не звів {з=>із:::error_type=Spelling} розуму, доводячи, що мене немає! Але Ви ж вірите, що це {дійсно=>справді:::error_type=Fluency} я?
+{-=>—:::error_type=Punctuation} З {будинку скорботи=>божевільні:::error_type=F/Style}. Я {-=>—:::error_type=Punctuation} {психічнохворий=>психічно хворий:::error_type=Spelling}, {-=>—:::error_type=Punctuation} відповів прибулець.
+Цих слів Маргарита не витримала і знову заплакала. Згодом вона протерла очі і {вскрикнула=>викрикнула:::error_type=F/Calque}:
+{-=>—:::error_type=Punctuation} Жахливі слова! Жахливі слова! Він Майстер, {мессір=>мессіре:::error_type=G/Case}, я {Вас=>вас:::error_type=Spelling} попереджаю про це. Вилікуйте його, він вартий того.
+{-=>—:::error_type=Punctuation} Ви знаєте, з ким зараз спілкуєтеся, {-=>—:::error_type=Punctuation} спитав у прибулого Воланд, {-=>—:::error_type=Punctuation} у кого {Ви=>ви:::error_type=Spelling} {знаходитеся=>перебуваєте:::error_type=F/Style}?
+{-=>—:::error_type=Punctuation} Знаю, {- =>—:::error_type=Punctuation}відповів Майстер, {- =>—:::error_type=Punctuation}моїм сусідом {в=>у:::error_type=Spelling} божевільні був цей хлопчик, Іван {Безхатній=>Бездомний:::error_type=F/Style}. Він розповів мені за {Вас=>вас:::error_type=Spelling}.
+{-=>—:::error_type=Punctuation} {А як же, а як же=>Аякже, аякже:::error_type=F/Style}, {-=>—:::error_type=Punctuation} озвався Воланд, {-=>—:::error_type=Punctuation} я мав задоволення зустрітися з цим молодиком на Патріархових ставках. Він ледь мене самого не звів {з=>із:::error_type=Spelling} розуму, доводячи, що мене немає! Але Ви ж вірите, що це {дійсно=>справді:::error_type=F/Style} я?
 
 
