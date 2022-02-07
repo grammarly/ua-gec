@@ -142,7 +142,7 @@
 {=>— :::error_type=Punctuation}Джіро, блискуча ідея. І проста, як Колумбове яйце.
 {=>— :::error_type=Punctuation}Забирай.
 {=>— :::error_type=Punctuation}Дякую, але зараз не можу.
-{Але=>Втім:::error_type=Fluency} креслення візьму.
+{Але=>Втім:::error_type=F/Style} креслення візьму.
 Коли ти реалізуєш це у своїх {проектах=>проєктах:::error_type=Spelling}{=>,:::error_type=Punctuation} тоді і я скористаюсь.
 {=>— :::error_type=Punctuation}Я тебе зрозумів.
 {=>— :::error_type=Punctuation}Тож не гай часу. Я чекаю.
@@ -173,7 +173,7 @@
 {=>— :::error_type=Punctuation}Цього разу плашка вийде серйозніша. Не якесь там каченя, а ціла качка.
 {=>— :::error_type=Punctuation}І вона нестиме золоті яйця?
 {=>— :::error_type=Punctuation}Пане Курокава, що скажете?
-{=>— :::error_type=Punctuation}Що тут скажеш? Легка зараза. Дюралюміній {шикарний=>—  чудовий:::error_type=Fluency} матеріал.
+{=>— :::error_type=Punctuation}Що тут скажеш? Легка зараза. Дюралюміній {шикарний=>—  чудовий:::error_type=F/Style} матеріал.
 А тепер всі до роботи.
 — Хвоста наче немає.  — Обійшлося.
 {=>— :::error_type=Punctuation}Джіро, тобі краще зникнути на кілька днів.
@@ -207,7 +207,7 @@
 {=>— :::error_type=Punctuation}Можна?
 {=>— :::error_type=Punctuation}Так.
 {=>— :::error_type=Punctuation}"Наоко… кровотеча в легенях…{"=>:::error_type=Punctuation}
-{"=>:::error_type=Punctuation}Приїдь, {як =>:::error_type=Fluency}щойно зможеш. Сатомі."
+{"=>:::error_type=Punctuation}Приїдь, {як =>:::error_type=F/PoorFlow}щойно зможеш. Сатомі."
 Алло, ти слухаєш?
 {=>— :::error_type=Punctuation}Так. Дякую за дзвінок.
 {=>— :::error_type=Punctuation}Стривай!
@@ -239,7 +239,7 @@
 {=>— :::error_type=Punctuation}Усе так серйозно? Як шкода, що я не можу бути поряд.
 {=>— :::error_type=Punctuation}Ти повинен працювати. Це найкраще, що може зробити чоловік.
 Іди.
-{=>— :::error_type=Punctuation}{Він поїхав=>Вінпоїхав:::error_type=Fluency}.
+{Він поїхав=>Вінпоїхав:::error_type=Punctuation}.
 Ти плачеш?
 {=>— :::error_type=Punctuation}Тату, я хочу поїхати в санаторій, як мені радив лікар.
 {=>— :::error_type=Punctuation}Але як ти будеш сама в такому сумному місці?
@@ -284,7 +284,7 @@
 Заклепки вже застосовують в усьому світі.  Збиратимемо фюзеляжі повністю на заклепках.
 — Запитання!— У мене теж є питання!
 {=>— :::error_type=Punctuation}Маю сказати, це дуже цікаво.
-Так {надихаюче=>натхненно:::error_type=Grammar}.
+Так {надихаюче=>натхненно:::error_type=G/UngrammaticalStructure}.
 {Пані=>Пане:::error_type=Punctuation} Сатомі, вам лист.
 {=>— :::error_type=Punctuation}Так, дякую.
 {=>— :::error_type=Punctuation}Пане, дзвінок.
@@ -325,7 +325,7 @@
 {=>— :::error_type=Punctuation}Слухай! Ця юна, прекрасна, діва покинула все і прийшла сюди з-за гір, щоб зустріти свого коханого.
 {=>— :::error_type=Punctuation}Чую тебе! Цей чоловік не має нічого.
 Та якщо він любий тобі…
-Він… {коротко кажучи=>коротше:::error_type=Fluency} — хай заходить.
+Він… {коротко кажучи=>коротше:::error_type=F/PoorFlow} — хай заходить.
 {=>— :::error_type=Punctuation}Нехай же наші закохані привітають одне одного.
 {=>— :::error_type=Punctuation}Ти така гарна.
 {=>— :::error_type=Punctuation}Пані Курокава, дякую.
@@ -358,7 +358,7 @@
 {=>— :::error_type=Punctuation}Гадаєш, немає сенсу повертати її в санаторій?
 {=>— :::error_type=Punctuation}Немає.
 {=>— :::error_type=Punctuation}Ми зараз живемо від секунди до секунди. Кожна з яких безцінна.
-{=>— :::error_type=Punctuation}Добраніч. Дякую, {чи=>що:::error_type=Grammar} приїхала.
+{=>— :::error_type=Punctuation}Добраніч. Дякую, {чи=>що:::error_type=G/Conjunction} приїхала.
 {=>— :::error_type=Punctuation}А от і я.
 — З поверненням.— Спи.
 {— =>:::error_type=Punctuation}Навіщо ти встала?— Сьогодні приходила Кайо.
@@ -385,8 +385,8 @@
 {=>— :::error_type=Punctuation}Це ж кістки. Було б м'ясо — з'їв би й кілограм.
 Ось тобі. А тепер засинай.
 — Ти не підеш?— Ні, не піду.
-{Палити=>Курити:::error_type=Fluency} хочу. Можна я вийду?
-{=>— :::error_type=Punctuation}Ні. {Пали=>Кури:::error_type=Fluency} тут.
+{Палити=>Курити:::error_type=F/Style} хочу. Можна я вийду?
+{=>— :::error_type=Punctuation}Ні. {Пали=>Кури:::error_type=F/Style} тут.
 — Так не можна.— Можна.
 {=>— :::error_type=Punctuation}Хонджьо, привіт!
 {=>— :::error_type=Punctuation}Я подивлюся?
@@ -434,7 +434,7 @@
 {=>— :::error_type=Punctuation}Пані Курокаво, сьогодні мені значно краще. Я хочу трохи прогулятися.
 {=>— :::error_type=Punctuation}Іди. Але {не надовго=>ненадовго:::error_type=Spelling}.
 {=>— :::error_type=Punctuation}Дякую. Вибачте, у нас в кімнаті такий безлад. Я повернуся — приберу.
-{=>— :::error_type=Punctuation}Гаразд. {Іти=>Іди:::error_type=Grammar} погуляй.
+{=>— :::error_type=Punctuation}Гаразд. {Іти=>Іди:::error_type=Other} погуляй.
 До речі, сьогодні прийде Кайо. Ти рада?
 {=>— :::error_type=Punctuation}Дуже. Ну, я піду.
 {=>— :::error_type=Punctuation}Заходьте, прошу вас.
@@ -454,7 +454,7 @@
 Джіро!
 {=>— :::error_type=Punctuation}Прекрасна машина. Дякую.
 А, прийшов хлопчику з Японії.
-{=>— :::error_type=Punctuation}{Сеньйор=>Сеньйоре:::error_type=Grammar} Капроні…
+{Сеньйор=>Сеньйоре:::error_type=Punctuation} Капроні…
 {=>— :::error_type=Punctuation}Це поле, де ми вперше зустрілися, так?
 {=>— :::error_type=Punctuation}Так, поле наших мрій.
 {=>— :::error_type=Punctuation}Схоже на пекло.
@@ -463,9 +463,9 @@
 {=>— :::error_type=Punctuation}Я старався як міг.
 {=>— :::error_type=Punctuation}І тому випустив свою країну з рук?
 {=>— :::error_type=Punctuation}Дивися. Ось він — твій Зеро.
-{=>— :::error_type=Punctuation}{Як=>Яка:::error_type=Grammar} краса! Ти добре попрацював.
+{Як=>Яка:::error_type=Punctuation} краса! Ти добре попрацював.
 Але жоден не повернувся.
-{=>— :::error_type=Punctuation}Коли є куди {летіли=>летіти:::error_type=Grammar}{=>,:::error_type=Punctuation} не треба повертатися.
+{=>— :::error_type=Punctuation}Коли є куди {летіли=>летіти:::error_type=G/Tense}{=>,:::error_type=Punctuation} не треба повертатися.
 Літак {=>— :::error_type=Punctuation}це прекрасна мрія, що чекає{=>,:::error_type=Punctuation} коли її проковтне небо…
 І тут на тебе дехто чекав.
 {=>— :::error_type=Punctuation}Наока…
@@ -480,7 +480,7 @@
 Присвячується: Джіро Хорікоші та Тацуо Хорі
 Ролі озвучували:Хідеакі Анно та Міорі Такімото
 
-Музика до {заголовної=>головної:::error_type=Fluency} теми: Юмі Арай та Джьо Хісайші
+Музика до {заголовної=>головної:::error_type=F/Style} теми: Юмі Арай та Джьо Хісайші
 Субтитри набрано з озвучки, яка була в кінотеатрах у 2013 році.
 Виконавчий продюсер: Коджі Хошіно
 Продюсер: Тошіо Судзукі

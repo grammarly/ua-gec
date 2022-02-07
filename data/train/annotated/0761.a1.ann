@@ -2,7 +2,7 @@
 
 "Що це, люба?" {=>— :::error_type=Punctuation}спитала Сью.
 
-"Шість{"=>,:::error_type=Punctuation} {сказав=>сказала:::error_type=Grammar} Джонсі, майже {пошипки=>пошепки:::error_type=Spelling}. {"=>— :::error_type=Punctuation}Вони падають швидше зараз. Три дні тому було майже сотня. Їх було дуже складно порахувати. Але зараз це просто. Щойно впав ще один. Лишилось лише {пять=>п`ять:::error_type=Spelling}{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
+"Шість{"=>,:::error_type=Punctuation} {сказав=>сказала:::error_type=G/Gender} Джонсі, майже {пошипки=>пошепки:::error_type=Spelling}. {"=>— :::error_type=Punctuation}Вони падають швидше зараз. Три дні тому було майже сотня. Їх було дуже складно порахувати. Але зараз це просто. Щойно впав ще один. Лишилось лише {пять=>п`ять:::error_type=Spelling}{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 
 "Що {пять=>п`ять:::error_type=Spelling}, люба? Скажи своїй Сьюді{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 

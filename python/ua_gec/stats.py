@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 import argparse
 import collections
-import spacy
+
+from functools import cache
 
 
 class CorpusStatistics:
@@ -10,7 +11,6 @@ class CorpusStatistics:
     def __init__(self, corpus):
         self.corpus = corpus
         self.stats = {}
-        self.spacy = spacy.load("xx_ent_wiki_sm")
         self.compute()
 
     def compute(self):
@@ -29,8 +29,8 @@ class CorpusStatistics:
     def _subset_stats(self, docs):
         stats = {}
         stats["Documents"] = len(docs)
-        stats["Sentences"] = sum(self.count_sentences(doc.source) for doc in docs)
-        stats["Tokens"] = sum(self.count_tokens(doc.source) for doc in docs)
+        stats["Sentences"] = sum(self.count_source_sentences(doc) for doc in docs)
+        stats["Tokens"] = sum(self.count_tokens(doc) for doc in docs)
         stats["Unique users"] = len(set(doc.meta.author_id for doc in docs))
 
         return stats
@@ -45,14 +45,19 @@ class CorpusStatistics:
                 print(f"{key:<30} {value}")
             print()
 
-    def count_sentences(self, s):
-        for _ in range(20):
-            s = s.replace("..", ".")
-        return s.count(".") + s.count("?") + s.count("!")
+    @cache
+    def count_source_sentences(self, doc):
+        with open(f"./data/{doc.meta.partition}/source-sentences-tokenized/{doc.doc_id}.src.txt") as f:
+            content = f.read()
+            sents = [s for s in content.split("\n") if s.strip()]
+            return len(sents)
 
-    def count_tokens(self, s):
-        tokens = self.spacy(s, disable=["parser", "ner"])
-        return len(tokens)
+    @cache
+    def count_tokens(self, doc):
+        with open(f"./data/{doc.meta.partition}/source-sentences-tokenized/{doc.doc_id}.src.txt") as f:
+            content = f.read()
+            tokens = content.split()
+            return len(tokens)
 
     def _breakdown(self, docs, field):
         """Compute statistics with breakdown by `field`.

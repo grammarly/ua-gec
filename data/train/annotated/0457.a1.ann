@@ -1,13 +1,13 @@
-Але іноземець анітрохи не образився {и=>і:::error_type=Grammar} дуже весело {розсміявся=>засміявся:::error_type=Fluency}.
+Але іноземець анітрохи не образився {и=>і:::error_type=Other} дуже весело {розсміявся=>засміявся:::error_type=F/Style}.
 
-{-=>—:::error_type=Punctuation} Бував, бував і не раз! {-=>—:::error_type=Punctuation} закричав він, сміючись, але не зводячи {неусмішливе=>холодного погляду:::error_type=Fluency}  {око => :::error_type=Fluency}з поета, {-=>—:::error_type=Punctuation} де я {тільки=>лише:::error_type=Fluency} не бував! Жаль тільки, що я не спромігся запитати в професора, що таке шизофренія. {Так що=>Тому:::error_type=Fluency} ви вже самі дізнайтесь це в нього, Іване Миколайовичу!
+{-=>—:::error_type=Punctuation} Бував, бував і не раз! {-=>—:::error_type=Punctuation} закричав він, сміючись, але не зводячи {неусмішливе=>холодного погляду:::error_type=F/Style}  {око => :::error_type=F/PoorFlow}з поета, {-=>—:::error_type=Punctuation} де я {тільки=>лише:::error_type=F/Style} не бував! Жаль тільки, що я не спромігся запитати в професора, що таке шизофренія. {Так що=>Тому:::error_type=F/PoorFlow} ви вже самі дізнайтесь це в нього, Іване Миколайовичу!
 
 {- =>—:::error_type=Punctuation}Звідки ви знаєте, як мене звати?
 
-{-=>—:::error_type=Punctuation} Змилуйтесь, Іване Миколайовичу, хто ж вас не знає? {-=>—:::error_type=Punctuation} тут іноземець дістав з кишені вчорашній номер "Літературної газети", й Іван Миколайович побачив на першій ж сторінці своє зображення, а під ним свої власні вірші. Але вчора {ще не радіючий=>цей солодкий:::error_type=Grammar} доказ слави та популярності {на цей раз=>сьогодні геть:::error_type=Fluency} {нітрохи =>:::error_type=Fluency}не {порадувало=>порадував:::error_type=Grammar} поета.
+{-=>—:::error_type=Punctuation} Змилуйтесь, Іване Миколайовичу, хто ж вас не знає? {-=>—:::error_type=Punctuation} тут іноземець дістав з кишені вчорашній номер "Літературної газети", й Іван Миколайович побачив на першій ж сторінці своє зображення, а під ним свої власні вірші. Але вчора {ще не радіючий=>цей солодкий:::error_type=G/UngrammaticalStructure} доказ слави та популярності {на цей раз=>сьогодні геть:::error_type=F/PoorFlow} {нітрохи =>:::error_type=F/PoorFlow}не {порадувало=>порадував:::error_type=G/Gender} поета.
 
-{-=>—:::error_type=Punctuation} {Я вибачаюсь=>Вибачте:::error_type=Grammar}, {-=>—:::error_type=Punctuation} сказав він, і обличчя його потемніло, {-=>—:::error_type=Punctuation} ви не можете почекати хвилинку? Я хочу {товаришу=>товаришеві:::error_type=Fluency} {декілька=>кілька:::error_type=Fluency} слів сказати.
+{-=>—:::error_type=Punctuation} {Я вибачаюсь=>Вибачте:::error_type=G/UngrammaticalStructure}, {-=>—:::error_type=Punctuation} сказав він, і обличчя його потемніло, {-=>—:::error_type=Punctuation} ви не можете почекати хвилинку? Я хочу {товаришу=>товаришеві:::error_type=F/Style} {декілька=>кілька:::error_type=F/Style} слів сказати.
 
-{-=>—:::error_type=Punctuation} О, із задоволенням! {-=>—:::error_type=Punctuation} викрикнув невідомий, {-=>—:::error_type=Punctuation} тут {та=>так:::error_type=Grammar} добре під липами, а я, до речі, нікуди й не поспішаю.
+{-=>—:::error_type=Punctuation} О, із задоволенням! {-=>—:::error_type=Punctuation} викрикнув невідомий, {-=>—:::error_type=Punctuation} тут {та=>так:::error_type=G/UngrammaticalStructure} добре під липами, а я, до речі, нікуди й не поспішаю.
 
 
