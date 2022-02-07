@@ -1,13 +1,13 @@
-Я киваю панові Бідлу{ і=>,:::error_type=Fluency} клякаю біля ліжка і перевіряю пульс голови. «Покажіть мені {Вашу=>вашу:::error_type=Spelling} печінку... я маю на увазі {Вашого=>вашого:::error_type=Spelling} язика"{=>,:::error_type=Punctuation} — кажу я. Потім я {підвожу=>підводжу:::error_type=Spelling} його повіки й придивляюся {в=>до:::error_type=Grammar} його {зіниці=>зіниць:::error_type=Grammar}.
+Я киваю панові Бідлу{ і=>,:::error_type=F/Repetition} клякаю біля ліжка і перевіряю пульс голови. «Покажіть мені {Вашу=>вашу:::error_type=Spelling} печінку... я маю на увазі {Вашого=>вашого:::error_type=Spelling} язика"{=>,:::error_type=Punctuation} — кажу я. Потім я {підвожу=>підводжу:::error_type=Spelling} його повіки й придивляюся {в=>до:::error_type=G/Prep} його {зіниці=>зіниць:::error_type=G/Case}.
 
 «Як довго Ви вже хворієте?» — спитав я.
 
 «Мене підкосило — ох — минулої ночі,{»=>:::error_type=Punctuation} — каже голова. {«=>—:::error_type=Punctuation}Прошу, дайте мені щось від цього, лікарю{.=>:::error_type=Punctuation}»{=>.:::error_type=Punctuation}
 
-«Пане {Фідл=>Фідле:::error_type=Grammar},{»=>:::error_type=Punctuation} — кажу я, {«=>—:::error_type=Punctuation}відхиліть трохи фіранки, будь ласка{.=>:::error_type=Punctuation}»{=>.:::error_type=Punctuation}
+«Пане {Фідл=>Фідле:::error_type=G/Case},{»=>:::error_type=Punctuation} — кажу я, {«=>—:::error_type=Punctuation}відхиліть трохи фіранки, будь ласка{.=>:::error_type=Punctuation}»{=>.:::error_type=Punctuation}
 
-«{Бідл=>Бідле:::error_type=Grammar},{»=>:::error_type=Punctuation} — каже молодик. {«=>—:::error_type=Punctuation}Чи не хочеться {Вам=>вам:::error_type=Spelling} з'їсти яєшню з салом, дядьку Джеймсе?»
+«{Бідл=>Бідле:::error_type=G/Case},{»=>:::error_type=Punctuation} — каже молодик. {«=>—:::error_type=Punctuation}Чи не хочеться {Вам=>вам:::error_type=Spelling} з'їсти яєшню з салом, дядьку Джеймсе?»
 
-«Пане {голова»=>голово:::error_type=Grammar}{=>,:::error_type=Punctuation} — кажу я, прикладаю своє вухо до його правого плеча і прислухаюсь. {«=>—:::error_type=Punctuation}У Вас тяжкий випадок суперзапалення правої ключиці клавесину{.=>:::error_type=Punctuation}»{=>.:::error_type=Punctuation}
+«Пане {голова»=>голово:::error_type=G/Case}{=>,:::error_type=Punctuation} — кажу я, прикладаю своє вухо до його правого плеча і прислухаюсь. {«=>—:::error_type=Punctuation}У Вас тяжкий випадок суперзапалення правої ключиці клавесину{.=>:::error_type=Punctuation}»{=>.:::error_type=Punctuation}
 
 
