@@ -1,0 +1,4 @@
+stanza==1.3.0
+tqdm
+ua_gec
+pyxdameraulevenshtein

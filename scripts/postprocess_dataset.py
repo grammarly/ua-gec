@@ -1,14 +1,29 @@
 #!/usr/bin/env python3
+"""This scripts produces the following postprocessed views of the annotated dataset:
+
+1. `./data/source` -- the source (errorful) side of text (annotations stripped)
+2. `./data/target` -- the target (corrected) side of target (annotations stripped)
+3. `./data/source-sentences` -- the source side split into sentences
+4. `./data/target-sentences` -- same for target
+5. `./data/source-sentences-tokenized` -- the source side split into sentences and tokenized
+6. `./data/target-sentences-tokenized` -- same for target.
+
+All these views originate in `./data/annotated` which should be considered
+as the source of truth.
+
+"""
+
 from pathlib import Path
 import stanza
 import tqdm
 import ua_gec
-from grampy.text import edit_distance
+from pyxdameraulevenshtein import damerau_levenshtein_distance
 
 
 def main(data_dir="./data"):
     data_dir = Path(data_dir)
     for partition in ("train", "test"):
+        print(f"~~~ Preprocess {partition} partition")
         do_partition(data_dir / partition, ua_gec.Corpus(partition))
 
 
@@ -17,10 +32,18 @@ def do_partition(out_dir, corpus):
         src = split_sentences(doc.source)
         tgt = split_sentences(doc.target)
         output_src, output_tgt = align_sentences(src, tgt)
-
-        # Write sentences
         fname_src = f"{doc.doc_id}.src.txt"
         fname_tgt = f"{doc.doc_id}.a{doc.meta.annotator_id}.txt"
+
+        # Write source-only and target-only docs (with no annotations)
+        path_src = out_dir / "source" / fname_src
+        path_tgt = out_dir / "target" / fname_tgt
+        path_src.parent.mkdir(exist_ok=True)
+        path_tgt.parent.mkdir(exist_ok=True)
+        path_src.write_text(doc.source)
+        path_tgt.write_text(doc.target)
+
+        # Write sentence-level documents
         path_src = out_dir / "source-sentences" / fname_src
         path_tgt = out_dir / "target-sentences" / fname_tgt
         path_src.parent.mkdir(exist_ok=True)
@@ -61,7 +84,7 @@ def align_sentences(src_sentences, tgt_sentences):
         for take_src, take_tgt in combinations:
             src = " ".join(src_sentences[pos_src : pos_src + take_src])
             tgt = " ".join(tgt_sentences[pos_tgt : pos_tgt + take_tgt])
-            dist = edit_distance(src, tgt)
+            dist = damerau_levenshtein_distance(src, tgt)
             if dist < min_dist:
                 min_dist = dist
                 best_take_src = take_src
@@ -77,11 +100,15 @@ def align_sentences(src_sentences, tgt_sentences):
 
 
 def split_sentences(text: str) -> [str]:
+    sentences = []
     if not hasattr(split_sentences, "nlp"):
+        stanza.download("uk")
         split_sentences.nlp = stanza.Pipeline(lang="uk", processors="tokenize")
     nlp = split_sentences.nlp
 
-    sentences = [s.text for s in nlp(text).sentences]
+    for paragraph in text.split("\n"):
+        sentences += [s.text for s in nlp(paragraph).sentences]
+
     return sentences
 
 
