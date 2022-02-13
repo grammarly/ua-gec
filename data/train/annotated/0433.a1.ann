@@ -6,13 +6,13 @@
 
 Голоси поступово згасали {-=>—:::error_type=Punctuation} і нарешті зникли. Містер Лонгінус підвівся і продовжував ходити.
 
-{Дощ=> Почав іти дощ:::error_type=Fluency}, такий {тонкий=>дрібний:::error_type=Fluency}, як туман,{ почав =>:::error_type=Grammar}{ітимочити=>іти:::error_type=Grammar}. Стало ще темніше.
+{Дощ=> Почав іти дощ:::error_type=F/PoorFlow}, такий {тонкий=>дрібний:::error_type=F/Style}, як туман,{ почав =>:::error_type=G/UngrammaticalStructure}{ітимочити=>іти:::error_type=G/UngrammaticalStructure}. Стало ще темніше.
 
-{На лівій стороні=>Ліворуч від:::error_type=Fluency} містера {Лонгіна=>Лонгінуса:::error_type=Spelling} трохи блиснуло дві зупинки, потім друга, потім третя, десята. Тепер він був {впевнений=>упевнений:::error_type=Spelling}, що перебуває на лінії рухомого складу.
+{На лівій стороні=>Ліворуч від:::error_type=F/Calque} містера {Лонгіна=>Лонгінуса:::error_type=Spelling} трохи блиснуло дві зупинки, потім друга, потім третя, десята. Тепер він був {впевнений=>упевнений:::error_type=Spelling}, що перебуває на лінії рухомого складу.
 
 Вогні були рідкісні та негучні {-=>—:::error_type=Punctuation} мабуть, {всі=>усі:::error_type=Spelling} спали там{ =>,:::error_type=Punctuation}і тільки тут і там, можливо, люди пили чи готували їжу на завтра.
 
-"Слава Богу, що я йду після штурму та екскурсії{"=>:::error_type=Punctuation}, {-=>—:::error_type=Punctuation} сказав собі пан Лонгінус. {-=>—:::error_type=Punctuation} {Стомлені повинні бути смертельними=>Втома — це небезпечно:::error_type=Fluency}{=>":::error_type=Punctuation}.
+"Слава Богу, що я йду після штурму та екскурсії{"=>:::error_type=Punctuation}, {-=>—:::error_type=Punctuation} сказав собі пан Лонгінус. {-=>—:::error_type=Punctuation} {Стомлені повинні бути смертельними=>Втома — це небезпечно:::error_type=G/UngrammaticalStructure}{=>":::error_type=Punctuation}.
 
-Він навряд чи подумав про це, коли знову почув {ударину коня=>кінський біг:::error_type=Fluency} вдалині {-=>—:::error_type=Punctuation} їхав другий охоронець.
+Він навряд чи подумав про це, коли знову почув {ударину коня=>кінський біг:::error_type=G/UngrammaticalStructure} вдалині {-=>—:::error_type=Punctuation} їхав другий охоронець.
 

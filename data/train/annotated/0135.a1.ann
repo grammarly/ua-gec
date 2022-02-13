@@ -8,7 +8,7 @@
 
 {-=>–:::error_type=Punctuation} Та я. Я просто тут посиджу, {-=>–:::error_type=Punctuation} вона втиснулась {в=>у:::error_type=Spelling} покривало ще більше.
 
-{- =>–:::error_type=Punctuation}Чого? Пішли, вода ж тепла, {-=>–:::error_type=Punctuation} він {всміхався=>усміхався:::error_type=Spelling} поораним зморшками {обличчя=>обличчям:::error_type=Grammar}.
+{- =>–:::error_type=Punctuation}Чого? Пішли, вода ж тепла, {-=>–:::error_type=Punctuation} він {всміхався=>усміхався:::error_type=Spelling} поораним зморшками {обличчя=>обличчям:::error_type=G/Case}.
 
 {-=>–:::error_type=Punctuation} Вірю, {-=>–:::error_type=Punctuation} сказала вона, {-=>–:::error_type=Punctuation} я просто... стара для такого дуже, {-=>–:::error_type=Punctuation} вона опустила очі.
 
