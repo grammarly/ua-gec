@@ -6,8 +6,8 @@
 
 Вони підійшли до аптеки на розі, осяяній яскравим штучним світлом, і синхронно повернулися один на одного.
 
-Чоловік {з=>із:::error_type=Spelling} Заходу раптово зупинився та смикнув іншого {раз=>за:::error_type=Grammar} руку.
+Чоловік {з=>із:::error_type=Spelling} Заходу раптово зупинився та смикнув іншого {раз=>за:::error_type=G/UngrammaticalStructure} руку.
 
-"Ти не Джиммі {Уелс=>Велс:::error_type=Spelling}{"=>:::error_type=Punctuation}, {–=>—:::error_type=Punctuation} сказав він. {"=>—:::error_type=Punctuation}Двадцять років – це довгенько, але недостатньо аби змінити ніс людини з римського на {курносий=>кирпатий:::error_type=Grammar}".
+"Ти не Джиммі {Уелс=>Велс:::error_type=Spelling}{"=>:::error_type=Punctuation}, {–=>—:::error_type=Punctuation} сказав він. {"=>—:::error_type=Punctuation}Двадцять років – це довгенько, але недостатньо аби змінити ніс людини з римського на {курносий=>кирпатий:::error_type=F/Calque}".
 
 

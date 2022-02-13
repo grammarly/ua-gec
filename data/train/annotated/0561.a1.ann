@@ -1,4 +1,4 @@
-"Зараз{"=>:::error_type=Punctuation}, {=>—  :::error_type=Punctuation}кажу я{=>, —:::error_type=Punctuation} {"=>:::error_type=Punctuation}запалення минає. Права доля пригеліону зменшилась. Ви стаєте сонним. Ви більше не можете тримати ваші очі {відкритими=>розплющеними:::error_type=Fluency}. {На даний момент=>Цієї миті:::error_type=Fluency} хвороба під контролем. Зараз ви уві сні.
+"Зараз{"=>:::error_type=Punctuation}, {=>—  :::error_type=Punctuation}кажу я{=>, —:::error_type=Punctuation} {"=>:::error_type=Punctuation}запалення минає. Права доля пригеліону зменшилась. Ви стаєте сонним. Ви більше не можете тримати ваші очі {відкритими=>розплющеними:::error_type=F/Style}. {На даний момент=>Цієї миті:::error_type=F/PoorFlow} хвороба під контролем. Зараз ви уві сні.
 
 {"=>:::error_type=Punctuation}Мер повільно закрив свої очі та почав хропіти
 
@@ -6,7 +6,7 @@
 
 "Бідл{"=>:::error_type=Punctuation}, {=>—  :::error_type=Punctuation}каже він{,=>.:::error_type=Punctuation} {"=>—  :::error_type=Punctuation}Коли ви дасте дядькові решту лікування, докторе Пух-пух?"
 
-"Ваф-ху{"=>:::error_type=Punctuation}, {=>— :::error_type=Punctuation}кажу я. {"=>— :::error_type=Punctuation}Я повернусь завтра {в=>об:::error_type=Grammar} {одинадцять=>одинадцятій:::error_type=Grammar}. Коли він прокинеться{=>,:::error_type=Punctuation} дайте йому вісім крапель турпентину та три фунти стейку. Доброго ранку{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
+"Ваф-ху{"=>:::error_type=Punctuation}, {=>— :::error_type=Punctuation}кажу я. {"=>— :::error_type=Punctuation}Я повернусь завтра {в=>об:::error_type=G/Prep} {одинадцять=>одинадцятій:::error_type=G/Case}. Коли він прокинеться{=>,:::error_type=Punctuation} дайте йому вісім крапель турпентину та три фунти стейку. Доброго ранку{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 
 {"=>:::error_type=Punctuation}Наступного ранку я прийшов у визначений час.  "Добре, містере Рідл{"=>, —:::error_type=Punctuation} сказав я, коли він відкрив двері спальні, {"=>— :::error_type=Punctuation}як там дядько цього ранку?"
 

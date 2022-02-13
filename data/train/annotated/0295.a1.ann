@@ -2,10 +2,10 @@
 
 Наступного дня лицар покликав мене до карети.
 
-"Я був на одному або двох фальшивих слідах, докторе{"=>:::error_type=Punctuation}, {=>–  :::error_type=Punctuation}зауважив він. {"=>–:::error_type=Punctuation} Я знаю дещо з детективних методів і {я слідував деяким=>я використовував деякі:::error_type=Fluency} з них, намагаючись знайти Джолнса на іншому кінці. Пістолет був 45 калібру, я хотів знайти його на роботі, на 45 дорозі. Тоді{,=>:::error_type=Punctuation} знову{,=>:::error_type=Punctuation} я шукав детектива з Колумбійського університету, але{ я=>:::error_type=Grammar} не зміг знайти його сліду".
+"Я був на одному або двох фальшивих слідах, докторе{"=>:::error_type=Punctuation}, {=>–  :::error_type=Punctuation}зауважив він. {"=>–:::error_type=Punctuation} Я знаю дещо з детективних методів і {я слідував деяким=>я використовував деякі:::error_type=F/PoorFlow} з них, намагаючись знайти Джолнса на іншому кінці. Пістолет був 45 калібру, я хотів знайти його на роботі, на 45 дорозі. Тоді{,=>:::error_type=Punctuation} знову{,=>:::error_type=Punctuation} я шукав детектива з Колумбійського університету, але{ я=>:::error_type=F/Repetition} не зміг знайти його сліду".
 
 "Ні, ти зможеш", {=>–  :::error_type=Punctuation}сказав я.
 
-"{Не звичайними=>Незвичайними:::error_type=Spelling} методами{"=>:::error_type=Punctuation}, {=>–  :::error_type=Punctuation}сказав лицар. {"=>–  :::error_type=Punctuation}Я піднімався і спускався по Бродвею близько місяця, безрезультатно. Але ви зачіпаєте мою гордість, докторе. І якщо я не покажу вам Шемрока Джолнса сьогодні, {я=>то:::error_type=Grammar} запевняю{,=>::::error_type=Punctuation} я ніколи не {вб'ю=>вбиватиму:::error_type=Fluency}{, або=> чи:::error_type=Fluency} {пограбую=>грабуватиму:::error_type=Fluency} {в=>у:::error_type=Spelling} вашому місті{ знову=>:::error_type=Fluency}".
+"{Не звичайними=>Незвичайними:::error_type=Spelling} методами{"=>:::error_type=Punctuation}, {=>–  :::error_type=Punctuation}сказав лицар. {"=>–  :::error_type=Punctuation}Я піднімався і спускався по Бродвею близько місяця, безрезультатно. Але ви зачіпаєте мою гордість, докторе. І якщо я не покажу вам Шемрока Джолнса сьогодні, {я=>то:::error_type=F/Repetition} запевняю{,=>::::error_type=Punctuation} я ніколи не {вб'ю=>вбиватиму:::error_type=G/VerbVoice}{, або=> чи:::error_type=F/Style} {пограбую=>грабуватиму:::error_type=G/VerbVoice} {в=>у:::error_type=Spelling} вашому місті{ знову=>:::error_type=F/PoorFlow}".
 
 

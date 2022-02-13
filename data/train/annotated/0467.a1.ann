@@ -1,13 +1,13 @@
-Вона побачила майстра, {що =>який:::error_type=Grammar}{=> :::error_type=Punctuation}лежав, здригнулася і прошепотіла:
+Вона побачила майстра, {що =>який:::error_type=G/Conjunction}{=> :::error_type=Punctuation}лежав, здригнулася і прошепотіла:
 {-=>—:::error_type=Punctuation} Цього я не очікувала... Вбивця!
 {-=>—:::error_type=Punctuation} Та ні, ні{, -=> —:::error_type=Punctuation} відповів Азазелло, {-=>—:::error_type=Punctuation} зараз він встане. Ох, навіщо ви так нервуєте!
-Маргарита повірила йому одразу{, => —:::error_type=Punctuation}{на стільки=>таким:::error_type=Fluency} переконливим був голос рудого демона. Маргарита різко встала, сильна і жива, і допомогла напоїти лежачого вином. {Відкривши=>Розплющивши:::error_type=Fluency} очі, він подивився похмуро і з ненавистю повторив своє останнє слово:
+Маргарита повірила йому одразу{, => —:::error_type=Punctuation}{на стільки=>таким:::error_type=F/Calque} переконливим був голос рудого демона. Маргарита різко встала, сильна і жива, і допомогла напоїти лежачого вином. {Відкривши=>Розплющивши:::error_type=F/Collocation} очі, він подивився похмуро і з ненавистю повторив своє останнє слово:
 {-=>—:::error_type=Punctuation} Отруйник....
-{- =>—:::error_type=Punctuation} {Ах=>Ох:::error_type=Fluency}! Образа {-=>—:::error_type=Punctuation} це звичайна винагорода за хорошу роботу, {-=>—:::error_type=Punctuation} відповів Азазелло, {-=>—:::error_type=Punctuation} невже ви сліпий? {Але =>Та:::error_type=Fluency}{=> :::error_type=Punctuation}прозрійте ж швидше.
+{- =>—:::error_type=Punctuation} {Ах=>Ох:::error_type=F/Style}! Образа {-=>—:::error_type=Punctuation} це звичайна винагорода за хорошу роботу, {-=>—:::error_type=Punctuation} відповів Азазелло, {-=>—:::error_type=Punctuation} невже ви сліпий? {Але =>Та:::error_type=F/Style}{=> :::error_type=Punctuation}прозрійте ж швидше.
 Тут майстер піднявся, подивився поглядом{=>,:::error_type=Punctuation} живим і світлим{=>,:::error_type=Punctuation} і спитав:
 {-=>—:::error_type=Punctuation} Що ж означає це нове?
 {-=>—:::error_type=Punctuation} Воно означає,{ -=> —:::error_type=Punctuation} відповів Азазелло,{ -=> —:::error_type=Punctuation} що вам час. {Вже=>Уже:::error_type=Spelling} гримить гроза, ви чуєте? Темніє. Кони риють землю, дрижить маленький садок. Прощайтеся з підвалом, прощайтеся швидше.
-{-=>—:::error_type=Punctuation} А, розумію, {-=>—:::error_type=Punctuation} сказав майстер, озираючись, {-=>—:::error_type=Punctuation} ви нас {вбили=>убили:::error_type=Spelling}, ми мертві. {Ах=>Ох:::error_type=Fluency}, як це розумно! Як це вчасно! Тепер я зрозумів {все=>усе:::error_type=Spelling}.
+{-=>—:::error_type=Punctuation} А, розумію, {-=>—:::error_type=Punctuation} сказав майстер, озираючись, {-=>—:::error_type=Punctuation} ви нас {вбили=>убили:::error_type=Spelling}, ми мертві. {Ах=>Ох:::error_type=F/Style}, як це розумно! Як це вчасно! Тепер я зрозумів {все=>усе:::error_type=Spelling}.
 
 
 
