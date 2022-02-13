@@ -698,7 +698,7 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 0696,4f1cea9e,1,Сумська,Чоловіча,Технічна,essay,,1,train,0
 0697,b170bc45,1,Львівська,Чоловіча,Технічна,translation,en,1,train,0
 0698,2b175c22,1,Львівська,Чоловіча,Технічна,translation,en,1,train,0
-0699,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
+0699,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,1
 0700,740cba70,0,Київ,Жіноча,Технічна,translation,ru,1,train,0
 0701,f69ece2b,0,Київ,Чоловіча,Технічна,translation,en,1,train,0
 0702,7c2d5981,1,Львівська,Чоловіча,Інше,translation,en,1,train,0
