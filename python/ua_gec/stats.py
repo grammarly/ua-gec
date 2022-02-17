@@ -86,10 +86,11 @@ class CorpusStatistics:
                 except KeyError:
                     print(doc.doc_id)
                     print(ann)
-                    raise
+                    errors["MISSING"] += 1
+                    #raise
                     continue
                 errors["TOTAL"] += 1
-        return errors
+        return dict(sorted(errors.items()))
 
 
 def main(args):
