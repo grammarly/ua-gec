@@ -1871,7 +1871,6 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 1869,1f8f2b55,0,Київ,Жіноча,Інше,translation,en,1,train,0
 1870,45f1691a,1,Київська,Жіноча,Гуманітарна,translation,ru,1,train,0
 1871,7e9573c2,1,Київська,Жіноча,Гуманітарна,translation,ru,1,train,0
-1872,8b44147b,1,Київ,Жіноча,Інше,translation,ru,1,train,0
 1873,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1874,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1875,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
@@ -1880,11 +1879,8 @@ id,author_id,is_native,region,gender,occupation,submission_type,source_language,
 1878,626dfbe1,1,Донецька,Жіноча,Технічна,text_donation,,1,train,0
 1879,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1880,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-1881,1e565b8d,1,Хмельницька,Жіноча,Інше,text_donation,,1,train,0
 1882,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
-1883,067bfbae,1,Рівненська,Жіноча,Гуманітарна,translation,en,1,train,0
 1884,4e3a1f58,1,Рівненська,Жіноча,Гуманітарна,text_donation,,1,train,0
-1885,8b44147b,1,Київ,Жіноча,Інше,text_donation,,1,train,0
 1886,0af5300a,0,Київ,Жіноча,Гуманітарна,text_donation,,1,train,0
 1887,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
 1888,e70ef5bc,1,Полтавська,Чоловіча,Технічна,text_donation,,1,train,0
