@@ -8,7 +8,7 @@
 
 {-=>—:::error_type=Punctuation} Зараз Наталя Семенівна скаржилася мені, що ти {палиш =>куриш:::error_type=F/Style}... Це правда?  Ти {палиш=>куриш:::error_type=F/Style}?
 
- {-=>—:::error_type=Punctuation} Так, я раз {палив =>купив:::error_type=Something wrong}... Це {вірно=>правильно:::error_type=F/Calque}! ..
+ {-=>—:::error_type=Punctuation} Так, я раз {палив =>курив:::error_type=F/Style}... Це {вірно=>правильно:::error_type=F/Calque}! ..
 
 {-=>—:::error_type=Punctuation} Ось бачиш, ти ще й брешеш до того ж, - сказав прокурор, {хмурячись=>суплячись:::error_type=F/Style} й тим маскуючи свою посмішку.  {-=>—:::error_type=Punctuation} Наталя Семенівна два рази бачила, як ти палив.  Значить, ти викритий в трьох поганих вчинках: {палиш=>куриш:::error_type=F/Style}, береш зі столу чужий тютюн і брешеш.  Три провини!
 

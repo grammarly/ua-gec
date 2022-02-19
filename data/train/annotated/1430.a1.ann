@@ -8,7 +8,7 @@
 
 Рипнули двері, і показалася голова двірника.
 
-{-=> —:::error_type=Punctuation} Чи не спиш, Степан{=>е:::error_type=G/Case}? {-=> —:::error_type=Punctuation} запитав він. {-=> —:::error_type=Punctuation} А мені всю ніч не спати, {-=> —:::error_type=Punctuation} сказав він, {входячи=>Заходячи:::error_type=Something wrong}. {-=> —:::error_type=Punctuation} Всю ніч відчиняй ворота та замикай ... Ти, Альошка, що плачеш?
+{-=> —:::error_type=Punctuation} Чи не спиш, Степан{=>е:::error_type=G/Case}? {-=> —:::error_type=Punctuation} запитав він. {-=> —:::error_type=Punctuation} А мені всю ніч не спати, {-=> —:::error_type=Punctuation} сказав він, {входячи=>заходячи:::error_type=F/Style}. {-=> —:::error_type=Punctuation} Всю ніч відчиняй ворота та замикай ... Ти, Альошка, що плачеш?
 
 {-=> —:::error_type=Punctuation} Страшно, {-=> —:::error_type=Punctuation} відповів за онука кучер.
 
@@ -18,5 +18,5 @@
 
 {-=> —:::error_type=Punctuation} І батько тут?
 
-{-=> —:::error_type=Punctuation} І батько ... Батько нічого. Сидить {в=>у:::error_type=Other} {уголушке=>куточку:::error_type=F/Calque} і мовчить. Дітей до рідних забрали ... Що ж, Степан{=>е:::error_type=G/Case}? {В=>У:::error_type=Spelling} свого козиря зіграємо, чи що?
+{-=> —:::error_type=Punctuation} І батько ... Батько нічого. Сидить {в=>у:::error_type=Other} {уголушке=>куточку:::error_type=F/Calque} і мовчить. Дітей до рідних забрали ... Що ж, {Степан=>Степане:::error_type=G/Case}? {В=>У:::error_type=Spelling} свого козиря зіграємо, чи що?
 
