@@ -4,8 +4,8 @@
 {-=>–:::error_type=Punctuation} Я, {прокуратор=>прокураторе:::error_type=G/Case}, п'ятнадцять років на роботі в {Іудеєі=>Іудеї:::error_type=Spelling}.
 Я почав службу при Валерії Грате.
 Мені не обов'язково бачити мертве тiло для того{=>,:::error_type=Punctuation} щоб сказати, що людина убита, {і=>й:::error_type=Spelling} ось я {вам доводжу до вiдома=>повідомляю вам:::error_type=F/PoorFlow}, що {той=>того:::error_type=G/Case}, кого іменували Іуда з міста Кириафа, кілька годин тому {був зарізаний=>зарізали:::error_type=G/VerbVoice}.
-{-=>:::error_type=Punctuation} {=>–  :::error_type=Punctuation}Пробачте мене, {Афранiй=>Афранiю:::error_type=G/Case}, {-=>–:::error_type=Punctuation} відповів Пілат, {-=>–:::error_type=Punctuation} я ще не прокинувся як слід, тому і сказав так. Я  погано сплю{=>,:::error_type=Punctuation}  {-=>–:::error_type=Punctuation} прокуратор посміхнувся, {-=>–:::error_type=Punctuation} {і=>й:::error_type=Spelling} увесь час бачу уві сні місячний промінь.{=>:::error_type=Punctuation}Так смішно, лишень уявiть. Нібито я гуляю по цьому променi.
- Отже, я хотів би дiзнатись ваші припущення щодо цієї справи. Де ви збираєтеся його шукати? {=>:::error_type=Punctuation}Сідайте, {начальник=>начальнику:::error_type=G/Case} таємної служби.
+{-=>:::error_type=Punctuation} {=>–  :::error_type=Punctuation}Пробачте мене, {Афранiй=>Афранiю:::error_type=G/Case}, {-=>–:::error_type=Punctuation} відповів Пілат, {-=>–:::error_type=Punctuation} я ще не прокинувся як слід, тому і сказав так. Я  погано сплю{=>,:::error_type=Punctuation}  {-=>–:::error_type=Punctuation} прокуратор посміхнувся, {-=>–:::error_type=Punctuation} {і=>й:::error_type=Spelling} увесь час бачу уві сні місячний промінь. Так смішно, лишень уявiть. Нібито я гуляю по цьому променi.
+ Отже, я хотів би дiзнатись ваші припущення щодо цієї справи. Де ви збираєтеся його шукати? Сідайте, {начальник=>начальнику:::error_type=G/Case} таємної служби.
 Афранiй вклонився, підсунув крісло ближче до ліжка і сів, брязнувши мечем.
 
 

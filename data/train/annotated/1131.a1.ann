@@ -3,7 +3,7 @@
 {-Не=>– Не:::error_type=Punctuation} бреши ти, чого не знаєш! {-=>–:::error_type=Punctuation} розізлився на Рюхіна {Іван,-=>Іван, –:::error_type=Punctuation} я, а не ти був там! Він {йього=>його:::error_type=Spelling} навмисне під трамвай {підкинув=>штовхнув:::error_type=F/Style}!
 {-=>–:::error_type=Punctuation} Та при чому тут "штовхнув"? {-=>–:::error_type=Punctuation} сердячись на загальну безтолковість, викрикнув Іван, {- =>–:::error_type=Punctuation}такому і штовхати не треба! Він такі штуки може витворяти, що тільки {тримася=>тримайся:::error_type=Spelling}! Він наперед знав, що Берліоз {попаде=>потрапить:::error_type=F/Style} під трамвай!
 {-А=>– А:::error_type=Punctuation} хто-небудь, {крім=>окрім:::error_type=Spelling} вас, бачив цього консультанта?
-{-=>–:::error_type=Punctuation} {В=>У:::error_type=Spelling} {=>:::error_type=Punctuation} тому то й біда, що тільки я та Берліоз.
+{-=>–:::error_type=Punctuation} {В=>У:::error_type=Spelling} тому то й біда, що тільки я та Берліоз.
 {- =>–:::error_type=Punctuation}Так. {Які=>Яких:::error_type=G/Case} {ж=>же:::error_type=Spelling} {заходи=>заходів:::error_type=G/Case} ви {приняли=>вжили:::error_type=F/Collocation}, щоб спіймати вбивцю? {-=>–:::error_type=Punctuation} тут лікар повернувся і кинув погляд на жінку в білому халаті, що сиділа за столом {у сторонці=>збоку:::error_type=F/Calque}. Та витягла лист і почала заповнювати пусті місця між рядками.
 
 
