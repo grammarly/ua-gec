@@ -1,0 +1,7 @@
+"Я дуже завинив{"=>:::error_type=Punctuation},{=> 一:::error_type=Punctuation} сказав він.  {"Лікаре=>一Лікарю:::error_type=Grammar} Вагу, це мій небіж, {Пан=>пан:::error_type=Spelling} Бідл. Він спробував полегшити мій емоційний стан,  але марно. О, Боже! Ох-ох-ох!" {=> 一 :::error_type=Punctuation}він протягнув.
+{"=>:::error_type=Punctuation}Я кивнув {пану=>панові:::error_type=Grammar} Бідлу, сів на ліжко та почав вимірювати пульс мера. "Покажіть мені вашу печінку{-=>, :::error_type=Punctuation}ваш язик,  я мав на увазі," {=>一 :::error_type=Punctuation}сказав я. Потім я підняв його повіки та уважно подивився, так само як дивляться його учні.
+{=>":::error_type=Punctuation}Як довго ви хворієте?{=>":::error_type=Punctuation} {я=>一:::error_type=Punctuation} запитав.
+{=>":::error_type=Punctuation}Мені погіршало вчора ввечері, ай, боляче, {=>一 :::error_type=Punctuation}сказав мер. {=>一 :::error_type=Punctuation}Дасте мені щось від цього? Так, лікарю?{=>":::error_type=Punctuation}
+{=>":::error_type=Punctuation}Пане {Фідл=>Бідле:::error_type=Spelling}, чи не відкриєте ви фіранку на вікні?
+Бідл{,=>:::error_type=Punctuation} сказав {молодик=>:::error_type=Grammar}, {може=>"Може:::error_type=Spelling}{=>,:::error_type=Punctuation} б ви з'їли трохи яєчні з шинкою, {Дядько=>дядьку:::error_type=Grammar} {Джеймс=>Джеймсе:::error_type=Grammar}?
+
