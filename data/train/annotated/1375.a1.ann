@@ -1,4 +1,4 @@
-"У мене немає, {-=>—:::error_type=Punctuation} {каже=>кажу:::error_type=Other} я. {-=>—:::error_type=Punctuation} {Я не=>Не:::error_type=F/Repetition} знав, що у вас є місто. Якщо я зможу це знайти завтра, {я=>то:::error_type=F/Repetition} винесу його, якщо це буде потрібно.
+"У мене немає, {-=>—:::error_type=Punctuation} {каже=>кажу:::error_type=G/Other} я. {-=>—:::error_type=Punctuation} {Я не=>Не:::error_type=F/Repetition} знав, що у вас є місто. Якщо я зможу це знайти завтра, {я=>то:::error_type=F/Repetition} винесу його, якщо це буде потрібно.
 
 "{" =>:::error_type=Punctuation}Мені доведеться закрити вас, поки ви {це=>цього:::error_type=G/Case} не зробите ", {-=>—:::error_type=Punctuation} говорить контролер.
 

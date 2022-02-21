@@ -1,10 +1,10 @@
 {-=>—:::error_type=Punctuation} А погано, {Лізавета=>Лизавето:::error_type=G/Case}, {о=>що:::error_type=G/UngrammaticalStructure} ми не дали тому козаку розговоритись.
-{-=>—:::error_type=Punctuation} Чудний ти, їй-богу! {-=>—:::error_type=Punctuation} {Сказала=>сказала:::error_type=Spelling}  {Лізавета=>Лизавета:::error_type=Other} і з подивом {стиснула=>стенула:::error_type=F/Style} плечима. {-=>—:::error_type=Punctuation} Де ти взяв таку моду, щоб освячену паску роздавати по дорозі? Може{=>,:::error_type=Punctuation} це булка? Тепер вона порізана на столі лежить, хай їсть, хто хоче, хоч і козак твій! Хіба мені жаль?
+{-=>—:::error_type=Punctuation} Чудний ти, їй-богу! {-=>—:::error_type=Punctuation} {Сказала=>сказала:::error_type=Spelling}  {Лізавета=>Лизавета:::error_type=Spelling} і з подивом {стиснула=>стенула:::error_type=F/Style} плечима. {-=>—:::error_type=Punctuation} Де ти взяв таку моду, щоб освячену паску роздавати по дорозі? Може{=>,:::error_type=Punctuation} це булка? Тепер вона порізана на столі лежить, хай їсть, хто хоче, хоч і козак твій! Хіба мені жаль?
 
 {-=>—:::error_type=Punctuation} Так-то воно, але {жаль=>шкода:::error_type=F/Style} мені козака. Адже {він=>йому:::error_type=G/Case} гірше {=>від :::error_type=G/Prep}сироти. {В=>У:::error_type=Spelling} дорозі, далеко від дому, хворий...
 
 Торчаков випив {півстакану=>пів склянки:::error_type=Spelling} чаю і {ба=>вже:::error_type=F/Style} {бльше=>більше:::error_type=Spelling} нічого не пив і не їв.{=> :::error_type=Punctuation}Їсти йому не хотілося, чай {здавався=>був,:::error_type=F/Style} як трава, і знову стало скучно.
-Після розмови лягли спати. Коли через {ві=>дві:::error_type=Spelling} години {Лізавета=>Лизавета:::error_type=Other} прокинулась, він стояв біля вікна і дивився на подвір'я.
+Після розмови лягли спати. Коли через {ві=>дві:::error_type=Spelling} години {Лізавета=>Лизавета:::error_type=Spelling} прокинулась, він стояв біля вікна і дивився на подвір'я.
 {- =>—:::error_type=Punctuation}Ти уже прокинувся? {- =>—:::error_type=Punctuation}спитала дружина.
 {-=>—:::error_type=Punctuation} Не спиться щось... Ехх, {Лізавета=>Лизавето:::error_type=G/Case}, {-=>—:::error_type=Punctuation} {вздихнув=>зітхнув:::error_type=F/Calque} він, {-=>—:::error_type=Punctuation} образили ми з тобою козака!
 

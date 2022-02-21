@@ -35,12 +35,12 @@ sum-up:
 Image for postImage for post
 Приклад створення портфоліо на сайті finviz
 {В=>У:::error_type=Spelling} пошуку можна писати часткову чи повну назву. У результатах{,=>:::error_type=Punctuation} з’явиться тікер. Переношу тікер у відповідне поле, кількість shares вказую 1. Для отримання ціни{,=>:::error_type=Punctuation} достатньо натиснути “Get Today’s Price”.
-UPD: у чаті круто {підмітили=>зауважили:::error_type=F/Style}, що{=>,:::error_type=Punctuation} ставлячи в колонку Shares одиниці{,=>,:::error_type=Punctuation} {=>дані :::error_type=F/PoorFlow}у таблиці будуть викривлені {дані=>:::error_type=F/PoorFlow}. Вартість акцій різна, а інвестувати у кожну компанію рекомендують однакову суму. Тому для кожної компанії{,=>:::error_type=Punctuation} кількість акцій буде різною,{ в=>:::error_type=F/PoorFlow} {залежності=>залежно:::error_type=F/PoorFlow} від загальної суми інвестицій — це position sizing (приклад у таблиці нижче).
+UPD: у чаті круто {підмітили=>зауважили:::error_type=F/Style}, що{=>,:::error_type=Punctuation} ставлячи в колонку Shares одиниці, {=>дані :::error_type=F/PoorFlow}у таблиці будуть викривлені {дані=>:::error_type=F/PoorFlow}. Вартість акцій різна, а інвестувати у кожну компанію рекомендують однакову суму. Тому для кожної компанії{,=>:::error_type=Punctuation} кількість акцій буде різною,{ в=>:::error_type=F/PoorFlow} {залежності=>залежно:::error_type=F/PoorFlow} від загальної суми інвестицій — це position sizing (приклад у таблиці нижче).
 На цьому сайті доступні не всі компанії, оскільки він орієнтований більше на американський ринок цінних паперів.
 Image for post
 Image for post
 Приклад створеного портфоліо на сайті finviz {з=>із:::error_type=Spelling} хибною кількістю акцій на компанію
-✅ Done. Прогулявшись квартирою, знайшов товари понад 25 компаній, 19 {з=>із:::error_type=Spelling} них доступні на finviz. Після ретельного ознайомлення з кожною{,=>:::error_type=Punctuation} {їх=>їхню:::error_type=Other} кількість можна {скоротити=>зменшити:::error_type=F/Style} до 15.
+✅ Done. Прогулявшись квартирою, знайшов товари понад 25 компаній, 19 {з=>із:::error_type=Spelling} них доступні на finviz. Після ретельного ознайомлення з кожною{,=>:::error_type=Punctuation} {їх=>їхню:::error_type=G/Other} кількість можна {скоротити=>зменшити:::error_type=F/Style} до 15.
 Придбати акції {усіх=>всіх:::error_type=Spelling} цих компаній можна за допомогою Interactive Brokers. Чому користуюсь послугами саме цього брокера, {=>я :::error_type=G/UngrammaticalStructure}писав у статті: “Як інвестувати гроші за кордон, живучи в Україні? Мій досвід”.
 Крок 4: Постійне вдосконалення (Continuous improvement)
 Image for post

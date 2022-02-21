@@ -10,6 +10,6 @@
 
 "Це водяний знак, {-=>—:::error_type=Punctuation} сказав Гудлое. {-=>—:::error_type=Punctuation} Папір був виготовлений у 1898. Напис на папері {він =>:::error_type=G/UngrammaticalStructure}був датованим 1863. Це відчутне шахрайство{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 
-"Ох, я не знаю, {-=>—:::error_type=Punctuation} сказав я. {- =>—:::error_type=Punctuation}Рундли є достатньо надійними, простими, {неосвідченими=>неосвіченими:::error_type=Other} селянами. Можливо, виробник паперу спробував {вчинити шахрайство.=>шахраювати:::error_type=F/PoorFlow}"{=>.:::error_type=Punctuation}
+"Ох, я не знаю, {-=>—:::error_type=Punctuation} сказав я. {- =>—:::error_type=Punctuation}Рундли є достатньо надійними, простими, {неосвідченими=>неосвіченими:::error_type=Spelling} селянами. Можливо, виробник паперу спробував {вчинити шахрайство.=>шахраювати:::error_type=F/PoorFlow}"{=>.:::error_type=Punctuation}
 
 

@@ -2,7 +2,7 @@
 
 «Що сталося, {любий=>люба:::error_type=G/Gender}?», {=>— :::error_type=Punctuation}спитала Сью.
 
-«Шість{»=>:::error_type=Punctuation}, {відповів=>відповіла:::error_type=Punctuation} Джонсі, майже пошепки. {«=>— :::error_type=Punctuation}Зараз вони падають швидше. Три дні тому їх {було=>була:::error_type=G/Gender} майже сотня. Моя голова болить від {їх=>їхнього:::error_type=Other} підрахунку. Але зараз {вже=>уже:::error_type=Spelling} легше. Ось полетів ще один. Лишилося тільки п'ятеро{.=>:::error_type=Punctuation}»{=>.:::error_type=Punctuation}
+«Шість{»=>:::error_type=Punctuation}, {відповів=>відповіла:::error_type=Punctuation} Джонсі, майже пошепки. {«=>— :::error_type=Punctuation}Зараз вони падають швидше. Три дні тому їх {було=>була:::error_type=G/Gender} майже сотня. Моя голова болить від {їх=>їхнього:::error_type=G/Other} підрахунку. Але зараз {вже=>уже:::error_type=Spelling} легше. Ось полетів ще один. Лишилося тільки п'ятеро{.=>:::error_type=Punctuation}»{=>.:::error_type=Punctuation}
 
 «Кого п'ятеро, {любий=>люба:::error_type=G/Gender}? Розкажи {свої=>своїй:::error_type=Spelling} Сьюді».
 

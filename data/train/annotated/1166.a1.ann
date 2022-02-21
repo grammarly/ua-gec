@@ -1,4 +1,4 @@
-Лікар питально {подививсяна=>подивився на:::error_type=Spelling} Рюхіна{ =>:::error_type=Punctuation}, й той {хмуро=>похмуро:::error_type=F/Style} {пробубонив=>пробубонів:::error_type=Other}:
+Лікар питально {подививсяна=>подивився на:::error_type=Spelling} Рюхіна{ =>:::error_type=Punctuation}, й той {хмуро=>похмуро:::error_type=F/Style} {пробубонив=>пробубонів:::error_type=Spelling}:
 {-Ресторан=>–  Ресторан:::error_type=Punctuation} так називається.
 {-Ага=>– Ага:::error_type=Punctuation}{ =>:::error_type=Punctuation},{-відповів=> – відповів:::error_type=Punctuation} {лікар,-а=>лікар,–  а:::error_type=Punctuation} чого так {поспішала=>поспішали:::error_type=G/Number}? Якась ділова зустріч?
 {-Консультанта=>– Консультанта:::error_type=Punctuation} я {ловлю,-=>ловлю, –:::error_type=Punctuation} відповів Іван {Миколаєвич=>Миколайович:::error_type=Spelling} й тривожно {озернувся=>озирнувся:::error_type=Spelling}.
