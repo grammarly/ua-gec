@@ -1,4 +1,4 @@
-Красуня секретарка зойкнула {та=>і:::error_type=Other}, {ламаючи=>заламуючи:::error_type=F/Collocation} руки, {вскрикнула=>викрикнула:::error_type=F/Calque}:
+Красуня секретарка зойкнула {та=>і:::error_type=F/Other}, {ламаючи=>заламуючи:::error_type=F/Collocation} руки, {вскрикнула=>викрикнула:::error_type=F/Calque}:
 
 {-=>—:::error_type=Punctuation} Ви бачите? Бачите? Нема його! Немає! Поверніть його, поверніть!
 
@@ -8,7 +8,7 @@
 
 {-=>—:::error_type=Punctuation} {Проша=>Прошо:::error_type=G/Case}! {де=>Де:::error_type=Spelling} ви?
 
-{-=>—:::error_type=Punctuation} Хто вам тут "Проша"? {-=>—:::error_type=Punctuation} {усвідомився =>поцікавився:::error_type=F/Calque}{надмінно=> бундючно:::error_type=F/Calque} костюм, ще глибше завалюючись у кріслі.
+{-=>—:::error_type=Punctuation} Хто вам тут "Проша"? {-=>—:::error_type=Punctuation} {усвідомився=>поцікавився:::error_type=F/Calque} {надмінно=>бундючно:::error_type=F/Calque} костюм, ще глибше завалюючись у кріслі.
 
 {-Не=>—Не:::error_type=Punctuation} {пізнає=>впізнає:::error_type=G/Aspect}! Мене не впізнає! Ви розумієте? {-=>—:::error_type=Punctuation} заплакала секретарка
 

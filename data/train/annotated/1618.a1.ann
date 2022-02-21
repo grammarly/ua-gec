@@ -2,7 +2,7 @@
 
 {-Дайте=>—  Дайте:::error_type=Punctuation} {нарзану,-попросив Берліоз=>нарзану, —  попросив Берліоз:::error_type=Punctuation}{=>.:::error_type=Punctuation}
 
-{-Нарзану=>— Нарзану:::error_type=Punctuation} {немає,-=>немає, —:::error_type=Punctuation} відповіла жінка у будочці {и=>й:::error_type=Other} чомусь образилась{=>.:::error_type=Punctuation}
+{-Нарзану=>— Нарзану:::error_type=Punctuation} {немає,-=>немає, —:::error_type=Punctuation} відповіла жінка у будочці {и=>й:::error_type=Spelling} чомусь образилась{=>.:::error_type=Punctuation}
 
 {-=>—:::error_type=Punctuation} Пиво {є?-=>є? —:::error_type=Punctuation} {осиплим=>захриплим:::error_type=F/Style} голосом поцікавився бездомний{=>.:::error_type=Punctuation}
 
@@ -14,6 +14,6 @@
 
 {-=>—:::error_type=Punctuation} Ну{=>,:::error_type=Punctuation} давайте, давайте, давайте!..
 
-Абрикосова дала рясну жовту піну, і у повітрі запахло перукарнею. Напившись, літератори негайно почали {гукати=>гикати:::error_type=Spelling}, розрахувались {и=>і:::error_type=Other} всілися на лавку обличчям до {пруду=>ставка:::error_type=F/Calque} і спиною до {Бронной=>Бронної.:::error_type=G/Case}
+Абрикосова дала рясну жовту піну, і у повітрі запахло перукарнею. Напившись, літератори негайно почали {гукати=>гикати:::error_type=Spelling}, розрахувались {и=>і:::error_type=Spelling} всілися на лавку обличчям до {пруду=>ставка:::error_type=F/Calque} і спиною до {Бронной=>Бронної.:::error_type=G/Case}
 
 

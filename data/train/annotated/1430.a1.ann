@@ -18,5 +18,5 @@
 
 {-=> —:::error_type=Punctuation} І батько тут?
 
-{-=> —:::error_type=Punctuation} І батько ... Батько нічого. Сидить {в=>у:::error_type=Other} {уголушке=>куточку:::error_type=F/Calque} і мовчить. Дітей до рідних забрали ... Що ж, {Степан=>Степане:::error_type=G/Case}? {В=>У:::error_type=Spelling} свого козиря зіграємо, чи що?
+{-=> —:::error_type=Punctuation} І батько ... Батько нічого. Сидить {в=>у:::error_type=Spelling} {уголушке=>куточку:::error_type=F/Calque} і мовчить. Дітей до рідних забрали ... Що ж, {Степан=>Степане:::error_type=G/Case}? {В=>У:::error_type=Spelling} свого козиря зіграємо, чи що?
 

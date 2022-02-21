@@ -20,7 +20,7 @@
 
 Ми шукаємо всюди причини{=>,:::error_type=Punctuation} чому не вийде.
 
-А ви {шукайте=>шукаєте:::error_type=Other} "Чому може вийти"{ =>:::error_type=Punctuation}?
+А ви {шукайте=>шукаєте:::error_type=G/Other} "Чому може вийти"{ =>:::error_type=Punctuation}?
 Що ви здобудете{=>,:::error_type=Punctuation} якщо вийде?
 
 Я нічого не втрачав, ну{=>,:::error_type=Punctuation} крім ще 5 років архітектором в тому ж відділі з сотнею інших архітекторів.

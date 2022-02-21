@@ -2,7 +2,7 @@
 
 Та потім Гудлоу Бенкс повів себе настільки емоційно, наскільки йому дозволяла його освіта. Він скинув окуляри зі свого носа та {виразно=>пильно:::error_type=F/Style} подивився на мене.
 
-"Я часто казав тобі, що ти дурень{"=>:::error_type=Other}, {він=>–:::error_type=F/PoorFlow} сказав{=> він :::error_type=F/PoorFlow}. {"=>– :::error_type=Punctuation}Ти дозволив себе обдурити повному телепню. Та ти обдурив і мене теж"{=>.:::error_type=Punctuation}
+"Я часто казав тобі, що ти дурень{"=>:::error_type=Punctuation}, {він=>–:::error_type=F/PoorFlow} сказав{=> він :::error_type=F/PoorFlow}. {"=>– :::error_type=Punctuation}Ти дозволив себе обдурити повному телепню. Та ти обдурив і мене теж"{=>.:::error_type=Punctuation}
 
 "Як{"=>:::error_type=Punctuation}, {я=>–:::error_type=F/PoorFlow} спитав{=> я :::error_type=F/PoorFlow}, {"=>– :::error_type=Punctuation}я обдурив тебе?"
 

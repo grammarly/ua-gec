@@ -40,7 +40,7 @@ Image for post
 
 Відповіді на популярні питання
 
-П: {У=>В:::error_type=Spelling} {AlphaZero=>"АльфаЗеро":::error_type=Other} більший бюджет обчислень.
+П: {У=>В:::error_type=Spelling} {AlphaZero=>"АльфаЗеро":::error_type=F/Other} більший бюджет обчислень.
 В: Можливо, це важко порівнювати через занадто різні архітектури. 4 спеціалізованих TPU {чіпа=>чипи:::error_type=F/Calque} для {=>":::error_type=Punctuation}АльфаЗеро{=>":::error_type=Punctuation} проти 64 поточного CPU із 1Гб кешу для StochFish. Остання {дійно=>дійсно:::error_type=Spelling} {більш ефективна=>ефективніша:::error_type=G/Comparison} для менших бюджетів, {в=>у:::error_type=Spelling} статті {приведений=>наведено:::error_type=G/VerbVoice} графік:
 Image for post
 ЕЛО для різних обчислювальних бюджетів. {=>":::error_type=Punctuation}Стокфіш{=>":::error_type=Punctuation} {краще=>кращий:::error_type=G/UngrammaticalStructure} в малому бюджеті, але гірше скейлиться.
@@ -54,6 +54,6 @@ Image for post
 2)На результаті це {б=>би:::error_type=Spelling} відбилося {мінімально=>найменше:::error_type=F/Style}. Звичайно, можливо, що правильно налаштований {=>":::error_type=Punctuation}Стокфіш{=>":::error_type=Punctuation} грає дуже близько до оптимуму і велику перевагу отримати {не можливо=>неможливо:::error_type=Spelling} в принципі. Але мені здається, що таки ні і що лишивши {=>":::error_type=Punctuation}АльфаЗеро{=>":::error_type=Punctuation} грати саму із собою ще {пару=>кілька:::error_type=F/Calque} тижнів, можна показати той самий розгром, що і зараз.
 3) А чому ніхто не порівнює кількість оцінених позицій для одного ходу — 70 млн{.=>:::error_type=Punctuation} у {=>":::error_type=Punctuation}Стокфіш{=>":::error_type=Punctuation} проти 40 тис. у {=>":::error_type=Punctuation}АльфаЗеро{=>":::error_type=Punctuation}. Чи це чесно — робити більший перебір?
 
-P.S. Голова DeepMind у своїй доповіді навів {декілька=>кілька:::error_type=F/Style} прикладів “нетипової” для людини чи шахового алгоритму гри. Так, {=>":::error_type=Punctuation}АльфаЗеро{=>":::error_type=Punctuation} пожертвував слоном та не намагався його відіграти. Завів ферзя у кут(!) {,=>:::error_type=Punctuation}тощо. Але всі ці незрозумілі{=>,:::error_type=Punctuation} на {перших=>перший:::error_type=G/Number} погляд{=>,:::error_type=Punctuation} {ход=>ходи:::error_type=Other}{,=>:::error_type=Punctuation} {у решті решт=>врешті-решт:::error_type=Spelling} {призвели=>привели:::error_type=F/Style} до перемоги.
+P.S. Голова DeepMind у своїй доповіді навів {декілька=>кілька:::error_type=F/Style} прикладів “нетипової” для людини чи шахового алгоритму гри. Так, {=>":::error_type=Punctuation}АльфаЗеро{=>":::error_type=Punctuation} пожертвував слоном та не намагався його відіграти. Завів ферзя у кут(!) {,=>:::error_type=Punctuation}тощо. Але всі ці незрозумілі{=>,:::error_type=Punctuation} на {перших=>перший:::error_type=G/Number} погляд{=>,:::error_type=Punctuation} {ход=>ходи:::error_type=Spelling}{,=>:::error_type=Punctuation} {у решті решт=>врешті-решт:::error_type=Spelling} {призвели=>привели:::error_type=F/Style} до перемоги.
 
 
