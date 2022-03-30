@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.0.dev0] - 2022-xx-xx
+### Added
+- XXXX new documents
+- TODO: detailed annotations
+- TODO: GEC-only annotations
+- Multiple annotators per document (as indicated by `doc.meta.annotator_id`)
+
 ## [1.3.0.dev0] - 2022-01-17
 ### Added
 - Annotations may indicate newline insertion/deletion by using the "\n" token
