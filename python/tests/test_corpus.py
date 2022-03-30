@@ -23,6 +23,15 @@ class TestCorpus:
         with pytest.raises(LookupError):
             corpus.get_doc("THIS ID DOSN'T EXISTS")
 
+    def test_two_annotators(self):
+        corpus = Corpus("test")
+        doc_a1 = corpus.get_doc("1224", annotator_id=1)
+        doc_a2 = corpus.get_doc("1224", annotator_id=2)
+
+        assert doc_a1.doc_id == doc_a2.doc_id == "1224"
+        assert doc_a1.target != doc_a2.target
+
+
     @pytest.fixture
     def corpus(self):
         return Corpus()

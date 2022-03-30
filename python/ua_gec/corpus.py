@@ -60,7 +60,6 @@ class Corpus:
         if partition not in ("train", "test", "all"):
             raise ValueError("`partition` must be 'train', 'test' or 'all'")
         self.partition = partition
-        self.annotator_id = "1"
 
         root_dir = pathlib.Path(__file__).parent
         self._data_dir = root_dir / "data"
@@ -92,20 +91,21 @@ class Corpus:
         reader = csv.DictReader((self._data_dir / "metadata.csv").open())
         for row in reader:
             if self.partition == "all" or row["partition"] == self.partition:
-                record = Metadata(
-                    doc_id=row["id"],
-                    author_id=row["author_id"],
-                    is_native=row["is_native"],
-                    region=row["region"],
-                    gender=row["gender"],
-                    occupation=row["occupation"],
-                    submission_type=row["submission_type"],
-                    source_language=row["source_language"],
-                    annotator_id=int(row["annotator_id"]),
-                    partition=row['partition'],
-                    is_sensitive=bool(int(row['is_sensitive'])),
-                )
-                self._metadata.append(record)
+                for annotator_id in row["annotator_id"].split():
+                    record = Metadata(
+                        doc_id=row["id"],
+                        author_id=row["author_id"],
+                        is_native=row["is_native"],
+                        region=row["region"],
+                        gender=row["gender"],
+                        occupation=row["occupation"],
+                        submission_type=row["submission_type"],
+                        source_language=row["source_language"],
+                        annotator_id=int(annotator_id),
+                        partition=row['partition'],
+                        is_sensitive=bool(int(row['is_sensitive'])),
+                    )
+                    self._metadata.append(record)
 
     def iter_documents(self):
         """Iterate over documents. """
@@ -116,7 +116,7 @@ class Corpus:
 
         # Iterate in a streaming fashion
         for meta in self._get_metadata():
-            filename = f"{meta.doc_id}.a{self.annotator_id}.ann"
+            filename = f"{meta.doc_id}.a{meta.annotator_id}.ann"
             path = self._data_dir / meta.partition / "annotated" / filename
             text = AnnotatedText(path.read_text())
             doc = Document(text, meta=meta)
@@ -129,14 +129,19 @@ class Corpus:
             self._docs = list(self.iter_documents())
         return self._docs
     
-    def get_doc(self, doc_id):
+    def get_doc(self, doc_id, annotator_id=1):
         """Return one document by its ID.
 
         Raises LookupError if the document is not found.
         """
 
         docs = self.get_documents()
-        match = [doc for doc in docs if doc.doc_id == doc_id]
+        match = []
+        for doc in docs:
+            if doc.doc_id == doc_id:
+                if doc.meta.annotator_id == annotator_id:
+                    match.append(doc)
+
         if not match:
             raise LookupError(f"Document {doc_id} not found!")
         
