@@ -71,6 +71,14 @@ An accompanying Python package, `ua_gec`, provides many tools for working with
 annotated texts. See its documentation for details.
 
 
+## Multiple annotators
+
+Some documents are annotated with multiple annotators. Such documents
+share `doc_id` but differ in `doc.meta.annotator_id`.
+
+Currently, only test set is annotated with two annotators.
+
+
 ## Statistics
 
 UA-GEC contains:
