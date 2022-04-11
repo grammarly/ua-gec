@@ -1,0 +1,9 @@
+Переклад назви не зовсім вдалий, в оригіналі книга називається "Chaos Monkey" {- на ім'я=>за іменем:::error_type=G/Prep} відомої програми Netflix ({ =>:::error_type=Punctuation}https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey{ =>:::error_type=Punctuation}), що вбиває випадковий процес у системі{,=>:::error_type=Punctuation} заради певності {у роботі=>роботи:::error_type=F/PoorFlow} підсистеми відновлення після збоїв.
+
+Автор описує шлях свого стартапу{,=>:::error_type=Punctuation} від створення ідеї до закриття внаслідок 'aquhire' {по частинам=>частинами:::error_type=G/Prep}. Відверто описується внутрішня кухня великих технологічних компаній. Я проковтнув цю книгу {одним разом=>зараз:::error_type=F/PoorFlow} протягом 6-годинного перельоту з великим задоволенням. Якщо ви маєте якесь відношення до adtech, то читати взагалі обов'язково.
+
+{Посилання:=>Посилання на український переклад::::error_type=F/PoorFlow}
+{Український переклад:=>:::error_type=F/PoorFlow} https://nashformat.ua/products/haos-u-kremnievij-dolyni.-startapy-scho-zlamaly-system...
+Вікіпедія: https://en.wikipedia.org/wiki/Chaos_Monkeys
+Амазон: https://www.amazon.com/Chaos-Monkeys-Obscene-Fortune-Failure/dp/0062458191
+netflix про chaos engeneering: https://medium.com/netflix-techblog/tagged/chaos-monkey
