@@ -36,11 +36,26 @@ def check_files_with_missing_detailed_annotations(corpus):
         #print("\n".join(sorted(reannotate)))
 
 
+def check_double_annotated(corpus):
+    """Docs with 2 annotators should have exactly the same source. """
+
+    broken = []
+    for doc in corpus:
+        if doc.meta.annotator_id == 2:
+            doc_2 = corpus.get_doc(doc.doc_id, annotator_id=1)
+            if doc.source != doc_2.source:
+                broken.append(doc.doc_id)
+
+    if broken:
+        print(f"{len(broken)} docs don't match source")
+
+
 def main():
     corpus = Corpus("all")
 
     check_files_without_annotations(corpus)
     check_files_with_missing_detailed_annotations(corpus)
+    check_double_annotated(corpus)
 
 if __name__ == "__main__":
     main()
