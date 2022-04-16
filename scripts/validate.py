@@ -43,11 +43,12 @@ def check_double_annotated(corpus):
     for doc in corpus:
         if doc.meta.annotator_id == 2:
             doc_2 = corpus.get_doc(doc.doc_id, annotator_id=1)
-            if doc.source != doc_2.source:
+            if doc.source.strip() != doc_2.source.strip():
                 broken.append(doc.doc_id)
 
     if broken:
         print(f"{len(broken)} docs don't match source")
+        print('\n'.join(sorted(broken)))
 
 
 def main():
