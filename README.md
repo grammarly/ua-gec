@@ -149,14 +149,18 @@ get you started. It will remove all Fluency annotations from a text:
 ```
 
 
+## Multiple annotators
+
+Some documents are annotated with multiple annotators. Such documents
+share `doc_id` but differ in `doc.meta.annotator_id`.
+
+Currently, entire test set is annotated with two annotators.
+Train set contains under 50 double-annotated docs.
+
 
 ## Contributing
 
-* The data collection is an ongoing activity. You can always contribute
-  your Ukrainian writings or complete one of the writing tasks at
-  https://ua-gec-dataset.grammarly.ai/
-
-* Code improvements and document are welcomed. Please submit a pull request.
+* Data and code improvements are welcomed. Please submit a pull request.
 
 
 ## Citation
