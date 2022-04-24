@@ -2,10 +2,9 @@
 
 {-=>—:::error_type=Punctuation} Полюванням займаєтесь?
 
-{-=>—:::error_type=Punctuation} Ні, зайцями в нас {називать=>називають:::error_type=G/Number} безквиткових пасажирів{=>.:::error_type=Punctuation} {=>
-— }{- =>:::error_type=Punctuation}Зайці{=>.:::error_type=Punctuation}
+{-=>—:::error_type=Punctuation} Ні, зайцями в нас {називать=>називають:::error_type=G/Number} безквиткових пасажирів{=>.:::error_type=Punctuation} {- =>:::error_type=Punctuation}Зайці{ =>.:::error_type=Punctuation}
 
-Минула ще одна хвилина в тиші. Стичкін (це прізвище таке, {одна =>:::error_type=F/Repetition}суцільна помилка) піднявся і в хвилюванні{,=>:::error_type=Punctuation} ходив по кімнаті.
+Минула ще одна хвилина в тиші. Стичкін (це прізвище таке, {одна =>:::error_type=F/Repetition}суцільна помилка) піднявся{ =>:::error_type=Punctuation} і в хвилюванні{,=>:::error_type=Punctuation} ходив по кімнаті.
 
 {-=>—:::error_type=Punctuation} Мені молодої дружини не треба{ -=>, —:::error_type=Punctuation} казав він{=>,:::error_type=Punctuation} {-=>—:::error_type=Punctuation} я вже людина {похила=>похилого віку:::error_type=F/Style}, мені треба така{=>,:::error_type=Punctuation} {котра=>що:::error_type=F/Style}... ну{=>,:::error_type=Punctuation} наче... спокійна й солідна... і наче вашої комплекції...
 
