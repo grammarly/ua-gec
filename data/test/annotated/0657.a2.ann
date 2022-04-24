@@ -14,6 +14,6 @@
 Кімнату {наповнював звук=>наповнювали звуки:::error_type=G/Number} води{=>,:::error_type=Punctuation} {по трубах=>що стікала трубами,:::error_type=F/PoorFlow} і музика Бетховена{=>,:::error_type=Punctuation} яка лунала невідомо звідки. Лисий{=>,:::error_type=Punctuation} підвівшись {з=>із:::error_type=Spelling} підлоги{=>,:::error_type=Punctuation} підійшов до поліцейського і поклав руку на плече:
 {=>— :::error_type=Punctuation}Не думаю, що двері відкриваються від твоїх стусанів.
 {=>— :::error_type=Punctuation}Але щось треба робити{=>,:::error_type=Punctuation} {-=>—:::error_type=Punctuation} відповів поліцейський{=>.:::error_type=Punctuation}
-{=>— :::error_type=Punctuation}Тоді {спробуємо взяти=>візьмемо:::error_type=F/PoorFlow} щось міцніше{=>,:::error_type=Punctuation} ніж {баган=>банан:::error_type=Other}{=>,:::error_type=Punctuation} і спробуємо виламати двері ним{=>.
-— ﹜Наприклад?
+{=>— :::error_type=Punctuation}Тоді {спробуємо взяти=>візьмемо:::error_type=F/PoorFlow} щось міцніше{=>,:::error_type=Punctuation} ніж {баган=>банан:::error_type=Other}{=>,:::error_type=Punctuation} і спробуємо виламати двері ним{=>.\n:::error_type=Punctuation}
+{=>— :::error_type=Punctuation}Наприклад?
 Лисий {гляну=>глянув:::error_type=G/Tense} на трубу{=>,:::error_type=Punctuation} яка {йшла через всю кімпану=>проходила через усю кімнату:::error_type=F/Style}, і кинув.
