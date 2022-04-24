@@ -28,6 +28,9 @@ def check_files_with_missing_detailed_annotations(corpus):
     reannotate = set()
     for doc in corpus:
         for ann in doc.annotated.get_annotations():
+            if "error_type" not in ann.meta:
+                print(f"Missing error_type in {doc.doc_id}: {ann}")
+                continue
             if ann.meta["error_type"] in ("Grammar", "Fluency"):
                 reannotate.add(doc.doc_id)
 
