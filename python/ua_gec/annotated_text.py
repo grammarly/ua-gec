@@ -90,7 +90,8 @@ class AnnotatedText:
         if not isinstance(text, str):
             raise ValueError(f"`text` must be string, not {type(text)}")
 
-        original = self.ANNOTATION_PATTERN.sub(r"\1", text)
+        unescape_source = lambda m: _unescape(m.groups()[0])
+        original = self.ANNOTATION_PATTERN.sub(unescape_source, text)
         self._annotations = self._parse(text)
         self._text = original
 
@@ -271,6 +272,9 @@ class AnnotatedText:
             else:
                 meta = {}
 
+            source = _unescape(source)
+            suggestions = [_unescape(s) for s in suggestions]
+
             ann = Annotation(
                 start=start,
                 end=end,
@@ -331,7 +335,7 @@ class AnnotatedText:
             'helo world!'
         """
 
-        return self._text
+        return _unescape(self._text)
 
     def get_corrected_text(self, level=0):
         """Return the unannotated text with all corrections applied.
@@ -349,7 +353,7 @@ class AnnotatedText:
             except IndexError:
                 pass
 
-        return text.get_edited_text()
+        return _unescape(text.get_edited_text())
 
     def get_annotated_text(self, *, with_meta=True):
         """Return the annotated text.
@@ -399,6 +403,12 @@ class AnnotatedText:
         s = join_token.join(str(a) for a in ann_texts)
 
         return AnnotatedText(s)
+    
+def _escape(s):
+    return s.replace("\n", "\\n")
+
+def _unescape(s):
+    return s.replace("\\n", "\n")
 
 
 class Annotation(
@@ -465,7 +475,10 @@ class Annotation(
             repl = NO_SUGGESTIONS
 
         meta_text = self._format_meta() if with_meta else ""
-        return "{%s=>%s%s}" % (self.source_text, repl, meta_text)
+        return "{%s=>%s%s}" % (
+            _escape(self.source_text),
+            _escape(repl),
+            meta_text)
 
     def _format_meta(self):
         return "".join(":::{}={}".format(k, v) for k, v in self.meta.items())
