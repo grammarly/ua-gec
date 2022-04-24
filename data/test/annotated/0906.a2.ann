@@ -57,7 +57,7 @@
 Де це буває?
 {в школі=>У школі,:::error_type=Other}{\n=> :::error_type=Punctuation}у дворі{=>,:::error_type=Punctuation}{\n=> :::error_type=Punctuation}дорогою додому{=>,:::error_type=Punctuation}{\n=> :::error_type=Punctuation}{і інтернеті=>в Інтернеті:::error_type=Other}{=>.:::error_type=Punctuation}
 
-{чому це небезпечно?=>ЧОМУ ЦЕ НЕБЕЗПЕЧНО?}
+{чому це небезпечно?=>ЧОМУ ЦЕ НЕБЕЗПЕЧНО?:::error_type=Other}
 {для=>Для:::error_type=Other} того, кого булять{:=>, —:::error_type=Punctuation} {=>це :::error_type=G/UngrammaticalStructure}стрес, демотивація, захворювання{=>,:::error_type=Punctuation} {– =>:::error_type=Punctuation}а в дорослому {віці ці=>віці такі:::error_type=F/Repetition} проблеми зростуть до дорослих масштабів{=>.:::error_type=Punctuation}
 {для=>Для:::error_type=Other} ініціатора{:=> —:::error_type=Punctuation} виключення зі школи, поліція, проблеми зі здоров’ям, бійки{=>.:::error_type=Punctuation}
 Що ви відчуваєте, коли вас {дражнили=>дражнять:::error_type=G/Tense}?
