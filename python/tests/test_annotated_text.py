@@ -201,6 +201,13 @@ def test_curly_braces_in_original_text():
     expected = r"(e.g. \emph{the, dox, jumps})"
     assert text.get_original_text() == expected
 
+def test_newline_in_annotation():
+    text = AnnotatedText(r"One{; =>\n}Two")
+    assert text.get_original_text() == "One; Two"
+    assert text.get_corrected_text() == "One\nTwo"
+    assert text.get_annotations()[0].suggestions == ["\n"]
+    assert text.get_annotated_text() == r"One{; =>\n}Two"
+
 
 def test_string_representation():
     # AnnotatedText should pretend
