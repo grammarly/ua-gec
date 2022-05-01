@@ -36,7 +36,7 @@ def check_files_with_missing_detailed_annotations(corpus):
 
     if reannotate:
         print(f"{len(reannotate)} docs with missing detailed annotations:")
-        #print("\n".join(sorted(reannotate)))
+        print(", ".join(sorted(reannotate)))
 
 
 def check_double_annotated(corpus):

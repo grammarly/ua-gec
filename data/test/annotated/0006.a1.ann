@@ -1,4 +1,4 @@
-Привіт{=>,:::error_type=Punctuation} {Настя=>Насте.:::error_type=Grammar}
+Привіт{=>,:::error_type=Punctuation} {Настя=>Насте.:::error_type=G/Case}
 
 А діти в садочку після сніданку гуляють?
 
@@ -10,7 +10,7 @@
 
 Надя щось не в захваті, каже: "{не=>Не:::error_type=Spelling} піду!"
 
-Ох, {все=>усе:::error_type=Spelling} дуже заплутано. Ми у вересні подивимось{=>,:::error_type=Punctuation} який в Уляни буде розклад {в=>у:::error_type=Spelling} школі й по гуртках, і як воно буде Надії в садочку, і вирішимо{=>,:::error_type=Punctuation} як краще ходити. {В поки=>Поки:::error_type=Spelling} що {вересень=>вересні:::error_type=Grammar} {будем=>будемо:::error_type=Grammar} повну оплату робити.
+Ох, {все=>усе:::error_type=Spelling} дуже заплутано. Ми у вересні подивимось{=>,:::error_type=Punctuation} який в Уляни буде розклад {в=>у:::error_type=Spelling} школі й по гуртках, і як воно буде Надії в садочку, і вирішимо{=>,:::error_type=Punctuation} як краще ходити. {В поки=>Поки:::error_type=Spelling} що {вересень=>вересні:::error_type=G/Case} {будем=>будемо:::error_type=F/Style} повну оплату робити.
 
 У нас тут ще й{ в=> у:::error_type=Spelling} школі незрозуміло. Кажуть{=>,:::error_type=Punctuation} що діти будуть або через день займатись, або через тиждень. То ми{=>,:::error_type=Punctuation} {моде=>може:::error_type=Spelling}{=>,:::error_type=Punctuation} ще й Уляну будемо в совенята через день відправляти
 
@@ -26,5 +26,5 @@
 
 А потім додому підемо{=>.:::error_type=Punctuation}
 
-Краще {наступним=>іншим:::error_type=Fluency} разом, бо не знаю{=>,:::error_type=Punctuation} чи буде Надія в доброму гуморі{=>.:::error_type=Punctuation}
+Краще {наступним=>іншим:::error_type=F/Style} разом, бо не знаю{=>,:::error_type=Punctuation} чи буде Надія в доброму гуморі{=>.:::error_type=Punctuation}
 
