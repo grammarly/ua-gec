@@ -7,6 +7,6 @@
 {-=>—:::error_type=Punctuation} Жахливі слова! Жахливі слова! Він Майстер, {мессір=>мессіре:::error_type=G/Case}, я {Вас=>вас:::error_type=Spelling} попереджаю про це. Вилікуйте його, він вартий того.
 {-=>—:::error_type=Punctuation} Ви знаєте, з ким зараз спілкуєтеся, {-=>—:::error_type=Punctuation} спитав у прибулого Воланд, {-=>—:::error_type=Punctuation} у кого {Ви=>ви:::error_type=Spelling} {знаходитеся=>перебуваєте:::error_type=F/Collocation}?
 {-=>—:::error_type=Punctuation} Знаю, {- =>—:::error_type=Punctuation}відповів Майстер, {- =>—:::error_type=Punctuation}моїм сусідом {в=>у:::error_type=Spelling} божевільні був цей хлопчик, Іван {Безхатній=>Бездомний:::error_type=F/Style}. Він розповів мені за {Вас=>вас:::error_type=Spelling}.
-{-=>—:::error_type=Punctuation} {А як же, а як же=>Аякже, аякже:::error_type=Fluency}, {-=>—:::error_type=Punctuation} озвався Воланд, {-=>—:::error_type=Punctuation} я мав задоволення зустрітися з цим молодиком на Патріархових ставках. Він ледь мене самого не звів {з=>із:::error_type=Spelling} розуму, доводячи, що мене немає! Але Ви ж вірите, що це {дійсно=>справді:::error_type=Fluency} я?
+{-=>—:::error_type=Punctuation} {А як же, а як же=>Аякже, аякже:::error_type=F/Style}, {-=>—:::error_type=Punctuation} озвався Воланд, {-=>—:::error_type=Punctuation} я мав задоволення зустрітися з цим молодиком на Патріархових ставках. Він ледь мене самого не звів {з=>із:::error_type=Spelling} розуму, доводячи, що мене немає! Але Ви ж вірите, що це {дійсно=>справді:::error_type=F/Style} я?
 
 
