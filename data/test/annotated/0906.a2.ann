@@ -1,11 +1,11 @@
 Безпека і кібербезпека дітей: коротко про головне
 
 {privacy=>Privacy:::error_type=Spelling}{=> :::error_type=Punctuation}/{=> :::error_type=Punctuation}приватність
-Це {недоторканість=>недоторканність:::error_type=F/Style} {своєї території=>власної території:::error_type=F/Style}: {що=>як:::error_type=G/Conjunction} реальної, {що=>так і:::error_type=G/Conjunction} віртуальної. {Недоторканість=>Недоторканність:::error_type=F/Style} {бережуть:=>оберігають:::error_type=F/Style} стіни, дах, а  також двері (у прямому й переносному значенні).
+Це {недоторканість=>недоторканність:::error_type=F/Style} {своєї=>власної:::error_type=F/Style} території: {що=>як:::error_type=G/Conjunction} реальної, {що=>так і:::error_type=G/Conjunction} віртуальної. {Недоторканість=>Недоторканність:::error_type=F/Style} {бережуть:=>оберігають:::error_type=F/Style} стіни, дах, а  також двері (у прямому й переносному значенні).
 Пароль{=>,:::error_type=Punctuation} {– =>:::error_type=Punctuation}як замок у дверях{:=>,:::error_type=Punctuation} має бути, має працювати, ключ – тільки в тебе.{\n=> :::error_type=Punctuation}({а=>А:::error_type=Other} взагалі пароль – це як труси{:=>,:::error_type=Punctuation} ніхто не має права його бачити! Довіряти можна і треба батькам).
 Пароль потрібно часто {міняти=>змінювати:::error_type=F/Style}, щоб уникнути компрометації.
 Чим заселяємо власну територію? Тим, про що не соромно розповісти своїй бабусі! Або написати на своїй футболці! ({правило=>Правило:::error_type=Other} бабусі{&=> та :::error_type=F/Style}правило футболки){=>.:::error_type=Punctuation}
-Автентифікація – це як доступ до {своєї території=>власної території:::error_type=F/Style}.
+Автентифікація – це як доступ до {своєї=>власної:::error_type=F/Style} території.
 Вимога: {Автентифікація=>автентифікація:::error_type=Other} має бути БАГАТОФАКТОРНОЮ{=>,:::error_type=Punctuation} {– =>:::error_type=Punctuation}тобто містити:
 1{=>):::error_type=Punctuation} {– =>:::error_type=Punctuation}щось, що ти знаєш (пароль, пін-код){ =>;:::error_type=Punctuation}
 2{=>):::error_type=Punctuation} {– =>:::error_type=Punctuation}щось, чим володієш (мережа має побачити{,=>:::error_type=Punctuation} {н-д =>:::error_type=G/UngrammaticalStructure}смартфон: унікальний код на смартфон, який людина отримує на пристрій і вводить на вимогу){=>;:::error_type=Punctuation}
@@ -16,7 +16,7 @@
 ПІДСУМКИ:
 1. про нові, незрозумілі, складні ситуації щодо приватності {–=>варто:::error_type=G/UngrammaticalStructure} перепитати надійну людину (комунікуємо), правило бабусі{=> :::error_type=Punctuation}/{=> :::error_type=Punctuation}правило футболки{=>;:::error_type=Punctuation}
 2. пароль (як труси{=>,:::error_type=Punctuation} {– =>:::error_type=Punctuation}нікому не показуємо) + довгий, надійний, {міняємо=>змінюємо;:::error_type=F/Style}
-3. захищаємо {свій пристрій=>власний пристрій:::error_type=F/Style} (блокування, шифрування пристрою){=>.:::error_type=Punctuation}
+3. захищаємо {свій=>власний:::error_type=F/Style} пристрій (блокування, шифрування пристрою){=>.:::error_type=Punctuation}
 Безпека в інтернеті
 {загрози=>Загрози:::error_type=Spelling}:
 {=>1) :::error_type=Punctuation}шахраї{=>;:::error_type=Punctuation}
@@ -27,7 +27,7 @@
 {=>6) :::error_type=Punctuation}продаж неіснуючих товарів{=>;:::error_type=Punctuation}
 {=>7) :::error_type=Punctuation}фальшиві співрозмовники в соцмережах:
 – занепокоєння (доросла людина, новий друг {з=>із:::error_type=Spelling} картинкою) {>>>=>—:::error_type=Punctuation} повідомити батькам, наставникам{=>;:::error_type=Punctuation}
-– співрозмовник просить {про зустріч в реалі=>про реальну зустріч:::error_type=F/Style} – припинити спілкування {іі=>і:::error_type=Other} повідомити батькам{=>;:::error_type=Punctuation}
+– співрозмовник просить про {зустріч в реалі=>реальну зустріч:::error_type=F/Style} – припинити спілкування {іі=>і:::error_type=Other} повідомити батькам{=>;:::error_type=Punctuation}
 – вебкамера – тільки при спілкуванні з друзями{=>;:::error_type=Punctuation}
 – при розмові телефоном {– стежити=>стежте:::error_type=G/VerbVoice}, щоб поруч не було сторонньої людини: розмова може бути записана{=>;:::error_type=Punctuation}
 – не додавайте незнайомих людей у свій {контакт-лист=>список контактів:::error_type=F/Calque} (навіть якщо людина {виглядає, як ровесник=>має вигляд ровесника:::error_type=F/PoorFlow}). Тільки знайомих!
@@ -58,7 +58,7 @@
 {в школі=>У школі,:::error_type=Other}{\n=> :::error_type=Punctuation}у дворі{=>,:::error_type=Punctuation}{\n=> :::error_type=Punctuation}дорогою додому{=>,:::error_type=Punctuation}{\n=> :::error_type=Punctuation}{і інтернеті=>в Інтернеті:::error_type=Other}{=>.:::error_type=Punctuation}
 
 {чому це небезпечно?=>ЧОМУ ЦЕ НЕБЕЗПЕЧНО?:::error_type=Other}
-{для=>Для:::error_type=Other} того, кого булять{:=>, —:::error_type=Punctuation} {=>це :::error_type=G/UngrammaticalStructure}стрес, демотивація, захворювання{=>,:::error_type=Punctuation} {– =>:::error_type=Punctuation}а в дорослому {віці ці=>віці такі:::error_type=F/Repetition} проблеми зростуть до дорослих масштабів{=>.:::error_type=Punctuation}
+{для=>Для:::error_type=Other} того, кого булять{:=>, —:::error_type=Punctuation} {=>це :::error_type=G/UngrammaticalStructure}стрес, демотивація, захворювання{=>,:::error_type=Punctuation} {– =>:::error_type=Punctuation}а в дорослому віці {ці=>такі:::error_type=F/Repetition} проблеми зростуть до дорослих масштабів{=>.:::error_type=Punctuation}
 {для=>Для:::error_type=Other} ініціатора{:=> —:::error_type=Punctuation} виключення зі школи, поліція, проблеми зі здоров’ям, бійки{=>.:::error_type=Punctuation}
 Що ви відчуваєте, коли вас {дражнили=>дражнять:::error_type=G/Tense}?
 {злість=>Злість:::error_type=Other}, образу, розчарування, страх, сором (відповіді дітей){=>.:::error_type=Punctuation}
