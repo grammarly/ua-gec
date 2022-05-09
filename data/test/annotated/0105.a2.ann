@@ -1,5 +1,5 @@
 Старий Берман був художником, {який=>що:::error_type=G/Conjunction} жив на першому поверсі, під ними.
 
-{=>Вони:::error_type=G/UngrammaticalStructure} знали таємницю, але {робили вид=>вдавали:::error_type=F/Calque}{=>,:::error_type=Punctuation} наче нічого не знають. Вони сиділи {в столовій=>в їдальні:::error_type=F/Calque} і не виходили ні {в=>у:::error_type=Spelling} вітальню, ні {до якоїсь іншої зали=>в якийсь інший зал:::error_type=G/Prep}.
+{=>Вони:::error_type=G/UngrammaticalStructure} знали таємницю, але {робили вид=>вдавали:::error_type=F/Calque}{=>,:::error_type=Punctuation} наче нічого не знають. Вони сиділи в {столовій=>їдальні:::error_type=F/Calque} і не виходили ні {в=>у:::error_type=Spelling} вітальню, ні {до якоїсь іншої зали=>в якийсь інший зал:::error_type=G/Prep}.
 
 Сашко Уськов, молодий хлопець років 25-ти, через якого все це {і =>:::error_type=F/PoorFlow}почалось, давно вже прийшов {й=>і:::error_type=Other}, як йому радив його заступник, дядько по матері, Іван Маркович, хороша людина, смиренно сидів {в=>у:::error_type=Spelling} залі біля дверей, що {вела =>вели:::error_type=G/Number} в кабінет, та {готував себе=>готувався:::error_type=F/PoorFlow} до {відвертого, =>:::error_type=F/Repetition}щирого пояснення.
