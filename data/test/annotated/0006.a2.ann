@@ -4,17 +4,17 @@
 
 Щось ми сьогодні не встигаємо до дев'ятої привести{=>.:::error_type=Punctuation}
 
-Дякую за інформацію! {ми=>Ми:::error_type=Other} з Надією саме вийшли з дому{=>.:::error_type=Punctuation}
+Дякую за інформацію! {ми=>Ми:::error_type=Spelling} з Надією саме вийшли з дому{=>.:::error_type=Punctuation}
 
 Ми прийшли, але діти ще не гуляють. Сказали нам почекати{=>,:::error_type=Punctuation} поки група вийде.
 
-Надя щось не в захваті, каже: "{не=>Не:::error_type=Other} піду!"
+Надя щось не в захваті, каже: "{не=>Не:::error_type=Spelling} піду!"
 
-Ох, все дуже заплутано. Ми у вересні подивимось{=>,:::error_type=Punctuation} який в Уляни буде розклад {в=>у:::error_type=Spelling} школі {й=>та:::error_type=Other} {по =>:::error_type=G/UngrammaticalStructure}гуртках, {і =>:::error_type=F/Repetition}як {воно =>:::error_type=F/PoorFlow}буде Надії в садочку, і вирішимо{=>,:::error_type=Punctuation} як краще ходити. {В=>А:::error_type=G/UngrammaticalStructure} поки що {вересень=>у вересні:::error_type=G/Case} {будем=>будемо:::error_type=F/Style} повну оплату робити.
+Ох, все дуже заплутано. Ми у вересні подивимось{=>,:::error_type=Punctuation} який в Уляни буде розклад {в=>у:::error_type=Spelling} школі {й=>та:::error_type=Spelling} {по =>:::error_type=G/UngrammaticalStructure}гуртках, {і =>:::error_type=F/Repetition}як {воно =>:::error_type=F/PoorFlow}буде Надії в садочку, і вирішимо{=>,:::error_type=Punctuation} як краще ходити. {В=>А:::error_type=G/UngrammaticalStructure} поки що {вересень=>у вересні:::error_type=G/Case} {будем=>будемо:::error_type=F/Style} повну оплату робити.
 
-У нас тут ще й {в=>у:::error_type=Spelling} школі незрозуміло. Кажуть{=>,:::error_type=Punctuation} що діти будуть або через день {займатись=>займатися:::error_type=Other}, або через тиждень. То ми{=>,:::error_type=Punctuation} {моде=>може,:::error_type=Other} ще й Уляну будемо в {совенята=>“Совенята”:::error_type=Other} через день {відправляти=>відводити:::error_type=F/Style}{=>.:::error_type=Punctuation}
+У нас тут ще й {в=>у:::error_type=Spelling} школі незрозуміло. Кажуть{=>,:::error_type=Punctuation} що діти будуть або через день {займатись=>займатися:::error_type=Spelling}, або через тиждень. То ми{=>,:::error_type=Punctuation} {моде=>може,:::error_type=Spelling} ще й Уляну будемо в {совенята=>“Совенята”:::error_type=Spelling} через день {відправляти=>відводити:::error_type=F/Style}{=>.:::error_type=Punctuation}
 
-{Всі=>Усі:::error_type=Other} батьки {в шоці=>шоковані:::error_type=F/Style}{=>.:::error_type=Punctuation} ))
+{Всі=>Усі:::error_type=Spelling} батьки {в шоці=>шоковані:::error_type=F/Style}{=>.:::error_type=Punctuation} ))
 
 Отож, я й сама ні в чому не впевнена{=>.:::error_type=Punctuation}
 
@@ -22,7 +22,7 @@
 
 Я збираюся забрати Надію раніше, бо мені сказали{=>,:::error_type=Punctuation} що на цьому тижні тільки на прогулянки будут її брати, тобто до обіду. Я вже поруч {з=>із:::error_type=Spelling} садком в кафе сиджу, розмовляю {з=>із:::error_type=Spelling} замовниками, ніяк не можу закінчити розмову{=>.:::error_type=Punctuation} )))
 
-Потім я їй обіцяла зайти в {арома каву=>“Арома каву”:::error_type=Other} по какао{=>.:::error_type=Punctuation}
+Потім я їй обіцяла зайти в {арома каву=>“Арома каву”:::error_type=Spelling} по какао{=>.:::error_type=Punctuation}
 
 А потім додому підемо{=>.:::error_type=Punctuation}
 
