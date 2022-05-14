@@ -1,9 +1,9 @@
-То нічого, ми ж {на цьому =>:::error_type=G/UngrammaticalStructure}навмисно {тримаємось=>тримаємося:::error_type=Other} подалі від великих колективів.
+То нічого, ми ж {на цьому =>:::error_type=G/UngrammaticalStructure}навмисно {тримаємось=>тримаємося:::error_type=Spelling} подалі від великих колективів.
 
-Приводь {на =>:::error_type=G/UngrammaticalStructure}Соню {на другу=>о другій,:::error_type=G/Prep} а далі {розберемось=>розберемося:::error_type=Other}{=>.:::error_type=Punctuation}
+Приводь {на =>:::error_type=G/UngrammaticalStructure}Соню {на другу=>о другій,:::error_type=G/Prep} а далі {розберемось=>розберемося:::error_type=Spelling}{=>.:::error_type=Punctuation}
 
-Для дітей буде суп {з фрікадельками=>із фрикадельками:::error_type=Other}. І є вареники про всяк випадок. То{=>,:::error_type=Punctuation} мабуть{=>,:::error_type=Punctuation} нічого додатково не треба.
+Для дітей буде суп {з фрікадельками=>із фрикадельками:::error_type=Spelling}. І є вареники про всяк випадок. То{=>,:::error_type=Punctuation} мабуть{=>,:::error_type=Punctuation} нічого додатково не треба.
 
-Привіт! Ми сьогодні дітей {в=>у:::error_type=Spelling} садочок привезли, можемо забрати Соню, якщо вона теж {в=>у:::error_type=Spelling} {совенятах=>“Совенятах”:::error_type=Other}. Соня завтра йде в садок на Прорізній? Ми думаємо{=>,:::error_type=Punctuation} може спробувати {за=>з:::error_type=G/Prep} Надією туди завітати.
+Привіт! Ми сьогодні дітей {в=>у:::error_type=Spelling} садочок привезли, можемо забрати Соню, якщо вона теж {в=>у:::error_type=Spelling} {совенятах=>“Совенятах”:::error_type=Spelling}. Соня завтра йде в садок на Прорізній? Ми думаємо{=>,:::error_type=Punctuation} може спробувати {за=>з:::error_type=G/Prep} Надією туди завітати.
 
 {Ок=>Гаразд:::error_type=F/Calque}, заберемо Гафію, пристебнемо{=>,:::error_type=Punctuation} так. Забирати буду не раніше сьомої, тож приїдемо між 19:30 і 20:00{=>.:::error_type=Punctuation}

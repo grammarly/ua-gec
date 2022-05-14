@@ -4,6 +4,6 @@
 
 Через десять кроків ми зустріли поліцейського, {біжачого=>що біг:::error_type=G/UngrammaticalStructure} до місця, де пролунав постріл. Ейвері Найт зупинив його.
 
-{"=>— :::error_type=Punctuation}Я щойно {убив=>вбив:::error_type=Other} людину, {-=>—:::error_type=Punctuation} промовив він серйозно, {-=>—:::error_type=Punctuation} та забрав усе його добро.{"=>:::error_type=Punctuation}
+{"=>— :::error_type=Punctuation}Я щойно {убив=>вбив:::error_type=Spelling} людину, {-=>—:::error_type=Punctuation} промовив він серйозно, {-=>—:::error_type=Punctuation} та забрав усе його добро.{"=>:::error_type=Punctuation}
 
 {"=>— :::error_type=Punctuation}Іди, куди йшов, {-=>—:::error_type=Punctuation} сердито сказав поліцейський, {-=>—:::error_type=Punctuation} або я заарештую тебе! Хочеш побачити своє ім'я у газетах, так? Ніколи не зустрічав {чудаків=>диваків:::error_type=F/Calque}, які {=>б :::error_type=G/UngrammaticalStructure}з'являлися так швидко після стрілянини. Геть з парку, хутко, поки я не передумав{"=>.:::error_type=Punctuation}

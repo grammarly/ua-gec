@@ -2,11 +2,11 @@
 
 {privacy=>Privacy:::error_type=Spelling}{=> :::error_type=Punctuation}/{=> :::error_type=Punctuation}приватність
 Це {недоторканість=>недоторканність:::error_type=F/Style} {своєї=>власної:::error_type=F/Style} території: {що=>як:::error_type=G/Conjunction} реальної, {що=>так і:::error_type=G/Conjunction} віртуальної. {Недоторканість=>Недоторканність:::error_type=F/Style} {бережуть:=>оберігають:::error_type=F/Style} стіни, дах, а  також двері (у прямому й переносному значенні).
-Пароль{=>,:::error_type=Punctuation} {– =>:::error_type=Punctuation}як замок у дверях{:=>,:::error_type=Punctuation} має бути, має працювати, ключ – тільки в тебе.{\n=> :::error_type=Punctuation}({а=>А:::error_type=Other} взагалі пароль – це як труси{:=>,:::error_type=Punctuation} ніхто не має права його бачити! Довіряти можна і треба батькам).
+Пароль{=>,:::error_type=Punctuation} {– =>:::error_type=Punctuation}як замок у дверях{:=>,:::error_type=Punctuation} має бути, має працювати, ключ – тільки в тебе.{\n=> :::error_type=Punctuation}({а=>А:::error_type=Spelling} взагалі пароль – це як труси{:=>,:::error_type=Punctuation} ніхто не має права його бачити! Довіряти можна і треба батькам).
 Пароль потрібно часто {міняти=>змінювати:::error_type=F/Style}, щоб уникнути компрометації.
-Чим заселяємо власну територію? Тим, про що не соромно розповісти своїй бабусі! Або написати на своїй футболці! ({правило=>Правило:::error_type=Other} бабусі{&=> та :::error_type=F/Style}правило футболки){=>.:::error_type=Punctuation}
+Чим заселяємо власну територію? Тим, про що не соромно розповісти своїй бабусі! Або написати на своїй футболці! ({правило=>Правило:::error_type=Spelling} бабусі{&=> та :::error_type=F/Style}правило футболки){=>.:::error_type=Punctuation}
 Автентифікація – це як доступ до {своєї=>власної:::error_type=F/Style} території.
-Вимога: {Автентифікація=>автентифікація:::error_type=Other} має бути БАГАТОФАКТОРНОЮ{=>,:::error_type=Punctuation} {– =>:::error_type=Punctuation}тобто містити:
+Вимога: {Автентифікація=>автентифікація:::error_type=Spelling} має бути БАГАТОФАКТОРНОЮ{=>,:::error_type=Punctuation} {– =>:::error_type=Punctuation}тобто містити:
 1{=>):::error_type=Punctuation} {– =>:::error_type=Punctuation}щось, що ти знаєш (пароль, пін-код){ =>;:::error_type=Punctuation}
 2{=>):::error_type=Punctuation} {– =>:::error_type=Punctuation}щось, чим володієш (мережа має побачити{,=>:::error_type=Punctuation} {н-д =>:::error_type=G/UngrammaticalStructure}смартфон: унікальний код на смартфон, який людина отримує на пристрій і вводить на вимогу){=>;:::error_type=Punctuation}
 3{=>):::error_type=Punctuation} {– =>:::error_type=Punctuation}щось, чим ти є (біометричні дані, {н-д =>:::error_type=G/UngrammaticalStructure}відбиток пальця, малюнок вени на руці, сітківка та ін.)
@@ -27,13 +27,13 @@
 {=>6) :::error_type=Punctuation}продаж неіснуючих товарів{=>;:::error_type=Punctuation}
 {=>7) :::error_type=Punctuation}фальшиві співрозмовники в соцмережах:
 – занепокоєння (доросла людина, новий друг {з=>із:::error_type=Spelling} картинкою) {>>>=>—:::error_type=Punctuation} повідомити батькам, наставникам{=>;:::error_type=Punctuation}
-– співрозмовник просить про {зустріч в реалі=>реальну зустріч:::error_type=F/Style} – припинити спілкування {іі=>і:::error_type=Other} повідомити батькам{=>;:::error_type=Punctuation}
+– співрозмовник просить про {зустріч в реалі=>реальну зустріч:::error_type=F/Style} – припинити спілкування {іі=>і:::error_type=Spelling} повідомити батькам{=>;:::error_type=Punctuation}
 – вебкамера – тільки при спілкуванні з друзями{=>;:::error_type=Punctuation}
 – при розмові телефоном {– стежити=>стежте:::error_type=G/VerbVoice}, щоб поруч не було сторонньої людини: розмова може бути записана{=>;:::error_type=Punctuation}
 – не додавайте незнайомих людей у свій {контакт-лист=>список контактів:::error_type=F/Calque} (навіть якщо людина {виглядає, як ровесник=>має вигляд ровесника:::error_type=F/PoorFlow}). Тільки знайомих!
-{( =>:::error_type=Punctuation}Між іншим{: а=>,:::error_type=Other} чужа людина – це хто?
+{( =>:::error_type=Punctuation}Між іншим{: а=>,:::error_type=Spelling} чужа людина – це хто?
 {! =>:::error_type=Punctuation}{будь-яка=>Будь-яка:::error_type=Spelling} стороння людина, про {якого=>яку:::error_type=G/Gender} батьки{=> :::error_type=Punctuation}/{=> :::error_type=Punctuation}вчитель не сказали, що він {=>чи вона :::error_type=F/PoorFlow}друг{=>.:::error_type=Punctuation}
-{зловмисне=>Зловмисне:::error_type=Other} ПЗ{=>::::error_type=Punctuation}
+{зловмисне=>Зловмисне:::error_type=Spelling} ПЗ{=>::::error_type=Punctuation}
 {=>— :::error_type=Punctuation}фішинг – шахрайство для виманювання у довірливих або неуважних користувачів {мережі=>мереж:::error_type=G/Case} персональних даних{=>;:::error_type=Punctuation}
 {=>— :::error_type=Punctuation}віруси {– =>:::error_type=Punctuation}при {звантаженні=>завантаженні:::error_type=Spelling} фільмів, музики{, под=> тощо:::error_type=F/Style}. {Просити=>Треба просити:::error_type=G/UngrammaticalStructure} батьків про допомогу із завантаженням{!=>;:::error_type=Punctuation}
 {=>— :::error_type=Punctuation}майнінг{=>;:::error_type=Punctuation}
@@ -55,28 +55,28 @@
 
 ГОЛОВНЕ – ЯК РЕАГУВАТИ
 Де це буває?
-{в школі=>У школі,:::error_type=Other}{\n=> :::error_type=Punctuation}у дворі{=>,:::error_type=Punctuation}{\n=> :::error_type=Punctuation}дорогою додому{=>,:::error_type=Punctuation}{\n=> :::error_type=Punctuation}{і інтернеті=>в Інтернеті:::error_type=Other}{=>.:::error_type=Punctuation}
+{в школі=>У школі,:::error_type=Spelling}{\n=> :::error_type=Punctuation}у дворі{=>,:::error_type=Punctuation}{\n=> :::error_type=Punctuation}дорогою додому{=>,:::error_type=Punctuation}{\n=> :::error_type=Punctuation}{і інтернеті=>в Інтернеті:::error_type=Spelling}{=>.:::error_type=Punctuation}
 
-{чому це небезпечно?=>ЧОМУ ЦЕ НЕБЕЗПЕЧНО?:::error_type=Other}
-{для=>Для:::error_type=Other} того, кого булять{:=>, —:::error_type=Punctuation} {=>це :::error_type=G/UngrammaticalStructure}стрес, демотивація, захворювання{=>,:::error_type=Punctuation} {– =>:::error_type=Punctuation}а в дорослому віці {ці=>такі:::error_type=F/Repetition} проблеми зростуть до дорослих масштабів{=>.:::error_type=Punctuation}
-{для=>Для:::error_type=Other} ініціатора{:=> —:::error_type=Punctuation} виключення зі школи, поліція, проблеми зі здоров’ям, бійки{=>.:::error_type=Punctuation}
+{чому це небезпечно?=>ЧОМУ ЦЕ НЕБЕЗПЕЧНО?:::error_type=Spelling}
+{для=>Для:::error_type=Spelling} того, кого булять{:=>, —:::error_type=Punctuation} {=>це :::error_type=G/UngrammaticalStructure}стрес, демотивація, захворювання{=>,:::error_type=Punctuation} {– =>:::error_type=Punctuation}а в дорослому віці {ці=>такі:::error_type=F/Repetition} проблеми зростуть до дорослих масштабів{=>.:::error_type=Punctuation}
+{для=>Для:::error_type=Spelling} ініціатора{:=> —:::error_type=Punctuation} виключення зі школи, поліція, проблеми зі здоров’ям, бійки{=>.:::error_type=Punctuation}
 Що ви відчуваєте, коли вас {дражнили=>дражнять:::error_type=G/Tense}?
-{злість=>Злість:::error_type=Other}, образу, розчарування, страх, сором (відповіді дітей){=>.:::error_type=Punctuation}
+{злість=>Злість:::error_type=Spelling}, образу, розчарування, страх, сором (відповіді дітей){=>.:::error_type=Punctuation}
 
 ЩО РОБИТИ?
-{не=>Не:::error_type=Other} боятися! { зберігати=>Зберігати:::error_type=Other} спокій{!=>:::error_type=Punctuation} (бути сильним просто зараз){=>!:::error_type=Punctuation}
-{сказати=>Сказати:::error_type=Spelling} прямо: {=>“:::error_type=Other}Мені не подобається те, що ти говориш! Будь ласка, спинись! {(СТОП)=>Стоп!”:::error_type=Other}
-{жартувати=>Жартувати:::error_type=Other}. Жарт у відповідь на образу – найкраща зброя (це обеззброїть нападника){=>.:::error_type=Punctuation}
-Якщо всі методи використано, тоді правило 4:  йди і шукай дорослого, котрому довіряєш! {розкажи=>Розкажи:::error_type=Other} про проблему йому!
+{не=>Не:::error_type=Spelling} боятися! { зберігати=>Зберігати:::error_type=Spelling} спокій{!=>:::error_type=Punctuation} (бути сильним просто зараз){=>!:::error_type=Punctuation}
+{сказати=>Сказати:::error_type=Spelling} прямо: {=>“:::error_type=Punctuation}Мені не подобається те, що ти говориш! Будь ласка, спинись! {(СТОП)=>Стоп!”:::error_type=Spelling}
+{жартувати=>Жартувати:::error_type=Spelling}. Жарт у відповідь на образу – найкраща зброя (це обеззброїть нападника){=>.:::error_type=Punctuation}
+Якщо всі методи використано, тоді правило 4:  йди і шукай дорослого, котрому довіряєш! {розкажи=>Розкажи:::error_type=Spelling} про проблему йому!
 
 ЯКЩО СИТУАЦІЯ ПОВТОРЮЄТЬСЯ?
-{=>— :::error_type=Punctuation}{розкажи=>Розкажи:::error_type=Other} про все дорослому (своєму){=>;:::error_type=Punctuation}
+{=>— :::error_type=Punctuation}{розкажи=>Розкажи:::error_type=Spelling} про все дорослому (своєму){=>;:::error_type=Punctuation}
 {=>— :::error_type=Punctuation}уникай місця, де це відбувається{=>;:::error_type=Punctuation}
 {=>— :::error_type=Punctuation}обов’язково розкажи батькам{=>.:::error_type=Punctuation} {(=>:::error_type=Punctuation}бо «батьки знають, що робити»{)=>;:::error_type=Punctuation}
 {=>— :::error_type=Punctuation}якщо переживаєте – залишайтесь поруч {з=>із:::error_type=Spelling} друзями, не на самоті{=>.:::error_type=Punctuation}
 
 ЯКЩО КОГОСЬ ДРАЖНЯТЬ?
-{=>— :::error_type=Punctuation}{обов’язково=>Обов’язково:::error_type=Other} поговоріть про це з дорослими (вчителями, батьками){=>;:::error_type=Punctuation}
+{=>— :::error_type=Punctuation}{обов’язково=>Обов’язково:::error_type=Spelling} поговоріть про це з дорослими (вчителями, батьками){=>;:::error_type=Punctuation}
 {коли це можливо –=>якщо це можливо,:::error_type=G/Conjunction} не стійте осторонь (разом {з=>із:::error_type=Spelling} друзями ви можете підтримати когось){=>;:::error_type=Punctuation}
 {=>— :::error_type=Punctuation}проявіть увагу до того, кого дражнять (посидьте  з ним за обідом, проведіть час разом, {=>— :::error_type=Punctuation}запропонуйте разом провести час){=>.:::error_type=Punctuation}
 
@@ -85,7 +85,7 @@
 – не діліться тим, що іншого може поранити чи {знітити=>збентежити:::error_type=F/Style} {когось =>:::error_type=G/UngrammaticalStructure}(чужі фото, незручні фото){=>;:::error_type=Punctuation}
 – тримайте батьків у курсі про дивні ситуації{=>;:::error_type=Punctuation}
 – говоріть {з=>із:::error_type=Spelling} батьками про почуття (страх, журба{,=> тощо:::error_type=F/PoorFlow}){=>;:::error_type=Punctuation}
-– блокуйте відразу тих, хто залякує {Вас=>вас:::error_type=Other} чи в той чи інший спосіб знущається{=>.:::error_type=Punctuation}
+– блокуйте відразу тих, хто залякує {Вас=>вас:::error_type=Spelling} чи в той чи інший спосіб знущається{=>.:::error_type=Punctuation}
 
 ПІДСУМКИ:
 {=>— :::error_type=Punctuation}ніколи не дражніть своїх друзів та однокласників{=>;:::error_type=Punctuation}
