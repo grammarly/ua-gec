@@ -1,16 +1,16 @@
 Лікар питально {подививсяна=>подивився на:::error_type=Spelling} Рюхіна{ =>:::error_type=Punctuation}, й той {хмуро=>похмуро:::error_type=F/Style} {пробубонив=>пробубонів:::error_type=Spelling}:
-{-=>– :::error_type=Punctuation}Ресторан так називається.
-{-=>– :::error_type=Punctuation}Ага{ =>:::error_type=Punctuation},{-=> – :::error_type=Punctuation}відповів лікар,{-=>– :::error_type=Punctuation}а чого так {поспішала=>поспішали:::error_type=G/Number}? Якась ділова зустріч?
-{-=>– :::error_type=Punctuation}Консультанта я ловлю,{-=> –:::error_type=Punctuation} відповів Іван {Миколаєвич=>Миколайович:::error_type=Spelling} й тривожно {озернувся=>озирнувся:::error_type=Spelling}.
-{-=>– :::error_type=Punctuation}Якого консультанта?
-{-=>– :::error_type=Punctuation}Ви знаєте {берліоза=>Берліоза:::error_type=Spelling}?{-=> – :::error_type=Punctuation}спитав Іван багатозначно.
-{-=>– :::error_type=Punctuation}Це... композитор?
+{-=>— :::error_type=Punctuation}Ресторан так називається.
+{-=>— :::error_type=Punctuation}Ага{ =>:::error_type=Punctuation},{-=> — :::error_type=Punctuation}відповів лікар,{-=>— :::error_type=Punctuation}а чого так {поспішала=>поспішали:::error_type=G/Number}? Якась ділова зустріч?
+{-=>— :::error_type=Punctuation}Консультанта я ловлю,{-=> —:::error_type=Punctuation} відповів Іван {Миколаєвич=>Миколайович:::error_type=Spelling} й тривожно {озернувся=>озирнувся:::error_type=Spelling}.
+{-=>— :::error_type=Punctuation}Якого консультанта?
+{-=>— :::error_type=Punctuation}Ви знаєте {берліоза=>Берліоза:::error_type=Spelling}?{-=> — :::error_type=Punctuation}спитав Іван багатозначно.
+{-=>— :::error_type=Punctuation}Це... композитор?
 Іван засмутився.
-{=>– :::error_type=Punctuation}Який там композитор?{=> :::error_type=Punctuation}Ах та, та ні!{=> :::error_type=Punctuation}Композитор {-=>–:::error_type=Punctuation} це однофамілець {Міши=>Міші:::error_type=G/Case} Берліоза!
+{=>— :::error_type=Punctuation}Який там композитор?{=> :::error_type=Punctuation}Ах та, та ні!{=> :::error_type=Punctuation}Композитор {-=>—:::error_type=Punctuation} це однофамілець {Міши=>Міші:::error_type=G/Case} Берліоза!
 Рюхіну нічого не хотілось казати, але довелось пояснити.
-{-=>– :::error_type=Punctuation}Секратаря {МАССОЛІТа=>МАССОЛІТу:::error_type=G/Case} Берліоза сьогодні ввечері {задовило=>задавило:::error_type=Spelling} трамваєм на {Патріаршах=>Патріарших:::error_type=Spelling}.
-{-=>– :::error_type=Punctuation}Не бреши ти, чого не знаєш{!-=>! –:::error_type=Punctuation} розсердився на Рюхіна Іван, {-=>– :::error_type=Punctuation}я, а не ти{=>,:::error_type=Punctuation} був там при цьому! Він його спеціально під травмай підлаштував!
-{-=>– :::error_type=Punctuation}Штовхнув?
-{-=>– :::error_type=Punctuation}Та до чого тут "штовхнув"?{-=> –:::error_type=Punctuation} розсердившись на загальну безтолковість, виголосив Іван,{-=> –:::error_type=Punctuation} такому і штовхати не треба! Він такі штуки може виробляти{ =>:::error_type=Punctuation}, що тільки тримайся! Він завчасно знав{ =>:::error_type=Punctuation}, що Берліоз потрапить під трамвай!
+{-=>— :::error_type=Punctuation}Секратаря {МАССОЛІТа=>МАССОЛІТу:::error_type=G/Case} Берліоза сьогодні ввечері {задовило=>задавило:::error_type=Spelling} трамваєм на {Патріаршах=>Патріарших:::error_type=Spelling}.
+{-=>— :::error_type=Punctuation}Не бреши ти, чого не знаєш{!-=>! —:::error_type=Punctuation} розсердився на Рюхіна Іван, {-=>— :::error_type=Punctuation}я, а не ти{=>,:::error_type=Punctuation} був там при цьому! Він його спеціально під травмай підлаштував!
+{-=>— :::error_type=Punctuation}Штовхнув?
+{-=>— :::error_type=Punctuation}Та до чого тут "штовхнув"?{-=> —:::error_type=Punctuation} розсердившись на загальну безтолковість, виголосив Іван,{-=> —:::error_type=Punctuation} такому і штовхати не треба! Він такі штуки може виробляти{ =>:::error_type=Punctuation}, що тільки тримайся! Він завчасно знав{ =>:::error_type=Punctuation}, що Берліоз потрапить під трамвай!
 
 

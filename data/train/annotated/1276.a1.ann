@@ -1,17 +1,17 @@
 "Він відраховує п'ять купюр по п'ятдесят доларів і тримає їх у руці.
 
-"{"=>:::error_type=Punctuation}Принесіть чек', {=>– :::error_type=Punctuation}каже він Біддлу.
+"{"=>:::error_type=Punctuation}Принесіть чек', {=>— :::error_type=Punctuation}каже він Біддлу.
 
 {"=>:::error_type=Punctuation}Я підписав чек і майор принесе мені гроші. Я обережно покладу їх до себе в кишеню.
 
-"А тепер робіть те, що маєте, офіцере{.'=>, –:::error_type=Punctuation} каже майор із зовсім не властивим для хворого голосом.
+"А тепер робіть те, що маєте, офіцере{.'=>, —:::error_type=Punctuation} каже майор із зовсім не властивим для хворого голосом.
 
 {"=>:::error_type=Punctuation}Містер Біддл кладе свою долоню на мою руку.
 
-"Ви заарештовані, {докторе=>лікарю:::error_type=F/Calque} Воо-ху, також відомий як Пітерс{"=>:::error_type=Punctuation}, {=>– :::error_type=Punctuation}каже він. {"=>– :::error_type=Punctuation}за практику медицини без ліцензії, як написано у законі Штату{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
+"Ви заарештовані, {докторе=>лікарю:::error_type=F/Calque} Воо-ху, також відомий як Пітерс{"=>:::error_type=Punctuation}, {=>— :::error_type=Punctuation}каже він. {"=>— :::error_type=Punctuation}за практику медицини без ліцензії, як написано у законі Штату{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 
-"Хто ви{=>?":::error_type=Punctuation}, {-=>–:::error_type=Punctuation} питаю я.
+"Хто ви{=>?":::error_type=Punctuation}, {-=>—:::error_type=Punctuation} питаю я.
 
-"Я скажу вам, хто він{.=>,:::error_type=Punctuation} {-=>–:::error_type=Punctuation} каже Містер Майор, сидячи на ліжку. {"=>– :::error_type=Punctuation}Він {-=>–:::error_type=Punctuation} детектив, якого найняло {Штатське Медицинське Суспільство=>Державне медичне товариство :::error_type=F/PoorFlow}. Він стежив за вами близько у п'яти округах. Детектив прийшов до мене вчора із готовою схемою вашого захоплення. Я думаю, що в районах тих частин ви більше не будете {лікаре=>лікарем:::error_type=G/Case}, {Містере=>містере:::error_type=Spelling} Фекір. Так ось, що правда з того, що я сказав, {док=>доку:::error_type=G/Case}?{"=>:::error_type=Punctuation} {-=>–:::error_type=Punctuation} майор засміявся{=>,:::error_type=Punctuation} {-=>–:::error_type=Punctuation} {"=>:::error_type=Punctuation}погодьтеся{ - =>,:::error_type=Punctuation}це не розм'якшення мозку, я думаю{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
+"Я скажу вам, хто він{.=>,:::error_type=Punctuation} {-=>—:::error_type=Punctuation} каже Містер Майор, сидячи на ліжку. {"=>— :::error_type=Punctuation}Він {-=>—:::error_type=Punctuation} детектив, якого найняло {Штатське Медицинське Суспільство=>Державне медичне товариство :::error_type=F/PoorFlow}. Він стежив за вами близько у п'яти округах. Детектив прийшов до мене вчора із готовою схемою вашого захоплення. Я думаю, що в районах тих частин ви більше не будете {лікаре=>лікарем:::error_type=G/Case}, {Містере=>містере:::error_type=Spelling} Фекір. Так ось, що правда з того, що я сказав, {док=>доку:::error_type=G/Case}?{"=>:::error_type=Punctuation} {-=>—:::error_type=Punctuation} майор засміявся{=>,:::error_type=Punctuation} {-=>—:::error_type=Punctuation} {"=>:::error_type=Punctuation}погодьтеся{ - =>,:::error_type=Punctuation}це не розм'якшення мозку, я думаю{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 
 
