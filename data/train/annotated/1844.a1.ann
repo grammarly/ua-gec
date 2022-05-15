@@ -17,5 +17,5 @@
 
 — {Мессир=>Мессіре:::error_type=G/Case}.. — дихнув Коров‘їв вухо.
 
-— {Ні в якому=>У жодному:::error_type=F/Calque} разі, {месир=>мессіре:::error_type=G/Case}, — впоравшись {з=>із:::error_type=Spelling} собою, тихіше,  але {ясно=>чітко:::error_type=F/Style} відповіла Маргарита {і=>й:::error_type=Spelling}, усміхнувшись, {добавила=>додала:::error_type=F/Style}: — Я благаю вас не переривати партії.  {Я думаю=>Думаю:::error_type=F/Repetition}, що шахматні  журнали заплатили б немалі  гроші, {якщо б=>якби:::error_type=G/UngrammaticalStructure} мали можливість її надрукувати.
+— {Ні в якому=>У жодному:::error_type=F/Calque} разі, {месир=>мессіре:::error_type=G/Case}, — впоравшись {з=>із:::error_type=Spelling} собою, тихіше,{  => :::error_type=Punctuation}але {ясно=>чітко:::error_type=F/Style} відповіла Маргарита {і=>й:::error_type=Spelling}, усміхнувшись, {добавила=>додала:::error_type=F/Style}: — Я благаю вас не переривати партії.  {Я думаю=>Думаю:::error_type=F/Repetition}, що шахматні  журнали заплатили б немалі{  => :::error_type=Punctuation}гроші, {якщо б=>якби:::error_type=G/UngrammaticalStructure} мали можливість її надрукувати.
 

@@ -4,6 +4,6 @@
 
 {-=>–:::error_type=Punctuation} Ну, {докторе=>лікарю:::error_type=F/Calque}, {-=>–:::error_type=Punctuation} сказав Найт, не маючи змоги придушити ноту тріумфу в своєму голосі, {-=>–:::error_type=Punctuation} ти бачив?
 
-"Це чудово{ -=>,:::error_type=Punctuation} чудово!{"=>:::error_type=Punctuation} {Я=>– я:::error_type=Punctuation} не міг не вигукнути, коли наше таксі  стартувало у зворотному напрямку. "{=>\– :::error_type=Punctuation}Але як ти це зробив? Яким процесом індукції ..."
+"Це чудово{ -=>,:::error_type=Punctuation} чудово!{"=>:::error_type=Punctuation} {Я=>– я:::error_type=Punctuation} не міг не вигукнути, коли наше таксі{  => :::error_type=Punctuation}стартувало у зворотному напрямку. "{=>\– :::error_type=Punctuation}Але як ти це зробив? Яким процесом індукції ..."
 
 

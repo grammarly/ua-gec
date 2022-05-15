@@ -8,7 +8,7 @@
 
 {ну=>Ну:::error_type=Spelling}, цю штуку має більш-менш покрити цей курс CS50. {після=>Після:::error_type=Spelling} нього можна братися за книжки для початківців по {конкретним=>конкретних:::error_type=G/Case} {технологіям\мовам=>технологіях\мовах:::error_type=G/Case} програмування. {але=>Але:::error_type=Spelling} це вже {буде =>:::error_type=F/PoorFlow}{залежати=>залежатиме:::error_type=G/Tense} від того, в якому напрямку ти захочеш розвиватися.
 
-{можливо=>Можливо:::error_type=Spelling}, це буде  фронтенд-розробка, тоді тобі доведеться почитати книжки про javascript і вибрати якийсь javascript {фреймворк(зараз=>фреймворк (зараз:::error_type=Spelling} найпопулярніші vue.js, angular js і React, фреймворки {-=>—:::error_type=Punctuation} це{=>,:::error_type=Punctuation} {по-суті=>по суті:::error_type=Spelling}{=>,:::error_type=Punctuation} надбудова над мовою програмування, яка дозволяє робити якісь поширені задачі швидше і простіше).
+{можливо=>Можливо:::error_type=Spelling}, це буде{  => :::error_type=Punctuation}фронтенд-розробка, тоді тобі доведеться почитати книжки про javascript і вибрати якийсь javascript {фреймворк(зараз=>фреймворк (зараз:::error_type=Spelling} найпопулярніші vue.js, angular js і React, фреймворки {-=>—:::error_type=Punctuation} це{=>,:::error_type=Punctuation} {по-суті=>по суті:::error_type=Spelling}{=>,:::error_type=Punctuation} надбудова над мовою програмування, яка дозволяє робити якісь поширені задачі швидше і простіше).
 
 {або=>Або:::error_type=Spelling} ж це буде backend{ =>-:::error_type=Punctuation}{розробка(так=>розробка (так:::error_type=Spelling} звана серверна частина, з якою комунікує фронтенд для отримання даних, запуску якихось процесів і так далі).
 

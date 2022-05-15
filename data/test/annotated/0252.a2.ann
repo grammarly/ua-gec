@@ -1,4 +1,4 @@
-Завтра вранці на годину теж заведу Надію, бо в Уляни {на ранок=>вранці:::error_type=F/PoorFlow} музика. {В=>У:::error_type=Spelling} {совенята=>“Совенята”:::error_type=Spelling} десь {на=>о:::error_type=G/Prep} 12 {відправимо=>відведемо:::error_type=F/Style} дівчат.  А в п'ятницю{=>,:::error_type=Punctuation} може{=>,:::error_type=Punctuation} {так само=>також:::error_type=F/PoorFlow}, а{=>,:::error_type=Punctuation} може{=>,:::error_type=Punctuation} зранку одразу в {совенята=>“Совенята”:::error_type=Spelling}.
+Завтра вранці на годину теж заведу Надію, бо в Уляни {на ранок=>вранці:::error_type=F/PoorFlow} музика. {В=>У:::error_type=Spelling} {совенята=>“Совенята”:::error_type=Spelling} десь {на=>о:::error_type=G/Prep} 12 {відправимо=>відведемо:::error_type=F/Style} дівчат.{  => :::error_type=Punctuation}А в п'ятницю{=>,:::error_type=Punctuation} може{=>,:::error_type=Punctuation} {так само=>також:::error_type=F/PoorFlow}, а{=>,:::error_type=Punctuation} може{=>,:::error_type=Punctuation} зранку одразу в {совенята=>“Совенята”:::error_type=Spelling}.
 
 Щодо п'ятниці ще {вирішемо=>вирішимо:::error_type=Spelling} в четвер{=>.:::error_type=Punctuation}
 

@@ -1,6 +1,6 @@
 Чоловік {з=>із:::error_type=Spelling} Заходу несподівано зупинився {та=>і:::error_type=F/Other} відпустив його руку.
 
-"Ти не Джиммі Велз,{"=>:::error_type=Punctuation} {-=>—:::error_type=Punctuation} відрізав він. {"=>— :::error_type=Punctuation}Двадцять років {-=>—:::error_type=Punctuation} довгий строк, але він не може змінити  римського носа на п'ятачка".
+"Ти не Джиммі Велз,{"=>:::error_type=Punctuation} {-=>—:::error_type=Punctuation} відрізав він. {"=>— :::error_type=Punctuation}Двадцять років {-=>—:::error_type=Punctuation} довгий строк, але він не може змінити{  => :::error_type=Punctuation}римського носа на п'ятачка".
 
 "Часом він може зробити з хорошої людини погану,{"=>:::error_type=Punctuation} {-=>—:::error_type=Punctuation} сказав високий чоловік. {"=>—:::error_type=Punctuation}Ти був заарештований {впродовж=>упродовж:::error_type=Spelling} десяти хвилин, "Шовковий" Боб. {Чікаго=>Чикаго:::error_type=Spelling} вважає, що ти {перетнув=>перейшов:::error_type=F/Style} наш шлях {та=>і:::error_type=F/Other} заважаєш нам, і вона хоче поговорити з тобою. Ти ж підеш зі мною тихо, чи не так? {То є важливим=>Це важливо:::error_type=F/PoorFlow}. А зараз, перш ніж ми підемо {по станції=>станцією:::error_type=G/Case}, візьми записку, яку мене попрохали передати тобі. Ти можеш прочитати її біля вікна. Записка від патрульного Велза{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 

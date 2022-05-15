@@ -1,14 +1,14 @@
 Володя побіг назад і вискочив на свіже повітря.
 
- «І як вони можуть говорити вголос про це!  {-=>—:::error_type=Punctuation} мучився він, сплескуючи руками і з жахом дивлячись на небо.  {-=>—:::error_type=Punctuation} Кажуть {вголос=>уголос:::error_type=Spelling}, холоднокровно ... І maman сміялася ... maman!  Боже мій, навіщо ти дав мені таку матір?  Навіщо?{ =>:::error_type=Punctuation}»
+ «І як вони можуть говорити вголос про це!  {-=>—:::error_type=Punctuation} мучився він, сплескуючи руками і з жахом дивлячись на небо.  {-=>—:::error_type=Punctuation} Кажуть {вголос=>уголос:::error_type=Spelling}, холоднокровно ... І maman сміялася ... maman!  Боже мій, навіщо ти дав мені таку матір?{  => :::error_type=Punctuation}Навіщо?{ =>:::error_type=Punctuation}»
 
- Але йти в будинок потрібно було, {у що б то не стало=>хай там що:::error_type=F/PoorFlow}.  Він разів зо три пройшовся по алеї, трохи заспокоївся і увійшов {в=>у:::error_type=Spelling} будинок.
+ Але йти в будинок потрібно було, {у що б то не стало=>хай там що:::error_type=F/PoorFlow}.{  => :::error_type=Punctuation}Він разів зо три пройшовся по алеї, трохи заспокоївся і увійшов {в=>у:::error_type=Spelling} будинок.
 
  {-=>—:::error_type=Punctuation} Що ж ви не приходите вчасно чай пити?  {-=>—:::error_type=Punctuation} {Суворо=>суворо:::error_type=Spelling} запитала m-me {Шумихина=>Шумихіна:::error_type=Spelling}.
 
  {-=>—:::error_type=Punctuation} Винен, мені ... мені пора їхати, {-=>—:::error_type=Punctuation} пробурмотів він, не піднімаючи очей. { -=>—:::error_type=Punctuation} Maman, {вже=>уже:::error_type=Spelling} {вісім годин!=>восьма година:::error_type=G/Case}
 
- {-=>—:::error_type=Punctuation} Їдь сам, мій милий, {-=>—:::error_type=Punctuation} сказала томно maman, {-=>—:::error_type=Punctuation} я залишаюся ночувати у Лілі.  Прощай, мій {друг=>друже:::error_type=G/Case} ... Дай я тебе перехрещу ...
+ {-=>—:::error_type=Punctuation} Їдь сам, мій милий, {-=>—:::error_type=Punctuation} сказала томно maman, {-=>—:::error_type=Punctuation} я залишаюся ночувати у Лілі.{  => :::error_type=Punctuation}Прощай, мій {друг=>друже:::error_type=G/Case} ... Дай я тебе перехрещу ...
 
  Вона перехрестила сина і сказала по-французьки, звертаючись до {Нюте=>Нюти:::error_type=G/Case}:
 

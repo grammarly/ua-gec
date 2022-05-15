@@ -1,7 +1,7 @@
 Безпека і кібербезпека дітей: коротко про головне
 
 {privacy=>Privacy:::error_type=Spelling}{=> :::error_type=Punctuation}/{=> :::error_type=Punctuation}приватність
-Це {недоторканість=>недоторканність:::error_type=F/Style} {своєї=>власної:::error_type=F/Style} території: {що=>як:::error_type=G/Conjunction} реальної, {що=>так і:::error_type=G/Conjunction} віртуальної. {Недоторканість=>Недоторканність:::error_type=F/Style} {бережуть:=>оберігають:::error_type=F/Style} стіни, дах, а  також двері (у прямому й переносному значенні).
+Це {недоторканість=>недоторканність:::error_type=F/Style} {своєї=>власної:::error_type=F/Style} території: {що=>як:::error_type=G/Conjunction} реальної, {що=>так і:::error_type=G/Conjunction} віртуальної. {Недоторканість=>Недоторканність:::error_type=F/Style} {бережуть:=>оберігають:::error_type=F/Style} стіни, дах, а{  => :::error_type=Punctuation}також двері (у прямому й переносному значенні).
 Пароль{=>,:::error_type=Punctuation} {– =>:::error_type=Punctuation}як замок у дверях{:=>,:::error_type=Punctuation} має бути, має працювати, ключ – тільки в тебе.{\n=> :::error_type=Punctuation}({а=>А:::error_type=Spelling} взагалі пароль – це як труси{:=>,:::error_type=Punctuation} ніхто не має права його бачити! Довіряти можна і треба батькам).
 Пароль потрібно часто {міняти=>змінювати:::error_type=F/Style}, щоб уникнути компрометації.
 Чим заселяємо власну територію? Тим, про що не соромно розповісти своїй бабусі! Або написати на своїй футболці! ({правило=>Правило:::error_type=Spelling} бабусі{&=> та :::error_type=F/Style}правило футболки){=>.:::error_type=Punctuation}
@@ -67,7 +67,7 @@
 {не=>Не:::error_type=Spelling} боятися! { зберігати=>Зберігати:::error_type=Spelling} спокій{!=>:::error_type=Punctuation} (бути сильним просто зараз){=>!:::error_type=Punctuation}
 {сказати=>Сказати:::error_type=Spelling} прямо: {=>“:::error_type=Punctuation}Мені не подобається те, що ти говориш! Будь ласка, спинись! {(СТОП)=>Стоп!”:::error_type=Spelling}
 {жартувати=>Жартувати:::error_type=Spelling}. Жарт у відповідь на образу – найкраща зброя (це обеззброїть нападника){=>.:::error_type=Punctuation}
-Якщо всі методи використано, тоді правило 4:  йди і шукай дорослого, котрому довіряєш! {розкажи=>Розкажи:::error_type=Spelling} про проблему йому!
+Якщо всі методи використано, тоді правило 4:{  => :::error_type=Punctuation}йди і шукай дорослого, котрому довіряєш! {розкажи=>Розкажи:::error_type=Spelling} про проблему йому!
 
 ЯКЩО СИТУАЦІЯ ПОВТОРЮЄТЬСЯ?
 {=>— :::error_type=Punctuation}{розкажи=>Розкажи:::error_type=Spelling} про все дорослому (своєму){=>;:::error_type=Punctuation}
@@ -78,7 +78,7 @@
 ЯКЩО КОГОСЬ ДРАЖНЯТЬ?
 {=>— :::error_type=Punctuation}{обов’язково=>Обов’язково:::error_type=Spelling} поговоріть про це з дорослими (вчителями, батьками){=>;:::error_type=Punctuation}
 {=>— :::error_type=Punctuation}{коли=>якщо:::error_type=G/Conjunction} це можливо{ –=>,:::error_type=Punctuation} не стійте осторонь (разом {з=>із:::error_type=Spelling} друзями ви можете підтримати когось){=>;:::error_type=Punctuation}
-{=>— :::error_type=Punctuation}проявіть увагу до того, кого дражнять (посидьте  з ним за обідом, проведіть час разом, {=>— :::error_type=Punctuation}запропонуйте разом провести час){=>.:::error_type=Punctuation}
+{=>— :::error_type=Punctuation}проявіть увагу до того, кого дражнять (посидьте{  => :::error_type=Punctuation}з ним за обідом, проведіть час разом, {=>— :::error_type=Punctuation}запропонуйте разом провести час){=>.:::error_type=Punctuation}
 
 КІБЕРБУЛІНГ
 – тримайте ваші паролі в секреті від ваших друзів (дати можна тільки батькам, які пояснюють, для чого це потрібно){=>;:::error_type=Punctuation}

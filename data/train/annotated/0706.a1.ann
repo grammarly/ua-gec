@@ -1,6 +1,6 @@
-"Ти впевнений, що тебе не заганяють {в=>у:::error_type=Spelling} пастку?{"=>:::error_type=Punctuation} — запитав я. {"=>—  :::error_type=Punctuation}Я маю підозру, що твоя підказка, якою б вона не була, приведе нас до комісара поліції і кількох десятків копів!"
+"Ти впевнений, що тебе не заганяють {в=>у:::error_type=Spelling} пастку?{"=>:::error_type=Punctuation} — запитав я. {"=>— :::error_type=Punctuation}Я маю підозру, що твоя підказка, якою б вона не була, приведе нас до комісара поліції і кількох десятків копів!"
 
-"Мій дорогий, докторе{"=>:::error_type=Punctuation}, {=>—  :::error_type=Punctuation}сказав Найт трішки грубо. {"=>—  :::error_type=Punctuation}Хотів би нагадати вам, що я не гравець{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
+"Мій дорогий, докторе{"=>:::error_type=Punctuation}, {=>— :::error_type=Punctuation}сказав Найт трішки грубо. {"=>— :::error_type=Punctuation}Хотів би нагадати вам, що я не гравець{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 
 "Дуже {вибачаюся=>перепрошую:::error_type=G/UngrammaticalStructure},{"=>:::error_type=Punctuation} — сказав я. {"=>— :::error_type=Punctuation}Але я сумніваюся, що ти знайдеш Джонса{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 
