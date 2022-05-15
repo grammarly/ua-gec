@@ -1,11 +1,11 @@
 {-=>–:::error_type=Punctuation} Так...ну {ступай=>іди:::error_type=F/Style}.
 Програвши два рублі, Фінкс згадує про {гімнназію=>гімназію:::error_type=Spelling} і {приходить в жах=>жахається:::error_type=F/PoorFlow}.
-{-=>–:::error_type=Punctuation} Господи, уже третя година! {-=>–:::error_type=Punctuation} вигукує {він.-=>він. –:::error_type=Punctuation} Як я у вас засидівся! Бувайте, побіжу!
-{-=>–:::error_type=Punctuation} Пообідайте {все=>ще:::error_type=F/Style} заодно у мене, тоді {йдіть,-=>йдіть,–:::error_type=Punctuation} говорить {Ляшкевький=>Ляшкевський:::error_type=Spelling}. {-Встигнете=>– Встигнете:::error_type=Punctuation}.
+{-=>–:::error_type=Punctuation} Господи, уже третя година! {-=>–:::error_type=Punctuation} вигукує він.{-=> –:::error_type=Punctuation} Як я у вас засидівся! Бувайте, побіжу!
+{-=>–:::error_type=Punctuation} Пообідайте {все=>ще:::error_type=F/Style} заодно у мене, тоді йдіть,{-=>–:::error_type=Punctuation} говорить {Ляшкевький=>Ляшкевський:::error_type=Spelling}. {-=>– :::error_type=Punctuation}Встигнете.
 
 Фінкс залишається, але з умовою, що обід {буде продовжуватись=>триватиме:::error_type=F/PoorFlow} не довше {десяти=>десять:::error_type=G/Case} хвилин. Пообідавши, він п'ять хвилин {сидів=>сидить:::error_type=G/Tense} на дивані і {думав=>думає:::error_type=G/Tense} про потріскану стіну, потім рішуче {поклав=>кладе:::error_type=G/Aspect} голову на подушку і {озвучиує=>наповнює:::error_type=Spelling} кімнату пронизливим носовим свистом. Поки він спить, Ляшкевський, не схвалюючи післяобіднього сну, сидить біля вікна{.=>,:::error_type=Punctuation} дивиться на {дрімаючого =>:::error_type=F/PoorFlow}гостя{=>, який дрімає,:::error_type=F/PoorFlow} і {брязчить=>бурчить:::error_type=F/Style}:
 -У, {пса кров=>дідько:::error_type=G/UngrammaticalStructure}! І як це ти не задубієш від ліні! Ні праці, ні розумових інтересів, тільки одні {розтущі =>:::error_type=G/UngrammaticalStructure}процеси...Гидота! ТЬХУ!
 
 О шостій годині прокидається Фінкс.
-{-=>–:::error_type=Punctuation} Пізно вже у {гімназію,-=>гімназію, –:::error_type=Punctuation} говорить він, потягуючись. {-=>–:::error_type=Punctuation} {Прийдеться=>Доведеться:::error_type=F/Calque} завтра піти, а зараз...відігратися, чи що? Давайте ще одну партію...
+{-=>–:::error_type=Punctuation} Пізно вже у гімназію,{-=> –:::error_type=Punctuation} говорить він, потягуючись. {-=>–:::error_type=Punctuation} {Прийдеться=>Доведеться:::error_type=F/Calque} завтра піти, а зараз...відігратися, чи що? Давайте ще одну партію...
 

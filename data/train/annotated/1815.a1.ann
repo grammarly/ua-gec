@@ -1,6 +1,6 @@
- "{ =>:::error_type=Punctuation}І по латині, як {Пілат=>Пилат:::error_type=Spelling}, говорить...{"-=>",:::error_type=Punctuation}{=>一:::error_type=Punctuation} сумно подумав Іван. Тут одне слово змусило його здригнутися, і це було слово "{шизофренія"-на=>шизофренія" 一 на:::error_type=Punctuation} жаль, {уже=>ще:::error_type=F/Style} вчора {вимовлене проклятим іноземцем=>вимовив клятий іноземець:::error_type=F/PoorFlow} на Патріарших ставках, а сьогодні {повторене=>повторив:::error_type=G/VerbVoice} тут {професором=>професор:::error_type=G/Case} {Стравінським=>Стравінський:::error_type=G/Case}.
+ "{ =>:::error_type=Punctuation}І по латині, як {Пілат=>Пилат:::error_type=Spelling}, говорить...{"-=>",:::error_type=Punctuation}{=>一:::error_type=Punctuation} сумно подумав Іван. Тут одне слово змусило його здригнутися, і це було слово "шизофренія"{-=> 一 :::error_type=Punctuation}на жаль, {уже=>ще:::error_type=F/Style} вчора {вимовлене проклятим іноземцем=>вимовив клятий іноземець:::error_type=F/PoorFlow} на Патріарших ставках, а сьогодні {повторене=>повторив:::error_type=G/VerbVoice} тут {професором=>професор:::error_type=G/Case} {Стравінським=>Стравінський:::error_type=G/Case}.
 
-"І знав це {ж!"-=>ж!" 一:::error_type=Punctuation} тривожно подумав Іван.
+"І знав це ж{!"-=>!" 一:::error_type=Punctuation} тривожно подумав Іван.
 
 Головний, мабуть, поставив собі за правило погоджуватися з усім і радіти всьому, {що б не говорили=>хай що говорять:::error_type=F/PoorFlow} йому навколишні, і виражати це словами «Чудово, чудово ...».
 
@@ -9,10 +9,10 @@
 {-=>一 :::error_type=Punctuation}Поет,{-=> 一 :::error_type=Punctuation}похмуро відповів Іван і вперше раптом відчув якусь незрозумілу відразу до поезії, {і =>:::error_type=F/Repetition}щойно згадавши свої {власні =>:::error_type=F/Repetition}вірші, які здалися чомусь неприємними.
 
 {Морщачи=>Скрививши:::error_type=F/Style} обличчя, він, {у свою чергу=>своєю чергою:::error_type=G/Case}, спитав у Стравінського:
-{-Ви=>一 Ви:::error_type=Punctuation}{-=> :::error_type=Punctuation}професор?
+{-=>一 :::error_type=Punctuation}Ви{-=> :::error_type=Punctuation}професор?
 
 На це Стравінський попереджувально-ввічливо нахилив голову.
 
-{-І=>一 І:::error_type=Punctuation} ви{-=> :::error_type=Punctuation}тут {головний?-продовжував=>головний? 一 продовжував:::error_type=Punctuation} Іван.
+{-=>一 :::error_type=Punctuation}І ви{-=> :::error_type=Punctuation}тут головний?{-=> 一 :::error_type=Punctuation}продовжував Іван.
 
 

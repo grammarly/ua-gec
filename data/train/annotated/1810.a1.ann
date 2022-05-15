@@ -2,7 +2,7 @@
 {-=>—:::error_type=Punctuation} Що з тобою? {-=>—:::error_type=Punctuation} {запитпа=>запитав:::error_type=Spelling} його {Пілат=>Пилат:::error_type=Spelling}{=>.:::error_type=Punctuation}
 {-=>—:::error_type=Punctuation} Нічого, {-=>—:::error_type=Punctuation} відповів Левій Матвій і зробив такий рух, неначе щось проковтнув. Тонка, гола, брудна шия набухла і знову спала
 {-=>—:::error_type=Punctuation} Що з тобою, відповідай, {-=>—:::error_type=Punctuation} повторив {Пілат=>Пилат:::error_type=Spelling}.
-{-=>—:::error_type=Punctuation} Я втомився, {-відповів=>— відповів:::error_type=Punctuation} Левій і сумно поглянув на підлогу.
+{-=>—:::error_type=Punctuation} Я втомився, {-=>— :::error_type=Punctuation}відповів Левій і сумно поглянув на підлогу.
 {-=>—:::error_type=Punctuation} Сідай, {-=>—:::error_type=Punctuation} промовив {Пілат=>Пилат:::error_type=Spelling} і показав на крісло.
 {Лівій=>Левій:::error_type=Spelling} недовірливо глянув на прокурора, пішов {в напрямку=>до:::error_type=F/PoorFlow} крісла, налякано покосившись на золоті бильця{=>,:::error_type=Punctuation} сів не в крісло, а поруч {-=>—:::error_type=Punctuation} на підлозі.
 {-=>—:::error_type=Punctuation} Поясни, чому ти не сів {в=>у:::error_type=Spelling} крісло? {,=>:::error_type=Punctuation} {-=>—:::error_type=Punctuation} запитав {Пілат=>Пилат:::error_type=Spelling}.
