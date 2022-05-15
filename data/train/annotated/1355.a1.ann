@@ -2,7 +2,7 @@
 
 "Як довго Ви хворієте?" {=>— :::error_type=Punctuation}запитала я.
 
-"Мене забрали{-=>...:::error_type=Punctuation}ой-{ауч-=>ой… :::error_type=F/Calque}минулої ночі{"=>,:::error_type=Punctuation} {-=>—:::error_type=Punctuation} сказав мер. {"=>—:::error_type=Punctuation}Дасте мені щось від цього, лікарю, чи ні?"
+"Мене забрали{-=>... :::error_type=Punctuation}{ой-ауч-=>ой-ой… :::error_type=F/Calque}минулої ночі{"=>,:::error_type=Punctuation} {-=>—:::error_type=Punctuation} сказав мер. {"=>—:::error_type=Punctuation}Дасте мені щось від цього, лікарю, чи ні?"
 
 "Пане Фідді, {-=>—:::error_type=Punctuation} кажу я, {-=>—:::error_type=Punctuation} підніміть трішки штори, гаразд?"
 
