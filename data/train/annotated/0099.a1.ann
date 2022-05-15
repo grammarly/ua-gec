@@ -6,7 +6,7 @@
 
 {-=>—:::error_type=Punctuation} Тобі вирішувати, {-=>—:::error_type=Punctuation} {відповід=>відповів:::error_type=Spelling} я, спокійно крутячи в руках подвійну шістку.
 
-{-=>—:::error_type=Punctuation} Двадцять, {-=>—:::error_type=Punctuation} сказав Ґудло, {творячи =>малюючи:::error_type=F/Style}{=> на столі  :::error_type=F/PoorFlow}два хрести {на столі =>:::error_type=F/PoorFlow}крейдою.
+{-=>—:::error_type=Punctuation} Двадцять, {-=>—:::error_type=Punctuation} сказав Ґудло, {творячи =>малюючи:::error_type=F/Style}{=> на столі :::error_type=F/PoorFlow}два хрести {на столі =>:::error_type=F/PoorFlow}крейдою.
 
 {-=>—:::error_type=Punctuation} Чому ж я дурень? {-=>—:::error_type=Punctuation} запитав я. {-=>—:::error_type=Punctuation} Закопані скарби знаходили й до сього в багатьох місцях.
 

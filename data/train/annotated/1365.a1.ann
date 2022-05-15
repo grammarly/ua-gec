@@ -6,16 +6,16 @@
 
 {-=>—:::error_type=Punctuation} Ну так, у Золотові. Він у нас головний. {Якщо ваших справ стосовно=>Що ж до ваших справ:::error_type=G/UngrammaticalStructure}, то проти нього навіть виправник не має повного права.
 
-{-Далеко=>—  Далеко:::error_type=Punctuation}, брате, іти!.. {Чай,верств=>Десь із:::error_type=G/UngrammaticalStructure} п'ятнадцять{=> верств:::error_type=G/UngrammaticalStructure}, може{=>,:::error_type=Punctuation} ще й більше.
+{-Далеко=>— Далеко:::error_type=Punctuation}, брате, іти!.. {Чай,верств=>Десь із:::error_type=G/UngrammaticalStructure} п'ятнадцять{=> верств:::error_type=G/UngrammaticalStructure}, може{=>,:::error_type=Punctuation} ще й більше.
 
 {-=>—:::error_type=Punctuation} Хто потребує, той і сто верств пройде.
 
-{-І=>—  І:::error_type=Punctuation} це правда...{Прошення=>Прохання:::error_type=G/UngrammaticalStructure} йому надати{=>,:::error_type=Punctuation} може{..=>:::error_type=Punctuation}?{=>..:::error_type=Punctuation}
+{-І=>— І:::error_type=Punctuation} це правда...{Прошення=>Прохання:::error_type=G/UngrammaticalStructure} йому надати{=>,:::error_type=Punctuation} може{..=>:::error_type=Punctuation}?{=>..:::error_type=Punctuation}
 
 {-=>—:::error_type=Punctuation} Там дізнаєшся. Як {прошення=>прохання:::error_type=G/UngrammaticalStructure}, {писарь=>писар:::error_type=Spelling} тобі швидко напише. Неодмінний член має {пісаря=>писаря:::error_type=Spelling}.
 
 Розлучившись із дідом, Кирило постояв посеред площі, подумав і пішов {зворот із=>геть з:::error_type=G/UngrammaticalStructure} міста. Він вирішив сходити до Золотова.
 
-Днів через п'ять, повертаючись після  приймання хворих до себе на квартиру, {лікарь=>лікар:::error_type=Spelling} знову побачив у себе на дворі Кирила. Цього разу хлопець був не сам, а з якимось {тонким=>худим:::error_type=F/Style}, і дуже блідим дідом, що безперестанно {кивав=>хитав:::error_type=F/Style} головою, як маятником, і {цьомкав=>плямкав:::error_type=F/Style} губами.
+Днів через п'ять, повертаючись після{  => :::error_type=Punctuation}приймання хворих до себе на квартиру, {лікарь=>лікар:::error_type=Spelling} знову побачив у себе на дворі Кирила. Цього разу хлопець був не сам, а з якимось {тонким=>худим:::error_type=F/Style}, і дуже блідим дідом, що безперестанно {кивав=>хитав:::error_type=F/Style} головою, як маятником, і {цьомкав=>плямкав:::error_type=F/Style} губами.
 
 

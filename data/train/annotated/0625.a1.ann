@@ -6,7 +6,7 @@
 
 2. Далі потрібно змінити розширення завантаженого файлу із oxt на zip.
 
-3.  Після того відкриваємо файл WinRAR`ом та копіюємо 2 файли uk_UA.aff і uk_UA.dic до папки зі словниками. У моєму випадку це C:\Program Files\Aegisub\dictionaries\ у вас шлях до папки може бути іншим{=>,:::error_type=Punctuation} тому дивіться самі.
+3.{  => :::error_type=Punctuation}Після того відкриваємо файл WinRAR`ом та копіюємо 2 файли uk_UA.aff і uk_UA.dic до папки зі словниками. У моєму випадку це C:\Program Files\Aegisub\dictionaries\ у вас шлях до папки може бути іншим{=>,:::error_type=Punctuation} тому дивіться самі.
 
 4. Після того, як файли скопіювалися{=>,:::error_type=Punctuation} запускаємо Aegisub та заходимо у Subtitle->Spell Checker… {та=>і:::error_type=F/Repetition} обираємо “Ukrainian“. От і все, {сподівася=>сподіваюся:::error_type=Spelling}{=>,:::error_type=Punctuation} це комусь полегшить роботу.
 

@@ -1,5 +1,5 @@
-"Дорогий лікарю,{"=>:::error_type=Punctuation} {=>– :::error_type=Punctuation}сказав Найт трохи глузливо. {"=>–  :::error_type=Punctuation}Хочу нагадати вам, що я  не гамблер"{=>.:::error_type=Punctuation}
-"Мої вибачення{"=>:::error_type=Punctuation}, {=>– :::error_type=Punctuation}сказав я. {"=>–  :::error_type=Punctuation}Але я не думаю, що ти знайдеш Джольнес".
+"Дорогий лікарю,{"=>:::error_type=Punctuation} {=>– :::error_type=Punctuation}сказав Найт трохи глузливо. {"=>– :::error_type=Punctuation}Хочу нагадати вам, що я{  => :::error_type=Punctuation}не гамблер"{=>.:::error_type=Punctuation}
+"Мої вибачення{"=>:::error_type=Punctuation}, {=>– :::error_type=Punctuation}сказав я. {"=>– :::error_type=Punctuation}Але я не думаю, що ти знайдеш Джольнес".
 
 Таксі зупинилось перед {одним=>однією:::error_type=G/Gender} {з=>із:::error_type=Spelling} найкрасивіших резиденцій на авеню. Там був чоловік, {гуляючий вгору і вниз попереду дому =>який ходив туди-сюди перед будинком,:::error_type=F/PoorFlow}з довгими {червоними=>рудими:::error_type=F/Style} вусами, детективним чемоданом, що {показується на=>видніється:::error_type=F/Style} {=>з :::error_type=G/Prep}краю його пальто. Тепер і потім чоловік хотів би поголити його вуса{=>,:::error_type=Punctuation} щоб очистити лице, а потім я б визнав одного з добре відомих рис великого {ньюйоркоського=>нью-йоркського:::error_type=Spelling} детектива. Джольнес зберігала гостроту погляду під дверима і вікнами дому.
 

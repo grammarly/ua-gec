@@ -1,14 +1,14 @@
 Здійнявся вітер{=>.:::error_type=Punctuation}
 «Здійнявся {вітер!Намагаймось=>вітер! Намагаймось:::error_type=Punctuation} жити!» — Поль Валері.
 {=>— :::error_type=Punctuation}Ось, тримай.
-{=>—  :::error_type=Punctuation}Дякую. Можна я почитаю вдома?
+{=>— :::error_type=Punctuation}Дякую. Можна я почитаю вдома?
 — Але там англійською.{=> :::error_type=Punctuation}— Візьму в брата словник.
 — Що ж, спробуй.— Дякую.
 — Ану припиніть!{=> :::error_type=Punctuation}— Ти хто такий?!
-{=>—  :::error_type=Punctuation}Тікай, швидше.
+{=>— :::error_type=Punctuation}Тікай, швидше.
 — Заткнися, {черепаха=>черепахо:::error_type=G/Case} чотириока!{=> :::error_type=Punctuation}— Іди звідси!
-{=>—  :::error_type=Punctuation}Не смійте ображати маленьких.
-{=>—  :::error_type=Punctuation}Щооо?
+{=>— :::error_type=Punctuation}Не смійте ображати маленьких.
+{=>— :::error_type=Punctuation}Щооо?
 {=>— :::error_type=Punctuation}Та я тебе зараз як відгамселю!
 {=>— :::error_type=Punctuation}Шмаркач!
 {=>— :::error_type=Punctuation}Джіро, що це в тебе з обличчям?
@@ -39,7 +39,7 @@
 Ой, ще одна!
 {=>— :::error_type=Punctuation}Як гарно, правда?Он там. Ось, знову!
 {=>— :::error_type=Punctuation}І там теж!
-{=>—  :::error_type=Punctuation}Я {=>—  :::error_type=Punctuation}хлопчик з Японії.
+{=>— :::error_type=Punctuation}Я {=>— :::error_type=Punctuation}хлопчик з Японії.
 {=>— :::error_type=Punctuation}Хлопчик з Японії?
 Що ж ти робиш тут?
 {=>— :::error_type=Punctuation}Бачу сон. Здається, ви мені снитесь.
@@ -50,14 +50,14 @@
 {=>— :::error_type=Punctuation}І твій теж?
 {=>— :::error_type=Punctuation}Виходить, наші сни перетнулися, незнайомий хлопчику з Японії?
 Дивина.
-{=>—  :::error_type=Punctuation}Наче ви славнозвісний граф Капроні. Я так {питаюся зустріччю=>мрію про зустріч:::error_type=G/UngrammaticalStructure} з вами.
+{=>— :::error_type=Punctuation}Наче ви славнозвісний граф Капроні. Я так {питаюся зустріччю=>мрію про зустріч:::error_type=G/UngrammaticalStructure} з вами.
 Кумедно. Насниться ж таке. Весь цей світ — сон.
 Ласкаво прошу до мого королівства.
 Це честь для мене.
 Подивись.
-Половина з них уже не повернеться.  Вони летять нищити ворожі міста.
+Половина з них уже не повернеться.{  => :::error_type=Punctuation}Вони летять нищити ворожі міста.
 Втім, війна скоро закінчиться.
-{=>—  :::error_type=Punctuation}Залізай, хлопчику з Японії.
+{=>— :::error_type=Punctuation}Залізай, хлопчику з Японії.
 {=>— :::error_type=Punctuation}Це моя мрія. Закінчиться війна — збудую такий насправді.
 {=>— :::error_type=Punctuation}Ну як? Розкішно, правда?
 Злітаємо.
@@ -67,7 +67,7 @@
 Ходи сюди.{=> :::error_type=Punctuation}Просто по лонжерону. Не бійся.
 Дивись.
 — Ну як, гарно?— Так, дуже.
-{=>—  :::error_type=Punctuation}На цьому літаку пасажири зможуть перелетіти через Атлантику.
+{=>— :::error_type=Punctuation}На цьому літаку пасажири зможуть перелетіти через Атлантику.
 {=>— :::error_type=Punctuation}Сеньйоре {Капроні?Можна=>Капроні? Можна:::error_type=Punctuation} спитати?
 {=>— :::error_type=Punctuation}Чи може короткозора людина будувати літаки?
 Бо в мене такий зір, що в пілоти мене не візьмуть.
@@ -83,7 +83,7 @@
 {=>— :::error_type=Punctuation}Зрозумів!
 {=>— :::error_type=Punctuation}На все добре. Ще побачимось!
 {=>— :::error_type=Punctuation}Джіро, іди лягай в ліжко.
-Тобі щось наснилося?  Ти з кимось розмовляв так голосно, я злякалася.
+Тобі щось наснилося?{  => :::error_type=Punctuation}Ти з кимось розмовляв так голосно, я злякалася.
 {=>— :::error_type=Punctuation}Мамо, я стану авіаконструктором!
 {=>— :::error_type=Punctuation}Справді? Яка чудова мрія.
 {=>— :::error_type=Punctuation}Так, літак{=> —:::error_type=Punctuation} це прекрасна мрія. Він так і сказав.
@@ -95,7 +95,7 @@
 {=>— :::error_type=Punctuation}Пані, вітер зірве капелюшок!
 {=>— :::error_type=Punctuation}Не хвилюйся!
 {=>— :::error_type=Punctuation}Тримайтесь!
-{Але=>—  Все:::error_type=Punctuation} гаразд?
+{Але=>— Все:::error_type=Punctuation} гаразд?
 {=>— :::error_type=Punctuation}Так!
 {=>— :::error_type=Punctuation}А ви спритна.
 {=>— :::error_type=Punctuation}Дякую.
@@ -121,7 +121,7 @@
 — Пожежа.— Швидше.
 — А де ваш багаж?— Забудь про нього.
 {=>— :::error_type=Punctuation}Мені так ніяково.
-— Ви не забилися?  — Ні.
+— Ви не забилися?{  => :::error_type=Punctuation}— Ні.
 {=>— :::error_type=Punctuation}Ходімо.
 {=>— :::error_type=Punctuation}Це моя сорочка. Мама зшила. Ще навіть не вдягав.
 Відкрийте рота.
@@ -132,14 +132,14 @@
 {=>— :::error_type=Punctuation}Піду кликати родичів на допомогу.
 {=>— :::error_type=Punctuation}Що ж, підемо разом.
 — Пані Кіну, пригляньте за валізою.— Авжеж.
-{=>— :::error_type=Punctuation}Не хвилюйтесь.  Ми скоро повернемось.
+{=>— :::error_type=Punctuation}Не хвилюйтесь.{  => :::error_type=Punctuation}Ми скоро повернемось.
 {=>— :::error_type=Punctuation}Добре.
 {=>— :::error_type=Punctuation}Стежте за речами.
 {=>— :::error_type=Punctuation}Так.
 — Спасибі вам{=>,:::error_type=Punctuation} пане{=>,:::error_type=Punctuation} за все.— Немає за що.
 {=>— :::error_type=Punctuation}Стривайте. А як вас звати?
 {=>— :::error_type=Punctuation}Хороший хлопець.{=> :::error_type=Punctuation}Як гадаєш, Кіну?
-{=>— :::error_type=Punctuation}О, це ти Джіро?  Жахливого дня ти повернувся.
+{=>— :::error_type=Punctuation}О, це ти Джіро?{  => :::error_type=Punctuation}Жахливого дня ти повернувся.
 {=>— :::error_type=Punctuation}А що з нашим ангаром?
 {=>— :::error_type=Punctuation}Не знаю. Весь район палає.
 Це все, що ми встигли винести.
@@ -151,7 +151,7 @@
 Вітер змінився в наш бік!
 {=>— :::error_type=Punctuation}Ну що? Вітер усе ще дме, хлопчику з Японії?
 {=>— :::error_type=Punctuation}Так, дме зі страшною силою!
-{тоді=>—  Тоді:::error_type=Punctuation} старайся жити далі."Le vent se lève."
+{тоді=>— Тоді:::error_type=Punctuation} старайся жити далі."Le vent se lève."
 "II faut tenter de vivre."
 {=>— :::error_type=Punctuation}Ну що Джіро, ходімо?
 Усе як раніше. Нові будинки на старий лад.
@@ -194,9 +194,9 @@
 — А мама де?{=> :::error_type=Punctuation}— У дядька.
 — У місті залишилася?{=> :::error_type=Punctuation}— Лише на одну ніч.
 {=>— :::error_type=Punctuation}Кайо, тепер ти стала дорослою.{=> :::error_type=Punctuation}І дуже красивою.
-Мій брат — безсердечний негідник.  Бо ніяк не приїде додому.
+Мій брат — безсердечний негідник.{  => :::error_type=Punctuation}Бо ніяк не приїде додому.
 {=>— :::error_type=Punctuation}О, вже так пізно.
-{=>— :::error_type=Punctuation}Я тебе проведу. Я все ж таки винен.  Ходімо на перон.
+{=>— :::error_type=Punctuation}Я тебе проведу. Я все ж таки винен.{  => :::error_type=Punctuation}Ходімо на перон.
 {=>— :::error_type=Punctuation}А ти ж, мабуть, досі їй подобаєшся.
 {=>— :::error_type=Punctuation}Та облиш. Два роки минуло.
 {=>— :::error_type=Punctuation}І що? Ти жодного разу не завітав до неї?
@@ -211,7 +211,7 @@
 — На літакобудівельний завод?— Так.
 {=>— :::error_type=Punctuation}Добре чоловікам.
 А я хочу {поступити=>вступити:::error_type=F/Collocation} до медінституту в Токіо.
-{=>— :::error_type=Punctuation}І стати лікарем?  А що? Це якраз для тебе.
+{=>— :::error_type=Punctuation}І стати лікарем?{  => :::error_type=Punctuation}А що? Це якраз для тебе.
 {=>— :::error_type=Punctuation}Справді? Я теж так думаю.
 {=>— :::error_type=Punctuation}Я приїду на Новий рік та поговорю з татом.
 {=>— :::error_type=Punctuation}Як добре! Ну дивись, ти пообіцяв.
@@ -221,10 +221,10 @@
 — Нічого.{=> :::error_type=Punctuation}— Потрохи.
 {=>— :::error_type=Punctuation}Бачиш? Усі ці люди тягнуться до міста у пошуках роботи.
 Стільки людей іде пішки… І ночують просто неба.
-Ну от, знову.  Цього разу банк Каміхаті.
+Ну от, знову.{  => :::error_type=Punctuation}Цього разу банк Каміхаті.
 — Теж збанкрутів?{=> :::error_type=Punctuation}— Схоже на те.
 {=>— :::error_type=Punctuation}Чутки розходяться як блискавки.
-Всі навколо банкрутують.  Завод{=>,:::error_type=Punctuation} у який ми їдемо{=>,:::error_type=Punctuation} теж на межі.
+Всі навколо банкрутують.{  => :::error_type=Punctuation}Завод{=>,:::error_type=Punctuation} у який ми їдемо{=>,:::error_type=Punctuation} теж на межі.
 Літакобудівельна компанія МІЦУБІШІ.
 {=>— :::error_type=Punctuation}Усі по вуха у роботі. Де тебе носило?
 {=>— :::error_type=Punctuation}Мені сказали, можна приїхати у будь-який день квітня.
@@ -232,7 +232,7 @@
 У нас завал. Негайно берися до роботи.
 Крило фіксуємо вантажними кріпленнями. Усі розміри уже є.
 {=>— :::error_type=Punctuation}Зрозумів.
-{=>— :::error_type=Punctuation}Негайно зроби креслення.  В бюро в усіх уже руки відвалюються.
+{=>— :::error_type=Punctuation}Негайно зроби креслення.{  => :::error_type=Punctuation}В бюро в усіх уже руки відвалюються.
 {=>— :::error_type=Punctuation}Слухаюсь.
 {=>— :::error_type=Punctuation}Це тут.
 Так, ти поки що зачекай. Сюди.
@@ -335,7 +335,7 @@
 Ну ж бо, беріть.
 {=>— :::error_type=Punctuation}Тікаймо!
 {=>— :::error_type=Punctuation}Ти вдома?
-{Проект=>Проєкт:::error_type=Spelling} "Хаябуса" зарубали.  Дуже шкода.
+{Проект=>Проєкт:::error_type=Spelling} "Хаябуса" зарубали.{  => :::error_type=Punctuation}Дуже шкода.
 Бісквіти? Завжди ти їси щось дивне.
 А чого ти чекав?
 Думав, те дівчисько тобі усміхнеться і скаже "дякую"?
@@ -371,7 +371,7 @@
 {=>— :::error_type=Punctuation}Та кого це обходить? Зате у них можна навчитися працювати з металом.
 {=>— :::error_type=Punctuation}А що {в середині=>всередині:::error_type=Spelling}? Вони не хочуть показувати?
 Красень.
-{=>— :::error_type=Punctuation}Руки геть!  Не смійте його чіпати!
+{=>— :::error_type=Punctuation}Руки геть!{  => :::error_type=Punctuation}Не смійте його чіпати!
 {=>— :::error_type=Punctuation}Он як ви зустрічаєте японських гостей?
 {=>— :::error_type=Punctuation}Японці швидко копіюють чуже.{=> :::error_type=Punctuation}А наші технології {=>— :::error_type=Punctuation}надбання великої Німеччини.
 {=>— :::error_type=Punctuation}Не зазнавайтеся. Такого мотлоху в Японії теж вистачає.
@@ -417,33 +417,33 @@
 Скільки цінної інформації ми сьогодні отримали.
 І все про цей велетенський бомбардувальник.
 "Наші технології надбання великої Німеччини{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
-{=>— :::error_type=Punctuation}А хтозна?  Може й в літаках скоро влаштують котацу.
+{=>— :::error_type=Punctuation}А хтозна?{  => :::error_type=Punctuation}Може й в літаках скоро влаштують котацу.
 А дерево стане таке ж міцне, як метал.
-{=>— :::error_type=Punctuation}Вони не влаштують, а ми не встигнемо.  Ми відстали від них на {20-ть=>20:::error_type=Spelling} років.
+{=>— :::error_type=Punctuation}Вони не влаштують, а ми не встигнемо.{  => :::error_type=Punctuation}Ми відстали від них на {20-ть=>20:::error_type=Spelling} років.
 Йдемо прогуляємося.
 А то у мене мозок закипить.
 {=>— :::error_type=Punctuation}Ми схожі на Ахілеса, що намагається наздогнати черепаху, відставши від неї на {20-ть=>20:::error_type=Spelling} років.
-{=>— :::error_type=Punctuation}Шлях у {20-ть=>20:::error_type=Spelling} років ми проходимо за {5-ть=>5:::error_type=Spelling}.  Але за цей час черепаха відповзає ще на 5 років.
+{=>— :::error_type=Punctuation}Шлях у {20-ть=>20:::error_type=Spelling} років ми проходимо за {5-ть=>5:::error_type=Spelling}.{  => :::error_type=Punctuation}Але за цей час черепаха відповзає ще на 5 років.
 {Так=>То:::error_type=Punctuation} нам доведеться вічно за нею ганятися.
 Поки що нам більше нічого не залишається. та колись ми таки зможемо її наздогнати та перегнати.
 {=>— :::error_type=Punctuation}А не можна одразу стати маленькою черепашкою?
 {=>— :::error_type=Punctuation}Ти чого?
 {=>— :::error_type=Punctuation}Патефон.
-{=>— :::error_type=Punctuation}А, "Зимова подорож"?  Просто, як для нас написали.
+{=>— :::error_type=Punctuation}А, "Зимова подорож"?{  => :::error_type=Punctuation}Просто, як для нас написали.
 — Що відбувається?— Чи не він сьогодні чіплявся до тебе в ангарі?
 {=>— :::error_type=Punctuation}Джіро?
 Агов{?=>!:::error_type=Punctuation} Я вже вийшов. Іди, прийми ванну.
-{=>— :::error_type=Punctuation}Схоже спить.  З таким виразом, наче рятує японські літаки від усього світу.
+{=>— :::error_type=Punctuation}Схоже спить.{  => :::error_type=Punctuation}З таким виразом, наче рятує японські літаки від усього світу.
 Телеграма з Наґоя, від начальства.
 — Заходьте.— Ні, краще тут.
-{=>— :::error_type=Punctuation}Мені наказано повертатися до Японії.  Ви поки що залишаєтесь.
+{=>— :::error_type=Punctuation}Мені наказано повертатися до Японії.{  => :::error_type=Punctuation}Ви поки що залишаєтесь.
 А Джіро повернеться додому через Захід.
 — Через Захід?— Йому наказано перед від'їздом подивитися світ.
 {=>— :::error_type=Punctuation}Самому?
 Сеньйор Капроні.
 {=>— :::error_type=Punctuation}То як, вітер ще дме?
 {=>— :::error_type=Punctuation}Так, поки що дме.
-{=>— :::error_type=Punctuation}Що ж, запрошую тебе у свій прощальний політ.  За мною.
+{=>— :::error_type=Punctuation}Що ж, запрошую тебе у свій прощальний політ.{  => :::error_type=Punctuation}За мною.
 {=>— :::error_type=Punctuation}Ви прощаєтеся?
 {=>— :::error_type=Punctuation}Стрибай з усієї сили.
 Стрибай!
@@ -453,7 +453,7 @@
 {=>— :::error_type=Punctuation}Зараз.
 {=>— :::error_type=Punctuation}Сюди.
 — Уперед!{=> :::error_type=Punctuation}— Лети! Злітай!
-Усі ці люди мої родичі та друзі.  Вважай, ціле село.
+Усі ці люди мої родичі та друзі.{  => :::error_type=Punctuation}Вважай, ціле село.
 Покатаємось з вітерцем перед тим, як я віддам цей бомбардувальник тим, хто його замовив.
 — Ну як тобі?— Неймовірно.
 Нагадує архітектуру {древнього=>Давнього:::error_type=Spelling} Риму.
