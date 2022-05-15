@@ -55,9 +55,9 @@
 
 ГОЛОВНЕ – ЯК РЕАГУВАТИ
 Де це буває?
-{в школі=>У школі,:::error_type=Spelling}{\n=> :::error_type=Punctuation}у дворі{=>,:::error_type=Punctuation}{\n=> :::error_type=Punctuation}дорогою додому{=>,:::error_type=Punctuation}{\n=> :::error_type=Punctuation}{і інтернеті=>в Інтернеті:::error_type=Spelling}{=>.:::error_type=Punctuation}
+{в школі=>У школі:::error_type=Spelling}{=>,:::error_type=Punctuation}{\n=> :::error_type=Punctuation}у дворі{=>,:::error_type=Punctuation}{\n=> :::error_type=Punctuation}дорогою додому{=>,:::error_type=Punctuation}{\n=> :::error_type=Punctuation}{і інтернеті=>в Інтернеті:::error_type=Spelling}{=>.:::error_type=Punctuation}
 
-{чому це небезпечно?=>ЧОМУ ЦЕ НЕБЕЗПЕЧНО?:::error_type=Spelling}
+{чому це небезпечно=>ЧОМУ ЦЕ НЕБЕЗПЕЧНО:::error_type=Spelling}?
 {для=>Для:::error_type=Spelling} того, кого булять{:=>, —:::error_type=Punctuation} {=>це :::error_type=G/UngrammaticalStructure}стрес, демотивація, захворювання{=>,:::error_type=Punctuation} {– =>:::error_type=Punctuation}а в дорослому віці {ці=>такі:::error_type=F/Repetition} проблеми зростуть до дорослих масштабів{=>.:::error_type=Punctuation}
 {для=>Для:::error_type=Spelling} ініціатора{:=> —:::error_type=Punctuation} виключення зі школи, поліція, проблеми зі здоров’ям, бійки{=>.:::error_type=Punctuation}
 Що ви відчуваєте, коли вас {дражнили=>дражнять:::error_type=G/Tense}?
@@ -77,7 +77,7 @@
 
 ЯКЩО КОГОСЬ ДРАЖНЯТЬ?
 {=>— :::error_type=Punctuation}{обов’язково=>Обов’язково:::error_type=Spelling} поговоріть про це з дорослими (вчителями, батьками){=>;:::error_type=Punctuation}
-{коли це можливо –=>якщо це можливо,:::error_type=G/Conjunction} не стійте осторонь (разом {з=>із:::error_type=Spelling} друзями ви можете підтримати когось){=>;:::error_type=Punctuation}
+{=>— :::error_type=Punctuation}{коли=>якщо:::error_type=G/Conjunction} це можливо{ –=>,:::error_type=Punctuation} не стійте осторонь (разом {з=>із:::error_type=Spelling} друзями ви можете підтримати когось){=>;:::error_type=Punctuation}
 {=>— :::error_type=Punctuation}проявіть увагу до того, кого дражнять (посидьте  з ним за обідом, проведіть час разом, {=>— :::error_type=Punctuation}запропонуйте разом провести час){=>.:::error_type=Punctuation}
 
 КІБЕРБУЛІНГ

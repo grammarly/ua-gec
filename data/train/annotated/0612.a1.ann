@@ -4,6 +4,6 @@
 
 "{Містер=>Містере:::error_type=G/Case} Мер{"=>:::error_type=Punctuation}, {=>—  :::error_type=Punctuation}кажу я{, "=>. — :::error_type=Punctuation}Я не учень школи Лапіус. Я ніколи не вчився в медичному коледжі{," кажу я, "=>.:::error_type=G/UngrammaticalStructure}Я просто прийшов як товариш по службі, щоб глянути{=>,:::error_type=Punctuation} чи я можу чимось допомогти{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 
-"На мені стільки обов'язків{"=>:::error_type=Punctuation}, {=>—  :::error_type=Punctuation}каже він. {"=>— :::error_type=Punctuation}Док (кашляє), це мій {плимінник=>племінник:::error_type=Spelling}, містер Бідл. Він спробував полегшити мої неприємності, але{=>,:::error_type=Punctuation} {нажаль=>на жаль,:::error_type=Spelling} безуспішно. О, Господи! Оу-оу-оу!!", {=>—  :::error_type=Punctuation}вигукує він.
+"На мені стільки обов'язків{"=>:::error_type=Punctuation}, {=>—  :::error_type=Punctuation}каже він. {"=>— :::error_type=Punctuation}Док (кашляє), це мій {плимінник=>племінник:::error_type=Spelling}, містер Бідл. Він спробував полегшити мої неприємності, але{=>,:::error_type=Punctuation} {нажаль=>на жаль:::error_type=Spelling}{=>,:::error_type=Punctuation} безуспішно. О, Господи! Оу-оу-оу!!", {=>—  :::error_type=Punctuation}вигукує він.
 
 
