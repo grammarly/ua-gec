@@ -1,4 +1,4 @@
-Привіт{=>,:::error_type=Punctuation} {Настя=>Насте.:::error_type=G/Case}
+Привіт{=>,:::error_type=Punctuation} {Настя=>Насте:::error_type=G/Case}{=>.:::error_type=Punctuation}
 
 А діти в садочку після сніданку гуляють?
 

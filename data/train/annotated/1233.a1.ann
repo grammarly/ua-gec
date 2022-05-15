@@ -22,7 +22,7 @@
 
 Приходила вона і на інший день.
 
-{даремна робота воно=>Та дарма.:::error_type=G/UngrammaticalStructure}
+{даремна робота воно=>Та дарма:::error_type=G/UngrammaticalStructure}{=>.:::error_type=Punctuation}
 
 {-=> —:::error_type=Punctuation} Хто йде?
 

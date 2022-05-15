@@ -8,7 +8,7 @@
 
 {-=>—:::error_type=Punctuation} Я кажу тобі, мені моторошно!
 
-{-=>—:::error_type=Punctuation} Що тобі моторошно? {Охі=>Ох,:::error_type=Spelling} ти {бешкетник=>бешкетнику:::error_type=G/Case}!
+{-=>—:::error_type=Punctuation} Що тобі моторошно? {Охі=>Ох:::error_type=Spelling}{=>,:::error_type=Punctuation} ти {бешкетник=>бешкетнику:::error_type=G/Case}!
 
 Мовчання.
 

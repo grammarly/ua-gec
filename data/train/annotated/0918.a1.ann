@@ -1,4 +1,4 @@
-"І навіть це знав"{=>,:::error_type=Punctuation} {-=>—:::error_type=Punctuation} тривожно подумав {Іваню=>Іван.:::error_type=Spelling}
+"І навіть це знав"{=>,:::error_type=Punctuation} {-=>—:::error_type=Punctuation} тривожно подумав {Іваню=>Іван:::error_type=Spelling}{=>.:::error_type=Punctuation}
 Головний, видно, {поставив=>взяв:::error_type=F/Collocation} собі за правило погоджуватись зі {всим=>всім:::error_type=Spelling} та радіти всьому, {щоб не казали=>хай що кажуть:::error_type=F/PoorFlow} йому {оточуючі=>навколишні:::error_type=G/PartVoice}, і виражати це словами "Чудово, чудово ..."{=>.:::error_type=Punctuation}
  {- =>—:::error_type=Punctuation}Чудово! {-=>—:::error_type=Punctuation} сказав Стравінський, повертаючи комусь листа, і звернувся до {івана=>Івана:::error_type=Spelling}: {-=> —:::error_type=Punctuation} Ви {- =>:::error_type=Punctuation}поет?
 {-=>—:::error_type=Punctuation} Поет, {-=>—:::error_type=Punctuation} похмуро відповів Іван і вперше раптом відчув якусь незрозумілу відразу до поезії, і його власні вірші, що згадалися, здались чомусь неприємними.
