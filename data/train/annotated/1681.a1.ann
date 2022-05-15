@@ -1,4 +1,4 @@
-{-І=>— І:::error_type=Punctuation} до того ж мій візник поїхав.  Не знаю, куди подітися.{  => :::error_type=Punctuation}Ви були б дуже люб'язні, якби дозволили мені побути тут {в=>у:::error_type=Spelling} сінях, поки {пройде=>мине:::error_type=F/Calque} дощ.
+{-=>— :::error_type=Punctuation}І до того ж мій візник поїхав.  Не знаю, куди подітися.{  => :::error_type=Punctuation}Ви були б дуже люб'язні, якби дозволили мені побути тут {в=>у:::error_type=Spelling} сінях, поки {пройде=>мине:::error_type=F/Calque} дощ.
 
  {-=>—:::error_type=Punctuation} А?  Bien [114], monsieur.  Ви знімайте калоші і йдіть сюди.{  => :::error_type=Punctuation}Це {нічво=>нічого:::error_type=Spelling}, можна.
 

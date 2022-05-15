@@ -2,9 +2,9 @@
 
 {-=>—:::error_type=Punctuation} З великим задоволенням, {-=>—:::error_type=Punctuation} відповів {майстер=>Майстер:::error_type=Spelling}, вивчаючи Азазелло, а той продовжував:
 
-{-Ми=>— Ми:::error_type=Punctuation} сподіваємося, що і Маргарита Миколаївна не відмовиться від цього?
+{-=>— :::error_type=Punctuation}Ми сподіваємося, що і Маргарита Миколаївна не відмовиться від цього?
 
-{-=>—:::error_type=Punctuation} Я ж то, мабуть, відмовлюся,{ - сказала=>—сказала:::error_type=Punctuation} Маргарита, і знову її нога проїхалася по нозі {майстра=>Майстра:::error_type=Spelling}.
+{-=>—:::error_type=Punctuation} Я ж то, мабуть, відмовлюся, {-=>—:::error_type=Punctuation} сказала Маргарита, і знову її нога проїхалася по нозі {майстра=>Майстра:::error_type=Spelling}.
 
 {-=>—:::error_type=Punctuation} Чудова річ! {-=>—:::error_type=Punctuation} вигукнув Азазелло, {-=>—:::error_type=Punctuation} от це я люблю. Один-два і готово! Не то, що тоді в {Олександрівсьокму=>Олександрівському:::error_type=Spelling} саду.
 

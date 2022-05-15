@@ -6,11 +6,11 @@
 
 {-=>—:::error_type=Punctuation} Ну так, у Золотові. Він у нас головний. {Якщо ваших справ стосовно=>Що ж до ваших справ:::error_type=G/UngrammaticalStructure}, то проти нього навіть виправник не має повного права.
 
-{-Далеко=>— Далеко:::error_type=Punctuation}, брате, іти!.. {Чай,верств=>Десь із:::error_type=G/UngrammaticalStructure} п'ятнадцять{=> верств:::error_type=G/UngrammaticalStructure}, може{=>,:::error_type=Punctuation} ще й більше.
+{-=>— :::error_type=Punctuation}Далеко, брате, іти!.. {Чай,верств=>Десь із:::error_type=G/UngrammaticalStructure} п'ятнадцять{=> верств:::error_type=G/UngrammaticalStructure}, може{=>,:::error_type=Punctuation} ще й більше.
 
 {-=>—:::error_type=Punctuation} Хто потребує, той і сто верств пройде.
 
-{-І=>— І:::error_type=Punctuation} це правда...{Прошення=>Прохання:::error_type=G/UngrammaticalStructure} йому надати{=>,:::error_type=Punctuation} може{..=>:::error_type=Punctuation}?{=>..:::error_type=Punctuation}
+{-=>— :::error_type=Punctuation}І це правда...{Прошення=>Прохання:::error_type=G/UngrammaticalStructure} йому надати{=>,:::error_type=Punctuation} може{..=>:::error_type=Punctuation}?{=>..:::error_type=Punctuation}
 
 {-=>—:::error_type=Punctuation} Там дізнаєшся. Як {прошення=>прохання:::error_type=G/UngrammaticalStructure}, {писарь=>писар:::error_type=Spelling} тобі швидко напише. Неодмінний член має {пісаря=>писаря:::error_type=Spelling}.
 
