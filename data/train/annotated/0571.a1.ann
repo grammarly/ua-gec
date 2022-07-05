@@ -173,7 +173,7 @@
 {=>— :::error_type=Punctuation}Цього разу плашка вийде серйозніша. Не якесь там каченя, а ціла качка.
 {=>— :::error_type=Punctuation}І вона нестиме золоті яйця?
 {=>— :::error_type=Punctuation}Пане Курокава, що скажете?
-{=>— :::error_type=Punctuation}Що тут скажеш? Легка зараза. Дюралюміній {шикарний=>— чудовий:::error_type=F/Style} матеріал.
+{=>— :::error_type=Punctuation}Що тут скажеш? Легка зараза. Дюралюміній {=>— :::error_type=Punctuation}{шикарний=>чудовий:::error_type=F/Style} матеріал.
 А тепер всі до роботи.
 — Хвоста наче немає.{  => :::error_type=Punctuation}— Обійшлося.
 {=>— :::error_type=Punctuation}Джіро, тобі краще зникнути на кілька днів.
