@@ -12,6 +12,6 @@
 
 "Хто ви?", {-=>—:::error_type=Punctuation} запитую я.
 
-"Я скажу вам хто він, {-=>—:::error_type=Punctuation} каже пан мер, підводячись із ліжка. {-=>—:::error_type=Punctuation} Він детектив {зі=>із:::error_type=Spelling} медичної спілки штату. Він переслідував вас у п'ятьох округах. Учора він прийшов до мене, і ми придумали цей план{=>,:::error_type=Punctuation} щоб вас {спіймати=>упіймати:::error_type=Spelling}. Гадаю, ви вже більше не будете лікувати в цих місцях, пане Факір. Що то в мене було{=>,:::error_type=Punctuation}  ви казали, лікарю?, {-=>—:::error_type=Punctuation} сміється мер, {-=>—:::error_type=Punctuation} комплекс {-=>—:::error_type=Punctuation} ну, напевно, все одно не розм'якшення мозку".
+"Я скажу вам{=>,:::error_type=Punctuation} хто він, {-=>—:::error_type=Punctuation} каже пан мер, підводячись із ліжка. {-=>—:::error_type=Punctuation} Він детектив {зі=>із:::error_type=Spelling} медичної спілки штату. Він переслідував вас у п'ятьох округах. Учора він прийшов до мене, і ми придумали цей план{=>,:::error_type=Punctuation} щоб вас {спіймати=>упіймати:::error_type=Spelling}. Гадаю, ви вже більше не будете лікувати в цих місцях, пане Факір. Що то в мене було{=>,:::error_type=Punctuation}  ви казали, лікарю?, {-=>—:::error_type=Punctuation} сміється мер, {-=>—:::error_type=Punctuation} комплекс {-=>—:::error_type=Punctuation} ну, напевно, все одно не розм'якшення мозку".
 
 
