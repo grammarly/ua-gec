@@ -6,6 +6,6 @@
 
 "Ні, ти зможеш", {=>— :::error_type=Punctuation}сказав я.
 
-"{Не звичайними=>Незвичайними:::error_type=Spelling} методами{"=>:::error_type=Punctuation}, {=>— :::error_type=Punctuation}сказав лицар. {"=>— :::error_type=Punctuation}Я піднімався і спускався по Бродвею близько місяця, безрезультатно. Але ви зачіпаєте мою гордість, докторе. І якщо я не покажу вам Шемрока Джолнса сьогодні, {я=>то:::error_type=F/Repetition}{=>,::::error_type=Punctuation} запевняю{=>,::::error_type=Punctuation} я ніколи не {вб'ю=>вбиватиму:::error_type=G/VerbVoice}{,=>::::error_type=Punctuation} або {пограбую=>грабуватиму:::error_type=G/VerbVoice} {в=>у:::error_type=Spelling} вашому місті знову".
+"{Не звичайними=>Незвичайними:::error_type=Spelling} методами{"=>:::error_type=Punctuation}, {=>— :::error_type=Punctuation}сказав лицар. {"=>— :::error_type=Punctuation}Я піднімався і спускався по Бродвею близько місяця, безрезультатно. Але ви зачіпаєте мою гордість, докторе. І якщо я не покажу вам Шемрока Джолнса сьогодні, я{=>,::::error_type=Punctuation} запевняю{=>,::::error_type=Punctuation} я ніколи не {вб'ю=>вбиватиму:::error_type=G/VerbVoice}{,=>::::error_type=Punctuation} або {пограбую=>грабуватиму:::error_type=G/VerbVoice} {в=>у:::error_type=Spelling} вашому місті знову".
 
 

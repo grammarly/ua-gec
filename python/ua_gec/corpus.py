@@ -1,5 +1,6 @@
 import csv
 import collections
+import enum
 import pathlib
 
 from ua_gec.annotated_text import AnnotatedText
@@ -9,6 +10,11 @@ Metadata = collections.namedtuple(
     "Metadata",
     "doc_id author_id is_native region gender occupation submission_type "
     "source_language annotator_id partition is_sensitive")
+
+
+class AnnotationLayer(str, enum.Enum):
+    GecAndFluency = "gec-fluency"
+    GecOnly = "gec-only"
 
 
 class Document:
@@ -47,6 +53,8 @@ class Corpus:
     Args:
         partition (str): only look at the selected split if "train" or "test",
             use all corpus if "all". Default is "train".
+        annotation_layer (AnnotationLayer): which annotations to use.
+            Defaults to all (grammar and fluency corrections)
 
     Example:
 
@@ -56,20 +64,20 @@ class Corpus:
         1493024
     """
 
-    def __init__(self, partition="train"):
+    def __init__(self, partition="train", annotation_layer=AnnotationLayer.GecAndFluency):
         if partition not in ("train", "test", "all"):
             raise ValueError("`partition` must be 'train', 'test' or 'all'")
         self.partition = partition
+        self.annotation_layer = AnnotationLayer(annotation_layer)
 
         root_dir = pathlib.Path(__file__).parent
-        self._data_dir = root_dir / "data"
+        self._data_dir = root_dir / "data" / annotation_layer.value
         self._metadata = None
         self._docs = None  # lazy loaded list of document
 
     def __repr__(self):
         return "<Corpus(partition={}, len={} docs>".format(
             self.partition, len(self))
-
 
     def __str__(self):
         return repr(self)
@@ -88,7 +96,7 @@ class Corpus:
 
     def _load_metadata(self):
         self._metadata = []
-        reader = csv.DictReader((self._data_dir / "metadata.csv").open())
+        reader = csv.DictReader((self._data_dir / ".." / "metadata.csv").open())
         for row in reader:
             if self.partition == "all" or row["partition"] == self.partition:
                 for annotator_id in row["annotator_id"].split():
