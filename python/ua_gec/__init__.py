@@ -1,2 +1,2 @@
-from .corpus import Corpus, Document
+from .corpus import Corpus, Document, AnnotationLayer
 from .annotated_text import AnnotatedText

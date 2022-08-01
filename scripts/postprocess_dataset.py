@@ -1,26 +1,28 @@
 #!/usr/bin/env python3
-"""This scripts produces the following postprocessed views of the annotated dataset:
+"""This script produces the following postprocessed views of an annotated dataset:
 
-1. `./data/source` -- the source (errorful) side of text (annotations stripped)
-2. `./data/target` -- the target (corrected) side of target (annotations stripped)
-3. `./data/source-sentences` -- the source side split into sentences
-4. `./data/target-sentences` -- same for target
-5. `./data/source-sentences-tokenized` -- the source side split into sentences and tokenized
-6. `./data/target-sentences-tokenized` -- same for target.
+1. `./source` -- the source (errorful) side of text (annotations stripped)
+2. `./target` -- the target (corrected) side of target (annotations stripped)
+3. `./source-sentences` -- the source side split into sentences
+4. `./target-sentences` -- same for target
+5. `./source-sentences-tokenized` -- the source side split into sentences and tokenized
+6. `./target-sentences-tokenized` -- same for target.
 
-All these views originate in `./data/annotated` which should be considered
-as the source of truth.
+All these views originate in `./annotated` which should be considered as the
+source of truth.
 
 """
 
+import argparse
 from pathlib import Path
+
 import stanza
 import tqdm
 import ua_gec
 from pyxdameraulevenshtein import damerau_levenshtein_distance
 
 
-def main(data_dir="./data"):
+def main(data_dir="./data", annotation_type="gec-only"):
     data_dir = Path(data_dir)
     for partition in ("train", "test"):
         print(f"~~~ Preprocess {partition} partition")
@@ -122,4 +124,10 @@ def tokenize(text: str) -> [str]:
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--path", default="./data")
+    parser.add_argument("--annotation-type",
+                        choices=[x.value for x in ua_gec.AnnotationType],
+                        required=True)
+    args = parser.parse_args()
+    main(args.path)
