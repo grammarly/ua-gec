@@ -1,0 +1,9 @@
+{-=>一:::error_type=Punctuation} Боже мій! {-=>一:::error_type=Punctuation} вигукнув новоприбулий, схопивши його за руки. {-=>一:::error_type=Punctuation} Це Боб, точно доля. Я був упевнений, що знайду тебе тут, якщо ти все ще існуєш. Так, так, так{!=>:::error_type=Punctuation} {--=>一:::error_type=Punctuation} двадцять років-довгий термін. Старе пішло, {Боб=>Бобе:::error_type=G/Case}; шкода, що це не тривало довго, так що ми могли б ще раз повечеряти там. Як Захід обійшовся з тобою, старина?{"=>:::error_type=Punctuation}
+
+{-=>一:::error_type=Punctuation} Хуліган, він дав мені все, про що я просив. Ти дуже змінився, Джиммі. Я ніколи не думав, що ти {такий високий=>вищий:::error_type=G/Comparison} на два-три дюйми{."=>.:::error_type=Punctuation}
+
+{-=>一:::error_type=Punctuation} О, я трохи {виросла=>виріс:::error_type=G/Gender} після двадцяти{."=>.:::error_type=Punctuation}
+
+{-=>一:::error_type=Punctuation} Добре живеш {в=>у:::error_type=Spelling} Нью-Йорку, Джиммі?{"=>:::error_type=Punctuation}
+
+
