@@ -1,5 +1,5 @@
 import pytest
-from ua_gec import Corpus, Document, AnnotatedText
+from ua_gec import Corpus, Document, AnnotatedText, AnnotationLayer
 
 
 class TestCorpus:
@@ -30,6 +30,17 @@ class TestCorpus:
 
         assert doc_a1.doc_id == doc_a2.doc_id == "1224"
         assert doc_a1.target != doc_a2.target
+        
+    def test_annotation_layer(self):
+        corpus_fluency = Corpus(annotation_layer=AnnotationLayer.GecAndFluency)
+        corpus_gec = Corpus(annotation_layer=AnnotationLayer.GecOnly)
+
+        doc_fluency = str(corpus_fluency.get_doc("0012").annotated)
+        doc_gec = str(corpus_gec.get_doc("0012").annotated)
+
+        s = "число і опис не {співпадають=>збігаються:::error_type=F/Calque}" 
+        assert s in doc_fluency
+        assert s not in doc_gec
 
 
     @pytest.fixture

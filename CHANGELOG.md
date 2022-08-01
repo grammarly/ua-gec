@@ -1,10 +1,10 @@
 # Changelog
 
-## [2.0.0.dev0] - 2022-xx-xx
+## [2.0.0.dev0] - 2022-08-xx
 ### Added
 - XXXX new documents
 - TODO: detailed annotations
-- TODO: GEC-only annotations
+- GEC-only annotations
 - Multiple annotators per document (as indicated by `doc.meta.annotator_id`)
 
 ## [1.3.0.dev0] - 2022-01-17
