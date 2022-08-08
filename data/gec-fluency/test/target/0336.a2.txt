@@ -1,0 +1,9 @@
+Переклад назви не зовсім вдалий, в оригіналі книга називається "Chaos Monkey" за іменем відомої програми Netflix (https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey), що вбиває випадковий процес у системі заради певності роботи підсистеми відновлення після збоїв.
+
+Автор описує шлях свого стартапу від створення ідеї до закриття внаслідок 'aquhire' частинами. Відверто описується внутрішня кухня великих технологічних компаній. Я проковтнув цю книгу зараз протягом 6-годинного перельоту з великим задоволенням. Якщо ви маєте якийсь стосунок до adtech, то читати взагалі обов'язково.
+
+Посилання на український переклад:
+https://nashformat.ua/products/haos-u-kremnievij-dolyni.-startapy-scho-zlamaly-system...
+Вікіпедія: https://en.wikipedia.org/wiki/Chaos_Monkeys
+Амазон: https://www.amazon.com/Chaos-Monkeys-Obscene-Fortune-Failure/dp/0062458191
+netflix про chaos engeneering: https://medium.com/netflix-techblog/tagged/chaos-monkey
