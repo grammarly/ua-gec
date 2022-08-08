@@ -22,11 +22,13 @@ import ua_gec
 from pyxdameraulevenshtein import damerau_levenshtein_distance
 
 
-def main(data_dir="./data", annotation_type="gec-only"):
-    data_dir = Path(data_dir)
+def main(data_dir="./data", annotation_layer="gec-only"):
+    annotation_layer = ua_gec.AnnotationLayer(annotation_layer)
+    data_dir = Path(data_dir) / annotation_layer.value
     for partition in ("train", "test"):
         print(f"~~~ Preprocess {partition} partition")
-        do_partition(data_dir / partition, ua_gec.Corpus(partition))
+        corpus = ua_gec.Corpus(partition, annotation_layer=annotation_layer)
+        do_partition(data_dir / partition, corpus)
 
 
 def do_partition(out_dir, corpus):
@@ -126,8 +128,8 @@ def tokenize(text: str) -> [str]:
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--path", default="./data")
-    parser.add_argument("--annotation-type",
-                        choices=[x.value for x in ua_gec.AnnotationType],
+    parser.add_argument("--annotation-layer",
+                        choices=[x.value for x in ua_gec.AnnotationLayer],
                         required=True)
     args = parser.parse_args()
     main(args.path)
