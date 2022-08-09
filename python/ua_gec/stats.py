@@ -11,6 +11,7 @@ class CorpusStatistics:
     def __init__(self, corpus):
         self.corpus = corpus
         self.stats = {}
+        self.layer = self.corpus.annotation_layer.value
         self.compute()
 
     def compute(self):
@@ -47,14 +48,14 @@ class CorpusStatistics:
 
     @cache
     def count_source_sentences(self, doc):
-        with open(f"./data/{doc.meta.partition}/source-sentences-tokenized/{doc.doc_id}.src.txt") as f:
+        with open(f"./data/{self.layer}/{doc.meta.partition}/source-sentences-tokenized/{doc.doc_id}.src.txt") as f:
             content = f.read()
             sents = [s for s in content.split("\n") if s.strip()]
             return len(sents)
 
     @cache
     def count_tokens(self, doc):
-        with open(f"./data/{doc.meta.partition}/source-sentences-tokenized/{doc.doc_id}.src.txt") as f:
+        with open(f"./data/{self.layer}/{doc.meta.partition}/source-sentences-tokenized/{doc.doc_id}.src.txt") as f:
             content = f.read()
             tokens = content.split()
             return len(tokens)
@@ -95,7 +96,7 @@ class CorpusStatistics:
 
 def main(args):
     from ua_gec import Corpus
-    corpus = Corpus(args.partition)
+    corpus = Corpus(args.partition, args.layer)
     stats = CorpusStatistics(corpus)
     stats.pretty_print()
 
@@ -103,5 +104,6 @@ def main(args):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("partition", choices=["all", "train", "test"])
+    parser.add_argument("layer", choices=["gec-fluency", "gec-only"])
     args = parser.parse_args()
     main(args)
