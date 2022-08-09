@@ -11,7 +11,7 @@
 2{=>):::error_type=Punctuation} {– =>:::error_type=Punctuation}щось, чим володієш (мережа має побачити{,=>:::error_type=Punctuation} {н-д =>:::error_type=G/UngrammaticalStructure}смартфон: унікальний код на смартфон, який людина отримує на пристрій і вводить на вимогу){=>;:::error_type=Punctuation}
 3{=>):::error_type=Punctuation} {– =>:::error_type=Punctuation}щось, чим ти є (біометричні дані, {н-д =>:::error_type=G/UngrammaticalStructure}відбиток пальця, малюнок вени на руці, сітківка та ін.)
 Надійний пароль {–=>—:::error_type=Punctuation} це{:=>:::error_type=Punctuation}{\n=> :::error_type=Punctuation}довгий пароль{=>,:::error_type=Punctuation} {– =>:::error_type=Punctuation}12 і більше символів (краще довгий{=>,:::error_type=Punctuation} ніж різний){\n=>, та :::error_type=F/PoorFlow}різні символи{=>.:::error_type=Punctuation}
-Захист пристроїв {–=>—:::error_type=Punctuation} це як зводити стіни й {стелі=>стелю:::error_type=G/Number} в помешканні: пристрої потрібно блокувати, шифрувати{=>.:::error_type=Punctuatio}
+Захист пристроїв {–=>—:::error_type=Punctuation} це як зводити стіни й {стелі=>стелю:::error_type=G/Number} в помешканні: пристрої потрібно блокувати, шифрувати{=>.:::error_type=Punctuation}
 
 ПІДСУМКИ:
 1. про нові, незрозумілі, складні ситуації щодо приватності {–=>варто:::error_type=G/UngrammaticalStructure} перепитати надійну людину (комунікуємо), правило бабусі{=> :::error_type=Punctuation}/{=> :::error_type=Punctuation}правило футболки{=>;:::error_type=Punctuation}
