@@ -77,9 +77,9 @@ UA-GEC contains:
 
 | Split     | Documents | Sentences |  Tokens | Authors | Errors | 
 |:---------:|:---------:|----------:|--------:|:-------:|--------|
-| train     | 851       | 18,225    | 285,247 | 416     |
-|  test     | 160       | 2,490     | 43,432  | 76      |
-| **TOTAL** | 2,098     | 38.481    | 576,763 | 832     | 46,781 |
+| train     | 1,766     | 33,087    | 489,561 | 756     | 38,922 |
+| test      |   332     |  5,394    | 87,202  | 76      |  7,860 |
+| **TOTAL** | 2,098     | 38,481    | 576,763 | 832     | 46,781 |
 
 See [stats.gec-fluency.txt](./stats.gec-fluency.txt) for detailed statistics.
 
@@ -88,9 +88,9 @@ See [stats.gec-fluency.txt](./stats.gec-fluency.txt) for detailed statistics.
 
 | Split     | Documents | Sentences |  Tokens | Authors | Errors | 
 |:---------:|:---------:|----------:|--------:|:-------:|--------|
-| train     | 851       | 18,225    | 285,247 | 416     |
-| test     | 160       | 2,490     | 43,432  | 76      |
-| **TOTAL** | 2,098     | 38.481    | 576,763 | 832     | 46,781 |
+| train     | 1,766     | 33,097    | 489,547 | 756     | 29,814 |
+| test      |   332     |  5,408    |  87,210 |  76     |  5,931 |
+| **TOTAL** | 2,098     | 38,505    | 576,757 | 832     | 35,745 |
 
 See [stats.gec-only.txt](./stats.gec-only.txt) for detailed statistics.
 
@@ -106,7 +106,7 @@ documents, read metadata, work with annotations, etc.
 The package can be easily installed by `pip`:
 
 ```
-    $ pip install ua_gec==1.1
+    $ pip install ua_gec
 ```
 
 Alternatively, you can install it from the source code:
