@@ -26,9 +26,10 @@ def main(data_dir="./data", annotation_layer="gec-only"):
     annotation_layer = ua_gec.AnnotationLayer(annotation_layer)
     data_dir = Path(data_dir) / annotation_layer.value
     for partition in ("train", "test"):
-        print(f"~~~ Preprocess {partition} partition")
+        out_dir = data_dir / partition
+        print(f"~~~ Preprocess {partition} partition to {out_dir}")
         corpus = ua_gec.Corpus(partition, annotation_layer=annotation_layer)
-        do_partition(data_dir / partition, corpus)
+        do_partition(out_dir, corpus)
 
 
 def do_partition(out_dir, corpus):
@@ -132,4 +133,4 @@ if __name__ == "__main__":
                         choices=[x.value for x in ua_gec.AnnotationLayer],
                         required=True)
     args = parser.parse_args()
-    main(args.path)
+    main(args.path, args.annotation_layer)

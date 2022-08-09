@@ -71,7 +71,7 @@ class Corpus:
         self.annotation_layer = AnnotationLayer(annotation_layer)
 
         root_dir = pathlib.Path(__file__).parent
-        self._data_dir = root_dir / "data" / annotation_layer.value
+        self._data_dir = root_dir / "data" / self.annotation_layer.value
         self._metadata = None
         self._docs = None  # lazy loaded list of document
 
