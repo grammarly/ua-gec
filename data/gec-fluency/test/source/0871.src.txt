@@ -7,5 +7,3 @@
 Вікіпедія: https://en.wikipedia.org/wiki/Chaos_Monkeys
 Амазон: https://www.amazon.com/Chaos-Monkeys-Obscene-Fortune-Failure/dp/0062458191
 netflix про chaos engeneering: https://medium.com/netflix-techblog/tagged/chaos-monkey
-
-
