@@ -2,7 +2,8 @@
 
 
 install:
-	cd python && python setup.py develop
+	cd python/ua_gec && ln -sf ../../data data
+	cd python && python3 setup.py develop
 
 stats:
 	./python/ua_gec/stats.py all gec-fluency | tee stats.gec-fluency.txt
