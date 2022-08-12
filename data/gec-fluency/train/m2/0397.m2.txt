@@ -1,0 +1,38 @@
+S Джефф Пітерс як Персональний Магніт , Біддл " Зроби це " , кажу я , і беру Біддла за горло та майже викидую його із вікна , однак він витягує зброю і приставляє до мого підборіддя , і я стою непорушно .
+A 3 4|||Spelling|||персональний|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||магніт|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||Бідл|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 17 18|||Spelling|||Бідла|||REQUIRED|||-NONE-|||1
+A 22 23|||G/UngrammaticalStructure|||викидаю|||REQUIRED|||-NONE-|||1
+A 39 41|||F/PoorFlow|||завмираю|||REQUIRED|||-NONE-|||1
+
+S Потім він одягає мені наручники , і витягує гроші з моєї кишені .
+A 2 3|||F/Style|||надіває|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S " Я підтверджую , " каже він , " що це ті самі банкноти , що ти і я позначили , пане суддя Банкс .
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 20|||F/PoorFlow|||які ми з вами|||REQUIRED|||-NONE-|||1
+A 23 24|||G/Case|||судде|||REQUIRED|||-NONE-|||1
+A 24 25|||G/Case|||Банксе|||REQUIRED|||-NONE-|||1
+
+S Я поверну їх шерифу , коли ми повернемось до офісу , і він наш надішле вам повідомлення про отримання .
+A 3 4|||F/PoorFlow|||шерифові|||REQUIRED|||-NONE-|||1
+A 13 14|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Вони повинні бути використані як доказ у цій справі " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Гаразд , містере Біддл " , каже мер . " А зараз , доку Вак - ху" він продовжує " чому б тоді не продемонструвати ?
+A 4 5|||G/Case|||Бідле|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 15|||F/Style|||докторе|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+A 21 22|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+
+S Чи можеш ти відкоркувати свій магнетизм зубами та зробити фокус - покус , щоб зняти наручники ? "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1

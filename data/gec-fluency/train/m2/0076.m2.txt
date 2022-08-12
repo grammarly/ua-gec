@@ -1,0 +1,59 @@
+S дозволь мене почути інші звуки від тебе , " сказав скрудж , " і ти будеш зерігати своє різдво , втративши всою ситуацію , Ви , є досить потужній розмовник , сер " він додав , звертаючись до племінника . " Яя здивований ми не йдем до парламенту " .
+A 0 1|||Spelling|||"Дозволь|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||мені|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||мені|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||Скрудж|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Spelling|||зберігати|||REQUIRED|||-NONE-|||1
+A 18 19|||Spelling|||Різдво|||REQUIRED|||-NONE-|||1
+A 21 22|||Spelling|||свою|||REQUIRED|||-NONE-|||1
+A 23 24|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 25 26|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 28 29|||Spelling|||потужний|||REQUIRED|||-NONE-|||1
+A 29 30|||F/Style|||оратор|||REQUIRED|||-NONE-|||1
+A 33 33|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+A 33 34|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 35 35|||F/PoorFlow|||він|||REQUIRED|||-NONE-|||1
+A 39 41|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+A 41 42|||Spelling|||Я|||REQUIRED|||-NONE-|||1
+A 43 43|||F/PoorFlow|||, що|||REQUIRED|||-NONE-|||1
+
+S не злися дядьку . прийдем . пообідайте з нами завтра .
+A 0 1|||Spelling|||"Не|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||Прийдемо|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||Пообідай|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+
+S скрудж сказав він буде бачити його - так , насправді він зробив , він пішов як з довгим виразом , і сказав шо він буде бачити його в числі перших
+A 0 1|||Spelling|||Скрудж|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||, що|||REQUIRED|||-NONE-|||1
+A 3 4|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Tense|||бачитиме|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 19 20|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 22 22|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 22 23|||Spelling|||що|||REQUIRED|||-NONE-|||1
+A 24 25|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 25 26|||G/Tense|||бачитиме|||REQUIRED|||-NONE-|||1
+A 27 29|||F/PoorFlow|||серед|||REQUIRED|||-NONE-|||1
+A 30 30|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S але чому , крикнув скруджовий племіник , чому чому ти одружився ? сказав скрудж тому , що я влюбився
+A 0 1|||Spelling|||"Але|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||Скруджів|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||племінник|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||?|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||"Чому|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||— запитав|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||Скрудж|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||. "|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||Тому|||REQUIRED|||-NONE-|||1
+A 19 20|||F/Calque|||закохався|||REQUIRED|||-NONE-|||1
+A 20 20|||Punctuation|||".|||REQUIRED|||-NONE-|||1

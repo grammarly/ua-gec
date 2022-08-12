@@ -1,0 +1,70 @@
+S З самого дитинства моєю мрією був модельний бізнес .
+A 0 1|||Spelling|||Із|||REQUIRED|||-NONE-|||1
+
+S Проте мої мрії завжди мінялися то стати співачкою то балериною .
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Дивлячись маленькою шоу Топ модель поамериканськи в мене вперше заволоділо думкою стати моделю .
+A 1 2|||F/Style|||змалку|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 3 5|||Spelling|||Топмодель|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||по-американськи|||REQUIRED|||-NONE-|||1
+A 9 11|||F/Collocation|||виникла думка|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||моделлю|||REQUIRED|||-NONE-|||1
+
+S Після цього я взагалі захопилася всім що було зв’язане з моделінгом .
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 9|||F/PoorFlow|||стосувалося|||REQUIRED|||-NONE-|||1
+A 9 11|||G/Case|||моделінгу|||REQUIRED|||-NONE-|||1
+
+S Шоу Victoria Secret , Chanel та багато інших брендів захоплювали мене .
+A 1 1|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S Батьки не дуже переживали за мою дитячу мрію .
+A 3 4|||F/Calque|||переймалися|||REQUIRED|||-NONE-|||1
+A 4 8|||G/Case|||моєю дитячою мрією|||REQUIRED|||-NONE-|||1
+
+S Мій ріст не підходив для того щоб стати моделю .
+A 1 2|||F/Style|||зріст|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||моделлю|||REQUIRED|||-NONE-|||1
+
+S Роблячи деякі вправи для високого зросту накручувала себе що виросла .
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Style|||переконувала|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Все літо я висіла на деревах та думала що росту .
+A 0 1|||Spelling|||Усе|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Та коли приїхала у місто зрозуміла що майже не виросла і дуже засумувала .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Мої батьки не високого зросту і ось чому напевно я не виросла достатньо .
+A 2 5|||F/PoorFlow|||невисокі на зріст|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Пізніше я зрозуміла що це тільки мрія яка ніколи не збудеться .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||F/Collocation|||здійсниться|||REQUIRED|||-NONE-|||1
+
+S Всі насміхи моїх ровесників зламали мої надії на моделінг .
+A 0 1|||Spelling|||Усі|||REQUIRED|||-NONE-|||1
+
+S Іноді розумію що це не кожен може стати успішним .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Лінивість і скромність мішають добитися своєї мрії .
+A 3 4|||F/Calque|||не дають|||REQUIRED|||-NONE-|||1
+A 4 5|||F/Collocation|||досягти|||REQUIRED|||-NONE-|||1
