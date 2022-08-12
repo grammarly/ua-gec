@@ -1,0 +1,50 @@
+S Спікери та слухачі пішли далі і перемішались з іншими групами .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Скрудж знав того чоловіка , тому глянув на Привида щоб отримати пояснення .
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Привид ковзнув вулицею і вказав пальцм на двох людей .
+A 5 6|||Spelling|||пальцем|||REQUIRED|||-NONE-|||1
+
+S Скрудж прислухався знову , сподіваючить що почує пояснення там .
+A 4 5|||Spelling|||сподіваючись|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Він також чудово знав тих чоловіків .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Вони були бізнесменами : дуже багатими і важливими .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він був впевнений що вони його поважають : в професійному плані , звичайно ж , строго в професійному плані .
+A 2 3|||Spelling|||упевнений|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S - Привіт - скзав перший
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||сказав|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S - - відповів другий }
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S - Ну що ж .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Старий Скретч таки своє отримав
+A 1 2|||Spelling|||Скрудж|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S - Щось таке кажуть . - відповів другий .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Щось холодно сьогодні .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

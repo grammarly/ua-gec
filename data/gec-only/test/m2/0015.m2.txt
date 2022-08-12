@@ -1,0 +1,62 @@
+S - Це вже другий - подумав .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Цього разу вже не налякався , бо цей другий труп лежав на спині і не виказував жодних ознак життя і руху .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S - Скшетуский просто додав ходу , щоб не закритилася голова .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||Скшетуський|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||крутилася|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 1 2|||Spelling|||Скшетуський|||REQUIRED|||-NONE-|||2
+
+S Очерет ставав все густіший - що з однієї сторони давало безпечний сховок , з іншої значно утруднювало похід .
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 14 15|||G/Gender|||іншого|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 14 15|||G/Gender|||іншого|||REQUIRED|||-NONE-|||2
+A 15 15|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Пройшло ще пів години , ще година , він все ще йшов , але все більше і більше втомлювався .
+A 9 10|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Вода в деяких місцях була така мілка , що не доходила йому до гомілки , хоча місцями мусив заглиблюватись по пояс .
+A 9 9|||G/UngrammaticalStructure|||вода|||REQUIRED|||-NONE-|||1
+A 17 17|||G/UngrammaticalStructure|||він|||REQUIRED|||-NONE-|||1
+A 18 19|||Spelling|||заглиблюватися|||REQUIRED|||-NONE-|||2
+
+S Вимучувало теж незмірно довге витягування ніг з болота .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 6 7|||Spelling|||із|||REQUIRED|||-NONE-|||2
+
+S Піт заливав чоло , і водночас озноб пробивав від голови до п'ят .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S - Що це таке ? - думав зі страхом в серці - невже я схибнувся ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||Невже|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 11 11|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+A 11 13|||Spelling|||— Невже|||REQUIRED|||-NONE-|||2
+
+S Болото якесь мовчазне ; а що як не розпізнаю місця серед болота і промину ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

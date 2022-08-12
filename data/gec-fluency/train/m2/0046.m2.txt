@@ -1,0 +1,139 @@
+S тут піднялося цікаве питання .
+A 0 1|||Spelling|||Тут|||REQUIRED|||-NONE-|||1
+A 1 2|||F/Collocation|||порушили|||REQUIRED|||-NONE-|||1
+
+S справа в тому що порохоботи вперше побили слуг народу їх же зброєю - хайпом .
+A 0 1|||F/Calque|||Річ|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||G/Other|||їхньою|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S каюсь , коли я писав пост - запрошення під парламент - я ще не читав законопроект Бужанського .
+A 0 1|||Spelling|||Каюсь|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||законопроєкт|||REQUIRED|||-NONE-|||1
+
+S і не планував , ну це ж тупа вівця Бужанський - хіба він може щось хороше запропонувати .
+A 0 1|||Spelling|||І|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S потім почув що то стосується освіти і глянув - це ж сфера інтересів як не як .
+A 0 1|||Spelling|||Потім|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 16|||Spelling|||- не-як|||REQUIRED|||-NONE-|||1
+
+S законопроект насправді є незначною правкою до перехідних положень закону про освіту і до закону про середню освіту .
+A 0 1|||Spelling|||Законопроєкт|||REQUIRED|||-NONE-|||1
+
+S так сталось що офіційні мови Євросоюзу отримали три роки перехідного періоду на викладання державною , а російська - ні . ну і " русскагаварящіє учітєля " попросили підтримки і захисту .
+A 0 1|||Spelling|||Так|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 17 18|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 20 21|||Spelling|||Ну|||REQUIRED|||-NONE-|||1
+A 21 21|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S це було ще минулого року .
+A 0 1|||Spelling|||Це|||REQUIRED|||-NONE-|||1
+
+S законопроект відправили на доопрацювання - і виник він вже цього року .
+A 0 1|||Spelling|||Законопроєкт|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Style|||з'явився|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||уже|||REQUIRED|||-NONE-|||1
+
+S і у новій версії , з'явився один ну зовсім зрадний пункт :
+A 0 1|||Spelling|||І|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S " Освітні програми закладів загальної середньої освіти можуть передбачати викладання одного чи декількох навчальних предметів ( інтегрованих курсів ) поряд із державною мовою англійською чи іншими мовами національних меншин ( корінних народів ) України "
+A 35 35|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Поруч з цим було відсоткове уточнення скільки має бути гарантовано українською , та все ж це велетенський простір для зловживань .
+A 0 1|||F/Style|||Поряд|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||із|||REQUIRED|||-NONE-|||1
+
+S хоча припускаю що щось подібне вже і так є в законі - зараз лінь перечитувати .
+A 0 1|||Spelling|||Хоча|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||F/Style|||ліньки|||REQUIRED|||-NONE-|||1
+
+S і тут ніжні серця порохоботів ( і не лише ) не витримали .
+A 0 1|||Spelling|||І|||REQUIRED|||-NONE-|||1
+
+S і піднялась зрада на всю країну .
+A 0 1|||Spelling|||І|||REQUIRED|||-NONE-|||1
+
+S при чому впевнений що 95 % не розуміли чому зібрались .
+A 0 2|||F/Calque|||Втім|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||упевнений|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S просто всі українці діляться на дві категорії - ті що питають куди валити і ті що питають кого валити .
+A 0 1|||Spelling|||Просто|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S чи критичними були правки Бужанського ? ну , відверто , скоріше ні , це навіть кроком назад назвати важко .
+A 0 1|||Spelling|||Чи|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||Ну|||REQUIRED|||-NONE-|||1
+
+S достатньо було підкоректувати відсотки і вийшов би гарний збалансований закон .
+A 0 1|||Spelling|||Достатньо|||REQUIRED|||-NONE-|||1
+A 2 3|||F/Calque|||відкоректувати|||REQUIRED|||-NONE-|||1
+
+S і суспільство це нормально сприйняло б якби :
+A 0 1|||Spelling|||І|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S це робив не Бужанський .
+A 0 0|||Punctuation|||-|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Це|||REQUIRED|||-NONE-|||1
+
+S слуги не розуміють чому людей зашкварених потрібно виганяти .
+A 0 1|||Spelling|||Слуги|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S справа в тому що зашкварений депутат уже не здатен переконати когось в правильності навіть відносно адекватного рішення
+A 0 2|||F/Calque|||Річ у|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S це було нормально прокомуніковано .
+A 0 0|||Punctuation|||-|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Це|||REQUIRED|||-NONE-|||1
+
+S щo смішно , на фракції слуги народу одразу прийняли рішення це не підтримувати , але Корнієнко своєю заявою перевів вогонь з Бужанського на всю фракцію .
+A 0 1|||Spelling|||Щo|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Prep|||у|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||Слуги|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S все що потрібно було сказати не " давайте винесемо на голосування " , а " давайте винесемо , провалимо швидко і закриємо це питання "
+A 0 1|||Spelling|||Усе|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+A 7 9|||G/VerbAForm|||винесімо|||REQUIRED|||-NONE-|||1
+A 25 25|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S говорити з людьми і пояснювати свої дії .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S якби хтось притомний сказав " ми помилились і випадково російськомовні школи не отримали перехідного періоду , а тепер нам потрібно просто це виправити " - більшість сприйняла б це ок , мені здається .
+A 0 1|||Spelling|||Якби|||REQUIRED|||-NONE-|||1
+A 24 25|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S коротше , якісних комунікацій вам всім . і поменше тупих овець у фракції
+A 5 6|||Spelling|||усім|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||І|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

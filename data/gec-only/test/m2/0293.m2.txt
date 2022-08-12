@@ -1,0 +1,293 @@
+S Хроніки програміста
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S День 1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Прийшов на співбесіду .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Наразі пинають за те що не вивчив основ .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Сказали що зв'яжуться .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S День 3
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Написали на пошту , що на галері просто не вистачає людей тому знання підтягнуть .
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Сказали завтра виходити на роботу .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Думаю в них якийсь проект горить
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||проєкт|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 4 5|||Spelling|||проєкт|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S День 4
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Так і є .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Познайомили з командою і одразу посадили писати проект .
+A 3 4|||Spelling|||й|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||проєкт|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||проєкт|||REQUIRED|||-NONE-|||2
+
+S Схоже що не всі розуміють , що вони тут роблять .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S День 6
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Виявляється ми робимо ще один Facebook , але для поляків .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Маркетинг не готовий , але клієнт говорить , що він точно злетить .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S День 9
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Виявляється що ТЗ не дали , бо все можна побачити в фейсбуці .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 10 12|||Spelling|||у фейсбуку|||REQUIRED|||-NONE-|||2
+
+S Має бути все так само як і там .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Вирішили порахувати кількість екранів , збились на 70-му екрані .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Схоже ми не вкладимось в терміни .
+A 3 4|||Spelling|||вкладемось|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 3 4|||Spelling|||вкладаємося|||REQUIRED|||-NONE-|||2
+
+S День 14
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Далі бавимось Dota 2 по мережі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 2|||Spelling|||бавимося|||REQUIRED|||-NONE-|||2
+A 4 5|||G/Prep|||в|||REQUIRED|||-NONE-|||2
+
+S Якщо не завершимо проект , то може відіб’ємо кошти на турнірах .
+A 3 4|||Spelling|||проєкт|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||проєкт|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S День 16
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Виявляється в нас є менеджер проекту .
+A 5 6|||Spelling|||проєкту|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 5 6|||Spelling|||проєкту|||REQUIRED|||-NONE-|||2
+
+S Це його перший проект , але він сказав що все буде добре .
+A 3 4|||Spelling|||проєкт|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||проєкт|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Він до цього працював в одній юридичній компанії директором .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S День 17
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Як з'явився так і пропав .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S На повідомлення не відповідає і на стендапах не з'являється .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Схоже він уже для себе все “ порішав ” .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Затащили ще три катки .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S З нас може вийти дійсно хороша команда .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S День 18
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Прийшло керівництво і повідомило , що у нас буде новий менеджер проекту .
+A 11 12|||Spelling|||проєкту|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||проєкту|||REQUIRED|||-NONE-|||2
+
+S Робимо ставки скільки років йому буде .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Більшість за 19 років .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S День 21
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Жоден з нас не вгадав з віком , йому 55 і раніше він працював на держслужбі , видавав довідки .
+A 1 2|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Привітався , “ задвинув спіч ” , що все буде добре і пішов на кухню набирати хавку додому .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S День 23
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Згадали що ми працюємо по Agile і в нас завтра демо проекту .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||проєкту|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 11 12|||Spelling|||проєкту|||REQUIRED|||-NONE-|||2
+
+S Новий менеджер заявив , що бере лікарняний і що нічим не може допомогти .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Попросили дизайнера накидати пару скрінів і зняти на відео переходи .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S День 24
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Мене вибрали жертвою для демонстрації програми .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ледь не спалився коли екран сам перескочив на екран коли я нічого не нажимав .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 9 10|||G/Conjunction|||хоча|||REQUIRED|||-NONE-|||2
+
+S Сказав що ми зробити AI яке підказує користувачу яку статтю читати , клієнт повірив і попросив добавити AI на кожен екран .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Gender|||який|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 5 6|||G/Conjunction|||що|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S День 28
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Менеджер повернувся з лікарняного загорілим , виправдовувався що мав проблеми з шкірою , але ми знайшли його інстаграм , залишили собі пару фото для шантажу .
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 10 11|||Spelling|||зі|||REQUIRED|||-NONE-|||2
+
+S День 29
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Менеджер уже 5й раз приходить перепитує як справи з проектом і чи встигнемо .
+A 2 3|||Spelling|||5-й|||REQUIRED|||-NONE-|||1
+A 5 5|||G/UngrammaticalStructure|||і|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||проєктом|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||5-й|||REQUIRED|||-NONE-|||2
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 9 10|||Spelling|||проєктом|||REQUIRED|||-NONE-|||2
+
+S Пояснили що не встигнемо бо серед нас не має бек - ендера .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 9|||Spelling|||немає|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 7 9|||Spelling|||немає|||REQUIRED|||-NONE-|||2
+A 9 12|||Spelling|||бекендера|||REQUIRED|||-NONE-|||2
+
+S Менеджер сказав що вирішить це питання .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S День 30
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Він таки вирішив .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S В команду долучилась Олена Бендер , навіть не знаю як він її знайшов .
+A 0 1|||G/Prep|||До|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||команди|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||2
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S На диво вона ще і вміє писати на php , і класно супортить на сейф лейні .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 4 5|||Spelling|||й|||REQUIRED|||-NONE-|||2
+A 5 6|||Spelling|||уміє|||REQUIRED|||-NONE-|||2
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 12 13|||Spelling|||сапортить|||REQUIRED|||-NONE-|||2
+
+S Тепер у нас є команда на Інтернешнл .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Подали заявку
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 2 2|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Далі буде ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

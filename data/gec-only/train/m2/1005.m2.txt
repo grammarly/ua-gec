@@ -1,0 +1,37 @@
+S Рівне гудіння машини що летить високо над землею вбаюкувало Маргариту , а луннее світло її ніжно зігрівало .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Закривши очі вона віддала лице вітру і думала з якоюсь гррустю про покинуий нею невідомий берег річки , яку як вона відчувала більш ніколи не побачить .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||G/Gender|||якимсь|||REQUIRED|||-NONE-|||1
+A 10 11|||G/UngrammaticalStructure|||смутком|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||покинутий|||REQUIRED|||-NONE-|||1
+A 19 19|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 22 22|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 22 23|||Spelling|||більше|||REQUIRED|||-NONE-|||1
+
+S Після усього волшебства та чудес сьогоднішього вечора вона вжее догадувалася до кого саме в гості її везуть , але її це н лякало .
+A 5 6|||Spelling|||сьогоднішнього|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||вже|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 21 22|||Spelling|||не|||REQUIRED|||-NONE-|||1
+
+S Надія та те , що їх вдаться там добитися повернення свого щастя зробила її безстрашною .
+A 1 2|||G/UngrammaticalStructure|||на|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Number|||їй|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||вдасться|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Проте довго мріяти про це в машині не довелось .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Чи то водій добрее знав свою справу , чи то машина була гарною , але незабаром Маргарита відкриши очі побачила над собою не лісову темряву проте мерехтяче море московських вогнів .
+A 3 4|||Spelling|||добре|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 17 18|||Spelling|||розплющивши|||REQUIRED|||-NONE-|||1
+A 19 19|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 25 25|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 25 26|||G/Conjunction|||а|||REQUIRED|||-NONE-|||1
+A 26 27|||G/PartVoice|||мерехтливе|||REQUIRED|||-NONE-|||1
+

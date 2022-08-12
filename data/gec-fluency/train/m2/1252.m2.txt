@@ -1,0 +1,54 @@
+S Левий , осмисливши сказане , затих , але заявив , що він нікуди не піде і бажає брати участь у похованні .
+A 0 1|||Spelling|||Левій|||REQUIRED|||-NONE-|||1
+A 16 17|||F/Style|||хоче|||REQUIRED|||-NONE-|||1
+
+S Він сказав , що не піде , навіть якщо його почнуть вбивати , і навіть пропонував для цієї мети хлібний ніж , який був з ним .
+A 11 12|||Spelling|||убивати|||REQUIRED|||-NONE-|||1
+
+S - Його прогнали ? - здавленим голосом запитав Пілат .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||Пилат|||REQUIRED|||-NONE-|||1
+
+S - Ні , прокуратор , немає .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Case|||прокураторе|||REQUIRED|||-NONE-|||1
+A 5 6|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Мій помічник дозволив йому брати участь у похованні .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Хто з ваших помічників керував цим ? - запитав Пілат .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||Пилат|||REQUIRED|||-NONE-|||1
+
+S - Толман , - відповів Афраний і додав в тривозі : - Може бути , він припустився помилки ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||Афраній|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S - Продовжуйте , - відповів Пілат , - помилки не було .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||Пилат|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я взагалі починаю трохи губитися , Афраний , я , мабуть , маю справу з людиною , яка ніколи не робить помилок .
+A 6 7|||G/Case|||Афранію|||REQUIRED|||-NONE-|||1
+
+S Ця людина - ви .
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Левия Матвія взяли в візок разом з тілами страчених і години через два досягли пустельного ущелини на північ від Ершалаима .
+A 0 1|||Spelling|||Левія|||REQUIRED|||-NONE-|||1
+A 12 13|||G/Gender|||дві|||REQUIRED|||-NONE-|||1
+A 14 15|||G/Gender|||пустельної|||REQUIRED|||-NONE-|||1
+A 19 20|||Spelling|||Єршалаїма|||REQUIRED|||-NONE-|||1
+
+S Там команда , працюючи позмінно , протягом години викопала глибоку яму і в ній поховала всіх трьох страчених .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

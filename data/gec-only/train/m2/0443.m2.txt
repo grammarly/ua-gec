@@ -1,0 +1,9 @@
+S Складно не cтільки пробачити .
+A 2 3|||G/Conjunction|||так|||REQUIRED|||-NONE-|||1
+
+S Відновити все , як було до того складніше , якщо й , взагалі , можливо .
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||узагалі|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+

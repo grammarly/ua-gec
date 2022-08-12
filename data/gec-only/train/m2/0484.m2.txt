@@ -1,0 +1,8 @@
+S От цікаво , у хробацького дєнєг нєт найняти нормальні кадри ?
+A 4 4|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S Рівеь маніпуляції тут десь як у поганого студента .
+A 0 1|||Spelling|||Рівень|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+

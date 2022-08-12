@@ -1,0 +1,67 @@
+S Камон , я ж розумію що абсолютно несуттєво що я тут напишу .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 0 1|||F/Calque|||Ну ж бо|||REQUIRED|||-NONE-|||2
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Однак важливий тон і важливі слова що я оберу .
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||G/Conjunction|||які|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Number|||важливі|||REQUIRED|||-NONE-|||2
+A 4 5|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S А ще як я формулюю думку .
+A 2 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 2|||G/UngrammaticalStructure|||важливо ,|||REQUIRED|||-NONE-|||2
+
+S Цікаво чому саме ці теми ?
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Інші теми мені видаються неймовірно занудними .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 5 6|||F/Style|||нудними|||REQUIRED|||-NONE-|||2
+
+S А може так і замислювалось ?
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||F/Style|||планувалося|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 4 5|||F/Style|||було задумано|||REQUIRED|||-NONE-|||2
+
+S Що б це могло означати ?
+A 1 2|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 4|||F/PoorFlow|||б|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ми , математики , жахливі люди .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S уявіть , все життя дивитись на речі от так , трішки наскрізь , не маючи змоги просто забути про подвійне дно і намагаючись до всього докопатись .
+A 0 1|||Spelling|||Уявіть|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Уявіть|||REQUIRED|||-NONE-|||2
+
+S На днях мене накрило дивне відчуття , коли я усвідомив що слухаю про фільм , а уявляю код , який дозволив відобразити ефекти , які описував співрозмовник .
+A 0 2|||F/PoorFlow|||Днями|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 24 25|||F/Repetition|||що їх|||REQUIRED|||-NONE-|||1
+A 0 2|||F/Style|||Нещодавно|||REQUIRED|||-NONE-|||2
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S коротше , любий Санта , навчи мене вимикати математика в собі , хоча б час від часу .
+A 0 1|||Spelling|||Коротше|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Case|||Санто|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Коротше|||REQUIRED|||-NONE-|||2
+
+S А ще хочу милу розумну дівчину , нову професію і розумну нейронку , яка буде виправляти мої помилки .
+A 14 15|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 15 16|||G/Tense|||виправлятиме|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S дякую .
+A 0 1|||Spelling|||Дякую|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Дякую|||REQUIRED|||-NONE-|||2
+

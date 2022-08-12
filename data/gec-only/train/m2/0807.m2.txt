@@ -1,0 +1,54 @@
+S " Я був на одному або двох хибних , " він замітив .
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Я знаю щось з детективних методів , і я дотримуюсь пятьох з них , намагаючись найти Джолнес на іншому кінці .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||п'ятьох|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||із|||REQUIRED|||-NONE-|||1
+
+S Пісолет був сорока - пяти каліберний .
+A 0 1|||Spelling|||Пістолет|||REQUIRED|||-NONE-|||1
+A 2 6|||Spelling|||сорокап'ятикаліберний|||REQUIRED|||-NONE-|||1
+
+S , Я подумав , що найду його на роботі на сорок - пятій вулиці .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Aspect|||знайду|||REQUIRED|||-NONE-|||1
+A 10 13|||Spelling|||Сорок П'ятій|||REQUIRED|||-NONE-|||1
+
+S Потім , знову , я подивився детектив в Колумбійському універсиеті , оскільки чоловік був прострілений у спину природно нахмурившись .
+A 7 8|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||університеті|||REQUIRED|||-NONE-|||1
+A 12 16|||G/VerbVoice|||чоловікові прострелили|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 17 17|||G/UngrammaticalStructure|||він|||REQUIRED|||-NONE-|||1
+A 18 19|||G/UngrammaticalStructure|||нахмурився|||REQUIRED|||-NONE-|||1
+
+S Але я не міг знайи його слід .
+A 4 5|||Spelling|||знайти|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S " -- Ні ти будеш " , сказав я рішучо .
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||рішуче|||REQUIRED|||-NONE-|||1
+
+S " Не банальними методами " , сказав Лицар .
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Я міг би цілий місяць ходити Бродвегом без сенсу .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Але ви викликали в мене гордість , лікарю ; і якщо я сьогодні не зможу вам показаи Шармока Джолнеса , я обіцяю тобі я ніколи більше не вбивав або грабував в твому місті знову .
+A 16 17|||Spelling|||показати|||REQUIRED|||-NONE-|||1
+A 22 24|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 27 28|||G/Tense|||вбивати|||REQUIRED|||-NONE-|||1
+A 29 30|||G/Tense|||грабувати|||REQUIRED|||-NONE-|||1
+A 30 31|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 31 32|||Spelling|||твоєму|||REQUIRED|||-NONE-|||1
+A 34 35|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S "
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+

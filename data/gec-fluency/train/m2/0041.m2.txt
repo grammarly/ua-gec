@@ -1,0 +1,61 @@
+S - Я б порадив вам , пане , взяти ось цей прекрасний револьвер .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Система Світ и Вессон .
+A 1 2|||Spelling|||Сміт|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||і|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S Останнє слово вогнепальної науки .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Потрійної дії , з єкстрактором , б'є на шість сотень шагів , центрального бою .
+A 4 5|||Spelling|||екстрактором|||REQUIRED|||-NONE-|||1
+A 8 10|||F/Style|||шістсот|||REQUIRED|||-NONE-|||1
+
+S Акцентую , пане , вашу увагу на чистоту обробки .
+A 7 8|||G/Case|||чистоті|||REQUIRED|||-NONE-|||1
+
+S Сама модна система , пане ...
+A 0 2|||G/Comparison|||Наймодніша|||REQUIRED|||-NONE-|||1
+
+S Кожного дня продаємо десятку для розбійників , волків та любовників .
+A 0 2|||F/Style|||Щодня|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Case|||десяток|||REQUIRED|||-NONE-|||1
+A 7 8|||F/Calque|||" вовків "|||REQUIRED|||-NONE-|||1
+A 9 10|||F/Calque|||коханців|||REQUIRED|||-NONE-|||1
+
+S Дуже вірний та сильний бій , б'є на великій дистанції та вбиває жінку та любовника .
+A 1 2|||F/Style|||прицільний|||REQUIRED|||-NONE-|||1
+A 4 5|||F/Style|||постріл|||REQUIRED|||-NONE-|||1
+A 13 14|||F/Repetition|||і|||REQUIRED|||-NONE-|||1
+A 14 15|||F/Calque|||коханця|||REQUIRED|||-NONE-|||1
+
+S Що до самогубць , то , пане , я не знаю кращої системи ...
+A 1 1|||F/Other|||ж|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Case|||самогубців|||REQUIRED|||-NONE-|||1
+
+S Приказчик підіймав та опускав курки , дмухав на стволи , прицілювався та робив вид що задихається від захвату .
+A 0 1|||F/Calque|||Продавець|||REQUIRED|||-NONE-|||1
+A 11 12|||F/Repetition|||і|||REQUIRED|||-NONE-|||1
+A 12 14|||F/Calque|||вдавав|||REQUIRED|||-NONE-|||1
+A 14 17|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 17 18|||G/Case|||захват|||REQUIRED|||-NONE-|||1
+
+S Дивившись на його захопленне лице , можна було б подумати , що він сам охотно пустив собі кулю в лоб , якщо би тільки обладав таким револьвером прекрасної конструкції , як Сміт і Вессон .
+A 0 1|||F/Style|||Глянувши|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||захоплене|||REQUIRED|||-NONE-|||1
+A 14 15|||F/Calque|||охоче|||REQUIRED|||-NONE-|||1
+A 19 20|||G/Case|||лоба|||REQUIRED|||-NONE-|||1
+A 21 23|||G/Conjunction|||якби|||REQUIRED|||-NONE-|||1
+A 23 25|||F/Calque|||мав за щастя володіти|||REQUIRED|||-NONE-|||1
+A 31 31|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 34 34|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S - А яка ціна ? - спитав Сигаев
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - 45 рублів , пане .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

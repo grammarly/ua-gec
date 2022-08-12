@@ -1,0 +1,66 @@
+S - Як щодо цього ? - запитала я .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Це водяний знак , - сказав Ґудлу .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Папір було виготовлено в 1898 році .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Письмо на папері датоване 1863 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Це очевидна підробка .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Ой , я не знаю , - сказала я . - Рундлеси досить надійні , прості й неосвічені сільські люди .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Можливо , виробники паперу намагалися вчинити шахрайство .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S І тоді Ґудлу Бенкс підійшов так швидко , як дозволяло його виховання .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він спустив окуляри на ніс і поглянув на мене .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Я часто казав тобі , що ти дурненька , - сказав він .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ти дозволила невігласу обдурити себе .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S І зараз ти обдурила мене .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Як , - запитала я , - я могла вас обдурити ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Завдяки своїй байдужості , - сказав він .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Двічі я виявляв у твоїх планах серйозні недоліки , яких би не допустила людина зі шкільною освітою .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S До того ж , - він продовжив , - я витратив тяжко зароблені гроші в погоні за розв'язанням цієї шахрайської справи .
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 14 18|||F/PoorFlow|||намагаючись розв'язати|||REQUIRED|||-NONE-|||1
+A 18 19|||G/Case|||цю|||REQUIRED|||-NONE-|||1
+A 19 20|||G/Case|||шахрайську|||REQUIRED|||-NONE-|||1
+A 20 21|||G/Case|||справу|||REQUIRED|||-NONE-|||1
+
+S Я більше не беру в цьому участі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

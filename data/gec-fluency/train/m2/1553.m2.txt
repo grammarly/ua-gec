@@ -1,0 +1,71 @@
+S Лікар запитально подивився на Рюхіна , і той похмуро пробурмотів :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Ресторан має таку назву .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ага , - сказав лікар , - а чому так поспішали ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Якісь ділові справи ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Консультанта я ловлю , - відповів Іван Миколайович і тривожно озирнувся .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Якого консультанта ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ви Берліоза знаєте ? - запитав Іван багатозначно .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Це ... композитор ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Іван засмутився .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Який там композитор ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S О так , ах ні !
+A 3 4|||F/Style|||ох|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Композитор - це тезка Міші Берліоза !
+A 1 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Рюхіну не хотілося нічого говорити , але довелося пояснити .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Секретаря МАССОЛІТа Берліоза сьогодні ввечері задавило трамваєм на Патріарших .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Не бреши ти , чого не знаєш ! - розсердився на Рюхіна Іван , - я , а не ти був там .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 21 21|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Він його навмисне під трамвай пристроїв !
+A 5 6|||F/Calque|||прилаштував|||REQUIRED|||-NONE-|||1
+
+S - Штовхнув ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Та які там « штовхнув » ? - сердячись на загальну безглуздість , вигукнув Іван , - такого і штовхати не треба !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Number|||яке|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 17 18|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Він такі штуки може виробляти , що тільки тримайся !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він заздалегідь знав , що Берліоз потрапить під трамвай !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

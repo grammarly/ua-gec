@@ -1,0 +1,61 @@
+S Воланд пильно подивився на неї і посунув до неї коліно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 2 3|||G/Aspect|||дивився|||REQUIRED|||-NONE-|||2
+
+S Гаряча , як лава , жижа обпікала руки , але Маргарита , що не кривлячись , намагаючись не завдавати болю , втирала її в коліно .
+A 12 13|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 14 15|||G/Participle|||скривившись|||REQUIRED|||-NONE-|||1
+A 12 13|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+A 14 15|||G/Participle|||скривившись|||REQUIRED|||-NONE-|||2
+
+S - Наближені стверджують , що це ревматизм , - сказав Воланд , не зводячи очей з Маргарити , - але я сильно підозрюю , що цей біль в коліні залишений мені на пам'ять однією чарівною відьмою , з якою я близько познайомився в тисячу п'ятсот сімдесят першому році в Брокенскіх горах , на чортовій кафедрі .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 27 28|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 29 30|||G/VerbVoice|||залишила|||REQUIRED|||-NONE-|||1
+A 33 34|||G/Case|||одна|||REQUIRED|||-NONE-|||1
+A 34 35|||G/Case|||чарівна|||REQUIRED|||-NONE-|||1
+A 35 36|||G/Case|||відьма|||REQUIRED|||-NONE-|||1
+A 43 44|||G/Case|||тисяча|||REQUIRED|||-NONE-|||1
+A 49 50|||Spelling|||Брокенських|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 15 16|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 18 19|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 29 36|||G/VerbVoice|||залишила мені на пам’ять одна чарівна відьма|||REQUIRED|||-NONE-|||2
+A 43 44|||G/Case|||тисяча|||REQUIRED|||-NONE-|||2
+A 49 50|||Spelling|||Брокенських|||REQUIRED|||-NONE-|||2
+
+S - Ах , чи може це бути ! - сказала Маргарита .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S - Дурниці !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Років через триста це пройде .
+A 1 2|||G/Prep|||за|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Мені порадили безліч ліків , але я по-старому дотримуюся бабусиних засобів .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Вражаючі трави залишила в спадок погана старенька , моя бабуся !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S До речі , скажіть , а ви не страждаєте чимось ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Може бути , у вас є який - небудь сум , отруююча душу , туга ?
+A 1 2|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 15|||G/UngrammaticalStructure|||туга , що отруює душу|||REQUIRED|||-NONE-|||1
+A 1 2|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+A 11 15|||G/UngrammaticalStructure|||туга , що отруює душу|||REQUIRED|||-NONE-|||2
+

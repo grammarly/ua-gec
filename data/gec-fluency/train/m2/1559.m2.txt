@@ -1,0 +1,97 @@
+S - Ну , спи , спи ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Тобі кажу , страшно !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Що тобі страшно ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Якою пустун !
+A 0 1|||G/Gender|||Який|||REQUIRED|||-NONE-|||1
+
+S Помовчали .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Альошка раптом вискочив з саней і , голосно заплакав , підбіг до діда .
+A 3 4|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Particle|||заплакавши|||REQUIRED|||-NONE-|||1
+
+S - Що ти ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Чого тобі ? - злякався кучер , теж підводячись .
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Виє !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Хто виє ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Страшно , дід ... Чуєш ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Case|||діду|||REQUIRED|||-NONE-|||1
+
+S Кучер прислухався .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Це плачуть , - сказав він .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ну піди , дурник .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Їм шкода , ну і плачуть .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Я в село хочу ... - продовжував онук , схлипуючи та тремтячи всім тілом .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Дід , поїдемо в село до мамки ; поїдемо , дід , милий , бог тобі за це пошле царство небесне ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||Діду|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Case|||діду|||REQUIRED|||-NONE-|||1
+
+S - Якою дурень , а !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Gender|||Який|||REQUIRED|||-NONE-|||1
+A 4 5|||F/Style|||га|||REQUIRED|||-NONE-|||1
+
+S Ну , мовчи , мовчи ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Мовчи , я ліхтар засвічений ... Дурень !
+A 4 5|||G/VerbVoice|||засвічу|||REQUIRED|||-NONE-|||1
+
+S Кучер намацав сірники і запалив ліхтар .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Але світ не заспокоїв Олексія
+A 1 2|||F/Style|||світло|||REQUIRED|||-NONE-|||1
+A 3 4|||G/VerbVoice|||заспокоїло|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S - Дід Степан , поїдемо в село ! - просив він , плачучи .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||Діду|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Case|||Степане|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Мені тут страшно ... і -і , як страшно !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S І навіщо ти , окаянний , мене з села виписав ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Хто це окаянний ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S А хіба можна законному дідові такі безпідставні слова ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Випорю !
+A 0 1|||F/Calque|||Відлупцюю|||REQUIRED|||-NONE-|||1
+

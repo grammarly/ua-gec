@@ -1,0 +1,35 @@
+S " Мій любий лікарю " , дещо скуто сказав Найт .
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Хочу вам нагадати , що я не гравець . "
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Я прошу вибачення " , відповів я .
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Але я сумніваюся , що ви знайдете Джолнса . "
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Таксі зупинилося біля однієї з найкрасивіших резиденцій , розташованих на авеню .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Перед будинком туди й сюди прогулювався чоловік з рудими вусами , а також зі значком детектива , що майорів на лацкані його пальта .
+A 7 8|||Spelling|||із|||REQUIRED|||-NONE-|||1
+
+S Час від часу чоловік знімав вуса щоб витерти обличчя і тоді я одразу упізнавав риси великого нью-йоркського детектива .
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Джолнс пильно стежив за дверима та вікнами будинку .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Ну що , лікарю , " сказав Найт , що не міг стримати ноти тріумфу у своєму голосі , " ви бачили ? "
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 20 21|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

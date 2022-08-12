@@ -1,0 +1,232 @@
+S гаразд , фактами не доходить , давайте спробуємо аналогії .
+A 0 1|||Spelling|||Гаразд|||REQUIRED|||-NONE-|||1
+A 6 7|||G/Aspect|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||G/Other|||спробуймо|||REQUIRED|||-NONE-|||1
+
+S уявіть .
+A 0 1|||Spelling|||Уявіть|||REQUIRED|||-NONE-|||1
+
+S був пацанчик .
+A 0 1|||Spelling|||Був|||REQUIRED|||-NONE-|||1
+
+S років 15 . ніколи толком не вчився і себе не розвивав , лише в качалку ходив і навчився віртуозно з кастетом працювати .
+A 0 1|||Spelling|||Років|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||Ніколи|||REQUIRED|||-NONE-|||1
+
+S ну , як віртуозно , сусідських дітей позалякував , свою сім'ю тероризував , але коли спробував наїхати на значно меншого за себе північного сусіда - отримав по зубах .
+A 0 1|||Spelling|||Ну|||REQUIRED|||-NONE-|||1
+A 24 25|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S одного разу він зустрів матьорого бандита . професіонала своєї справи , хоч і схибленого .
+A 0 1|||Spelling|||Одного|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S і вони домовились разом пограбувати людину , підписали пакт - і це зробили .
+A 0 1|||Spelling|||І|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S але так склалось що в цієї людини був договір з охоронною фірмою .
+A 0 1|||Spelling|||Але|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S коли до пацанчика прийшли - він сказав : " я , а шо я - це все він , я взагалі намагався допомогти цій людині " .
+A 0 1|||Spelling|||Коли|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 12|||Spelling|||А|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||що|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S насправді окрім цієї людини вони там ще трохи разом побузили , вчили один одного битись , зброєю обмінювались , ресурси , всє дєла , ну але чорт з ним . найсмішніше що вони настільки не соромились - що все це вказано в підписаному пакті .
+A 0 1|||Spelling|||Насправді|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 27 28|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 30 31|||Spelling|||Найсмішніше|||REQUIRED|||-NONE-|||1
+A 31 31|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 36 38|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S але дружбі прийшов кінець , бо апетит приходить під час їжі і пацанчику здалось що йому має належати більша частка .
+A 0 1|||Spelling|||Але|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S він уже планував скинути цеглину на голову своєму недавньому корєшу - але той не дарма був професіоналом - чекав цього .
+A 0 1|||Spelling|||Він|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 13 15|||Spelling|||недарма|||REQUIRED|||-NONE-|||1
+A 17 18|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S коли наш пацанчик сидів в засідці на даху - бандит до нього підкрався і скинув вниз .
+A 0 1|||Spelling|||Коли|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S пацанчик поламав ноги , але відмовитись від затії вже не міг . тому він пригрозив сім'ї , що якщо вони його не підтримають - то всі підуть під ніж .
+A 0 1|||Spelling|||Пацанчик|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||Тому|||REQUIRED|||-NONE-|||1
+A 19 20|||G/Number|||вона|||REQUIRED|||-NONE-|||1
+A 22 23|||G/Number|||підтримає|||REQUIRED|||-NONE-|||1
+A 23 24|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S і погрозами і залякуванням змусив їх долучитись до боротьби з бандитом .
+A 0 1|||Spelling|||І|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S врешті охоронна фірма , не без допомоги інших жителів міста , бандита і його шайку скрутила , пацанчик гордо попозував поруч .
+A 0 1|||Spelling|||Врешті|||REQUIRED|||-NONE-|||1
+
+S оскільки він був тіп неприємний то щоб його не злити його навіть посадили поруч на пресконференції .
+A 0 1|||Spelling|||Оскільки|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||тип|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S але після цього стало лише гірше - пацанчик вирішив що він єдиний головний переможець , а всі решту - то так , шото там дєлалі .
+A 0 1|||Spelling|||Але|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S він переконав в цьому сім'ю , потім найближче оточення , потім почав залякувати сусідів . розвісив всюди свої портрети .
+A 0 1|||Spelling|||Він|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 16 17|||Spelling|||усюди|||REQUIRED|||-NONE-|||1
+
+S коли йому закидали що він мудак - він показував на милиці ( які йому вже не були потрібні , ну але ж статус ) і розповідав про той жахливий день , коли він мирно собі курив на лавочці , як раптом цей бандюк підступно . о 5ій ранку , на нього напав і покалічив .
+A 0 1|||Spelling|||Коли|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 44 45|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 46 47|||Spelling|||5-ій|||REQUIRED|||-NONE-|||1
+
+S він настільки довго це повторював - що зрештою всі повірили .
+A 0 1|||Spelling|||Він|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S а хто не повірив - той боявся і робив вигляд що так і було .
+A 0 1|||Spelling|||А|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S звісно , охоронна фірма і адекватні люди розуміли що відбувається .
+A 0 1|||Spelling|||Звісно|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S спершу вони думали що він божевільний , але після декількох кіпішів на вулиці за його участі і покупки ним гранатомета - сприйняли погрози всерйоз , хоча не перестали вважати психом .
+A 0 1|||Spelling|||Спершу|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 20 21|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S просто псих з гранатометом і без нього - це дві великі різниці .
+A 0 1|||Spelling|||Просто|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S у них теж був гранатомет , але оскільки відбудовувати місто довго - з ним розібрались інакше .
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S спершу він втратив роботу , потім закінчились гроші , союзників у нього ставало все менше і зрештою він спився - і всі видихнули з полегшенням .
+A 0 1|||Spelling|||Спершу|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 16 16|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 19 20|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 21 22|||Spelling|||усі|||REQUIRED|||-NONE-|||1
+
+S з його колишнім оточенням навіть почали спілкуватись і пробували їх повернути до нормальної взаємодії .
+A 0 1|||Spelling|||З|||REQUIRED|||-NONE-|||1
+
+S але вони не врахували однієї штуки - надто довго його сім'я жила в таких умовах .
+A 0 1|||Spelling|||Але|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S надто довго дивилась на героя і вірила в пабєду .
+A 0 1|||Spelling|||Надто|||REQUIRED|||-NONE-|||1
+
+S і тому його синок - коротунчик взявся продовжити справу героїчного батька .
+A 0 2|||Spelling|||Тому|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||узявся|||REQUIRED|||-NONE-|||1
+
+S спершу він нагадав сім'ї що вони сім'я - а то розслабились всі , демократія , рішення приймати разом .
+A 0 1|||Spelling|||Спершу|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||усі|||REQUIRED|||-NONE-|||1
+
+S ще чого .
+A 0 1|||Spelling|||Ще|||REQUIRED|||-NONE-|||1
+
+S потім вони почали наламуватись до сусідів .
+A 0 1|||Spelling|||Потім|||REQUIRED|||-NONE-|||1
+
+S як в старі добрі часи .
+A 0 1|||Spelling|||Як|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S одних залякали , других знищили , у третіх - вигнали з дому адекватних , а з алкашем Рамзаном об'єднали зусилля .
+A 0 1|||Spelling|||Одних|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S охоронна фірма на те все спокійно дивилась .
+A 0 1|||Spelling|||Охоронна|||REQUIRED|||-NONE-|||1
+
+S по-перше , договору про охорону немає , а , по-друге , ну це ж його будинок .
+A 0 1|||Spelling|||По-перше|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S і , можливо в нього все і вдалося б поступово , але один із сусідів дав йому здачі .
+A 0 1|||Spelling|||І|||REQUIRED|||-NONE-|||1
+A 3 5|||G/Case|||йому|||REQUIRED|||-NONE-|||1
+
+S дав боляче . на очах у всього міста .
+A 0 1|||Spelling|||Дав|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S новий пацанчик звісно всім оголосив що сусід бився сам з собою , але ж всі все розуміють .
+A 0 1|||Spelling|||Новий|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||усі|||REQUIRED|||-NONE-|||1
+
+S в цього сусіда , до речі , теж колись був один із гранатометів , але його переконали здати його - і здавалось що він - легка здобич .
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
+A 19 20|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 21 21|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 22 22|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 24 25|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S але ні .
+A 0 1|||Spelling|||Але|||REQUIRED|||-NONE-|||1
+
+S і був би хеппі енд , якби не одне але .
+A 0 1|||Spelling|||І|||REQUIRED|||-NONE-|||1
+A 3 5|||Spelling|||хепіенд|||REQUIRED|||-NONE-|||1
+
+S в цього сусіда , поруч з роботягами і талановитими дітьми жили родичі , які довго знаходились під владою пацанчика .
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||із|||REQUIRED|||-NONE-|||1
+
+S вони никали під подушкою його портрети і в визначені дні ходили і нажирались на дєнь пабєди .
+A 0 1|||Spelling|||Вони|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 16 16|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S і стверджували що " можем павтаріть " .
+A 0 1|||Spelling|||І|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S звісно , їм було комфортно це робити за спинами адекватної частини сім'ї .
+A 0 1|||Spelling|||Звісно|||REQUIRED|||-NONE-|||1
+
+S Ви знаходитесь тут ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Без моралі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

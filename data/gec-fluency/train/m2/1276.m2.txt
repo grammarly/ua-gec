@@ -1,0 +1,61 @@
+S " Він відраховує п'ять купюр по п'ятдесят доларів і тримає їх у руці .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " " Принесіть чек' , каже він Біддлу .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Я підписав чек і майор принесе мені гроші .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Я обережно покладу їх до себе в кишеню .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " А тепер робіть те , що маєте , офіцере . ' каже майор із зовсім не властивим для хворого голосом .
+A 10 12|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+
+S " Містер Біддл кладе свою долоню на мою руку .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S " Ви заарештовані , докторе Воо-ху , також відомий як Пітерс " , каже він . " за практику медицини без ліцензії , як написано у законі Штату . "
+A 4 5|||F/Calque|||лікарю|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 28 29|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 30 30|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Хто ви , - питаю я .
+A 3 3|||Punctuation|||? "|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Я скажу вам , хто він . - каже Містер Майор , сидячи на ліжку .
+A 7 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Він - детектив , якого найняло Штатське Медицинське Суспільство .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 10|||F/PoorFlow|||Державне медичне товариство|||REQUIRED|||-NONE-|||1
+
+S Він стежив за вами близько у п'яти округах .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Детектив прийшов до мене вчора із готовою схемою вашого захоплення .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я думаю , що в районах тих частин ви більше не будете лікаре , Містере Фекір .
+A 12 13|||G/Case|||лікарем|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||містере|||REQUIRED|||-NONE-|||1
+
+S Так ось , що правда з того , що я сказав , док ? " - майор засміявся - " погодьтеся - це не розм'якшення мозку , я думаю . "
+A 12 13|||G/Case|||доку|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 18 18|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 19 20|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 21 22|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 29 30|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 31 31|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

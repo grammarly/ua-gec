@@ -1,0 +1,73 @@
+S " Жалюгідне виправдання для виманювання людських грошей кожного грудня , двадцять п'ятого числа ! " сказав Скрудж , защипаючи своє чудове пальто до підборідка .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 5|||F/PoorFlow|||щоб виманювати|||REQUIRED|||-NONE-|||1
+A 5 7|||G/Case|||людські гроші|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 18 19|||Spelling|||защіпаючи|||REQUIRED|||-NONE-|||1
+A 23 24|||G/UngrammaticalStructure|||підборіддя|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 15 15|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 18 19|||F/Style|||застібаючи|||REQUIRED|||-NONE-|||2
+A 23 24|||F/Calque|||підборіддя|||REQUIRED|||-NONE-|||2
+
+S " Але я сподіваюся ти матимеш цілий день .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Офіс закривався коли сутеніло і клерк , з довгими кінцями білого покривала , що звисало нижче його талії ( він не міг похвалитися гарним пальтом ) , попрямував вниз Корнхіл , в кінці провулку хлопці , вдвадцяте , в честь Різдва , а тоді побіг додому на Камден так швидко , як міг , щоб зіграти бліндьенс - баф .
+A 1 2|||F/Collocation|||зачиняли|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 28 29|||Spelling|||униз|||REQUIRED|||-NONE-|||1
+A 29 29|||G/Prep|||по|||REQUIRED|||-NONE-|||1
+A 56 59|||Spelling|||бледанс-баф|||REQUIRED|||-NONE-|||1
+A 1 2|||F/Style|||зачинився|||REQUIRED|||-NONE-|||2
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 6 6|||F/PoorFlow|||разом із хлопцями, в честь Різдва|||REQUIRED|||-NONE-|||2
+A 27 29|||F/PoorFlow|||разів зо двадцять скотився вниз по схилу|||REQUIRED|||-NONE-|||2
+A 29 30|||G/Case|||Корнхілла|||REQUIRED|||-NONE-|||2
+A 31 42|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||2
+A 44 44|||F/PoorFlow|||щодуху|||REQUIRED|||-NONE-|||2
+A 48 53|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||2
+A 56 59|||F/Calque|||з дітьми в піджмурки|||REQUIRED|||-NONE-|||2
+
+S Скрудж сумно повечеряв в звичній сумній таверні ; і прочитавши всі газети , витратив решту вечора на свою банківську книжку , після чого пішов спати .
+A 3 4|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 13 14|||F/Style|||провів|||REQUIRED|||-NONE-|||1
+A 16 20|||G/Prep|||за своєю банківською книжкою|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||у|||REQUIRED|||-NONE-|||2
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Він проживав в будинку , що колись належав його покійному партнеру .
+A 2 3|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 10 11|||F/Repetition|||партнерові|||REQUIRED|||-NONE-|||1
+A 1 3|||F/Style|||жив у|||REQUIRED|||-NONE-|||2
+
+S Це були похмурі кімнати в підвальних приміщеннях двору , які займали так мало місця , що здавалося ніби будинок будучи молодим втік від усіх граючи в хованки і так і не повернувся .
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 19 21|||F/PoorFlow|||замолоду|||REQUIRED|||-NONE-|||1
+A 24 24|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 27 27|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 19 21|||F/PoorFlow|||замолоду|||REQUIRED|||-NONE-|||2
+A 24 24|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 27 27|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Зараз він був достатньо старим і похмурим , бо ніхто тут не жив окрім Скруджа , інші кімнати завалися як офіси .
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 18 19|||F/Style|||винаймалися|||REQUIRED|||-NONE-|||1
+A 0 1|||F/Style|||Тепер|||REQUIRED|||-NONE-|||2
+A 3 7|||G/Case|||дуже старий і похмурий|||REQUIRED|||-NONE-|||2
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 18 20|||G/UngrammaticalStructure|||винаймали під|||REQUIRED|||-NONE-|||2
+
+S Подвір'я було темним , тому навіть Скрудж , хто знав тут кожен камінь , намацував свій шлях додому .
+A 8 9|||G/Conjunction|||який|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Case|||темне|||REQUIRED|||-NONE-|||2
+A 8 9|||G/Conjunction|||що|||REQUIRED|||-NONE-|||2
+A 14 17|||F/PoorFlow|||пробирався навпомацки|||REQUIRED|||-NONE-|||2
+

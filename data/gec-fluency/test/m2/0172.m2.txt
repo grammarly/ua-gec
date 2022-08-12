@@ -1,0 +1,74 @@
+S Лєна принесла стосик дисків з гуртожитського філологічного минулого , щоб я здала на переробку .
+A 4 5|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Лена|||REQUIRED|||-NONE-|||2
+A 4 5|||Spelling|||із|||REQUIRED|||-NONE-|||2
+
+S Піратська музика у 2005 - 2007 у нас кочувала саме так .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 2 3|||G/Prep|||впродовж|||REQUIRED|||-NONE-|||2
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 6 6|||F/PoorFlow|||рр .|||REQUIRED|||-NONE-|||2
+
+S Сиджу перебираю , кожен диск підіймає у пам'яті хвилю студентських спогадів .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||F/Style|||піднімає|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Серед українського я тоді слухала Океан Ельзи , лірику Пономарьова , Гадюкіних , ВВ , ТНМК , Тартака , Бум Бокс , Фактично Самі і , звісно , Крихітку Цахес .
+A 0 1|||G/Prep|||З|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 16 16|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 18 18|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 19 21|||Spelling|||"Бумбокс|||REQUIRED|||-NONE-|||1
+A 21 21|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 22 22|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 24 24|||Punctuation|||",|||REQUIRED|||-NONE-|||1
+A 28 28|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 30 30|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 0 1|||G/Prep|||З|||REQUIRED|||-NONE-|||2
+A 5 5|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 7 7|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+A 11 12|||F/Style|||“Братів Гадюкіних”|||REQUIRED|||-NONE-|||2
+A 13 13|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 14 14|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+A 15 15|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 16 16|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+A 17 18|||G/Case|||“Тартак”|||REQUIRED|||-NONE-|||2
+A 19 21|||Spelling|||“Бумбокс”|||REQUIRED|||-NONE-|||2
+A 22 22|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 24 24|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+A 28 30|||F/PoorFlow|||гурт “Крихітка Цахес”|||REQUIRED|||-NONE-|||2
+
+S Кажу : Крихітку не здаємо , я 14-го йду на концерт -- понесу підписати !
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 11 12|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 15 15|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+
+S Пісні з цього альбому всі знають напам'ять .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S А я доповнювала : Яка алітерація .
+A 4 5|||Spelling|||яка|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+
+S У мене була таємна електронна скринька на першому курсі для особливих листів , які я загадково підписувала " Невиліковно вільна " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Зірки стали ближчими , вони їздять в метро і запитують нас у фейсбуці через роки , чи співати на концерті lumipallo .
+A 6 7|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 20 21|||Spelling|||“ Lumipallo ”|||REQUIRED|||-NONE-|||2
+
+S Таке питаєте .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

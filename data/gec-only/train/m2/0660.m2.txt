@@ -1,0 +1,45 @@
+S " Прощавайте банки " , казав я , " Мене не хвилюють ці побрехеньки , мов для твого навчання .
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 16|||G/UngrammaticalStructure|||мовляв|||REQUIRED|||-NONE-|||1
+A 16 16|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Я ледве втримував це в інших і ненавидів в тобі .
+A 8 9|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S Які висновки ти зробив для себе ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Проклін для мене , а для решти сум .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Геть , мовив я : геть зі своїми мітками та клеймом !
+A 2 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+
+S Сміття .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Їм не вдасться звернути мене з істинного шляху " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Через річку я ложкою направив до низької гори у формі сідла .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Я відшукаю цю гору " , моя ціль , " скарби .
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Оберіть для себе чого ви жадаєте .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Бажаєте , аби мітка чи клеймо поглинуло вас , то тоді ви не варті зватися шукачами пригод .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Оберіть для себе . "
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

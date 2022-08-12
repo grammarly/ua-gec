@@ -1,0 +1,45 @@
+S Але у нашому спілкуванні , і нашим відвідуванням та бедсідуванням з Мей Марта , ні Гудлі Бенкс ні Я можемо дізнатись що одного з нас вона переважає .
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||G/Case|||наших|||REQUIRED|||-NONE-|||1
+A 7 8|||G/Case|||відвідувань|||REQUIRED|||-NONE-|||1
+A 9 10|||G/UngrammaticalStructure|||бесідувань|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 18 19|||Spelling|||я не|||REQUIRED|||-NONE-|||1
+A 21 21|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 12 14|||G/Case|||Мартою|||REQUIRED|||-NONE-|||2
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 18 19|||Spelling|||я|||REQUIRED|||-NONE-|||2
+
+S Мей Марта була природжено ухильна і знала ще з колиски як розгадувати людей .
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Так як я сказала , старий чоловік Мангум був придуркуватим .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 0 4|||G/Gender|||Як я і казав|||REQUIRED|||-NONE-|||2
+
+S Після довгого часу він дізнався в один день , що маленький метелик повинен був сказати йому , що 2 молодих чоловіка пробували кинути стіку через голову малої дитини , дочки , або деякого такого технічного , хто дивиться за його комфортом .
+A 20 21|||G/Case|||чоловіків|||REQUIRED|||-NONE-|||1
+A 23 24|||Spelling|||сітку|||REQUIRED|||-NONE-|||1
+A 30 31|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 20 21|||G/Case|||чоловіків|||REQUIRED|||-NONE-|||2
+A 36 37|||G/Conjunction|||що|||REQUIRED|||-NONE-|||2
+
+S Я ніколи не знав , що вчені можуть підходити до таких випадків .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Старий Мангум усним ..... , і англійською також не використовуючи латину ніж прості посилання на Orgetorix , Rex Helvetii , які я сам використовував .
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S І він сказав нам що якщо він коли -небуть спіймає нас навколо його будинку знову , він додасть нас до свого збіговиська .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||-небудь|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Prep|||біля|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 8 9|||Spelling|||-небудь|||REQUIRED|||-NONE-|||2
+A 11 12|||G/Prep|||біля|||REQUIRED|||-NONE-|||2
+

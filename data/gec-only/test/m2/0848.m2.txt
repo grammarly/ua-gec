@@ -1,0 +1,57 @@
+S « Жодних шансів » , промовив лікар , потискуючи тонку руку Сью .
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S « З хорошим доглядом Ви переможете . »
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||ви|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S А зараз я повинен побачити інший випадок так як я внизу .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Бехрам , його ім‘я - якесь артистичне , надіюсь .
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Також пневмонія .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Він у віці , слабкий і напад гострий .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Жодної надії доя нього ; але щодня приїздить в госпіталь щоб добре почуватись » .
+A 2 3|||Spelling|||для|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||Але|||REQUIRED|||-NONE-|||1
+A 6 6|||G/UngrammaticalStructure|||ви|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||приїздіть|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 13 14|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Наступного дня лікар повідомив Сью : « Вона поза небезпекою .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ти перемогла .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Гарне харчування і догляд - це зараз головне » .
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Післ обіду Сью зайшла в палату Джонсі Лей , яка задоволено в‘язала дуже блакитний і дуже непотрібний бавовняний шарф через плече , однією рукою обняла її , подушку і все .
+A 0 1|||Spelling|||Після|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Після|||REQUIRED|||-NONE-|||2
+

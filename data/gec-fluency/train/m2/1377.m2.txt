@@ -1,0 +1,57 @@
+S Чоловік з Заходу раптово зупинився і відпустив свою руку .
+A 1 2|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 3 4|||F/Style|||несподівано|||REQUIRED|||-NONE-|||1
+
+S " Ти не Джиммі Велс " , різко сказав він .
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Двадцять років це довгий термін , але не достатньо довгий щоб змінити форму носа людини з римського на мопсячий " .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 10|||Spelling|||недостатньо|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S " Це інколи змінює добру людину на злу " , сказав високий чоловік .
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Ти був під арештом десять хвилин , ' Шовковий ' Боб .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Case|||Бобе|||REQUIRED|||-NONE-|||1
+
+S Чікаго думає , що ти певне зрадив нас і допомагаєш з прослушкою вона хоча поговорити з тобою .
+A 0 1|||Spelling|||Чикаго|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||?|||REQUIRED|||-NONE-|||1
+
+S Ведеш себе тихо , чи не так ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Це обдумано .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Отож , перед тим як ми підем на станцію , ось тобі записку , яку мене попросили тобі передати .
+A 12 13|||G/Case|||записка|||REQUIRED|||-NONE-|||1
+
+S Ти можеш почитати її тут біля вікна .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Вона від Патролмана Волса . "
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Чоловік з Заходу розгорнув маленький папірець , що йому передали .
+A 1 2|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 7 8|||G/Conjunction|||який|||REQUIRED|||-NONE-|||1
+
+S Його рука була спокійна коли він почав читати , але почала трішки тремтіти коли він закінчив читати .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Записка була доволі короткою .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

@@ -1,0 +1,9 @@
+S Вийшла нова мовна консультація від Kyiv Dictionary .
+A 0 1|||F/Style|||З'явилася|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Цього разу є багато цікавого , навіть одна великоденка .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 8 8|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 9 9|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+

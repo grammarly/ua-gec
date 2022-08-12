@@ -1,0 +1,1978 @@
+S Браво !
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Молодець .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Дуже дякую .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ви не забилися ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ні .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Тримайте .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Дякую .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ця парасолька з готелю .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Був радий допомогти .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Тату , що дарма я так розкричалася ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Пусте .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Він теж зупинився в готелі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ти матимеш шанс йому подякувати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Що з тобою ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Нічого .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Там юнак , що впіймав нашу парасолю .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S А . Схоже , він тут сам .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я , мабуть , піду .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Не йдіть .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я щойно стояла біля струмка
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S і подумала : загадаю бажання , щоб ви тут з'явилися .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ви зовсім не змінилися відтоді , як ми бачилися .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я пам'ятаю вас таким самим .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ми були такі вдячні вам після землетрусу .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я все хотіла знайти вас і подякувати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Що ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S То були ви ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Мене звати Наомі Сатомі .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Джіро Хорікоші .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Усе гаразд ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Так .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Знаєш , Кіну знайшла твій дім за два дні до свого весілля .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Вона навіть заплакала з радощів .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Для неї ти був справжнім принцом .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Принцом ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Так .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Казковим принцом на білому коні .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Парасоля протікає .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ну і нехай .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Треба розповісти Кіну .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Уявляєш , у неї нещодавно народилися двійнята .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Такі чудові малюки .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Твоя картина промокла .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Справді ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Нехай такою і лишається .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S На пам'ять .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Дивись , дощ майже перестав .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Так .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Це ж треба .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S А тут сухо .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Дивися .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ти бачиш ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я вже й забув , що буває веселка .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Як все ж таки добре жити ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ходімо .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Тато , мабуть , хвилюється .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S А от і він .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Татусю !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ходімо , Джіро .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я вас познайомлю .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Доню , ти ж уся промокла .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Пусте .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Тату , цей юнак мене врятував .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Це пан Хорікоші .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Хорікоші .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Сатомі .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Знову вам моя дочка завдала клопоту ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Тут не зайнято ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Та ні .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Німецькі сигарети .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Це остання .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Дуже шкода .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Розумію .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S У мене був схожий випадок із сигаретами .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ви бували в Німеччині ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S В Дессау , так ?
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
+
+S Ви , мабуть Шерлок Холмс , так ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S А ви — інженер ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S І ви весь час читаєте журнали .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Про німецькі літаки .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Всі японські інженери їздять в Дессау .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ваша правда .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S — У професора Юнкерса неприємності .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Які саме ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Свариться з урядом .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Довго не протягне .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S З яким урядом ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Гітлера ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Всі нацисти бездушні тварини .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S А тут просто пречудово .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Комарів немає .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Спеки немає .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Зелень смачна .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Чудове місце , щоб забути про неприємності .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Пригощайтеся .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Щоправда , це японські .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Дякую .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Чудова ніч .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Томас Манн , " Зачарована гора " ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Прекрасне місце , щоб забувати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Напали на Китай і забули .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Насаджали маньчжурських маріонеток і забули .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Вийшли з Ліги Націй і забули .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Весь світ зробити своїм ворогом і забули .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Японія злетить у повітря .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S До речі , як і Німеччина .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Німеччина знову розв'яже війну ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Так .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Якщо її не зупинити .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Перепрошую , що примусив чекати .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Річ у тім , що Наоко захворіла .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Її лихоманить .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Боюся вечерю доведеться скасувати .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Звісно .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я розумію .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Перекажіть їй , щоб одужувала .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Скоро приїде лікар .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я мушу йти .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Хто бачив коли - небудь вітер ? "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Ні я не бачив , ні ти . "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Та коли це листя тріпоче , він пролітає крізь . "
+A 10 11|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Нехай же вітер розпростає ці крила …
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S і принесе їх тобі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Це ти , Джіро ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Наоко !
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Тримайся !
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Чудово впіймав .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Браво !
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Як ваша дочка , одужує ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Дякую .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Їй значно краще .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Вітаю .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Це чарівна гора .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Тут всі одужують .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Може й так .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Коли цей юнак приїхав він був дуже похмурий .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S А тепер — радісний .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Закоханий .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Так .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Літня закоханість швидко минає .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Зійдеш з гори й забудеш про гору .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Тільки не я .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Кого ти маєш на увазі ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Часом не мою дочку ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Так , це Наоко .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S І ми просимо вашого благословення .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Але …
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Як же це …
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Тату !
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я б хотіла долучитися до цієї розмови .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Яка краса .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Та спершу дещо важливе .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я хочу тебе попередити .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Про що ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Два роки тому моя мама померла від туберкульозу .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S І у мене знайшли цю хворобу .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Але я кохаю тебе з того дня , як ти врятувала мого капелюха .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S А я з того дня , як мені тебе приніс вітер .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ти станеш моєю дружиною ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Так .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S І повір , я неодмінно вилікуюся .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ти почекаєш до того часу ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Звісно .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я готовий чекати на тебе сто років .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Вітаю .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Він чудовий хлопець .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S А ваша дочка просто красуня .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Це літо — хороше літо .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Джіро , я тут !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Хонджьо !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Коли повернувся ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Позавчора .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S А тут така спека !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ну от , поглянь .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Красень .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Чудово .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Модель експериментальна .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Тож вигадую , що бажаю .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Звісно , доки не полетить хвалити зарано .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Ні , цей полетить .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Здійнявся вітер .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Хонджьо ти японський Ахілес .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ти наздогнав та перегнав черепаху .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Мої літаки дитячі іграшки .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Хочеш підкину ідею ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я у своєму проекті впровадити ще не встиг .
+A 3 4|||Spelling|||проєкті|||REQUIRED|||-NONE-|||1
+
+S Для фюзеляжів краще використовувати болти з пласкими голівками
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Це знизить опір повітря .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Клапани для пального краще забезпечити кришками на петлях це спростить обслуговування .
+A 8 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Можна обійтись навіть без гвинтів пружини буде достатньо .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Джіро , блискуча ідея .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S І проста , як Колумбове яйце .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Забирай .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Дякую , але зараз не можу .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Але креслення візьму .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Коли ти реалізуєш це у своїх проектах тоді і я скористаюсь .
+A 6 7|||Spelling|||проєктах|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Я тебе зрозумів .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Тож не гай часу .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я чекаю .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Джіро !
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ти тут ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Це пан Курокава .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S — Джіро ! — Я !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S За мною .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Бувай .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Дякую .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Заходь у гості .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Сідай за кермо .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S — Тебе розшукує військова поліція .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Хто ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Відділ боротьби з інакодумцями .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Шукають мене ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я сказав їм , що ти у відрядженні .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Вдають , що поїхали .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Нас не обдуриш .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Сьогодні залишаєшся тут .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Роботу тобі принесуть .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Але за що ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Навіщо я їм потрібен ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S У мене вже кількох друзів туди забрали .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S І жоден гадки не мав " за що " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Заходьте .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Перепрошую .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Привіт .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ось ваші речі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Більше нічого не треба ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Ходіть та забирайтесь .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Джіро , тобі посилка !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Тестовий зразок фланця .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Яка краса !
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Нам би такий рік тому .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Що скажеш , Джіро ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Цього разу плашка вийде серйозніша .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Не якесь там каченя , а ціла качка .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S І вона нестиме золоті яйця ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Пане Курокава , що скажете ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Що тут скажеш ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Легка зараза .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Дюралюміній шикарний матеріал .
+A 1 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S А тепер всі до роботи .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Хвоста наче немає .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Обійшлося .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Джіро , тобі краще зникнути на кілька днів .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Потім я знайду спосіб тебе прикрити .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Сховайся у мене вдома .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я не проти та спершу маю заїхати додому .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я чекаю листа .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Не можна , щоб його побачили .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S В жодному разі .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Поліція прочитає все твоє листування .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Але це лист від моєї нареченої .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Це варварство .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Таке не повинно відбуватися у сучасній країні .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S То ти заручений ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Наш Джіро теж людина .
+A 3 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S — Мої вітання .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Думає , що Японія сучасна країна !
+A 4 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Нічого смішного .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S А нам і не смішно .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Поліція вже риється у твоєму домі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Нехай читають твої любовні листи скільки завгодно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S У твоїх руках створення нового літака для нашої армії .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Не хвилюйся , компанія тебе захистить .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Доки ти будеш їй потрібен , звісно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Тож працюй , не відволікайся .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я невимовно сумую за тобою .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Пан Касторп поїхав так раптово .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Чому вони його шукають ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я молюся , щоб він спокійно повернувся на батьківщину .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Пане Джіро , вас до телефону .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Іду .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S — Це тут .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Дякую .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Алло ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Джіро , це я .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Тобі надійшла телеграма .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Що ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Консьєрж з твого будинку занепокоївся та приніс її мені .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Таке , надійшла два дні тому .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Зачитай її , будь ласка .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Можна ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Так .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Наоко … кровотеча в легенях … "
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S " Приїдь , як щойно зможеш .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Сатомі . "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Алло , ти слухаєш ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Так .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Дякую за дзвінок .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Стривай !
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Все гаразд ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Як найшвидше дістатися Токіо ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Дістатися Токіо ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Так .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Мені треба туди якнайшвидше .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Секунду .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Якщо опівдні сядете на автобус устигнете на експрес о першій .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Я відішлю когось на станцію затримати автобус .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Джія !
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Це ти !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Пробач , що так пізно .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Заразишся .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ти така гарна .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я кохаю тебе .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Джіро ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Зайшов через сад ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Заходьте .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Тату дивись , Джіро приїхав до мене .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Але він має одразу ж повертатися .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S — Наступного разу обіцяю зайти через парадний вхід .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Але через сад веселіше .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Добре , як скажеш .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Бережи себе , коханий .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ти теж .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S До побачення .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я проведу .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Останній потяг ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S То поквапся .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Усе так серйозно ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Як шкода , що я не можу бути поряд .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ти повинен працювати .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Це найкраще , що може зробити чоловік .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Іди .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він поїхав .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ти плачеш ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Тату , я хочу поїхати в санаторій , як мені радив лікар .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Але як ти будеш сама в такому сумному місці ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я хочу одужати .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я хочу жити разом з Джіро .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Гаразд .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Устиг і добре .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Рада директорів чекає на тебе .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Що скажеш ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Зроблю все що зможу .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Далі клієнти : моряки з морфлоту .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я докладу усіх зусиль .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Ти їх навіть не слухав .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Справді .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S І від цієї ідеї довелося відмовитись .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Допізна засиділися .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Так , Джіро проводить семінар .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ми спробуємо впровадити новітні технічні розробки .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S — Погляньте .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S — Висувне шасі !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Для швидкості у 270 вузлів без цього не обійтись .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S 270 вузлів ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S П'ятсот кілометрів на годину !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Але моряки забажали лише 220 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Така швидкість застаріє вже завтра .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Навантаження 120 кілограмів на квадратний метр .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Щоб зменшити опір повітря треба впроваджувати новітні розробки з механізації крила .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Як передкрилки так і розрізні закрилки .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Так !
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Чом би й ні ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Коли починаємо ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Однак , машину це зробить важчою .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Без кулеметів було б іще прийнятно , а так …
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Тому я й відклав ці ідеї до наступного проекту .
+A 8 9|||Spelling|||проєкту|||REQUIRED|||-NONE-|||1
+
+S Прекрасно .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Просто блискуче .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S До чого він хилить ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Наші двигуни не справляються .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Отже , завдання : розробити легкий та міцний фюзеляж .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S І прибрати з поверхні усе зайве , щоб зменшити опір повітря .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Це буде цілометалева конструкція без жодної дерев'яної деталі , що не має аналогів у світі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Можна спитати ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Пане Хіраяма , прошу .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||Хірояма|||REQUIRED|||-NONE-|||1
+
+S Це інженер з відділу виробництва , пан Хірояма .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Дуже приємно .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Він розповість про нові закрилки для фюзеляжу .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я вважаю , що можливо збирати фюзеляжі потрібної міцності за допомогою металевих заклепок .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Про що це він ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Про опір повітря .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Заклепки вже застосовують в усьому світі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Збиратимемо фюзеляжі повністю на заклепках .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Запитання !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — У мене теж є питання !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Маю сказати , це дуже цікаво .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Так надихаюче .
+A 1 2|||G/PartVoice|||натхненно|||REQUIRED|||-NONE-|||1
+
+S Пані Сатомі , вам лист .
+A 0 1|||G/Case|||Пане|||REQUIRED|||-NONE-|||1
+
+S Так , дякую .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Пане , дзвінок .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S — Нехай передзвонять пізніше .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Але це терміново .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Алло ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Вибач , що не дзвонив .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Так .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Так .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Джіро !
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Милий !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Слава Богу .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Тепер усе добре .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Що б я робив , якби не знайшов тебе ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Як ти ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Іти можеш ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ходімо .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я хотіла лише побачити тебе і назад .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Не їдь .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Житимемо тут .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Яка красуня .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Мене звуть Наоко .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — То он ви яка , Наоко .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Джіро , це ти ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S У нас до вас велике прохання .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Любий , хіба ти не згоден ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Кімнат вистарчить усім …
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||вистачить|||REQUIRED|||-NONE-|||1
+
+S але щоб неодружений чоловік та жінка жили разом — такого я допустити не можу .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ми негайно одружимось .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Пане Курокава , пані Курокава будьте нашими свідками .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Просто зараз ?!
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Вночі ?!
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Любий , але ж це так романтично .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Наоко так хоробро втекла із санаторію .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Тато вже благословив нас .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S В санаторії я теж попередила .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Не відмовте .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Думай любий .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S А нам треба підготуватися .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Наоко , ходімо .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Не хвилюйся .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Він у мене все життя такий .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Якщо вона справді тобі дорога ти маєш негайно повернути її в гори і бути поряд з нею .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||із|||REQUIRED|||-NONE-|||1
+
+S Але тоді доведеться відмовитися від літаків .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я не зможу .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Зараз в тобі говорить не кохання , а егоїзм .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S У нас із нею немає часу .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ми прийняли рішення .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Он воно як .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Гаразд .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Все буде по справжньому .
+A 2 4|||Spelling|||по-справжньому|||REQUIRED|||-NONE-|||1
+
+S Ідуть !
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ідуть !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Вони тут .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Слухай !
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ця юна , прекрасна , діва покинула все і прийшла сюди з-за гір , щоб зустріти свого коханого .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Чую тебе !
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Цей чоловік не має нічого .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Та якщо він любий тобі …
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він … коротко кажучи — хай заходить .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Нехай же наші закохані привітають одне одного .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ти така гарна .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Пані Курокава , дякую .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Немає таких слів , щоб висловити всю вдячність за тепло , яке ви нам подарували .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ми ніколи не забудемо вашої доброти .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Дівчинко , ми щасливі , що ти зустріла такого чоловіка як Джіро .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Ти згоден ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Так - так .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Здоров'я молодим .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Вітаю !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Дуже втомилася ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Мені здається , що все це уві сні .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S І кімната обертається .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Не хвилюйся .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S І спробуй заснути .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Іди до мене .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Але ти …
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Іди .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S І що я бачу ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Брат як завжди спізнюється !
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Зовсім забув , що ти маєш прийти .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Зрадник .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Вітаю тебе .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ти стала лікарем .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S А я брата з одруженням .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Найщиріші вітання .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я приїхала подякувати сім'ї Курокава за все , що вони зробили для нас .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ну і як вони ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Нарешті заснули .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S — Ти бачила Наоко ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Так .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Брате , Наоко тепер зовсім сама .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Що ти збираєшся робити ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Не кидай її !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S її хвороба значно гірша ніж ти сподіваєшся .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Хоч я й стажист , але навіть я це бачу .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Поглянь на її обличчя .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Чи ти не помічаєш як вона його фарбує перед зустріччю з тобою ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я її так люблю .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Вона така хороша .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Невже нічого не можна вдіяти ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Гадаєш , немає сенсу повертати її в санаторій ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Немає .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ми зараз живемо від секунди до секунди .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Кожна з яких безцінна .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Добраніч .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Дякую , чи приїхала .
+A 2 3|||G/Conjunction|||що|||REQUIRED|||-NONE-|||1
+
+S А от і я .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S — З поверненням .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Спи .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Навіщо ти встала ?
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S — Сьогодні приходила Кайо .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ми одразу так подружилися .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я впевнена , що в неї попереду прекрасне майбутнє .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Наступного разу вона пообіцяла прийти до мене вже як лікар .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S А ще твоя мама зшила для мене сорочку та халат .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Поглянь .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Красиві й такі теплі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Не надто яскраво ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ні , добре .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Треба дещо обміркувати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Кісточку макрелі ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Запам'ятала .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Якщо постаратися , можна зробити ще легше .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Присунься до мене ближче .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Дай руку .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я дуже люблю дивитися на тебе коли ти працюєш .
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Якби влаштували конкурс на володіння логарифмічною лінійкою однією рукою я б переміг .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Виходить , що кожна кісточка майже на 20 грамів легша .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Справді ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Це ж чудово .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S На тридцятьох ми виграємо пів кіло .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Прекрасно .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Пів кіло це більше ніж порція на двох .
+A 2 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Це ж кістки .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Було б м'ясо — з'їв би й кілограм .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ось тобі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S А тепер засинай .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Ти не підеш ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Ні , не піду .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Палити хочу .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Можна я вийду ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ні .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Пали тут .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Так не можна .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Можна .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Хонджьо , привіт !
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я подивлюся ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S — Звісно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Як твій бомбардувальник ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Здаю .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Та це ж авангард якийсь .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ну ти даєш .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Це твої славнозвісні заклепки ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Доволі шершаво .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я ще не закінчив конструкцію .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Так , ти молодець .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Відключився від німців , а я все ще з ними воюю .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S І все це кісточки макрелі ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Оце так .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Джіро , дозволь я теж впроваджу заклепки і кришки для паливних баків ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Звісно .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Переробити ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Так , мені веліли переробити лише фюзеляж .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S А крила лишити як є .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Але ж там паливні баки ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Так , кілька пострілів і літак вибухає .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S І я поки що не розумію , як його можна захистити від цього .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Японці раніше навіть не намагалися створити нормальний бомбардувальник .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Зараз треба зробити так , щоб з усіма кулеметами він скидав бомби й пролітав три тисячі кілометрів .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S І з ким же ми будемо воювати ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S З Китаєм , СРСР , Англією , Голландією , Америкою .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Тоді нам кінець .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ми не зброярі .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ми просто хочемо робити гарні літаки .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Так .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Бувай .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Відіспися нарешті .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Так .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S І ти теж .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я додому .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S На все добре .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Так .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ти вже прийшов .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я все зробив .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Подивимося як він літає .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Ти молодець .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Вітаю тебе .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Бики потягли його на аеродром .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я , мабуть , застрягну там на кілька днів .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ти так втомився .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Є трохи .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Він неодмінно полетить .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Так , звісно .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Без тебе я б нічого не зміг .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я кохаю тебе , Джіро .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Наоко …
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Скоро повернуся .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Щасти тобі .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ти щось хотіла ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Пані Курокаво , сьогодні мені значно краще .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я хочу трохи прогулятися .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Іди .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Але не надовго .
+A 1 3|||Spelling|||ненадовго|||REQUIRED|||-NONE-|||1
+
+S Дякую .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Вибачте , у нас в кімнаті такий безлад .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я повернуся — приберу .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Гаразд .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Іти погуляй .
+A 0 1|||G/VerbVoice|||Іди|||REQUIRED|||-NONE-|||1
+
+S До речі , сьогодні прийде Кайо .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ти рада ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Дуже .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ну , я піду .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Заходьте , прошу вас .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Що це ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Пані Курокава , вона залишила листи !
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Цей мені .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Вона поїхала назад у гори .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я повинна її повернути .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ні !
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Стій , не треба !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Нам не можна втручатися .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Нехай вона сяде в свій поїзд .
+A 3 4|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S Вона знає , що робить .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Щоб Джіро запам'ятав її такою .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Чудово !
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я ніби знову закордоном .
+A 3 4|||Spelling|||за кордоном|||REQUIRED|||-NONE-|||1
+
+S Швидкість ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Кажіть скільки !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Вибачте , ми перераховуємо !
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Скільки , кажіть !
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S — 240 вузлів .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Двісті сорок !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Неймовірно !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Оце літак .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Гей , Джіро .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Джіро !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Прекрасна машина .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Дякую .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S А , прийшов хлопчику з Японії .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Сеньйор Капроні …
+A 0 1|||G/Case|||Сеньйоре|||REQUIRED|||-NONE-|||1
+
+S Це поле , де ми вперше зустрілися , так ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Так , поле наших мрій .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Схоже на пекло .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Трохи є , але не зовсім .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S І що ж ти зробив за ці десять років ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ти прожив їх із користю ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я старався як міг .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S І тому випустив свою країну з рук ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Дивися .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ось він — твій Зеро .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Як краса !
+A 0 1|||Spelling|||Яка|||REQUIRED|||-NONE-|||1
+
+S Ти добре попрацював .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Але жоден не повернувся .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Коли є куди летіли не треба повертатися .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Tense|||летіти|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Літак це прекрасна мрія , що чекає коли її проковтне небо …
+A 1 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S І тут на тебе дехто чекав .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Наока …
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Так , вона чекала на тебе весь цей час .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Коханий , живи .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Живи …
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S От і заспокоїлась .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Неначе прекрасний вітер .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Дякую .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Та годі , годі .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Тобі час іти .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Та час від часу заходь у гості у мене є хороше вино .
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Присвячується : Джіро Хорікоші та Тацуо Хорі
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ролі озвучували : Хідеакі Анно та Міорі Такімото
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Музика до заголовної теми : Юмі Арай та Джьо Хісайші
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Субтитри набрано з озвучки , яка була в кінотеатрах у 2013 році .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Виконавчий продюсер : Коджі Хошіно
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Продюсер : Тошіо Судзукі
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Автор сценарію та режисер : Міядзакі Хаяо
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Кінець
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

@@ -1,0 +1,64 @@
+S Мовчання тривало довго , але згодом морушилось дивною поведінкою приведеного до Пілата .
+A 6 7|||F/PoorFlow|||його порушила|||REQUIRED|||-NONE-|||1
+A 7 8|||G/Case|||дивна|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Case|||поведінка|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||Пилата|||REQUIRED|||-NONE-|||1
+
+S Він змінився на обличчі , пошатнувся і не схопившись брудною рукою за край столу , вже б впав .
+A 5 6|||F/Calque|||похитнувся|||REQUIRED|||-NONE-|||1
+A 7 7|||F/PoorFlow|||якби|||REQUIRED|||-NONE-|||1
+A 8 9|||G/UngrammaticalStructure|||схопився|||REQUIRED|||-NONE-|||1
+A 16 17|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 17 18|||Spelling|||упав|||REQUIRED|||-NONE-|||1
+A 18 18|||F/PoorFlow|||би|||REQUIRED|||-NONE-|||1
+
+S - Що з тобою ? - запитпа його Пілат
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||запитав|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||Пилат|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S - Нічого , - відповів Левій Матвій і зробив такий рух , неначе щось проковтнув .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Тонка , гола , брудна шия набухла і знову спала
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Що з тобою , відповідай , - повторив Пілат .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||Пилат|||REQUIRED|||-NONE-|||1
+
+S - Я втомився , - відповів Левій і сумно поглянув на підлогу .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Сідай , - промовив Пілат і показав на крісло .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||Пилат|||REQUIRED|||-NONE-|||1
+
+S Лівій недовірливо глянув на прокурора , пішов в напрямку крісла , налякано покосившись на золоті бильця сів не в крісло , а поруч - на підлозі .
+A 0 1|||Spelling|||Левій|||REQUIRED|||-NONE-|||1
+A 7 9|||F/PoorFlow|||до|||REQUIRED|||-NONE-|||1
+A 16 16|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 23 24|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Поясни , чому ти не сів в крісло ? , - запитав Пілат .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||Пилат|||REQUIRED|||-NONE-|||1
+
+S - Я брудний , я його загрязню , - сказав Левій , втупившись в підлогу
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Calque|||забрудню|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S - Зараз тобі дадуть їсти .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

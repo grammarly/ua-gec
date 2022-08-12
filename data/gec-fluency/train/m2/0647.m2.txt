@@ -1,0 +1,48 @@
+S " Ти - не Джимі Велс " , він випалив , " Двадцять років це довгий термін , але цього недостатньо щоб ніс з орлиного став кирпатим " .
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||Джиммі|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 21 21|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S " Іноді це робить з хорошої людини погану " , сказав високий чоловік , " Ти був ув'язнений десять хвилин , " Шовковий " Бобе .
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Чикаго думає звідки ти взявся на нашому шляху і повідомила нам що хоче переговорити з тобою .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Ти ж поводитимеш себе мирно , чи не так ?
+A 2 4|||F/Calque|||поводитимешся|||REQUIRED|||-NONE-|||1
+
+S Це було б розумно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Зараз , перед тим як ми вирушимо на станцію , тримай записку , яку мені сказали передати тобі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Можеш прочитати її ось тут , біля вікна .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Це від Петролмен Велс . "
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Чоловік із заходу розгорнув невеликий шматочок паперу , що йому вручили .
+A 8 9|||G/Conjunction|||який|||REQUIRED|||-NONE-|||1
+
+S Його рука була нерухомою на коли він почав читати , але ближче до кінця вона вже злегка тремтіла .
+A 4 5|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 16 17|||F/Style|||трохи|||REQUIRED|||-NONE-|||1
+
+S Нотатка була досить короткою .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

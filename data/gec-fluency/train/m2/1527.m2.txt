@@ -1,0 +1,77 @@
+S - Послухайте , Ольга , - почав він .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Case|||Ольго|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Приділіть мені хвилину уваги .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Мені потрібно запитати вас про щось .
+A 0 2|||F/PoorFlow|||Маю|||REQUIRED|||-NONE-|||1
+
+S Втім , вам тепер не до мене .
+A 0 1|||Spelling|||Утім|||REQUIRED|||-NONE-|||1
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Я потім ... після ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він знову сів і задумався .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Горький , благальний плач , схожий на плач дівчинки , тривав .
+A 0 1|||F/Calque|||Гіркий|||REQUIRED|||-NONE-|||1
+
+S Не чекаючи його кінця , Цвєтков зітхнув і вийшов з вітальні .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він попрямував до дитячої до Міші .
+A 2 3|||G/Prep|||у|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Case|||дитячу|||REQUIRED|||-NONE-|||1
+
+S Хлопчик , як і раніше лежав на спині і нерухомо дивився в одну точку , точно прислухаючись .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 15 16|||F/Style|||пильно|||REQUIRED|||-NONE-|||1
+
+S Лікар сів на його ліжко і помацав пульс .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Міша , болить голова ? - запитав він .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||Мішо|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Міша відповів не відразу :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Так .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Мені все сниться .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Що ж тобі сниться ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Усе …
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Доктор , що не вмів говорити ні з тими , хто плаче жінками , ні з дітьми , погладив його по гарячій голові і пробурмотів :
+A 0 1|||F/Calque|||Лікар|||REQUIRED|||-NONE-|||1
+A 8 9|||F/PoorFlow|||жінками|||REQUIRED|||-NONE-|||1
+A 10 13|||F/PoorFlow|||ні з дітьми|||REQUIRED|||-NONE-|||1
+A 14 17|||F/PoorFlow|||які плачуть|||REQUIRED|||-NONE-|||1
+
+S - Нічого , бідний хлопчик , нічого ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Case|||хлопчику|||REQUIRED|||-NONE-|||1
+
+S На цьому світі не можна прожити без хвороб ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Міша , хто я ?
+A 0 1|||G/Case|||Мішо|||REQUIRED|||-NONE-|||1
+
+S Ти впізнаєш ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

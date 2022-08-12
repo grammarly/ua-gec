@@ -1,0 +1,51 @@
+S Підходжу до під'їзду – біля дверей високий підліток нишпорить по кишенях шукає ключі .
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 0 1|||G/Tense|||Підходила|||REQUIRED|||-NONE-|||2
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 8 9|||G/Tense|||нишпорив|||REQUIRED|||-NONE-|||2
+A 9 11|||G/Prep|||у кишенях|||REQUIRED|||-NONE-|||2
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 11 12|||G/Tense|||шукав|||REQUIRED|||-NONE-|||2
+
+S Я потягнулась у звичне місце сумки за своїми – немає .
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Хлопець облапав уже всі штани і довгу куртку , дістався навіть до її подолу через діряву кишеню , і напівзігнутий заходився намацувати по колу під підкладкою .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 17 18|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 19 19|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 20 20|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Тим часом я занурила руку у сумку – під лоток з домашніми яйцями , торбинку із зеленню , слоїк сметани , блокноти , на дні копирсаюся між кремами , гігієнічною помадою , дезінфектором , розчіскою - масажкою , перекочую пальцями олівці з ручками .
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||в|||REQUIRED|||-NONE-|||2
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 22 23|||Punctuation|||;|||REQUIRED|||-NONE-|||2
+A 25 26|||G/Tense|||копирсалася|||REQUIRED|||-NONE-|||2
+
+S Мовчазний момент під звуки нервового шпортання затягнувся , обоє намагаємось швидше знайти .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 9 10|||G/Tense|||намагалися|||REQUIRED|||-NONE-|||2
+
+S І тут я відчула металевий холодний дотик і подзенькування , швидко витягую на світ божий в'язку ключів , піднімаю над собою , наче у Форті Боярд , і голосно переможно кажу :
+A 24 24|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 26 26|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Tense|||витягнула|||REQUIRED|||-NONE-|||2
+A 18 19|||G/Tense|||підняла|||REQUIRED|||-NONE-|||2
+A 24 26|||Spelling|||форті Буаяр|||REQUIRED|||-NONE-|||2
+
+S - Знайшла !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Пропікую домофон , проходжу притримуючи хлопцеві двері .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Завіса .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

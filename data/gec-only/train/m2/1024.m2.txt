@@ -1,0 +1,41 @@
+S - Пане міський голово , кажу , - Я не звичайний віруючий послідовник С . К . Лаіуса .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я ніколи не навчався у медичному коледжі , кажу , - Я лиш підійшов як звичайна людина подивитись чи можу бути чимось корисний .
+A 18 18|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S - Дуже вдячний вам , відповідає він .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Пане лікаре Вау-ху , це мій племінник , пан Біддл .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Case|||лікарю|||REQUIRED|||-NONE-|||1
+
+S Він намагався полегшити моє нездужання , але невдало .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S О , Господи !
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Оххх ...! він відключається .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я киваю головою пану Біддлу , присідаю на край ліжка й перевіряю його пульс .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Дозвольте перевірити вашу печій , чи той , вашого язика , кажу я .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||печію|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Потім я піднімаю його віки й зазираю в зірниці очей .
+A 8 9|||Spelling|||зіниці|||REQUIRED|||-NONE-|||1
+
+S - Відколи ви хворієте , запитав я .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||? —|||REQUIRED|||-NONE-|||1
+

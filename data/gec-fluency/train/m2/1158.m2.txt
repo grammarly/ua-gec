@@ -1,0 +1,46 @@
+S - Джонсі , люба , - сказала Сью , нахиляючись над нею , пообіцяєш мені не розплющувати очі і не виглядати у вікно доки я не завершу працювати ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||F/Style|||схиляючись|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 23 23|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 26 27|||F/Style|||закінчу|||REQUIRED|||-NONE-|||1
+
+S Я мушу перетримати ці малюнки всередині до завтра .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Мені потрібне світло або ж я намалюю тіні .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 5|||F/PoorFlow|||інакше|||REQUIRED|||-NONE-|||1
+
+S - А ти не можеш малювати в іншій кімнаті ? - холодно запитала Джонсі .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Я краще побуду тут , біля тебе , - сказала Сью .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S До того ж , я не хочу щоб ти продовжувала дивитись на те дурне листя плюща .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S - Скажеш , як тільки закінчиш , - сказала Джонсі , заплющуючи очі і лежучи тихенько , наче статуя , що впала , - тому що я хочу побачити як впаде останній .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 23 24|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 29 29|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 30 31|||Spelling|||упаде|||REQUIRED|||-NONE-|||1
+
+S Я втомилась чекати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я втомилась думати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я хочу остаточно втратити владу наж всім і просто летіти вниз , вниз , як один з цих бідолашних , втомлених листочків .
+A 5 6|||Spelling|||над|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||усім|||REQUIRED|||-NONE-|||1
+A 16 17|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 20 21|||Spelling|||утомлених|||REQUIRED|||-NONE-|||1
+

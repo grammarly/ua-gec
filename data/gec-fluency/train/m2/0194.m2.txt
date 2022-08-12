@@ -1,0 +1,34 @@
+S Містер Фрідл каже , я привідчиню трохи вікно , Ви ж не проти ?
+A 0 1|||G/Case|||Містере|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||Фрідле, –|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Бідлі , каже молодий чоловік , Ти би хотів з'їсти яйця смажені з м'ясом , дядько Джеймс .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 16|||G/Case|||дядьку|||REQUIRED|||-NONE-|||1
+A 16 17|||G/Case|||Джеймсе|||REQUIRED|||-NONE-|||1
+
+S Містер Мейор каже , Після того як я приставив вухо до його правої лопатки , ти отримав супер запалення правої клавіші клавесину .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||:|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 17 19|||Spelling|||суперзапалення|||REQUIRED|||-NONE-|||1
+A 21 22|||G/Case|||клавесина|||REQUIRED|||-NONE-|||1
+A 22 22|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S О боже , каже він зі стогоном , Ти ж можеш щось туди намазати , або прикрити ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Я беру капелюх і прямую до дверей .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Доктор , каже Меєр , Ви ж не збираєтесь іти ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||G/Case|||Докторе|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

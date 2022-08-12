@@ -1,0 +1,102 @@
+S - Дід Степан , поїдемо в село ! - просив він , плачучи .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 2|||G/Case|||у|||REQUIRED|||-NONE-|||1
+A 3 3|||G/Case|||е|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Мені тут страшно ... і -і , як страшно !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S І навіщо ти , окаянний , мене з села виписав ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Хто це окаянний ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S А хіба можна законному дідові такі безпідставні слова ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Випорю !
+A 0 1|||F/Style|||Покараю|||REQUIRED|||-NONE-|||1
+
+S - випорю , дід , випорю , як сидорову козу , а тільки звезені мене до мамки , зроби божеську милість ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||F/Style|||Карай|||REQUIRED|||-NONE-|||1
+A 4 4|||G/Case|||у|||REQUIRED|||-NONE-|||1
+A 5 6|||F/Style|||бий|||REQUIRED|||-NONE-|||1
+A 13 14|||G/VerbVoice|||завези|||REQUIRED|||-NONE-|||1
+
+S - Ну , ну , онучок , ну ! - зашепотів ласкаво кучер .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Case|||онучку|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Нічого , не бійся ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Мені і самому страшно ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ти богу молися !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Рипнули двері , і показалася голова двірника .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Чи не спиш , Степан ? - запитав він .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Case|||Степане|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - А мені всю ніч не спати , - сказав він , входячи .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||F/Style|||заходячи|||REQUIRED|||-NONE-|||1
+
+S - Всю ніч відчиняй ворота та замикай ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ти , Альошка , що плачеш ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Страшно , - відповів за онука кучер .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Знову в повітрі ненадовго пронісся виє голос .
+A 4 6|||G/UngrammaticalStructure|||завив|||REQUIRED|||-NONE-|||1
+
+S Двірник сказав :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Плачуть .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Мати очам не вірить ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Пристрасть як побивається .
+A 0 1|||F/Style|||Страх|||REQUIRED|||-NONE-|||1
+
+S - І батько тут ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - І батько ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Батько нічого .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Сидить в уголушке і мовчить .
+A 1 2|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 2 3|||F/Calque|||куточку|||REQUIRED|||-NONE-|||1
+
+S Дітей до рідних забрали ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Що ж , Степан ?
+A 3 4|||G/Case|||Степане|||REQUIRED|||-NONE-|||1
+
+S В свого козиря зіграємо , чи що ?
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
+

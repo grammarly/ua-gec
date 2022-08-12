@@ -1,0 +1,64 @@
+S - Три хвилини до десятої , - анонсував він , - рівно о десятій він увійшов у двері ресторану .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 18|||F/PoorFlow|||зайшов до|||REQUIRED|||-NONE-|||1
+
+S - Гарно зроблено на Востоці , чи не так ? -- Спитав полісмен .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||спитав|||REQUIRED|||-NONE-|||1
+
+S - Маєте рацію !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я сподіваюсь , що Джиммі зробив також половину .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він був кимось типу робочого , тому також і хорошим послідовником .
+A 3 4|||F/Style|||на кшталт|||REQUIRED|||-NONE-|||1
+A 4 5|||F/Style|||робітника|||REQUIRED|||-NONE-|||1
+
+S Мені довилось розбиратись з деякини найгострішими розумами , аби дістатись вершин .
+A 1 2|||Spelling|||довелось|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||деякими|||REQUIRED|||-NONE-|||1
+
+S Чоловік залазить в жолоб Нью Йорку .
+A 2 3|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 4 6|||Spelling|||Нью-Йорка|||REQUIRED|||-NONE-|||1
+
+S Необхідний Захід , аби покласти гострий кряж на нього .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Полісмен прокрутив свою дубинку і зробив крок чи два .
+A 2 3|||G/Gender|||свого|||REQUIRED|||-NONE-|||1
+A 3 4|||F/Calque|||кийка|||REQUIRED|||-NONE-|||1
+A 5 6|||F/Style|||ступив|||REQUIRED|||-NONE-|||1
+
+S " Я буду в дорозі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Сподіваюсь , ваш друг прийтиме сюди і з ним буде все добре .
+A 4 5|||G/UngrammaticalStructure|||прийде|||REQUIRED|||-NONE-|||1
+
+S Збираєтесб подзвонити тоді , коли він буде в гуморі ? "
+A 0 1|||Spelling|||Збираєтесь|||REQUIRED|||-NONE-|||1
+
+S - Мені слідує сказати ні ! - Сказав інший .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||F/Calque|||треба|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||F/Repetition|||відповів|||REQUIRED|||-NONE-|||1
+
+S - Я дам йому хоча б пів години .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Якщо Джиммі живий , то він буде тут до того часу .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Так довго , офіцере .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

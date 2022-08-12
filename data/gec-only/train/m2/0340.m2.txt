@@ -1,0 +1,10 @@
+S " Привид майбутнього ! " - вигукнув він , " я боюся тебе більше за всіх інших примар що мені траплялися .
+A 1 2|||G/Case|||Привиде|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||Я|||REQUIRED|||-NONE-|||1
+A 18 18|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 21 21|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+

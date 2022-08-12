@@ -1,0 +1,35 @@
+S У перші роки Вашого життя Вас вчили ходити Ваші батьки .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 5 6|||Spelling|||вас|||REQUIRED|||-NONE-|||2
+
+S Пізніше , вони вчили Вас читати й писати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 4 5|||Spelling|||вас|||REQUIRED|||-NONE-|||2
+
+S Тепер давайте подивимось на тварин , наприклад яструб .
+A 1 3|||G/VerbAForm|||погляньмо|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||G/Case|||яструба|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||, яструба|||REQUIRED|||-NONE-|||2
+
+S Його доглядають та вчать лише до моменту як він навчиться літати .
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Після чого він сам собі хозяїн Власного життя .
+A 6 7|||Spelling|||власного|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Отже , виходить що успіх залежить не від країни , уряду , освіти чи президента .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S А лише від однієї людини на планеті Земля .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S # Логічно ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

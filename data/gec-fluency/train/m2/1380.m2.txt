@@ -1,0 +1,47 @@
+S " Констебле " , - вимовив я - " це гарна ніч " .
+A 1 3|||G/Case|||Констеблю|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||F/Style|||промовив|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Чи отримали ви міську ліцензію " , - спитав він - " для продажу цього незаконного " спуджу " , який ви з лестощів називаєте ліками ? "
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Не отримав " , - відповів я .
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Я не знав , що у вас є місто .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||F/Style|||таке місце|||REQUIRED|||-NONE-|||1
+
+S Якщо я знайду його завтра , то отримаю таку , якщо це необхідно . "
+A 8 9|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Я буду вимушений затримати вас до того " , сказав констебель .
+A 10 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||констебль|||REQUIRED|||-NONE-|||1
+
+S " Я припиняю продаж та повертаюсь до готелю .
+A 4 5|||F/Other|||і|||REQUIRED|||-NONE-|||1
+
+S Я мав розмову з господарем про це . "
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " О , ви не стерпите жодного снігу в Фішер Гілл " , сказав він . " Лікар Госкінс , єдиний лікар тут , шурин мера і вони не дозволять жодному шарлатанові лікарю працювати у місті . "
+A 11 12|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 24 24|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 26 26|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 32 32|||Punctuation|||-|||REQUIRED|||-NONE-|||1
+A 36 37|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 38 38|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,55 @@
+S " І навіть це знав " - тривожно подумав Іваню
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||Іван|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Головний , видно , поставив собі за правило погоджуватись зі всим та радіти всьому , щоб не казали йому оточуючі , і виражати це словами " Чудово , чудово ... "
+A 4 5|||F/Collocation|||взяв|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||всім|||REQUIRED|||-NONE-|||1
+A 15 18|||F/PoorFlow|||хай що кажуть|||REQUIRED|||-NONE-|||1
+A 19 20|||G/PartVoice|||навколишні|||REQUIRED|||-NONE-|||1
+A 31 31|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S - Чудово ! - сказав Стравінський , повертаючи комусь листа , і звернувся до івана : - Ви - поет ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||Івана|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S - Поет , - похмуро відповів Іван і вперше раптом відчув якусь незрозумілу відразу до поезії , і його власні вірші , що згадалися , здались чомусь неприємними .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Зморщивши лице , він , в свою чергу , запитав у Стравінського :
+A 5 8|||F/PoorFlow|||своєю чергою|||REQUIRED|||-NONE-|||1
+
+S - Ви - професор ?
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S На це Стравінський ввічливо поклонив голову .
+A 4 5|||F/Style|||схилив|||REQUIRED|||-NONE-|||1
+
+S - І ви - тут головний ? - продовжував Іван .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Стравінський і на це поклонився .
+A 4 5|||F/Style|||вклонився|||REQUIRED|||-NONE-|||1
+
+S - Мені з вами потрібно поговорити , - багатозначно промовив Іван Миколайович .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Я для цього і прийшов , - відгукнувся Стравінський .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Справа ось у чому , - почав Іван , відчуваючи , що прийшов його час , - мене в божевільні вирядили , ніхто не бажає мене слухати !..
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||F/Calque|||Річ|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 17 18|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

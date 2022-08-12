@@ -1,0 +1,28 @@
+S Помовчали , потім Пілат задав питання грецбкою :
+A 3 4|||Spelling|||Пилат|||REQUIRED|||-NONE-|||1
+A 4 5|||F/Collocation|||поставив|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||грецькою|||REQUIRED|||-NONE-|||1
+
+S - Тож , ти лікар ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ні , ні , - жваво відповів арестант , - повір мені , я не лікар .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ну добре .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Якщо хочеш тримати це у таємниці , тримай .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S До справи це прямого відношення не має .
+A 4 5|||F/Collocation|||стосунку|||REQUIRED|||-NONE-|||1
+
+S Так ти кажеш , що не закликав зруйнувати ... або підпалити , або якимось іншим чином зруйнувати храм ?
+A 0 1|||F/Style|||То|||REQUIRED|||-NONE-|||1
+A 7 8|||G/Aspect|||руйнувати|||REQUIRED|||-NONE-|||1
+

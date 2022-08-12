@@ -1,0 +1,41 @@
+S Джонсі , дорогий , - сказала Сью , нахиляючись до неї , - ти пообіцяєш мені тримати очі закритими і не дивитись у вікно , поки я не закінчу працювати ?
+A 0 0|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Gender|||люба|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я повинен здати ці малюнки завтра .
+A 1 2|||G/Gender|||повинна|||REQUIRED|||-NONE-|||1
+
+S Мені потрібне світло , інакше я б намалював тінь .
+A 7 8|||G/Tense|||намалюю|||REQUIRED|||-NONE-|||1
+
+S " Ви не могли б намалювати в іншій кімнаті ? " - холодно спитав Джонсі .
+A 1 2|||G/Number|||Ти|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Number|||могла|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||G/Gender|||спитала|||REQUIRED|||-NONE-|||1
+
+S - Я воліла б бути тут , - сказала Сью .
+A 0 1|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||би|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Крім того , я не хочу , щоб ти продовжував дивитись на ці безглузді листки плюща .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||G/Gender|||продовжувала|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S " Скажи мені , як тільки закінчиш " , сказала Джонсі , закривши очі , лежачи білою і нерухомою , як впала статуя , " тому що я хочу бачити , як падає остання .
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 24 25|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Мені набридло чекати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я втомився Я хочу розв’язати все , і плисти вниз , вниз , як один із тих бідних , втомлених листя
+A 1 2|||G/Gender|||втомилася|||REQUIRED|||-NONE-|||1
+A 20 21|||G/Number|||листків|||REQUIRED|||-NONE-|||1
+A 21 21|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

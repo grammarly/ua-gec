@@ -1,0 +1,50 @@
+S - " Двадцять " - сказав Гудло , роблячи два креста крейдою на столі .
+A 0 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||F/Style|||креслячи|||REQUIRED|||-NONE-|||1
+A 10 11|||F/Calque|||хрести|||REQUIRED|||-NONE-|||1
+
+S - " Чому я такий дурень ? - спитав я .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Закопаний скарб вже був знайдений в багатьох місцях " .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S - " Тому що , - сказав він , - у розрахунках точки на річці , де твоя лінія мала пересіктись , ти допустив похибку .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Похибкою тут є 9 градусів західніше .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Дай мені свій олівець .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Гудло Бенкс швидко накреслив на звороті конверту .
+A 6 7|||G/Case|||конверта|||REQUIRED|||-NONE-|||1
+
+S - " Відстань , від півночі до півдня , до лінії іспанської місії , - сказав він , - становить рівно 22 милі .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Тебе вів карманний компас , спираючись на твою розповідь .
+A 2 3|||F/Calque|||кишеньковий|||REQUIRED|||-NONE-|||1
+
+S Враховуючи похибку , точка на річці Аламіто , де ти повинен був вести пошуки свого скарбу , рівно на 6 міль і 945 варас віддалена на захід від твоєї відміченої точки .
+A 20 21|||Spelling|||миль|||REQUIRED|||-NONE-|||1
+A 23 24|||Spelling|||верст|||REQUIRED|||-NONE-|||1
+A 29 30|||F/Style|||зазначеної|||REQUIRED|||-NONE-|||1
+
+S Який же ти дурень , Джим ! "
+A 5 6|||G/Case|||Джиме|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+

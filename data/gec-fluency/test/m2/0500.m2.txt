@@ -1,0 +1,186 @@
+S Ця книга про так звані « бірюзові компанії » , де немає менеджменту як такого і все побудовано на самоорганізації .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Очікування від книги були досить значними , оскільки з одного боку я досить давно цікавився та пробував будувати щось подібне , з іншого боку — знав що ця книга має статус « must read » у будувачів сяючого хипстерського майбутнього .
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 12 13|||F/Style|||доволі|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||і|||REQUIRED|||-NONE-|||1
+A 26 26|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 36 38|||G/UngrammaticalStructure|||будівничих|||REQUIRED|||-NONE-|||1
+A 37 38|||G/PartVoice|||осяйного|||REQUIRED|||-NONE-|||1
+A 38 39|||Spelling|||хіпстерського|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 24 24|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 24 25|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 26 26|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 36 37|||F/Style|||будівничих|||REQUIRED|||-NONE-|||2
+A 37 38|||F/Style|||блискучого|||REQUIRED|||-NONE-|||2
+A 38 39|||Spelling|||хіпстерського|||REQUIRED|||-NONE-|||2
+
+S Як і у випадку з реальністю , у мене виникло деяке розчарування ( не фатальне ) .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Я не скажу , що така класифікація не має змісту : можливо як мнемонічний прийом вона і вдала .
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Але це не може бути більше ніж мнемонічним прийомом , пошук змісту в таких аналогіях .... навряд чи сильно нас збагатить .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 15 16|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Далі , автор будує « висхідний шлях » починаючи з нижчого до вищого .
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 10|||F/PoorFlow|||від|||REQUIRED|||-NONE-|||1
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S ( На мою думку це вже не дуже коректно , все організовувати в одну ланку схоже на прояв поширеного когнітивного викривлення . )
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Ну і далі є огляд практик декількох « бірюзових » компаній , досить цікавий .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 4 4|||F/PoorFlow|||досить цікавий|||REQUIRED|||-NONE-|||2
+A 11 14|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Одні практики більш - менш очевидні , інші ні .
+A 8 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S В цілому — така собі реінкарнація « теорії Y » +­ методи організації взаємодії .
+A 0 2|||F/PoorFlow|||Загалом|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Читаючи про практики , які автор зображає як бірюзові ( довіра людям , близька ... взаємодія ) я згадав і знайшов на полицях іншу книгу ( Рей Іммельман : Boss ( бесподобный или бесполезный ) ) , де деякі з цих сами практик виводились з протилежних засад ( антропологічних — згуртовувати колектив як плем'я ) ) .
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 40 41|||F/Style|||тих|||REQUIRED|||-NONE-|||1
+A 41 42|||Spelling|||самих|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 28 29|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 29 30|||F/PoorFlow|||“Great Boss, Dead Boss”|||REQUIRED|||-NONE-|||2
+A 30 30|||Punctuation|||:|||REQUIRED|||-NONE-|||2
+A 30 35|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+A 38 39|||F/Style|||певні|||REQUIRED|||-NONE-|||2
+A 41 42|||Spelling|||самих|||REQUIRED|||-NONE-|||2
+A 44 45|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 52 52|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 54 56|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S З іншого боку , сказати що книга ніяка — теж не можна , деякі практики ( обов'язковість консультацій ; інвестування у вміння домовлятись .. ітд ) — гарно мати на увазі і застосовувати там де це є доречним .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 24 25|||F/PoorFlow|||тощо|||REQUIRED|||-NONE-|||1
+A 34 34|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 18 19|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 23 24|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 24 25|||Spelling|||і т. ін.|||REQUIRED|||-NONE-|||2
+A 26 28|||F/Style|||добре|||REQUIRED|||-NONE-|||2
+A 28 31|||F/Style|||взяти до уваги|||REQUIRED|||-NONE-|||2
+A 34 34|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 36 38|||F/PoorFlow|||доречно|||REQUIRED|||-NONE-|||2
+
+S Єдине — я б все таки назвав такі компанії не « бірюзовими » , а « для дорослих » ( як на мене — об'єднує ці практики те , що люди взаємодіють один з одним як дорослий з дорослим , без патерналізму )
+A 4 6|||Spelling|||все-таки|||REQUIRED|||-NONE-|||1
+A 37 38|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 43 43|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 4 6|||Spelling|||усе-таки|||REQUIRED|||-NONE-|||2
+A 23 23|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 23 24|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 33 34|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 35 35|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 37 38|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 43 43|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Але про проблеми , що в свій час були реальними для мене — в книзі нічого не сказано :(.
+A 5 8|||G/Case|||свого часу|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||:(|||REQUIRED|||-NONE-|||1
+A 5 8|||G/Case|||свого часу|||REQUIRED|||-NONE-|||2
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 12 13|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Тобто коли я будував щось таке , то самою першою проблемою — був брак людей , що здатні нести ризики .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 10|||G/Comparison|||найпершою|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 16 18|||F/PoorFlow|||здатних|||REQUIRED|||-NONE-|||1
+A 8 10|||G/Comparison|||найважливішою|||REQUIRED|||-NONE-|||2
+A 11 12|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 16 17|||G/Conjunction|||які|||REQUIRED|||-NONE-|||2
+A 18 20|||F/PoorFlow|||ризикувати|||REQUIRED|||-NONE-|||2
+
+S Тут — організації вже є і вже працюють .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Інша проблема — я бачив як людина щось для себе вирішувала і ... як би так сказати : різко змінювала рівень адекватності / поведіну .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 23 24|||Spelling|||поведінку|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||:|||REQUIRED|||-NONE-|||2
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 12 13|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 17 18|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 23 24|||Spelling|||поведінку|||REQUIRED|||-NONE-|||2
+
+S Таке буває ..
+A 2 3|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||...|||REQUIRED|||-NONE-|||2
+
+S Третє — розподіл сфер відповідальності ( якби я лаявся щодо кожної речі , яка мені трошки не подобається ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S 1 ) більшість людей має достатню кваліфікацію , щоб бачити бізнес - процес і оцінювати КТУ
+A 8 9|||Spelling|||щоби|||REQUIRED|||-NONE-|||1
+A 16 16|||Punctuation|||;|||REQUIRED|||-NONE-|||1
+A 16 16|||Punctuation|||;|||REQUIRED|||-NONE-|||2
+
+S 2 ) в досить « легкому » човні , щоб ситуація коли хтось « стомлюється » — дійсно несла загрозу цьому човну ( та=же Semco , замість розширюватись — створює нове підприємство ) .
+A 2 3|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 11 16|||F/PoorFlow|||чиєїсь "утоми",|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 21 24|||Spelling|||човну (та ж|||REQUIRED|||-NONE-|||1
+A 28 29|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 3|||Punctuation|||;|||REQUIRED|||-NONE-|||2
+A 13 12|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 18 17|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 17 18|||F/Style|||справді|||REQUIRED|||-NONE-|||2
+A 18 19|||F/Style|||-NONE-|||REQUIRED|||-NONE-|||2
+A 23 26|||Spelling|||човну (та ж|||REQUIRED|||-NONE-|||2
+A 30 29|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 29 30|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S До речі , слідкувати щоб кожен бізнес - юніт був таким , може мати зміст як стратегія .
+A 3 4|||F/Style|||стежити ,|||REQUIRED|||-NONE-|||1
+A 3 6|||F/Style|||стеження|||REQUIRED|||-NONE-|||2
+A 6 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Коли ж ці умови не виконуються — потрібен якийсь інший механізм : внутрішній ринок , тощо ... ;
+A 6 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 16 18|||Punctuation|||....|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 16 18|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S А « сделаем так что б всем было хорошо » — щось на кшталт комунізму .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 4|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+A 8 7|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S До речі , на 471 сторінці цієї книги у назві розділу з'являється « духовність » / / перепрошую , якщо когось образив
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 15 17|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 22 22|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+

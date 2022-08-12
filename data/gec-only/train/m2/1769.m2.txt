@@ -1,0 +1,70 @@
+S Маргарита відкинула шторку і влетіла у вікно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Я боюся , - повторив хлопчик і затремтів .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Не бійся , не бійся , маленький , - сказала Маргарита , намагаючись пом'якшити свій охриплий під вітром , злочинний голос , - це хлопчаки скла били .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 17 20|||G/Prep|||на вітрі|||REQUIRED|||-NONE-|||1
+A 23 24|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - З рогатки ? - запитав хлопчик , перестаючи тремтіти .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - З рогатки , з рогатки , - підтвердила Маргарита , - а ти спи !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Це Ситник , - сказав хлопчик , - у нього є рогатка .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ну , звичайно , він !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Хлопчик подивився лукаво кудись в сторону і запитав :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - А ти де , тітка ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Case|||тітко|||REQUIRED|||-NONE-|||1
+
+S - А мене немає , - сказала Маргарита , - я тобі снюся .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Я так і думав , - сказав хлопчик .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ти лягай , - наказала Маргарита , - Поклади руку під щоку , а я тобі буду снитися .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ну , снюсь , снюсь , - погодився хлопчик і негайно ліг і руку поклав під щоку .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Other|||снись|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Other|||снись|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Я тобі казку розповім , - заговорила Маргарита і поклала розпалену руку на стрижену голову , - була на світі одна тьотя .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 17 18|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S І у неї не було дітей , і щастя взагалі теж не було .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S І ось вона спершу багато плакала , а потім стала зла ... - Маргарита замовкла , зняла руку - хлопчик спав .
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

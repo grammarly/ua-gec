@@ -1,0 +1,39 @@
+S Плата за мою роботу становитиме $ 250 . 00 , одужання буде гарантоване за два прийоми " , - сказав я .
+A 0 0|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Добре , - відповів мер .
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я заплачу за це .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Думаю , моє життя коштує набагато більше .
+A 7 7|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S Я сів біля ліжка і подивився прямо йому в очі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S А зараз , сказав я , забудьте про свою хворобу .
+A 0 0|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ви не хворі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S У вас нічого не болить .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Це помилка .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ви відчуваєте біль , що покидає вас , так ?
+A 9 10|||Punctuation|||?"|||REQUIRED|||-NONE-|||1
+
+S Мені справді краще , лікарю , сказав мер .
+A 0 0|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

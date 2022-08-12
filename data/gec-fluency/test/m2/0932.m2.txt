@@ -1,0 +1,59 @@
+S У Копенгагені стартував тиждень моди .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Перший офлайн захід такого масштабу в індустрії під час карантину .
+A 2 2|||Spelling|||-|||REQUIRED|||-NONE-|||1
+A 2 2|||Spelling|||-|||REQUIRED|||-NONE-|||2
+
+S Щороку модниці Скандинавії демонструють свої круті аутфіти і цей рік не став винятком .
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S ⠀
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Захоплююсь скандинавською модою , і їх стріт стайл завжди виглядає витончено , а поєднання кольорів завжди таке вдале .
+A 1 2|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 5|||F/PoorFlow|||скандинавів:|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||їхній|||REQUIRED|||-NONE-|||1
+A 6 8|||Spelling|||стріт-стайл|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Захоплююся|||REQUIRED|||-NONE-|||2
+A 4 5|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||2
+A 5 6|||G/UngrammaticalStructure|||їхній|||REQUIRED|||-NONE-|||2
+A 6 8|||F/Calque|||вуличний стиль|||REQUIRED|||-NONE-|||2
+A 9 11|||F/PoorFlow|||витончений|||REQUIRED|||-NONE-|||2
+
+S ⠀
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Солом’яні сумки , корсети , мушлі в декорі - поза конкуренцією .
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Також багато дівчат були одягнені в образи , де присутній анімалістичний принт , традиційний помаранчевий відтінок та речі з комірцями .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 18|||F/PoorFlow|||одяг багатьох дівчат був у традиційному помаранчевому відтінку з анімалістичними принтами та речами|||REQUIRED|||-NONE-|||2
+
+S ⠀
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Доповнювали це все аксесуарами від : Шанель , Жакмюс та Боттега Венета .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S ⠀
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Так хочеться на хвилинку забути про пандемію і уявити , що зовсім скоро увесь світ повернеться до оффлайн показів , і ми зможемо з вами за цим спостерігати .
+A 7 8|||Spelling|||й|||REQUIRED|||-NONE-|||1
+A 17 18|||Spelling|||офлайн -|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||й|||REQUIRED|||-NONE-|||2
+A 13 14|||Spelling|||весь|||REQUIRED|||-NONE-|||2
+A 17 18|||Spelling|||офлайн -|||REQUIRED|||-NONE-|||2
+A 27 28|||F/Style|||стежити|||REQUIRED|||-NONE-|||2
+

@@ -1,0 +1,30 @@
+S " Ні , " - сказав Скрудж .
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Я хочу мати змогу перекинутися слівцем зі своїм помічником .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S От і все "
+A 4 4|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Його колишнє Я притлумило лампи як він озвучив своє бажання ; и Скрудж та Привід стояли поряд на відкритому повітрі .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Conjunction|||коли|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||-NONE-|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||Привид|||REQUIRED|||-NONE-|||1
+A 17 20|||F/Calque|||просто неба|||REQUIRED|||-NONE-|||1
+
+S " Мій час спливає , зауважив Привид . - Швидше ! " .
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Це не було сказано Скруджу чи комусь у полі зору , але це справило негайний ефект знову Скрудж побачив себе .
+A 16 17|||Punctuation|||:|||REQUIRED|||-NONE-|||1
+A 18 18|||F/PoorFlow|||знову|||REQUIRED|||-NONE-|||1
+
+S Тепер він був старшим - чоловік на схилі літ
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Case|||чоловіком|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

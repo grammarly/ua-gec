@@ -1,0 +1,50 @@
+S " Хм , я не знаю " , я сказав .
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Рандли - прості , але надійні сільські люди .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Можливо , виробники папіру намагалися провести оборудку " .
+A 3 4|||Spelling|||паперу|||REQUIRED|||-NONE-|||1
+
+S Та потім Гудлоу Бенкс повів себе настільки емоційно , наскільки йому дозволяла його освіта .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він скинув окуляри зі свого носа та виразно подивився на мене .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Я часто казав тобі , що ти дурень " , він сказав .
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Ти дозволив себе обдурити повному телепню .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Та ти обдурив і мене теж "
+A 7 7|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Як " , я спитав , " я обдурив тебе ? "
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Своїм невіглаством " , він відповів .
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S " Двічі я знаходив в твоїх планах такі недоліки , яких загальна середня освіта мала би дати тобі уникнути .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 19 19|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S Також " , він продовжив , " Женучись за цим шахрайством , мені довелося понести такі витрати , які я не міг собі дозволити .
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 18 19|||G/Conjunction|||скільки|||REQUIRED|||-NONE-|||1
+
+S Все , з мене досить . "
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

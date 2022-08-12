@@ -1,0 +1,57 @@
+S " Боб , чи це ти ? " він спитав сумніваючись .
+A 1 2|||G/Case|||Бобе|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||спитав|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S " Чи це ти , Джимме Веллсе ? " закричав чоловік в дверях .
+A 5 6|||Spelling|||Джиме|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S " Благослови мене Маріє ! " вигукнув новоприбулий , схопивши своїми руками обидві руки іншого .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Це Боб , точно він .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я був впевнений , що знайду тебе тут , якщо ти ще живий .
+A 2 3|||Spelling|||упевнений|||REQUIRED|||-NONE-|||1
+
+S Так , так , так ! -- двадцять років це довгий термін .
+A 1 2|||Punctuation|||-|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||-|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Минуле відійшло , Боббе ; я б хотів , щоб воно тривало , і ми могли б ще раз пообідати .
+A 3 4|||Spelling|||Бобе|||REQUIRED|||-NONE-|||1
+A 6 7|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 8|||F/PoorFlow|||би|||REQUIRED|||-NONE-|||1
+
+S Як захід обійшовся з тобою , старий чоловіче ? "
+A 7 8|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S " Дідько ; він дав мені все , що я просив .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ти змінився , Джимме .
+A 3 4|||Spelling|||Джиме|||REQUIRED|||-NONE-|||1
+
+S Я думав ти був нищим , на дюйми два або три . "
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Case|||нижчий|||REQUIRED|||-NONE-|||1
+A 7 8|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 12|||F/PoorFlow|||дюйми|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Хе , я трохи виріс після двадцяти . "
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " В Нью-Йорку справи йдуть добре , Джимме ? "
+A 1 2|||Spelling|||У|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||Джиме|||REQUIRED|||-NONE-|||1
+

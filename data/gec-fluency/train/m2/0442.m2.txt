@@ -1,0 +1,45 @@
+S " Вона призначена для високих матерій " , - сказав Ґудло .
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Я сам тоді знайду її .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Але , розкажіть , як ви знайшли місце , де хтось так недбало закопав стільки добра " .
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Я розповів йому все до дрібниць .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я показав йому чорновик з точно накресленими відстанями .
+A 3 4|||F/Calque|||чернетку|||REQUIRED|||-NONE-|||1
+
+S Поглянувши на це , він відкинувся на стільці із вибухом іронічного , злобного , надмірного сміху .
+A 10 12|||F/PoorFlow|||іронічно -|||REQUIRED|||-NONE-|||1
+A 14 15|||F/Calque|||зверхнього|||REQUIRED|||-NONE-|||1
+
+S - Ну і ти дурень , Джіме , - сказав він , коли уже зміг говорити .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 4|||G/UngrammaticalStructure|||й|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||вже|||REQUIRED|||-NONE-|||1
+
+S " Ваш хід " , - промовив я , терпляче перебираючи свою кісточку доміно .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Двадцять , - сказав Ґудло , намалювавши крейдою два хрестики на столі .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Чому це я дурень ? " Я запитав .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||я|||REQUIRED|||-NONE-|||1
+
+S " Багато де знаходили закопані скарби " .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+

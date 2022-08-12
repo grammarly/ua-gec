@@ -1,0 +1,35 @@
+S Книга HR -директора google ( на час її написання ) .
+A 1 4|||Spelling|||HR-директора Google|||REQUIRED|||-NONE-|||1
+A 1 4|||Spelling|||HR-директора Google|||REQUIRED|||-NONE-|||2
+A 5 6|||G/Prep|||під|||REQUIRED|||-NONE-|||2
+
+S Тим і цікава .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Збірка принципів та історій різної степені трівіальності та нетривіальності ( є як те , так і інше ) .
+A 4 5|||G/Gender|||різного|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||тривіальності|||REQUIRED|||-NONE-|||1
+A 4 6|||G/Gender|||різного ступеня|||REQUIRED|||-NONE-|||2
+A 6 7|||Spelling|||тривіальності|||REQUIRED|||-NONE-|||2
+
+S Цікаво , що так як в них 50000 працівників , то вони мають спробу тестувати еффективність HR програм та " підштовхувань " .
+A 2 3|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||ефективність|||REQUIRED|||-NONE-|||1
+A 17 17|||Spelling|||-|||REQUIRED|||-NONE-|||1
+A 2 3|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+A 5 6|||Spelling|||у|||REQUIRED|||-NONE-|||2
+A 15 16|||Spelling|||ефективність|||REQUIRED|||-NONE-|||2
+A 17 17|||Spelling|||-|||REQUIRED|||-NONE-|||2
+
+S Якщо ви приймаєте суттеву участь у побудові IT компаніїю , то ця книга мабуть має входити у перелік обов'язкового читання .
+A 3 4|||Spelling|||суттєву|||REQUIRED|||-NONE-|||1
+A 7 9|||Spelling|||ІТ-компанії|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||суттєву|||REQUIRED|||-NONE-|||2
+A 7 9|||Spelling|||IT-компанії|||REQUIRED|||-NONE-|||2
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+

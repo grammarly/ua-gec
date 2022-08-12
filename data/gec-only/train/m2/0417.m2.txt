@@ -1,0 +1,17 @@
+S Репер Каньє Вест оголосив , що йде у президенти США
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 10 10|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Уявіть собі , що в президенти балотується знаменитість без жодного досвіду роботи в державних органах , політиці та навіть служби в збройних силах , яка не спромоглась сформулювати хоча б якийсь конкретний пункт політичної програми ( окрім за все хороше і проти всього поганого ) .
+A 37 37|||G/UngrammaticalStructure|||як|||REQUIRED|||-NONE-|||1
+A 26 27|||Spelling|||спромоглася|||REQUIRED|||-NONE-|||2
+A 35 35|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 35 36|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 37 37|||G/UngrammaticalStructure|||як:|||REQUIRED|||-NONE-|||2
+A 44 45|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S І тепер Каньє робить рівно те саме
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 4 5|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+A 7 7|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+

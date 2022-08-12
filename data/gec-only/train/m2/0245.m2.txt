@@ -1,0 +1,50 @@
+S Ходить сюди , Сер , будьласка .
+A 0 1|||G/Aspect|||Підійдіть|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||сер|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||будь ласка|||REQUIRED|||-NONE-|||1
+
+S " Це лише один раз у рік , Сер , " мовив Боб , вилізаючи з баку .
+A 8 9|||Spelling|||сер|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||G/Case|||бака|||REQUIRED|||-NONE-|||1
+
+S " Це не повинно повторитися .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я празднував це вчора також , Сер " " Зараз я скажу тобі , мій друже , " сказав Скрудж , " я більше не потерплю такі витівки .
+A 6 7|||Spelling|||сер|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 18 18|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+A 21 22|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 26 28|||G/Case|||таких витівок|||REQUIRED|||-NONE-|||1
+
+S Також , " він продовжив , стрибаючи зі свого табурета , та смикнув Бобу за жилет , що він знову заскочив до баку .
+A 0 0|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||G/Case|||Боба|||REQUIRED|||-NONE-|||1
+A 22 23|||G/Case|||бака|||REQUIRED|||-NONE-|||1
+
+S ; " Крім того я збираюся підвищити вашу зарплату ! " , Боб затремтів і трохи наблизився до командири .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 1 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S У нього виникла була миттєва ідея збити Скруджа з ніг , та утримаючи його і покликати людей до суду на допомогу .
+A 10 11|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||утримуючи|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 17 18|||G/Prep|||зі|||REQUIRED|||-NONE-|||1
+
+S " Веселого Різдва , Боб ! " - сказав Скрудж із щирістю , яка не могла бути справжньою , коли він поплескав його по спині .
+A 4 5|||G/Case|||Бобе|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S « Веселого Різдва , Бобе , мій друже таке ж , яке я тобі дарував , протягом багатьох років
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 19 19|||Punctuation|||".|||REQUIRED|||-NONE-|||1
+

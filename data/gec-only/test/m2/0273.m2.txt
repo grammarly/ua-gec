@@ -1,0 +1,57 @@
+S То нічого , ми ж на цьому навмисно тримаємось подалі від великих колективів .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 5 7|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+A 8 9|||Spelling|||тримаємося|||REQUIRED|||-NONE-|||2
+
+S Приводь на Соню на другу а далі розберемось
+A 1 2|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 2|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+A 3 5|||G/Prep|||о другій|||REQUIRED|||-NONE-|||2
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 7 8|||Spelling|||розберемося|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Для дітей буде суп з фрікадельками .
+A 5 6|||Spelling|||фрикадельками|||REQUIRED|||-NONE-|||1
+A 4 6|||Spelling|||із фрикадельками|||REQUIRED|||-NONE-|||2
+
+S І є вареники про всяк випадок .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S То мабуть нічого додатково не треба .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Привіт !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ми сьогодні дітей в садочок привезли , можемо забрати Соню , якщо вона теж в совенятах .
+A 3 4|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||у|||REQUIRED|||-NONE-|||2
+A 14 15|||Spelling|||у|||REQUIRED|||-NONE-|||2
+A 15 16|||Spelling|||“Совенятах”|||REQUIRED|||-NONE-|||2
+
+S Соня завтра йде в садок на Прорізній ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ми думаємо може спробувати за Надією туди завітати .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 4 5|||G/Prep|||з|||REQUIRED|||-NONE-|||2
+
+S Ок , заберемо Гафію , пристебнемо так .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Забирати буду не раніше сьомої , тож приїдемо між 19 : 30 і 20 : 00
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 16 16|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+

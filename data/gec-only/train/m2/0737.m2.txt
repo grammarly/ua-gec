@@ -1,0 +1,50 @@
+S Я киваю панові Бідлу і клякаю біля ліжка і перевіряю пульс голови .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S « Покажіть мені Вашу печінку ... я маю на увазі Вашого язика " — кажу я .
+A 3 4|||Spelling|||вашу|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||вашого|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Потім я підвожу його повіки й придивляюся в його зіниці .
+A 2 3|||Spelling|||підводжу|||REQUIRED|||-NONE-|||1
+A 7 8|||G/Prep|||до|||REQUIRED|||-NONE-|||1
+A 9 10|||G/Case|||зіниць|||REQUIRED|||-NONE-|||1
+
+S « Як довго Ви вже хворієте ? » — спитав я .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S « Мене підкосило — ох — минулої ночі , » — каже голова .
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S « Прошу , дайте мені щось від цього , лікарю . »
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S « Пане Фідл , » — кажу я , « відхиліть трохи фіранки , будь ласка . »
+A 2 3|||G/Case|||Фідле|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 18 18|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S « Бідл , » — каже молодик .
+A 1 2|||G/Case|||Бідле|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S « Чи не хочеться Вам з'їсти яєшню з салом , дядьку Джеймсе ? »
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||вам|||REQUIRED|||-NONE-|||1
+
+S « Пане голова » — кажу я , прикладаю своє вухо до його правого плеча і прислухаюсь .
+A 2 4|||G/Case|||голово|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S « У Вас тяжкий випадок суперзапалення правої ключиці клавесину . »
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||вас|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||клавесина|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

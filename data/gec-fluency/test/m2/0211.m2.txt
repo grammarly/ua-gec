@@ -1,0 +1,86 @@
+S Беркутівці для руских були потрібні тільки для того , щоб всередині українського суспільства знову закласти лінію розлому : міняти / не міняти .
+A 2 3|||F/Calque|||росіян|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||усередині|||REQUIRED|||-NONE-|||1
+A 1 3|||F/Calque|||росіянам|||REQUIRED|||-NONE-|||2
+A 18 22|||F/Style|||обмінювати чи не обмінювати|||REQUIRED|||-NONE-|||2
+
+S Бо , не зробивши цього , маємо в майбутньому ймовірність повернення « ні в чому не винних » , бо ми ж країна , яка поважає презумпцію невинуватості .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 3|||F/PoorFlow|||Не|||REQUIRED|||-NONE-|||2
+A 6 7|||G/Tense|||матимемо|||REQUIRED|||-NONE-|||2
+
+S Все буде так як з Портновим і Лукаш , всі звикнуть .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||усі|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 4 5|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 9 10|||Spelling|||усі|||REQUIRED|||-NONE-|||2
+
+S І всі такі лінії розлому закладаються тільки для одного - плодити ненависть в суспільстві і відчуття несправедливості .
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 14 14|||F/PoorFlow|||ненависть|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S А це основні чинники , які ведуть до громадянських воєн - справжніх чи придуманих .
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||F/Style|||вигаданих|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 10 11|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Нас як баранчиків заганяють в цей дискурс .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 4 5|||Spelling|||у|||REQUIRED|||-NONE-|||2
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S А президент , який вважає себе і свою команду прекрасними комунікаторами , попри щирі , сподіваюсь , наміри визволити хлопців з полону , абсолютно провалив комунікацію з суспільством і родичами героїв небесної сотні .
+A 31 32|||Spelling|||Небесної|||REQUIRED|||-NONE-|||1
+A 32 33|||Spelling|||Сотні|||REQUIRED|||-NONE-|||1
+A 31 32|||Spelling|||Небесної|||REQUIRED|||-NONE-|||2
+
+S Я певен , що якщо б він проговорив це питання з родинами , то можна було б знайти розуміння і суспільну згоду .
+A 4 6|||F/PoorFlow|||якби|||REQUIRED|||-NONE-|||1
+A 3 4|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Але все було зроблено по тупому .
+A 4 6|||Spelling|||по-тупому|||REQUIRED|||-NONE-|||1
+A 4 6|||Spelling|||по-тупому|||REQUIRED|||-NONE-|||2
+
+S Треба тішитись , що полонених звільнять .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Але маємо зробити все , щоб влада зрозуміли де вона провтикала , і що так робити не можна , не виправдовуючи нікого .
+A 7 8|||G/Number|||зрозуміла|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||G/Number|||зрозуміла|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S І головне не піддаватись паніці і знецінюванню один одного .
+A 2 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Бо це саме те , чого хоче кремль .
+A 7 8|||Spelling|||Кремль|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||Кремль|||REQUIRED|||-NONE-|||2
+
+S Маємо вчитись грати в шахи
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 5 5|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S PS : забув написати тут про суддів і прокурорів .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ой , не забув , шо тут писати
+A 5 6|||Spelling|||що|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+

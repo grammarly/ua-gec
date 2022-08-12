@@ -1,0 +1,66 @@
+S Добре , лікарю , сказав кнайт ,
+A 0 0|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||Кнайт|||REQUIRED|||-NONE-|||1
+
+S не здатен приглушити ноту тріусфу в його голосі
+A 4 5|||Spelling|||тріумфу|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Other|||своєму|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Ти бачив
+A 0 0|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||?|||REQUIRED|||-NONE-|||1
+
+S Це дивовсижно - дивовижно
+A 1 2|||Spelling|||дивовижно|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Я не міг допомогти , вигукуючи , коли наша кабіна почала рух у зворотньому напрямку
+A 13 14|||Spelling|||зворотному|||REQUIRED|||-NONE-|||1
+
+S Але як ти це зробив , яким процесом індукції {=> ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S 一 } Мій любий лікаре Перебив величний вбивця Теорія індукції це та , яку використовують детективи
+A 4 5|||G/Case|||лікарю|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||, 一|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||перебив|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||, 一|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||теорія|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 16 16|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Мій процес є більш сучасним
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я зву її - салтаторна теорія Не турбуючись від нудних явищ , необхідних для розгадки таємниці З незначних підказок Я зразу роблю висновок Я поясню вам метод , який я застосував в цій справі
+A 1 3|||F/Style|||називаю його|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Prep|||про|||REQUIRED|||-NONE-|||1
+A 9 10|||G/Case|||нудні|||REQUIRED|||-NONE-|||1
+A 10 11|||G/Case|||явища|||REQUIRED|||-NONE-|||1
+A 12 13|||G/Case|||необхідні|||REQUIRED|||-NONE-|||1
+A 16 17|||F/PoorFlow|||,|||REQUIRED|||-NONE-|||1
+A 17 17|||F/PoorFlow|||з|||REQUIRED|||-NONE-|||1
+A 19 20|||Spelling|||я|||REQUIRED|||-NONE-|||1
+A 23 23|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 29 30|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+A 31 32|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S Спершу , я стверджував , що так як злочин був в нью-йорку серед білого дгя , в публічному місці і надзвичайно небезпечних обставин
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 8|||F/Calque|||оскільки|||REQUIRED|||-NONE-|||1
+A 9 10|||F/Style|||скоєно|||REQUIRED|||-NONE-|||1
+A 11 13|||Spelling|||Нью-Йорку за|||REQUIRED|||-NONE-|||1
+A 14 15|||G/Prep|||дня|||REQUIRED|||-NONE-|||1
+A 20 20|||Spelling|||за|||REQUIRED|||-NONE-|||1
+A 23 23|||G/Prep|||.|||REQUIRED|||-NONE-|||1
+
+S І що найвигідніший злочин , доступний , ніколи не відриють , злочинця ніколи не знайдуть Ви не вважаєте мою постуляцію виправданою прецедентом
+A 9 10|||F/Style|||розкриють|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 22 22|||Punctuation|||?|||REQUIRED|||-NONE-|||1
+

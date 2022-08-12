@@ -1,0 +1,39 @@
+S " Вона - вона хоче намалювати Неаполітанську затоку одного дня . " - сказала Сью .
+A 2 4|||Spelling|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Малювати ? - нісенітниця !
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Чи має вона якісь вартісні думки - про чоловіка , наприклад ?"
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Чоловіка ? " - мовила Сью з тремтінням у голосі .
+A 2 5|||Punctuation|||?|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - " Чи вартий чоловік - але ні , лікарю ; ні про що подібне вона не думає . "
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 20 20|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " У такому разі це слабкість " , - сказав лікар , - " Я проводитиму дослідження допоки стане моїх сил .
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 12 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Але щоразу , як мій пацієнт починає рахувати карети у своїй похоронній процесії , я віднімаю 50 відсотків від ефективності лікування .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Якщо вам вдасться змусити поставити її бодай одне питання про нові зимові фасони рукавів у плащах , я оціню її шанси , як один з п'яти замість одного з десяти .
+A 30 30|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S "
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+

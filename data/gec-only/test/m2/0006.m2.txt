@@ -1,0 +1,121 @@
+S Привіт Настя
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||Насте|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 1 2|||G/Case|||Насте|||REQUIRED|||-NONE-|||2
+A 2 2|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S А діти в садочку після сніданку гуляють ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Щось ми сьогодні не встигаємо до дев'ятої привести
+A 8 8|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Дякую за інформацію ! ми з Надією саме вийшли з дому
+A 4 5|||Spelling|||Ми|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||Ми|||REQUIRED|||-NONE-|||2
+A 11 11|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Ми прийшли , але діти ще не гуляють .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Сказали нам почекати поки група вийде .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Надя щось не в захваті , каже : " не піду ! "
+A 9 10|||Spelling|||Не|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||Не|||REQUIRED|||-NONE-|||2
+
+S Ох , все дуже заплутано .
+A 2 3|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ми у вересні подивимось який в Уляни буде розклад в школі й по гуртках , і як воно буде Надії в садочку , і вирішимо як краще ходити .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 25 25|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 9 10|||Spelling|||у|||REQUIRED|||-NONE-|||2
+A 11 12|||Spelling|||та|||REQUIRED|||-NONE-|||2
+A 12 13|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+A 25 25|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S В поки що вересень будем повну оплату робити .
+A 0 2|||Spelling|||Поки|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Case|||вересні|||REQUIRED|||-NONE-|||1
+A 0 1|||G/UngrammaticalStructure|||А|||REQUIRED|||-NONE-|||2
+A 3 4|||G/Case|||у вересні|||REQUIRED|||-NONE-|||2
+
+S У нас тут ще й в школі незрозуміло .
+A 5 6|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||у|||REQUIRED|||-NONE-|||2
+
+S Кажуть що діти будуть або через день займатись , або через тиждень .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 7 8|||Spelling|||займатися|||REQUIRED|||-NONE-|||2
+
+S То ми моде ще й Уляну будемо в совенята через день відправляти
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||може|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 2 3|||Spelling|||може|||REQUIRED|||-NONE-|||2
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 8 9|||Spelling|||“Совенята”|||REQUIRED|||-NONE-|||2
+A 12 12|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Всі батьки в шоці ))
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Spelling|||Усі|||REQUIRED|||-NONE-|||2
+A 4 4|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Отож , я й сама ні в чому не впевнена
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 10 10|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S А мені здається що " все " вже не будуть закривати .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Люди всі втомилися , всім байдуже
+A 6 6|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Я збираюся забрати Надію раніше , бо мені сказали що на цьому тижні тільки на прогулянки будут її брати , тобто до обіду .
+A 16 17|||Spelling|||будуть|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Я вже поруч з садком в кафе сиджу , розмовляю з замовниками , ніяк не можу закінчити розмову )))
+A 3 4|||Spelling|||зі|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||зі|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 10 11|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 18 18|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Потім я їй обіцяла зайти в арома каву по какао
+A 6 7|||Spelling|||"Арома|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||Каву|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 6 8|||Spelling|||“Арома каву”|||REQUIRED|||-NONE-|||2
+A 10 10|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S А потім додому підемо
+A 4 4|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Краще наступним разом , бо не знаю чи буде Надія в доброму гуморі
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 1 3|||G/Case|||наступного разу|||REQUIRED|||-NONE-|||2
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 13 13|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+

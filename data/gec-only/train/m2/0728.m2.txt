@@ -1,0 +1,26 @@
+S Вони можуть робити усе , що забажають .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Звичайно , вони можуть .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Звичайно , вони можуть .
+A 0 5|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Привіт , мій милий друже ! » .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S « Вітаю ! » — відповів хлопчик . — « Ти знаєш Полтерерів , на вулиці через одну , на розі ? » — спитав Скрудж .
+A 1 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S « Впевнений , що так , » — відповів малий .
+A 1 2|||Spelling|||Упевнений|||REQUIRED|||-NONE-|||1
+A 5 7|||Punctuation|||» ,|||REQUIRED|||-NONE-|||1
+
+S « Розумний хлопчик ! » — сказав Скрудж .
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S — « Видатний хлопчик !
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||»|||REQUIRED|||-NONE-|||1
+

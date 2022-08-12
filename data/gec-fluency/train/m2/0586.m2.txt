@@ -1,0 +1,46 @@
+S - Чи - то ми вже на полюсі ? - запитав я в капітана , відчуваючи , як б'ється серце .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 4|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Я цього не знаю . - відповів він .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - О півдні ми будемо на місці .
+A 1 3|||Spelling|||Опівдні|||REQUIRED|||-NONE-|||1
+
+S - Але чи сонце підніметься в цьому тумані ? - сказав я дивлячись у сірувате небо .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S - Коли хоч трохи з'явиться , мені цього достатньо . - відповів капітан .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S У десяти милях від Наутілусу , у напрямку півдня , на висоту двухсот метрів піднімався самотній острівець .
+A 12 13|||Spelling|||двохсот|||REQUIRED|||-NONE-|||1
+
+S Ми прямували до нього , обережно , бо це море могло бути засіяно підводними каменями .
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 13|||G/VerbVoice|||всіяне|||REQUIRED|||-NONE-|||1
+
+S Через годину , ми дісталися того острівція .
+A 0 1|||G/Prep|||За|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||острівця|||REQUIRED|||-NONE-|||1
+
+S Дві години опісля , ми закінчили тур .
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Він нараховував від чотирьох до п'яти миль руху по колу .
+A 1 2|||F/Style|||тривав|||REQUIRED|||-NONE-|||1
+
+S Величезну землю розділяв вузенький канал .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Континет , межі якого , можливо , ми не зможемо осягнути .
+A 0 1|||Spelling|||Континент|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,86 @@
+S - Що ж , мій старий друже , ти мене вилікував , зараз я тобі віддячу .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Пам'ятаєш як ти мені голову перев'язував в Розлогах - га ?
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 6 7|||Spelling|||у|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Очі Богуна почали світитися як два корбункули , а лінія вусів витягнулась в трашній посмішці
+A 6 7|||Spelling|||карбункули|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||страшній|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 12 13|||Spelling|||у|||REQUIRED|||-NONE-|||2
+A 13 14|||Spelling|||страшній|||REQUIRED|||-NONE-|||2
+A 15 15|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S - Пам'ятаю , відповів Заглоба , - пам'ятаю що міг вдарити тебе ножем і не вдарив .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 3 3|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S - А я що , вдарив тебе ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Чи хотів вдарити ?
+A 2 3|||Spelling|||ударити|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ні !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ти для мене любчику занадто цінний ; Я тебе буду оберігати як зіницю ока .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 6 7|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S - Завжди говорив , гарний ти чолов'яга - промовив Заглоба , прикидаючись , що повірив в слова Богуна , але одночасно в голові в нього промайнула думка : - Вже бачу що він мені якусь пастку готує , не помре просто так .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||що ти —|||REQUIRED|||-NONE-|||1
+A 5 6|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 23 24|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 28 29|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 31 31|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 15 16|||Spelling|||у|||REQUIRED|||-NONE-|||2
+A 28 29|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 31 31|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 42 42|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+
+S - Ти гарно сказав - вів далі Богун - ти також добрий чоловік ; ось так ми шукали один одного і зустрілися .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S - Правда в тому , що я тебе не шукав , але дякую на доброму слові .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+

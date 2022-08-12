@@ -1,0 +1,40 @@
+S Підзаголовок досить точно відображає суть книги - ( чи є якісь закономірності у популярності .
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 12 14|||G/UngrammaticalStructure|||популярності )|||REQUIRED|||-NONE-|||2
+
+S ? ) . Досить грунтовне дослідження /
+A 4 5|||Spelling|||ґрунтовне|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||ґрунтовне|||REQUIRED|||-NONE-|||2
+A 6 7|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Рецепту виготовлення хітів , звичайно немає , але є список інгрідієнтів , до яких треба приділити увагу .
+A 0 1|||G/Case|||Рецепта|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||інгредієнтів|||REQUIRED|||-NONE-|||1
+A 0 1|||G/Case|||Рецепта|||REQUIRED|||-NONE-|||2
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 10 11|||Spelling|||інгредієнтів|||REQUIRED|||-NONE-|||2
+A 12 16|||G/Prep|||на які треба звернути|||REQUIRED|||-NONE-|||2
+
+S Трошки багатослівна , але читати не нудно , завдяки цікавим історіям : від Брамса та імпрессіоністів до нової бізнес - моделі хіт - попу без лейблів .
+A 15 16|||Spelling|||імпресіоністів|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 15 16|||Spelling|||імпресіоністів|||REQUIRED|||-NONE-|||2
+
+S Можна рекомендувати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Посилання
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S - український переклад на сайті видавництва https://nashformat.ua/products/hitmejkery.-nauka-populyarnosti-ta-zmagannya-za-uvagu-...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S - сторінка колонок автора в theAtlantic в https://www.theatlantic.com/author/derek-thompson/
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

@@ -1,0 +1,114 @@
+S я пам'ятаю мені було десь 8 років , мене лікували від пневмонії ( загалом мої легені десь разів три страждали від цієї хвороби ) .
+A 0 1|||Spelling|||Я|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||, коли|||REQUIRED|||-NONE-|||1
+A 18 18|||G/Prep|||із|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Я|||REQUIRED|||-NONE-|||2
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 17 19|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S тоді була зима , а в нас приватний будинок зі старою системою отоплення - пічка .
+A 0 1|||Spelling|||Тоді|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Тоді|||REQUIRED|||-NONE-|||2
+A 7 7|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 13 14|||Punctuation|||(|||REQUIRED|||-NONE-|||2
+A 15 15|||Punctuation|||)|||REQUIRED|||-NONE-|||2
+
+S мене поклали на диван біля пічки на кухні .
+A 0 1|||Spelling|||Мене|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Мене|||REQUIRED|||-NONE-|||2
+
+S інколи іскри від дрів ( чи дров ? ) летіли мені на руки чи на спину .
+A 0 1|||Spelling|||Інколи|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Інколи|||REQUIRED|||-NONE-|||2
+A 3 4|||G/Case|||дров|||REQUIRED|||-NONE-|||2
+
+S мені було погано .
+A 0 1|||Spelling|||Мені|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Мені|||REQUIRED|||-NONE-|||2
+
+S температура до 40 градусів .
+A 0 1|||Spelling|||Температура|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Температура|||REQUIRED|||-NONE-|||2
+
+S мама протирала мене горілкою .
+A 0 1|||Spelling|||Мама|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Мама|||REQUIRED|||-NONE-|||2
+
+S в одну ніч , від того , що мозок плавився , в мене почалися галюцинації .
+A 0 3|||Spelling|||Однієї ночі|||REQUIRED|||-NONE-|||1
+A 0 4|||G/UngrammaticalStructure|||Однієї ночі|||REQUIRED|||-NONE-|||2
+
+S З іншого кутка кухні до мене йшла надзвичайно красива жінка з довгим хвилястим каштановим волоссям і я тоді подумала - вау ! це я . не знаю , так думка виникла .
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 19 20|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 25 26|||Spelling|||Не|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 19 19|||Punctuation|||:|||REQUIRED|||-NONE-|||2
+A 19 20|||Spelling|||“Вау, це я!”|||REQUIRED|||-NONE-|||2
+A 20 25|||Spelling|||-NONE-|||REQUIRED|||-NONE-|||2
+A 25 26|||Spelling|||Не|||REQUIRED|||-NONE-|||2
+A 28 29|||Spelling|||така|||REQUIRED|||-NONE-|||2
+
+S Воно стояла наді мною , і на ній лише була чорна атласна накидка і нічого ( як відьма з Майстер і Маргарита ) .
+A 19 20|||G/Case|||Майстра|||REQUIRED|||-NONE-|||1
+A 21 22|||G/Case|||Маргарити|||REQUIRED|||-NONE-|||1
+A 22 22|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 0 1|||G/Gender|||Вона|||REQUIRED|||-NONE-|||2
+A 19 22|||G/Case|||“Майстра і Маргарити”|||REQUIRED|||-NONE-|||2
+
+S Воно протягнула свою руку , яка була скелетом і сказала : " йдемо зі мною " .
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||Йдемо|||REQUIRED|||-NONE-|||1
+A 0 2|||G/Gender|||Вона простягнула|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 12 13|||G/VerbVoice|||Ходімо|||REQUIRED|||-NONE-|||2
+
+S Я не відчувала болю , мені було легко і не страшно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Я почала протягувати їй руку , але іншою себе віддьорнула і відповіла " нє , я ще мамі потрібна " .
+A 12 12|||Punctuation|||:|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||Ні|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||:|||REQUIRED|||-NONE-|||2
+A 13 14|||Spelling|||Ні|||REQUIRED|||-NONE-|||2
+
+S і жінка зникла .
+A 0 1|||Spelling|||І|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||І|||REQUIRED|||-NONE-|||2
+
+S мама буквально одразу прокинулася , може почула , що я з кимось розмовляю і підійшла перевірити мою температуру .
+A 0 1|||Spelling|||Мама|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Мама|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S я їй сказала " мама , до мене приходила смерть " .
+A 0 1|||Spelling|||Я|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||:|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Case|||Мамо|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Я|||REQUIRED|||-NONE-|||2
+A 3 3|||Punctuation|||:|||REQUIRED|||-NONE-|||2
+A 4 5|||G/Case|||Мамо|||REQUIRED|||-NONE-|||2
+
+S в мене з темою смерті були особливі стосунки .
+A 0 1|||Spelling|||В|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||2
+
+S з дитинства , за це думала і ніколи не боялася і не боюся .
+A 0 1|||Spelling|||З|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||З|||REQUIRED|||-NONE-|||2
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 3 4|||G/Prep|||про|||REQUIRED|||-NONE-|||2
+
+S але це не означає , що я не хочу чи не люблю жити , і що смерть мене не шокує .
+A 13 14|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Але|||REQUIRED|||-NONE-|||2
+A 13 14|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+

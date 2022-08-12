@@ -1,0 +1,61 @@
+S " Вy-ху " - кажу я .
+A 2 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я повернусь об одинадцятій завтра .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Коли він прокинеться дайте йому 8 крапель живиці і 3 фунти м'яса .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Доброго ранку .
+A 2 2|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S Наступного ранку я повернувся вчасно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Що ж Містер Рідлл , - сказав я , коли він відчиняв двері спальні , ' і як мій дядько почувається цього ранку "
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Case|||містере|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Case|||Рідлле|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 25 25|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Він почувається набагато краще ' , каже молодий чоловік
+A 5 5|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Колір і пульс були в порядку .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я дав йому ще одне лікування , і він сказав , що більшість болю його залишила .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Наразі , ' кажу я , ' вам краще залишитися в ліжку на два три дні , і з вами все буде гаразд .
+A 0 0|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 15|||Spelling|||два-три|||REQUIRED|||-NONE-|||1
+
+S Добре , що я опинився у Фішер Хілл , містере Мейор - кажу я , 'будь-які методи та засоби лікування проти рогу достатку , які використовують звичайні школи медицини не змогли б вас врятувати .
+A 6 8|||Spelling|||Фішер-Гілл|||REQUIRED|||-NONE-|||1
+A 10 11|||F/Calque|||мер|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 29 29|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 33 34|||Spelling|||урятувати|||REQUIRED|||-NONE-|||1
+
+S І ось ця проблема минула , і біль виявилась лжесвідком , давайте переключимось на приємне - скажімо , плата в розмірі 250 доларів .
+A 8 9|||G/Gender|||виявився|||REQUIRED|||-NONE-|||1
+A 11 12|||G/VerbAForm|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 13|||G/Other|||переключімось|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 18 19|||G/Case|||плату|||REQUIRED|||-NONE-|||1
+
+S Без чеків , будь ласка , я ненавиджу коли моє ім'я пишуть на зворотній стороні чеку майже так само як і з передньої сторони .
+A 19 19|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 21 24|||F/Style|||на лицьовій стороні|||REQUIRED|||-NONE-|||1
+

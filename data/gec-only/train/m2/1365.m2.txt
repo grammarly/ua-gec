@@ -1,0 +1,68 @@
+S - Куди ж іти ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - По ваші селянськи справи найголовніший і до цього приставлений неодмінний член [ 22 ] .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||селянські|||REQUIRED|||-NONE-|||1
+
+S До нього йди .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Пан Сіньооков .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Це що в Золотові ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S - Ну так , у Золотові .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Він у нас головний .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Якщо ваших справ стосовно , то проти нього навіть виправник не має повного права .
+A 0 4|||G/UngrammaticalStructure|||Що ж до ваших справ|||REQUIRED|||-NONE-|||1
+
+S - Далеко , брате , іти !..
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Чай , верств п'ятнадцять , може ще й більше .
+A 0 3|||G/UngrammaticalStructure|||Десь із|||REQUIRED|||-NONE-|||1
+A 4 4|||G/UngrammaticalStructure|||верств|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S - Хто потребує , той і сто верств пройде .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - І це правда ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Прошення йому надати може ..?
+A 0 1|||G/UngrammaticalStructure|||Прохання|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||..|||REQUIRED|||-NONE-|||1
+
+S - Там дізнаєшся .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Як прошення , писарь тобі швидко напише .
+A 1 2|||G/UngrammaticalStructure|||прохання|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||писар|||REQUIRED|||-NONE-|||1
+
+S Неодмінний член має пісаря .
+A 3 4|||Spelling|||писаря|||REQUIRED|||-NONE-|||1
+
+S Розлучившись із дідом , Кирило постояв посеред площі , подумав і пішов зворот із міста .
+A 12 14|||G/UngrammaticalStructure|||геть з|||REQUIRED|||-NONE-|||1
+
+S Він вирішив сходити до Золотова .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Днів через п'ять , повертаючись після приймання хворих до себе на квартиру , лікарь знову побачив у себе на дворі Кирила .
+A 13 14|||Spelling|||лікар|||REQUIRED|||-NONE-|||1
+
+S Цього разу хлопець був не сам , а з якимось тонким , і дуже блідим дідом , що безперестанно кивав головою , як маятником , і цьомкав губами .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

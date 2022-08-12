@@ -1,0 +1,50 @@
+S " я свідок " сказав він " що це ті самі банківські рахунки , які ви і я позначили , суддя Бенкс " .
+A 1 2|||Spelling|||Я|||REQUIRED|||-NONE-|||1
+A 2 4|||G/UngrammaticalStructure|||засвідчую|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 20 21|||G/Case|||судде|||REQUIRED|||-NONE-|||1
+A 22 23|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Я віддав їх шерифу , коли ми пішли в його офіс , і він надіслав вам чек .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Вони мають бути використані як доказ у справі .
+A 8 8|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S " Добре , містер Біддл , сказав мер " І зараз , доктор Вак - ху " говорить " чому ви не показуєте " . зуби і Чому ви не знімете корк ізвашого магнетизму і через фокус - покус не знімете наручники ?
+A 3 4|||G/Case|||містере|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Case|||Біддле|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 19 19|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 23 25|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 27 28|||Spelling|||чому|||REQUIRED|||-NONE-|||1
+A 32 33|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 43 43|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S " Та ну , офіцере " , - кажу я гідно .
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - " Я також можу зробити це якнайкраще " .
+A 0 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S А потім я звертаюся до старих Бенків і брязкаю ланцюгами .
+A 6 7|||Spelling|||Бенксів|||REQUIRED|||-NONE-|||1
+
+S " Містер Мейєрс , - кажу я , - скоро настане час , коли ви повірите , що особистий магнетизм - це успіх .
+A 1 2|||G/Case|||Містере|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Case|||Мейєрсе|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 20 21|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S І ви будете впевнені , що це вдалося і в цьому випадку " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

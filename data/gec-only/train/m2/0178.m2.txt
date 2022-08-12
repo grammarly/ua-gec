@@ -1,0 +1,205 @@
+S “ - Сашко , чому протестанство ? ”
+A 1 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Case|||Сашку|||REQUIRED|||-NONE-|||1
+A 0 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 2 3|||G/Case|||Сашку|||REQUIRED|||-NONE-|||2
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Саме з цієї фрази розпочалась історія одного парубка , про яку я бажаю розповісти .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 9 10|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Перш за все , варто зауважити те , що питання правдивості використуваного мною імені , часового простору , ставлення до людини , що вказана як оповідач історії - це політ Вашої фантазії , ціквими будуть Ваші варіанти здогадок .
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 13|||G/UngrammaticalStructure|||використаного|||REQUIRED|||-NONE-|||1
+A 27 28|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 30 31|||Spelling|||вашої|||REQUIRED|||-NONE-|||1
+A 33 34|||Spelling|||цікавими|||REQUIRED|||-NONE-|||1
+A 35 36|||Spelling|||ваші|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 11 13|||G/UngrammaticalStructure|||використаного|||REQUIRED|||-NONE-|||2
+A 27 27|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 27 28|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 30 31|||Spelling|||вашої|||REQUIRED|||-NONE-|||2
+A 32 33|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+A 35 36|||Spelling|||ваші|||REQUIRED|||-NONE-|||2
+
+S Отож , одного разу я вирішили запитати Сашка про те , як Він став протестантом , як хлопець дійшов до цього , не будучи надто обізнаною в цьому релігійному питанні .
+A 5 6|||G/Number|||вирішив|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||він|||REQUIRED|||-NONE-|||1
+A 25 26|||G/Gender|||обізнаним|||REQUIRED|||-NONE-|||1
+A 26 27|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||він|||REQUIRED|||-NONE-|||2
+A 25 26|||G/Gender|||обізнаним|||REQUIRED|||-NONE-|||2
+A 26 27|||Spelling|||у|||REQUIRED|||-NONE-|||2
+
+S Сашко має бурата - близнюка , з яким з раннього дитинства мав багато перепетій у стосунках , Максим був кволою дитиною , тому суто з батьківської жалості , яка виливалась у переважаючу лобов , Сашко почув себе менш потрібним .
+A 2 3|||Spelling|||брата|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||перипетій|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 32 33|||Spelling|||любов|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||брата|||REQUIRED|||-NONE-|||2
+A 8 9|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 13 14|||Spelling|||перипетій|||REQUIRED|||-NONE-|||2
+A 16 17|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Дитина намагалась завжди бути кращим за свого близнюка з метою здобути любов , якої так не вистачало .
+A 4 5|||G/Gender|||кращою|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||намагалася|||REQUIRED|||-NONE-|||2
+A 4 5|||G/Gender|||кращою|||REQUIRED|||-NONE-|||2
+
+S Проте не зміг він відшукати ту формулу , якою було слід скористатись , аби отримати те , до чого прагнув .
+A 5 6|||G/Case|||тієї|||REQUIRED|||-NONE-|||1
+A 6 7|||G/Case|||формули|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Злість і жорстокість від власної неспроможні зрозуміти й “ перетягнути ” батьків на свою сторону переповнювала дитину , яка від маленького недолюбленого хлопчика виросла до ненависника у школі .
+A 5 6|||Spelling|||неспроможності|||REQUIRED|||-NONE-|||1
+A 15 16|||G/Number|||переповнювали|||REQUIRED|||-NONE-|||1
+A 5 6|||G/UngrammaticalStructure|||неспроможності|||REQUIRED|||-NONE-|||2
+A 15 16|||G/Number|||переповнювали|||REQUIRED|||-NONE-|||2
+
+S Коротше кажучи , Сашко був поганим підлітком .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Та все ж мав одну пристрасть - відкриття власного бізнесу ( адже спілкування й стосунки з батьками сходили нанівець ) , до якої спокусився ще у шкільні роки , хлопцю вдалось зібрати команду й сторити сайт із продажі реклами онлайн .
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 37 38|||G/Case|||продажу|||REQUIRED|||-NONE-|||1
+A 3 3|||G/UngrammaticalStructure|||він|||REQUIRED|||-NONE-|||2
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 34 35|||Spelling|||створити|||REQUIRED|||-NONE-|||2
+A 37 38|||G/Case|||продажу|||REQUIRED|||-NONE-|||2
+
+S Справи йшли начебто добре , та вже в одинадцятому класі Сашко почав задумуватись про релевантність особистих цінностей до призначення людського життя в цьому світі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 13 14|||G/Prep|||над|||REQUIRED|||-NONE-|||2
+A 14 15|||G/Case|||релевантністю|||REQUIRED|||-NONE-|||2
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 17 18|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+A 18 19|||G/Case|||призначенням|||REQUIRED|||-NONE-|||2
+
+S Зрозумівши , що Він не розуміє , що відбувається з власним життям й цілковитим ступором щодо вибору подальших дій , парубок не вступає у вищий навчальний заклад відразу по закінченню школу , а обирає так званий gap year , який проводить в « Українська Академія Лідерства » ( далі - УАЛ ) .
+A 3 4|||Spelling|||він|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||і|||REQUIRED|||-NONE-|||1
+A 14 13|||G/UngrammaticalStructure|||перебуває у|||REQUIRED|||-NONE-|||1
+A 13 14|||G/Case|||цілковитому|||REQUIRED|||-NONE-|||1
+A 14 15|||G/Case|||ступорі|||REQUIRED|||-NONE-|||1
+A 23 24|||G/Prep|||до|||REQUIRED|||-NONE-|||1
+A 24 25|||G/Case|||вищого|||REQUIRED|||-NONE-|||1
+A 25 26|||G/Case|||навчального|||REQUIRED|||-NONE-|||1
+A 26 27|||G/Case|||закладу|||REQUIRED|||-NONE-|||1
+A 28 29|||G/Prep|||після|||REQUIRED|||-NONE-|||1
+A 29 30|||G/Case|||закінчення|||REQUIRED|||-NONE-|||1
+A 30 31|||G/Case|||школи|||REQUIRED|||-NONE-|||1
+A 41 42|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 49 50|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||він|||REQUIRED|||-NONE-|||2
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 12 13|||Spelling|||і|||REQUIRED|||-NONE-|||2
+A 13 13|||G/UngrammaticalStructure|||перебуває у|||REQUIRED|||-NONE-|||2
+A 13 14|||G/Case|||цілковитому|||REQUIRED|||-NONE-|||2
+A 14 15|||G/Case|||ступорі|||REQUIRED|||-NONE-|||2
+A 23 24|||G/Prep|||до|||REQUIRED|||-NONE-|||2
+A 24 25|||G/Case|||вищого|||REQUIRED|||-NONE-|||2
+A 25 26|||G/Case|||навчального|||REQUIRED|||-NONE-|||2
+A 26 27|||G/Case|||закладу|||REQUIRED|||-NONE-|||2
+A 28 29|||G/Prep|||після|||REQUIRED|||-NONE-|||2
+A 29 30|||G/Case|||закінчення|||REQUIRED|||-NONE-|||2
+A 30 31|||G/Case|||школи|||REQUIRED|||-NONE-|||2
+A 41 42|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+A 44 45|||Spelling|||академія|||REQUIRED|||-NONE-|||2
+A 45 46|||Spelling|||лідерства|||REQUIRED|||-NONE-|||2
+A 49 50|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S В новому місці Сашко продовжує свою позицію хейтера , його не любили всі й він нікого .
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 16 16|||G/UngrammaticalStructure|||не любив|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||2
+A 4 5|||G/Tense|||продовжував|||REQUIRED|||-NONE-|||2
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 16 16|||G/UngrammaticalStructure|||не любив|||REQUIRED|||-NONE-|||2
+
+S Так одного разу на черговій збірці уалівців , одна з учасниць запропонувала новий проект , основна суть якого полягала в створенні відео на тему вшанування пам’яті жерт голодомору .
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||проєкт|||REQUIRED|||-NONE-|||1
+A 26 27|||Spelling|||жертв|||REQUIRED|||-NONE-|||1
+A 27 28|||Spelling|||Голодомору|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 13 14|||Spelling|||проєкт|||REQUIRED|||-NONE-|||2
+A 27 28|||Spelling|||Голодомору|||REQUIRED|||-NONE-|||2
+
+S Усі учасниками з захопленням підтримали цю ініціативу , а Сашко сказав : “ Це туфта ” .
+A 1 2|||G/Case|||учасники|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||учасники|||REQUIRED|||-NONE-|||2
+A 2 3|||Spelling|||із|||REQUIRED|||-NONE-|||2
+
+S По закінченню збірки , дівчинка , що висунула ідею підійшла до хлопця й сказала : “ Ти неймовірно добрий в душі , тобі просто бракує любові ” .
+A 0 1|||G/Prep|||Після|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||закінчення|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Case|||зборів|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||G/Conjunction|||яка|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 19 20|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 0 1|||G/Prep|||Після|||REQUIRED|||-NONE-|||2
+A 1 2|||G/Case|||закінчення|||REQUIRED|||-NONE-|||2
+A 2 3|||G/Case|||зборів|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Олександр знав про що Вона говорить , знав про цю прогалину в серці , якому постійно чогось бракувало .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 4 5|||Spelling|||вона|||REQUIRED|||-NONE-|||2
+
+S Час йшов , шкільний бізнес давно розвалився , й потрібно було шукати натхнення для подальшої браці .
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||праці|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||праці|||REQUIRED|||-NONE-|||2
+
+S Хлопець віднайшов його у “ Протестантська етика і дух капіталізму ” — книга німецького соціолога Макса Вебера .
+A 5 6|||G/Case|||Протестантській|||REQUIRED|||-NONE-|||1
+A 6 7|||G/Case|||етиці|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Case|||духові|||REQUIRED|||-NONE-|||1
+A 12 13|||G/Case|||книжці|||REQUIRED|||-NONE-|||1
+A 4 4|||G/UngrammaticalStructure|||книзі|||REQUIRED|||-NONE-|||2
+
+S Тоді постало питання Що ж таке той протестантизм й з чим його їдять , адже батьки затяті атеїсти , й думка про жодну релігію ніколи не проскочувала у цій родині .
+A 3 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||що|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||і|||REQUIRED|||-NONE-|||1
+A 16 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 26 27|||G/UngrammaticalStructure|||виникала|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||:|||REQUIRED|||-NONE-|||2
+A 3 3|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 13 14|||Punctuation|||?”|||REQUIRED|||-NONE-|||2
+A 14 15|||Spelling|||Адже|||REQUIRED|||-NONE-|||2
+A 16 16|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Тоді : похід в церкву - 4 . 5 місяці ридання - 7 травня 2017 року ( охрещення Сашка й цілковитий відпуск ненависті до брата ) .
+A 3 4|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||G/Case|||місяця|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 20 21|||G/Gender|||цілковите|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 20 21|||G/Gender|||цілковите|||REQUIRED|||-NONE-|||2
+
+S Сашко , чому протестантство ?
+A 0 1|||G/Case|||Сашку|||REQUIRED|||-NONE-|||1
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Наталя , бо тут я заповним своє серце любов’ю .
+A 0 1|||G/Case|||Наталю|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||заповнив|||REQUIRED|||-NONE-|||1
+A 0 1|||G/Case|||— Наталю|||REQUIRED|||-NONE-|||2
+A 5 6|||Spelling|||наповнив|||REQUIRED|||-NONE-|||2
+
+S Зараз розповім все від початку ...
+A 2 3|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

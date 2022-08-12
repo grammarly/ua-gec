@@ -1,0 +1,93 @@
+S Але я була би не я , якби не розказала про найдивніші британські страви ) )
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 14 16|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Тож виходить таке :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S 1 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Яйце по-шотландськи ( Scotch egg )
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Якщо коротко , то це варене яйце , яке обліпили м'ясним фаршом і обсмажили у фритюрі .
+A 11 12|||G/Case|||фаршем|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||фаршем|||REQUIRED|||-NONE-|||2
+
+S Я ще досі не спробувала :/
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 5 5|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S 2 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Jellied eels ( желейний вугор ) – уффф .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Рибні шматки варять у бульйоні із спеціями , потім просто дають застигнути .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Їдять холодним .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Десьп приблизно як наш холодець , але із риби ( у мене теж таке вийшло коли я уху потримала пару днів у холодильнику ) .
+A 0 1|||Spelling|||Десь|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Десь|||REQUIRED|||-NONE-|||2
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Взагалі вугрів багато у Темзі , це історично страва бідних людей ; після Другої світової у Лондоні було десь 100 Eel&Pie houses ; зараз їх залишилося декілька і вони переживають не найкращі часи .
+A 27 27|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S 3 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Chip butty
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ммммм .... Бутерброд із картоплею - фрі ???
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 5 6|||Spelling|||-NONE-|||REQUIRED|||-NONE-|||2
+A 7 8|||Punctuation|||?|||REQUIRED|||-NONE-|||2
+
+S Неймовірно , але факт .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S 4 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Bubble and squeak – смаженина із картоплі і капусти , яка залишилася після roast dinner ( про roast dinner у попередньому пості ) .
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 5 6|||Spelling|||з|||REQUIRED|||-NONE-|||2
+
+S Така назва бо капуста булькає і скрипить ( хоча я не помічала такого )
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 14 14|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S 5 . Haggis – шотландська страва з баранячого ліверу : ( серця , печінки та легень ) , порубаних з цибулею , салом , приправами і зварених в баранячому шлунку .
+A 19 20|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 27 28|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 19 20|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 27 28|||Spelling|||у|||REQUIRED|||-NONE-|||2
+
+S Подають з гарніром « ніпс і татіс » ( з шотландської — бруква та картопля ) у вигляді пюре .
+A 1 2|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 9 10|||Spelling|||із|||REQUIRED|||-NONE-|||2
+

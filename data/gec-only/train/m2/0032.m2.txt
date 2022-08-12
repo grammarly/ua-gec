@@ -1,0 +1,62 @@
+S Воланд кивнув головою , і Маргарита , припавши до вуха майстера , щось прошепотіла йому .
+A 10 11|||Spelling|||Майстра|||REQUIRED|||-NONE-|||1
+
+S Чутно було , як він відповів ій .
+A 6 7|||Spelling|||їй|||REQUIRED|||-NONE-|||1
+
+S - Ні , пізно .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Нічого більше не хочу в житті .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Окрім того , щоб бачити тебе .
+A 2 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Але тобі знов раджу - залиш мене .
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ти пропадеш зі мною .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Ні , не залишу , - відповіла Маргарита і звернулась до Воланда :
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||. —|||REQUIRED|||-NONE-|||1
+
+S Прошу вас знову повернути нас у підвал у провулку на Арбаті , і щоб лампа загорілася , і щоб все стало як було .
+A 19 20|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+A 21 21|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Тут майстер засміявся і , охопивши розкурчавлену голову Маргарити , сказав :
+A 1 2|||Spelling|||Майстер|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||й|||REQUIRED|||-NONE-|||1
+
+S - Ах , не слухайте бідолашну жінку , Мессир .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Case|||Мессіре|||REQUIRED|||-NONE-|||1
+
+S В цьому підвалі вже давно живе інша людина , і взагалі не буває так , щоб все стало , як було .
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
+A 16 17|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+
+S - . - Він приклав щоку до голови своєї подруги , обійняв Маргариту і став бубоніти : - Бідолашна , бідолашна ...
+A 2 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 19 20|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 21 20|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S - Не буває , ви кажете ? - сказав Воланд .
+A 2 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Це вірно .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Але ми спробуємо . - і він сказав : - Азазелло !
+A 6 7|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+

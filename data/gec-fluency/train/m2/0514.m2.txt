@@ -1,0 +1,104 @@
+S Хумус класичний
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Нут 400 г
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Кунжут 50 г або 3 ст ложки тахіні
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Лимон
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Зіра
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Паприка мелена
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Сіль
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Олія оливкова ( соняшникова теж покатить )
+A 5 6|||F/Style|||підійде|||REQUIRED|||-NONE-|||1
+
+S Блендер
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Нут кидаєте у воду на години 4 ( але все залежить від нуту ) .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Якщо у вас жорстка вода , дайте в воду з нутом чайну ложку соди - так нут скоріше розм'якне .
+A 3 4|||F/Style|||тверда|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Style|||додайте|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Після 4 годин ставите на вогонь і він звариться за 30хв-пару год .
+A 3 4|||G/Other|||ставте|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||30 хв|||REQUIRED|||-NONE-|||1
+A 10 11|||F/Calque|||—|||REQUIRED|||-NONE-|||1
+A 11 11|||G/UngrammaticalStructure|||кілька|||REQUIRED|||-NONE-|||1
+
+S Залежить від нуту , але думаю більше годину не займе .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||G/Case|||години|||REQUIRED|||-NONE-|||1
+
+S Зварений нут ми лишаємо в кастрюлі , а воду з нього НЕ ЗЛИВАЄМО в раковину , а зливаємо в посудину , вона може згодитись потім .
+A 5 6|||Spelling|||каструлі|||REQUIRED|||-NONE-|||1
+A 17 18|||F/Repetition|||робимо це|||REQUIRED|||-NONE-|||1
+
+S Сам нут ми полощемо у холодній воді , хаотично жмакаючи руками для того , щоб лушпайки з нуту злізли .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Фото прикладається .
+A 1 2|||F/Calque|||додаю|||REQUIRED|||-NONE-|||1
+
+S Якщо у вас нема тахіні , то у вас має бути кунжут .
+A 7 9|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S На сухій сковорідці 7 хв помучайте кунжут для кольору .
+A 5 6|||F/Calque|||помучте|||REQUIRED|||-NONE-|||1
+
+S Фотка прикладається .
+A 0 1|||G/Case|||Фотку|||REQUIRED|||-NONE-|||1
+A 1 2|||F/Calque|||додаю|||REQUIRED|||-NONE-|||1
+
+S Кидаєте його в посуд для блендера , ллєте туди ложечку масла рослинного , ллєте води стільки ж , скільки кунжуту і жужаєте .
+A 7 8|||F/Style|||кладете|||REQUIRED|||-NONE-|||1
+A 9 10|||F/Style|||ложку|||REQUIRED|||-NONE-|||1
+A 10 12|||F/Calque|||рослинної олії|||REQUIRED|||-NONE-|||1
+A 20 20|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 21 22|||F/Style|||перемелюєте|||REQUIRED|||-NONE-|||1
+
+S Фотка з білою водичкою прикладається .
+A 0 1|||G/Case|||Фотку|||REQUIRED|||-NONE-|||1
+A 4 5|||F/Calque|||додаю|||REQUIRED|||-NONE-|||1
+
+S Тепер в одну кастрюльку звалюєте жужаний кунжут , нут , паприку - чайну ложечку , зіру - не більше чайної ложки , сіль за смаком , півлимона душите .
+A 3 4|||Spelling|||каструльку|||REQUIRED|||-NONE-|||1
+A 5 6|||F/Style|||перемелений|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||F/Style|||ложку|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 19 19|||F/PoorFlow|||ніж|||REQUIRED|||-NONE-|||1
+A 19 20|||G/Case|||чайну|||REQUIRED|||-NONE-|||1
+A 20 21|||G/Case|||ложку|||REQUIRED|||-NONE-|||1
+A 26 27|||Spelling|||пів лимона|||REQUIRED|||-NONE-|||1
+A 27 28|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Жужаєте все разом , а як важко , то доливаєте ту водичку , яку ми залишили .
+A 0 1|||F/Style|||Перемелюєте|||REQUIRED|||-NONE-|||1
+A 14 15|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Для прикраси раджу залишити декілька бубочок нуту і викласти їх на хумус .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Також посипати паприкою .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Смачного !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

@@ -1,0 +1,63 @@
+S Продаю свій автомобіль в хороші руки !
+A 3 4|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||у|||REQUIRED|||-NONE-|||2
+
+S Продаю свою ластівку цінителям фордів класу седан !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Я другий власник , авто пригнане з Америки .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Я з задоволенням і комфортом проїздила на ньому 9 місяців .
+A 1 2|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||із|||REQUIRED|||-NONE-|||2
+
+S Машина добре себе проявила в далеких подорожах за кордон .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Це мій четвертий автомобіль і продаю через купівлю іншого авто .
+A 6 6|||G/UngrammaticalStructure|||його|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Водій я акуратний і за цей період пройшла ТО , місяць тому робила повну діагностику .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 12 13|||G/Aspect|||зробила|||REQUIRED|||-NONE-|||2
+
+S Авто у відмінному стані готове возити вас у ваших справах )
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 11 11|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Спеціально не ставила газ , щоб не псувати початковий вигляд автомобіля , хоча і радили багато автолюбителів ) )
+A 2 2|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 19 19|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Мій внесок – ремонт кондиціонера .
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S В комплекті є рідна зимова гума і 2 рідних передніх з датчиками тиску ( 2 потрібно купувати або подарую ті , які я купила і зараз стоять ) .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||2
+A 10 11|||Spelling|||із|||REQUIRED|||-NONE-|||2
+
+S Пробіг реальний .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Двигун 2 л .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Є спортивний режим .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ціна в пп . Можливий невеликий торг .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

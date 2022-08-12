@@ -1,0 +1,46 @@
+S " Спаси Боже ! " - крикнув пан так , наче в нього забрали дихання .
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S " Мій любий пане Скрудж , ви не жартуєте ? " " Якщо ваша ласка , - відповів Скрудж .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Case|||Скрудже|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 4 5|||G/Case|||Скрудже|||REQUIRED|||-NONE-|||2
+A 10 11|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 16 17|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S - Ми нічого не втрачаємо .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Не одна виплата включена туди , я вас запевняю .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Зробите мені цю послугу ? " " Мій дорогий , - сказав той , потискаючи йому руку , - я не знаю , що сказати на таку че .. " " Не кажіть нічого , прошу , - відрізав Скрудж .
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 30 30|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 37 38|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 18 19|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 29 30|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+A 30 31|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 37 38|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S - Прийдіть до мене . "
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+

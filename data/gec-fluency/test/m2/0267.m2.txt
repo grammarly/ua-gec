@@ -1,0 +1,94 @@
+S - Зараз , - сказав я , - відволічись від думок про хворобу .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Ти не хворий .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S В тебе немає ні серця , ні ключиці , ні кісток , ні мізків , нічого немає .
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||2
+A 13 14|||G/Number|||мозку|||REQUIRED|||-NONE-|||2
+
+S Ти не відчуваєш ніякого болю .
+A 3 4|||F/Style|||жодного|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Визнай помилку .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Тепер ти відчуваєш біль , яку ти не відпускав , не так ?
+A 5 6|||G/Gender|||який|||REQUIRED|||-NONE-|||1
+A 10 11|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Gender|||який|||REQUIRED|||-NONE-|||2
+A 10 10|||G/UngrammaticalStructure|||чи|||REQUIRED|||-NONE-|||2
+
+S - Я відчуваю себе трішки краще , лікарю , - сказав Мер , - по іншому ніяк не може бути .
+A 2 5|||F/PoorFlow|||почуваюся трохи|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 16|||Spelling|||по-іншому|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 11 12|||Spelling|||мер|||REQUIRED|||-NONE-|||2
+A 12 14|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 14 16|||Spelling|||по-іншому|||REQUIRED|||-NONE-|||2
+
+S Теепр розповім трохи неправди про те , що я не мав пухлину на лівому боці , і я думав , що мав би підтримку та мав би сосиски і тортики з гречки .
+A 0 1|||Spelling|||Тепер|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Case|||пухлини|||REQUIRED|||-NONE-|||1
+A 19 20|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 20 23|||F/PoorFlow|||про|||REQUIRED|||-NONE-|||1
+A 25 27|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Тепер|||REQUIRED|||-NONE-|||2
+A 11 12|||G/Case|||пухлини|||REQUIRED|||-NONE-|||2
+A 12 13|||G/Prep|||в|||REQUIRED|||-NONE-|||2
+A 21 22|||F/Style|||здобув|||REQUIRED|||-NONE-|||2
+A 25 26|||F/Style|||отримав|||REQUIRED|||-NONE-|||2
+
+S Я зробив декілька хлопків руками
+A 1 5|||F/PoorFlow|||кілька разів плеснув у долоні|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 3 4|||F/Calque|||рухів|||REQUIRED|||-NONE-|||2
+A 5 5|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S - Тепер , - сказав я , - запалення пройшло .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||F/Style|||минуло|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 9 10|||F/Style|||минуло|||REQUIRED|||-NONE-|||2
+
+S Права доля перигілію спала .
+A 1 2|||F/Style|||частка|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||перигелію|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ти стаєш сонним .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 3|||F/PoorFlow|||Вас хилить на сон|||REQUIRED|||-NONE-|||2
+
+S Ти не можеш більше тримати свої очі відкритимию
+A 7 8|||F/Collocation|||розплющеними|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 0 3|||G/Number|||Ви не можете|||REQUIRED|||-NONE-|||2
+A 7 8|||F/Collocation|||розплющеними.|||REQUIRED|||-NONE-|||2
+
+S На тепер хвороба перевіряється .
+A 0 2|||F/PoorFlow|||зараз|||REQUIRED|||-NONE-|||1
+A 0 4|||F/PoorFlow|||Наразі хворобу зупинено|||REQUIRED|||-NONE-|||2
+
+S Тепер Ви спите .
+A 1 2|||Spelling|||ви|||REQUIRED|||-NONE-|||1
+A 1 3|||F/PoorFlow|||— спати|||REQUIRED|||-NONE-|||2
+

@@ -1,0 +1,57 @@
+S Колі я був маленькою дітоною я мряв бути пілотом літака .
+A 0 1|||Spelling|||Коли|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||дитиною|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||F/Repetition|||то|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||мріяв|||REQUIRED|||-NONE-|||1
+A 7 8|||F/Repetition|||стати|||REQUIRED|||-NONE-|||1
+
+S Кожного дня я мряв літати на вілокіму літаку .
+A 3 4|||Spelling|||мріяв|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||великому|||REQUIRED|||-NONE-|||1
+
+S Кожного дня колі я лягал спати і заплющував очі я вважав себе літаком та літав на своім домом , іноді я літав між містамі та на море .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||коли|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||лягав|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||над|||REQUIRED|||-NONE-|||1
+A 16 17|||Spelling|||своїм|||REQUIRED|||-NONE-|||1
+A 23 24|||Spelling|||містами|||REQUIRED|||-NONE-|||1
+
+S По закінченню школи я почав важко пряцювати , на навчання не вістачало часу .
+A 0 1|||G/Prep|||після|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||закінчення|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||працювати|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||вистачало|||REQUIRED|||-NONE-|||1
+
+S Час мінав але моя мрія була зі мною .
+A 1 2|||Spelling|||минав|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Зараз я віріс і моя мрія так і лішілася мріею .
+A 2 3|||Spelling|||виріс|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||лишилася|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||мрією|||REQUIRED|||-NONE-|||1
+
+S Пів року тому мій знаймомій пріз мена на маленькій пріватний аєродром і мі літалі на маленькому літаку .
+A 4 5|||Spelling|||знайомий|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||привіз|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||мене|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||маленький|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||приватний|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||аеродром|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||ми|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||літали|||REQUIRED|||-NONE-|||1
+
+S Моя мрія знову роцвіла і тепер я навчаюсь на пріватного пілота .
+A 3 4|||Spelling|||розцвіла|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||приватного|||REQUIRED|||-NONE-|||1
+
+S Ніколи не піздно робіти мрію реальностью .
+A 2 3|||Spelling|||пізно|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||робити|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||реальністю|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,63 @@
+S Дурнуватий швейцар , почувши з веранди охання , розбитий посуд та жіночі крики .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Ну і що з тобою зробити за це ?- спитав пірат .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 6|||G/Case|||тобі|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||? —|||REQUIRED|||-NONE-|||1
+
+S Шкіра на обличчі швейцара , стала багряною , очі потемніли .
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Йому примарилось , що чорне волосся , тепер причесане по лінію , було наче в вогні .
+A 8 8|||F/PoorFlow|||гарно|||REQUIRED|||-NONE-|||1
+A 9 11|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Зникли пластрон з фраком , і за паском з'явилась ручка пістолета .
+A 2 3|||Spelling|||із|||REQUIRED|||-NONE-|||1
+
+S Швейцар уявив себе повішеним на шибениці .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S На власні очі , він побачив свій власний язик з рота та неживу голову , що впала на плече , та навіть почув шум вітру за бортом .
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||F/Repetition|||висолоплений|||REQUIRED|||-NONE-|||1
+A 20 21|||F/Repetition|||і|||REQUIRED|||-NONE-|||1
+
+S Коліна швейцара затремтіли .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Та тут пірат пожалів його , та пом'якшив свій погляд .
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Repetition|||і|||REQUIRED|||-NONE-|||1
+
+S - Дивись Ніколас !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Case|||Ніколасе|||REQUIRED|||-NONE-|||1
+
+S Це востаннє , нам такі швейцари зовсім не треба .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Краще вже церкву сторожи - і проказавши це , командир наказав лаконічно : - Пантелеймона з буфету .
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Мусора .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Протокол .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Машину .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S В психіатрію .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Та додав - Свисти !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||:|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,39 @@
+S Та якби ж їх було вдвічі більше , або ж в чотири рази - старий Фіцвіг ідеально б їм підійшов , як і сама місіс Фіцвіг .
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 13|||F/PoorFlow|||учетверо|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 10 11|||Spelling|||у|||REQUIRED|||-NONE-|||2
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 13 14|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Що ж до неї , то вона була достойною йому парою в буд-якому розумінні .
+A 12 13|||Spelling|||будь-якому|||REQUIRED|||-NONE-|||1
+A 0 3|||F/PoorFlow|||Щодо|||REQUIRED|||-NONE-|||2
+A 12 13|||Spelling|||будь-якому|||REQUIRED|||-NONE-|||2
+
+S Якщо це не висока похвала , то назви вищу , і я скористаюс нею .
+A 12 13|||Spelling|||скористаюсь|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||скористаюся|||REQUIRED|||-NONE-|||2
+
+S Позитивне світло засяло біля ніг Фіцвіга .
+A 2 3|||Spelling|||засяяло|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Вони сяяли в кожному русі ианцю , як місяць .
+A 5 6|||Spelling|||танцю|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||танцю|||REQUIRED|||-NONE-|||2
+
+S Передбачити , що буде далі між ними було неможливо .
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S І коли старий Фіцвіг та місіс Фіцвіг закінчили танок ; прогресуючи та відступаючи , тримаючись обома руками за партнера , нахиляючись та відхиляючись назад , кружляючи , як спіраль , і повернулись на своє місце ; Фіцвіг зробив знак " знято " - так спритно , що сам почав дригати ногами і звівся знову без вагань .
+A 8 10|||F/Style|||танцювати,|||REQUIRED|||-NONE-|||1
+A 35 36|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 42 43|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 35 36|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 42 43|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 45 46|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+

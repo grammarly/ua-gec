@@ -1,0 +1,89 @@
+S " Як , - запитав я , - завадив вам ?"
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||?|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S - Своїм невіглаством , - сказав він .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S " Двічі я виявляв серйозні вади у ваших планах , яких загальношкільна освіта мала б дозволити вам уникати .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 13 16|||F/PoorFlow|||дозволила б|||REQUIRED|||-NONE-|||2
+
+S І , " продовжував він , " я роздратований що я не міг дозволити собі в проведенні цього шахрайського пошуку .
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 10 13|||F/Repetition|||не зміг|||REQUIRED|||-NONE-|||2
+A 13 20|||F/PoorFlow|||реалізувати це шахрайство|||REQUIRED|||-NONE-|||2
+
+S з мене годі . "
+A 0 1|||Spelling|||З|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||З|||REQUIRED|||-NONE-|||2
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Я піднявся і спрямував на нього велику олов’яну ложку , свіжу , з посуду .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S " Гудло Бенкс , - сказав я , - я дбаю про жодну пропарену морську квасолю за вашу освіту .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 13|||G/UngrammaticalStructure|||не дав би жодної|||REQUIRED|||-NONE-|||1
+A 13 14|||G/Case|||пропареної|||REQUIRED|||-NONE-|||1
+A 14 15|||G/Case|||морської|||REQUIRED|||-NONE-|||1
+A 15 16|||G/Case|||квасолі|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Case|||Бенксе|||REQUIRED|||-NONE-|||2
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 9 17|||G/UngrammaticalStructure|||гріш ціна|||REQUIRED|||-NONE-|||2
+A 17 19|||G/Case|||вашій освіті|||REQUIRED|||-NONE-|||2
+
+S Я ніколи не терпів цього в нікому , і зневажаю це у вас .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 2 8|||F/PoorFlow|||цього не терпів|||REQUIRED|||-NONE-|||2
+A 10 13|||F/PoorFlow|||вас за це|||REQUIRED|||-NONE-|||2
+
+S Що для вас зробило ваше навчання ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 4|||F/PoorFlow|||вам дало|||REQUIRED|||-NONE-|||2
+A 4 5|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Це прокляття для вас самих і нудно вашим друзям .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 4 5|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||2
+A 6 7|||F/Style|||нудьга|||REQUIRED|||-NONE-|||2
+A 7 7|||G/UngrammaticalStructure|||для|||REQUIRED|||-NONE-|||2
+A 7 9|||G/Case|||ваших друзів|||REQUIRED|||-NONE-|||2
+
+S Геть , - сказав я - - геть ваші водяні знаки та варіації !
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 7|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 5 7|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 7 8|||F/Style|||заберіть|||REQUIRED|||-NONE-|||2
+
+S Вони для мене ніщо .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Вони відволкають мене від пошуків .
+A 1 2|||Spelling|||відволікають|||REQUIRED|||-NONE-|||1
+A 0 1|||F/Repetition|||Лише|||REQUIRED|||-NONE-|||2
+A 1 2|||Spelling|||відволікають|||REQUIRED|||-NONE-|||2
+

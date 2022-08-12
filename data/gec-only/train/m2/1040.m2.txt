@@ -1,0 +1,65 @@
+S Привід проскользнув на вулицю .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він вказав пальцем на двох людей , які зустрілися .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Скрудж знову прислухався , сподіваючись почути роз’яснення .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він прекрасно знав і цих чоловіків .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Це були бізнесмени : дуже багаті та вельмиповажні .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він навіть подумав , що бути багати , на їхню думку , - це лише справа бізнесу .
+A 6 7|||Spelling|||багатим|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Вітаю , - сказав один .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Вітаю , - відповів інший .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Що ж ! - сказав перший , - Старий Скрудж нарешті помер , так ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Я чув про це , - вторив інший .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Щось похолодало .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Типово , як для Різдва .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Гадаю , ти не катаєшся на ковзанах ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Ні .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ні .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Маю дещо обдумати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S На все добре !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Та ні слова більше .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Це була їхня зустріч , їхня розмова та вони розішлися .
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||розійшлися|||REQUIRED|||-NONE-|||1
+

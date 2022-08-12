@@ -1,0 +1,54 @@
+S " Боже мій ! " Американці новоприбулий , схопивши руки інших .
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Number|||американець|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Particle|||схопив|||REQUIRED|||-NONE-|||1
+A 10 9|||G/Prep|||за|||REQUIRED|||-NONE-|||1
+
+S " Це Боб , це точно він .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я був впевнений , що знайду тебе тут якщо ти ще живий .
+A 2 3|||Spelling|||упевнений|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Що ж , 20 років це багато часу .
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Старий добрий Боб .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я хотів би щоб у нас було більше часу , ще одна вечеря разом .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Як тобі було на Заході , старий ? "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Біллі , Захід дав мені все що я просив .
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Ти дуже змінився , Джиммі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я не не думав , що ти такий високий , на кілька дюймів . "
+A 13 14|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Та , я трохи виріс після двадцяти "
+A 9 9|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Як поживаєш в Нью-Йорку , Джиммі , все добре ? "
+A 3 4|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S " Більш менш .
+A 2 2|||Spelling|||-|||REQUIRED|||-NONE-|||1
+
+S Я працюю в одному з департаментів міста .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Давай Боб , пішли прогуляємося до старихьзнайомих місць і будемо довго говорити про старі часи . "
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||Бобе|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||старих знайомих|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,47 @@
+S Бобе , це ти ? - невпевнено запитав він
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Це ти , Джимі Велс ? Крикнув чоловік у дверей .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||Джиммі|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||— крикнув|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Prep|||біля|||REQUIRED|||-NONE-|||1
+
+S " Клянусь серцем " вигукнув прибулець , хапаючи обидві чужі руки з своїми .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Це Боб , безсумнівно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я думав , що знайду тебе тут , якщо ти ще існуєш .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ну , ну , ну ! - двадцять років це довгий відрізок часу .
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Старий пропащий , Боб ; Я хотів , щоб ми востаннє , ще раз тут пообідали .
+A 4 5|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Як Захід ставився до тебе , старий ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Байстрюк ; він дав мені все , що я в нього просив .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Ти сильно змінився , Джіммі .
+A 4 5|||Spelling|||Джиммі|||REQUIRED|||-NONE-|||1
+
+S Я ніколи не думав що ти висотою два чи три дюйми .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S О , я підріс трошки після двадцяти .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Справи йдуть добре у Нью Йорку , Джіммі ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||Джиммі|||REQUIRED|||-NONE-|||1
+

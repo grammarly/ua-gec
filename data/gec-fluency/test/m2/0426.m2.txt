@@ -1,0 +1,57 @@
+S Наступного дня Найт подзвонив мені з таксі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S " Раз чи два я взяв невірний слід , докторе , -- визнав він .
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 6 7|||F/Style|||хибний|||REQUIRED|||-NONE-|||2
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S - - Я трохи знаюся на методах детективів і я керувався деякими з них , розраховуючи врешті вийти на Джольнса .
+A 0 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 2|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Пістолет був . 45-го калібру , тому я думав , що звісно ж знайду його на 45-й вулиці , де він збиратиме докази .
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 16 17|||Spelling|||45-ій|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Потім я знов намагався знайти детектива в Колумбії , бо постріл у спину звичайно ж вказує на цькування перед вступом у студентське братство .
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||F/Style|||знову|||REQUIRED|||-NONE-|||2
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Але я так і не зміг знайти жодного його сліду .
+A 10 10|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S " " І не зможете " , -- поспівчував я йому .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S " Звичайними методами не зможу , -- сказав Найт .
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S - - Можу вештатися туди й сюди Бродвеєм цілий місяць без жодного успіху .
+A 0 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 2|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Але ви заділи мою гордість , докторе ; і , якщо я не знайду вам Шемрока Джольнса сьогодні , обіцяю , що я більше ніколи не вбиватиму і не грабуватиму в вашому місті .
+A 3 5|||F/Calque|||зачепили|||REQUIRED|||-NONE-|||1
+A 2 3|||F/Calque|||зачепили|||REQUIRED|||-NONE-|||2
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

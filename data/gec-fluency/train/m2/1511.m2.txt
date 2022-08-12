@@ -1,0 +1,68 @@
+S Настало мовчання .
+A 0 2|||F/Collocation|||Запала мовчанка|||REQUIRED|||-NONE-|||1
+
+S Стичкін почав голосно сморкатися , а сваха розчервонілася та , соромливо глядячи на нього , запитала :
+A 3 4|||F/Calque|||висякати носа|||REQUIRED|||-NONE-|||1
+A 11 12|||G/UngrammaticalStructure|||дивлячись|||REQUIRED|||-NONE-|||1
+
+S - А ви скільки отримуєте .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Микола Миколайович ?
+A 0 1|||G/Case|||Миколо|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||Миколайовичу|||REQUIRED|||-NONE-|||1
+
+S - Я ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Сімдесят рублів , не рахуючи нагороджень ...
+A 4 6|||F/Style|||враховуючи премій|||REQUIRED|||-NONE-|||1
+
+S Окрім того , ми маємо дохід від стеарінових свічей та зайців .
+A 7 8|||Spelling|||стеаринових|||REQUIRED|||-NONE-|||1
+A 8 9|||G/UngrammaticalStructure|||свічок|||REQUIRED|||-NONE-|||1
+
+S - Мисливством займаєтесь ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ні , зайцями в нас називаються безквіткові пасажири .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 6 7|||G/VerbVoice|||називають|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||безквиткових|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Case|||пасажирів|||REQUIRED|||-NONE-|||1
+
+S Пройшла ще хвилина в мовчанні .
+A 0 1|||F/Collocation|||Минула|||REQUIRED|||-NONE-|||1
+
+S Стичкін піднявся та у хвилюванні заходив по кімнаті .
+A 3 6|||F/PoorFlow|||схвильовано почав ходити|||REQUIRED|||-NONE-|||1
+
+S - Мені молодої жінки не треба , - сказав він , -
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 12|||Punctuation|||треба, — сказав він. —|||REQUIRED|||-NONE-|||1
+
+S Я людина літня , і мені потріба , котра така ... нібито як ви ... солідна ... і нібито вашої комплекції
+A 0 0|||Spelling|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||F/PoorFlow|||потрібна|||REQUIRED|||-NONE-|||1
+A 8 9|||F/Style|||-NONE-|||REQUIRED|||-NONE-|||1
+A 20 21|||Punctuation|||статури .|||REQUIRED|||-NONE-|||1
+
+S - Бозна що ви говорите ... - захіхікала сваха , прикриваючи хусткою своє багрове обличчя .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 8|||Spelling|||– захихикала|||REQUIRED|||-NONE-|||1
+A 13 14|||F/Style|||почервоніле|||REQUIRED|||-NONE-|||1
+
+S - Що ж тут довго думати ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ви мені по серцю та для мене ви підходите у віших якостях .
+A 10 11|||Spelling|||ваших|||REQUIRED|||-NONE-|||1
+
+S Людина я позитивна , твереза та , якщо вам подобаюсь , то ... що ж краще ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Дозвольте вам зробити пропозицію !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

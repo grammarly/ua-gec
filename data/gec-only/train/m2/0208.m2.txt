@@ -1,0 +1,572 @@
+S Як оформити презентацію , щоб її зрозуміли
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S У вас є креативна ідея — і вам потрібно її донести .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Або зробити звіт , виступити на конференції , підготувати аналітику .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S У кожному з випадків ви починаєте оформлювати презентацію .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Старша креативна копірайтерка NGN.agency Галя Альомова склала гайд , за яким ваша презентація буде зрозумілою для аудиторії .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 10 11|||G/Number|||якими|||REQUIRED|||-NONE-|||2
+
+S На основі лекції в NGN . Bootcamp .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Image for post
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Для створення презентацій є три найпоширеніші програми :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Keynote
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Продукт для макбуків , який люди з індустрії вважають єдиним і найкращим для хорошої презентації .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Google slides
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Найбільш поширений , має нормальну функціонал і дозволяє одночасно працювати над презентацією всій команді .
+A 0 2|||G/Comparison|||Найпоширеніший|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Gender|||нормальний|||REQUIRED|||-NONE-|||1
+A 0 2|||G/Comparison|||Найпоширеніший|||REQUIRED|||-NONE-|||2
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 4 5|||G/Gender|||нормальний|||REQUIRED|||-NONE-|||2
+
+S PowerPoint
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Який все ще існує .
+A 1 2|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||усе|||REQUIRED|||-NONE-|||2
+
+S Між ними особливої різниці немає .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Головне не те , як оформлена ваша презентація , які в ній є навороти і чи допомагав вам у цьому дизайнер .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Презентація може бути взагалі без картинок — і виглядати круто , якщо доносить ідею .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Для кого ви робите презентацію
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 5 5|||Punctuation|||?|||REQUIRED|||-NONE-|||2
+
+S За оформленням презентації зазвичай діляться на дві категорії :
+A 4 5|||G/VerbVoice|||ділять|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S для самостійного читання
+A 3 3|||Punctuation|||;|||REQUIRED|||-NONE-|||1
+A 0 0|||Punctuation|||-|||REQUIRED|||-NONE-|||2
+A 3 3|||Punctuation|||;|||REQUIRED|||-NONE-|||2
+
+S як супровід зустрічі з клієнтом
+A 5 5|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 0 0|||Punctuation|||-|||REQUIRED|||-NONE-|||2
+A 5 5|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Насправді всі презентації бувають :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Image for post
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S З однієї вас зрозуміють , а з іншої — ні .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Щоби вас правильно зрозуміли , дізнайтеся , перед ким будете презентувати , кому надсилати презентацію .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Якщо це презентація для клієнта — встановіть , хто приймає рішення : одна людина або декілька .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Punctuation|||кщо|||REQUIRED|||-NONE-|||2
+A 5 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Чесно запитайте , чи всі в темі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Найкрутішу презентацію можна перевантажити термінами чи забути додати те , чого клієнт може просто не знати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S За можливості дізнайтеся , як люди сприймають інформацію .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||G/Prep|||По|||REQUIRED|||-NONE-|||2
+
+S Адже комусь потрібен тільки роудмеп без картинок , а комусь таблиці псують сприйняття , а гіфки задають настрій .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 2 3|||G/Gender|||потрібна|||REQUIRED|||-NONE-|||2
+
+S Бережіть очі
+A 2 2|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Щоб презентація виглядала візуально притомно та естетично , а не викликала кров з очей , є три кроки :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 12 13|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 18 19|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Шрифти .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 0|||Punctuation|||1 .|||REQUIRED|||-NONE-|||2
+
+S Оберіть один простий в накресленні по всі презентації .
+A 3 4|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||всій|||REQUIRED|||-NONE-|||1
+A 5 8|||G/Prep|||на всю презентацію|||REQUIRED|||-NONE-|||2
+
+S Кольори .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 0|||Punctuation|||2 .|||REQUIRED|||-NONE-|||2
+
+S Виставте однакові кольори заголовків і тексту .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Окрім чорного чи відтінку сірого , беріть не більше 1 – 2 кольорових .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Відбивочні слайди .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 0|||Punctuation|||3.|||REQUIRED|||-NONE-|||2
+A 0 1|||G/PartVoice|||Відбивальні|||REQUIRED|||-NONE-|||2
+
+S Вони допоможуть структурувати інформацію .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Це дуже допоможе , коли у вас кількість слайдів виростає понад 20 .
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Або коли над однією презентацією працює команда людей .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Що всередині
+A 2 2|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ваша презентація — це історія , якою ви ведете слухача / читача .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Твір , який легко і цікаво сприймати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S У ній має бути структура та сюжет .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ваш сюжет :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ситуація / Background
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S + Інтро та інсайт
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S ↓
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ідея
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S ↓
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Реалізація
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ситуація / Background
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Даємо коротку виписку того , що зрозуміли з брифу клієнта і реального стану бренду , щоб легітимізувати пропоновані ідеї .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Даємо зрозуміти , яку саме проблему з брифу прицільно розглядаємо .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Інтро / Інсайт
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Інтро — це підводка до ідеї , яка :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Дає зрозуміти хід думок
+A 0 1|||Spelling|||дає|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||;|||REQUIRED|||-NONE-|||1
+A 0 0|||Punctuation|||-|||REQUIRED|||-NONE-|||2
+A 0 1|||Spelling|||дає|||REQUIRED|||-NONE-|||2
+A 4 4|||Punctuation|||;|||REQUIRED|||-NONE-|||2
+
+S Допомагає захистити обрані канали .
+A 0 1|||Spelling|||допомагає|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 0 0|||Punctuation|||-|||REQUIRED|||-NONE-|||2
+A 0 1|||Spelling|||допомагає|||REQUIRED|||-NONE-|||2
+A 4 5|||Punctuation|||;|||REQUIRED|||-NONE-|||2
+
+S Рятує опис ідеї
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 0|||Punctuation|||-|||REQUIRED|||-NONE-|||2
+A 0 1|||Spelling|||рятує|||REQUIRED|||-NONE-|||2
+A 3 3|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Інсайт — це якщо ви знайшли справді щось нове , що допоможе вирішити проблему .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ідея
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S В один слайд .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Хороша ідея має формулюватися лаконічно та емоційно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Дайте ідеї назву та розшифруйте .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Підтримайте настроєвим віжуалом .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Реалізація
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Тут починається найскладніша частина й левова частка презентації .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S В ній можна написати досить багато :
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||2
+
+S Розкрити подробиці ідеї — як вона буде працювати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 0|||Punctuation|||-|||REQUIRED|||-NONE-|||2
+A 0 1|||Spelling|||розкрити|||REQUIRED|||-NONE-|||2
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||;|||REQUIRED|||-NONE-|||2
+
+S Дати приблизну структуру проекту і таймлайн .
+A 3 4|||Spelling|||проєкту|||REQUIRED|||-NONE-|||1
+A 0 0|||Punctuation|||-|||REQUIRED|||-NONE-|||2
+A 0 1|||Spelling|||дати|||REQUIRED|||-NONE-|||2
+A 3 4|||Spelling|||проєкту|||REQUIRED|||-NONE-|||2
+
+S Іноді реалізацію достатньо оформити в 1 слайд .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Іноді — в цілий розділ .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Референси і мудборд
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 2 3|||G/Number|||мудборди|||REQUIRED|||-NONE-|||2
+
+S Референси виконують утилітарну функцію : показують , якою буде реалізація ідеї , які є варіанти стилістики .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Особливо коли немає часу чи бюджету на візуалізацію драфтів .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Мудборд має формувати потрібний настрій та емоцію .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Він показує зв’язок з аудиторією , для якої буде втілено ідею .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S На мудборді можна показати колористику проекту , використовувати образи поп-культури та пожартувати , якщо це працюватиме на ідею .
+A 5 6|||Spelling|||проєкту|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||проєкту|||REQUIRED|||-NONE-|||2
+A 9 10|||Spelling|||попкультури|||REQUIRED|||-NONE-|||2
+
+S Image for post
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Завершальні аргументи
+A 2 2|||Punctuation|||/|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Після того як ви розказали ідею та пояснили реалізацію , аргументуйте , чому це круто .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Важливо наголосити на головному : ця ідея вирішує наявну проблему , дасть додаткову цінність аудиторії , встановить контакт із нею , має фестивальний потенціал тощо .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Адже естетика та вимоги до неї у всіх різні .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Робимо так , щоб відстежити ваш хід думок було легше .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Багато тексту — скорочуйте .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 0|||Punctuation|||2 .|||REQUIRED|||-NONE-|||2
+
+S Тексту має бути до ⅔ слайду , приблизно однаковими порціями .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Punctuation|||ексту|||REQUIRED|||-NONE-|||2
+
+S Він має як легко читатися , так і добре виглядати для ока .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Punctuation|||ін|||REQUIRED|||-NONE-|||2
+
+S Коли скоротити неможливо — структуруйте :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Punctuation|||оли|||REQUIRED|||-NONE-|||2
+
+S Розбийте на смислові порції .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Порції за можливості лаконізуйте .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Пам’ятайте про правила пунктуації .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Використовуйте булет - поінти .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Але не дефіси : вони виглядають як мінуси .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ставте крапку наприкінці масиву тексту .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Якщо на слайді одне речення — можна без крапки .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S 3 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Використовуйте якомога менше кольорових акцентів і стандартні можливості заданого шрифту : жирний і курсив .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S 4 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Перевірте по всій презентації тире і лапки .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Часто ми ставимо замість довгого тире короткий дефіс .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||G/Prep|||у|||REQUIRED|||-NONE-|||2
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S В кириличному алфавіті використовуємо французькі лапки : « »
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S 5 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Вирівнюйте текст на всіх слайдах .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Найкраще — за лівим краєм .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 1|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S 6 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Розміщуйте картинки максимально на одних і тих самих місцях по всій презентації .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Наприклад , праворуч .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S 7 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Використовуйте мокапи .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||G/Prep|||у|||REQUIRED|||-NONE-|||2
+
+S Image for post
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S 8 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Додайте roadmap .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Для великої креативної презентації або стратегічного підходу такий слайд допоможе зорієнтуватися в логіці проекту .
+A 13 14|||Spelling|||проєкту|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Оформіть екосистему різних каналів , механіку реалізації :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Формулюйте кроки користувача або етапи в блоки
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Spelling|||проєкту|||REQUIRED|||-NONE-|||2
+
+S Розміщуйте у вигляді блок - схеми
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ілюструйте зрозумілими іконками або реальними лого
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Слизькі місця
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Є дві речі , з якими в презентаціях потрібно обережно та не передати куті меду :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Гіфки .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Чудовий спосіб передати настрій слайду .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Проте варто пам’ятати , що гіфки не всюди можуть відображатися .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 2|||G/UngrammaticalStructure|||бути обережними|||REQUIRED|||-NONE-|||2
+A 6 7|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Не всі люди їх однаково сприймають .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Тож не перевантажуйте ними слайд за слайдом , адже це важко сприймається .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Гумор .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Він буває різний .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Якщо ви впевнені , що ваша аудиторія його зрозуміє — використовуйте .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Перевіряйте гіфки й гумор на сучасність та на відповідність цінностям вашого читача / слухача .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 11 10|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 11 12|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Чекліст
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Перед тим , як віддати презентацію :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Залиште кілька годин до дедлайну , щоб подивитися на неї свіжим оком .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Перевірте всі пропозиції автовиправлення .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Переконайтеся , що бренд всюди написано правильно .
+A 4 5|||Spelling|||усюди|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Переконайтеся , що взяли актуальну версію лого клієнта .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Почистіть примітки до слайдів .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

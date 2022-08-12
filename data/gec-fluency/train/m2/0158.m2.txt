@@ -1,0 +1,37 @@
+S Не сумуй !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Боб був дуже веселий з ними та розмовляв люб'язно з усією родиною .
+A 4 5|||Spelling|||із|||REQUIRED|||-NONE-|||1
+
+S Він дивився на роботу на столі та вихваляв індустрію , швидкість Міссіс Кретчіт та дівчат .
+A 11 12|||Spelling|||місіс|||REQUIRED|||-NONE-|||1
+
+S Вони закінчать задовго до середи , сказав він .
+A 0 0|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Неділя !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ти ходив cьогодні тоді , Роберте ? " сказала його дружина .
+A 3 4|||Spelling|||туди|||REQUIRED|||-NONE-|||1
+A 8 9|||F/Style|||спитала|||REQUIRED|||-NONE-|||1
+
+S " Так , люба моя , " відповів Боб . " Я хотів би , щоб ти могла піти .
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Тобі було б чудово побачити , наскільки зелене те місце .
+A 0 2|||F/PoorFlow|||Було|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||F/Other|||якби ти побачила|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Calque|||яке|||REQUIRED|||-NONE-|||1
+
+S Але ти бачитимеш його часто .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я обіцяв йому , що піду туди у неділю .
+A 9 9|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+

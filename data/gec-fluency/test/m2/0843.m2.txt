@@ -1,0 +1,112 @@
+S Вона лежачого майстра , здригнулася і прошепотіла :
+A 1 1|||G/UngrammaticalStructure|||побачила|||REQUIRED|||-NONE-|||1
+A 1 1|||G/UngrammaticalStructure|||побачила|||REQUIRED|||-NONE-|||2
+
+S - Цього я не очікувала ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Вбивця !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S - Та ж ні , ні , - відповів Азазелло , - зараз він встане .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Ах , чому ви такі нервові !
+A 0 1|||F/Style|||Ох|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Маргарита повірила йому одразу , настільки переконливим був голос рижого демона .
+A 9 10|||F/Calque|||рудого|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||відразу|||REQUIRED|||-NONE-|||2
+A 9 10|||F/Calque|||рудого|||REQUIRED|||-NONE-|||2
+
+S Маргарита підскочила , сильна і жива , і допомогла напоїти лежачого вином .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 7 8|||F/Repetition|||та|||REQUIRED|||-NONE-|||2
+
+S Відкривши очі , той поглянув похмуро і з ненавистю повторив своє останнє слово :
+A 0 1|||F/Collocation|||Розплющивши|||REQUIRED|||-NONE-|||1
+A 0 1|||F/Collocation|||Розплющивши|||REQUIRED|||-NONE-|||2
+
+S - Отруйник ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 2 3|||Punctuation|||…|||REQUIRED|||-NONE-|||2
+
+S - Ох !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Образа є звичайною нагородою за хорошу роботу , - відповів Азазелло , - невже ви сліпі ?
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Ну прозорійте же скоріше .
+A 1 2|||Spelling|||прозрійте|||REQUIRED|||-NONE-|||1
+A 0 4|||F/PoorFlow|||То прозрійте ж мерщій|||REQUIRED|||-NONE-|||2
+
+S Тут майстер піднявся , озирнувся поглядом живим і світлим і спитав :
+A 7 8|||F/Repetition|||та|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S - Що ж означає це нове ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S - Воно означає , - відповів Азазелло , - що вам час .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 1 2|||F/Style|||Це|||REQUIRED|||-NONE-|||2
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 11 12|||F/Style|||пора|||REQUIRED|||-NONE-|||2
+
+S Уже гримить гроза , ви чуєте ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Темніє .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Коні риють землю , здригається маленький сад .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Прощайтесь з підвалом , прощайтесь швидше .
+A 1 2|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Прощайтеся|||REQUIRED|||-NONE-|||2
+A 4 6|||F/Style|||прощайтеся мерщій|||REQUIRED|||-NONE-|||2
+
+S - А , розумію , - сказав майстер , озирнувшись , - ви нас вбили , ми мертві .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||убили|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Ох , як це розумно !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Я це вчасно !
+A 0 1|||Spelling|||Як|||REQUIRED|||-NONE-|||1
+A 0 3|||F/PoorFlow|||Як своєчасно|||REQUIRED|||-NONE-|||2
+
+S Тепер я зрозумів все .
+A 3 4|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||усе|||REQUIRED|||-NONE-|||2
+

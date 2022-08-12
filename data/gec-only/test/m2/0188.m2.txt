@@ -1,0 +1,58 @@
+S Підшипники маточини сконструйовані таким чином , що їх ресурс пробігу легко може досягати більше 200 000 км .
+A 7 8|||G/Other|||їхній|||REQUIRED|||-NONE-|||1
+A 14 14|||G/Conjunction|||ніж|||REQUIRED|||-NONE-|||1
+A 7 8|||G/UngrammaticalStructure|||їхній|||REQUIRED|||-NONE-|||2
+
+S Однак , деякі причини можуть призвести до їх передчасного пошкодження та відповідно - скорочення терміну служби : в 70 % випадків - це погане змащення ; у 18 % - забруднення , а у 10 % - неправильний монтаж .
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||G/Other|||їхнього|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||— до|||REQUIRED|||-NONE-|||1
+A 21 22|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 29 30|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 36 37|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 7 8|||G/UngrammaticalStructure|||їхнього|||REQUIRED|||-NONE-|||2
+A 12 13|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 21 22|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 29 30|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 36 37|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Ми пропонуємо комплексне рішення для коректного монтажу підшипника маточини - інструменти від бренду Vigor .
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 13 13|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 14 14|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+
+S Переглядайте відео встановлення запчастини , під час якого були використані :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S - набір інструментів для монтажу та демонтажу підшипників маточини ( арт . V4680 ) - завдяки функції регулювання підходить до всіх наявних на ринку , а також нових типів компактних підшипників маточини .
+A 14 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||(|||REQUIRED|||-NONE-|||2
+A 32 32|||Punctuation|||)|||REQUIRED|||-NONE-|||2
+
+S тисніть сюди
+A 0 1|||Spelling|||Тисніть|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Тисніть|||REQUIRED|||-NONE-|||2
+A 2 2|||Punctuation|||;|||REQUIRED|||-NONE-|||2
+
+S - гідравлічний насос з педальним приводом ( арт . V2847 ) тисніть сюди
+A 11 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 11 11|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+A 11 12|||Spelling|||Тисніть|||REQUIRED|||-NONE-|||2
+A 13 13|||Punctuation|||;|||REQUIRED|||-NONE-|||2
+
+S - гідравлічний циліндр для набору монтажу та демонтажу підшипника маточини ( арт . V2854 ) тисніть сюди
+A 15 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+A 15 16|||Spelling|||Тисніть|||REQUIRED|||-NONE-|||2
+A 17 17|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Замовляйте продукцію в BM Parts
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 3 3|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 5 5|||Punctuation|||” .|||REQUIRED|||-NONE-|||2
+

@@ -1,0 +1,58 @@
+S - Це не справжній бобер , а польський - казав машиніст - справжні бобри не буваю такими .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 16|||G/Number|||бувають|||REQUIRED|||-NONE-|||1
+
+S По всій шапці , якщо бажаєте знати , то ціна їй - п'ять копійок !
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Розумієте ви багато ... - образився кондуктор - п'ять копійок !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S А ми зараз спитаємо купця .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Пане Малахін - звертається він до старого - як по-вашому : польський це бобер чи справжній ?
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Старий Малахін взяв в руки шапку , з видом того хто розумівся на своїй справі , обмацав хутро , понюхав , подув , і на суворому обличчі , раптом з'явилась зневажлива посміжка .
+A 3 4|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 27 28|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 31 32|||Spelling|||посмішка|||REQUIRED|||-NONE-|||1
+
+S - Це польська ! - сказав він задоволено - польська вона .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Почалась суперечка , кондуктор доводив , що на шапці бобер справжній , а машиніст з Малахіним намагались переконати його в протилежному .
+A 14 15|||Spelling|||із|||REQUIRED|||-NONE-|||1
+
+S Під час цієї суперечки , старий раптом згадав для чого він сюди прийшов .
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S - Бобер бобром , шапка шапкою , а потяг стоїть панове ! - сказав він - Щож ? кого чекаємо ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Spelling|||Що ж|||REQUIRED|||-NONE-|||1
+A 18 19|||Spelling|||Кого|||REQUIRED|||-NONE-|||1
+
+S Поїхали !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

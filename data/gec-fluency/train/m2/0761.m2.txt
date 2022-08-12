@@ -1,0 +1,53 @@
+S Сью з інетересом визирнула у вікно .
+A 2 3|||Spelling|||інтересом|||REQUIRED|||-NONE-|||1
+
+S Що там можно порахувати ?
+A 2 3|||Spelling|||можна|||REQUIRED|||-NONE-|||1
+
+S Було видно тільки порожній і похмурий двір і задня стіна цегляного будинку метрів задвадцять .
+A 13 14|||Spelling|||за двадцять|||REQUIRED|||-NONE-|||1
+
+S Дуже стара лоза , вузловата і гнила біля коріння повзла по стіні .
+A 4 5|||Spelling|||вузлувата|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Холодний подих осіні оголив лозу так що її гілки , майже голі , чіплялись за цекли .
+A 2 3|||Spelling|||осені|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||цеглу|||REQUIRED|||-NONE-|||1
+
+S " Що це , люба ? " спитала Сью .
+A 7 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Шість " сказав Джонсі , майже пошипки .
+A 2 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Gender|||сказала|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||пошепки|||REQUIRED|||-NONE-|||1
+
+S " Вони падають швидше зараз .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Три дні тому було майже сотня .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Їх було дуже складно порахувати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Але зараз це просто .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Щойно впав ще один .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Лишилось лише пять . "
+A 2 3|||Spelling|||п`ять|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Що пять , люба ?
+A 2 3|||Spelling|||п`ять|||REQUIRED|||-NONE-|||1
+
+S Скажи своїй Сьюді . "
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,57 @@
+S Тут майстер засміявся і , охопивши давно розкурчавлену голову Маргарити , сказав :
+A 7 8|||F/Calque|||закучерявлену|||REQUIRED|||-NONE-|||1
+
+S - Ах , не слухайте бідолашну жінку , Мессир .
+A 0 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 2|||F/Calque|||Ох|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Case|||бідолашної|||REQUIRED|||-NONE-|||1
+A 6 7|||G/Case|||жінки|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Case|||Мессіре|||REQUIRED|||-NONE-|||1
+
+S В цьому підвалі вже давно живе інша людина , і взагалі не буває так , щоб все стало , як було . -
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
+A 16 17|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+A 21 23|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 23 23|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Він приклав щоку до голови своєї подруги , обійняв Маргариту і почав бормотати : Бідна , бідна ...
+A 12 13|||F/Calque|||бурмотіти|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Не буває , ви кажете ? - сказав Воланд .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Це вірно .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 3|||F/Calque|||Так|||REQUIRED|||-NONE-|||1
+
+S Але ми спробуємо , . - І він сказав : - Азазелло !
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||і|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S В ту ж мить зі стелі звалився на підлогу розгублений і близький до втрати розуму громадянин у самій білизні , але чомусь із валізою в руках і в кепці .
+A 0 4|||F/PoorFlow|||Тієї ж миті|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Style|||гепнувся|||REQUIRED|||-NONE-|||1
+
+S Від страху цей чолов"яга трусився й привітав .
+A 3 4|||Spelling|||чолов'яга|||REQUIRED|||-NONE-|||1
+A 6 7|||G/VerbVoice|||привітався|||REQUIRED|||-NONE-|||1
+
+S - Могарич ? - спитав Азазелло у впавшего з неба .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 10|||G/UngrammaticalStructure|||прибульця|||REQUIRED|||-NONE-|||1
+
+S - Алозій Могарич , - відповів той , т ремтячи .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 10|||Spelling|||тремтячи|||REQUIRED|||-NONE-|||1
+
+S - Це ви , прочитавши статтю Латунського про роман цієї людини , написали на нього скаргу з повідомленням про те , що він зберігає в себе нелегальну літературу ?- запитав Азазелло .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 28 29|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,55 @@
+S Колір та пульс мера були в нормі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Я призначив йому інше лікування і він сказав , що останній біль залишив його .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S " Сьогодні " - кажу я , " Ви б краще залишився в ліжку на день чи два , і все буде добре .
+A 2 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 8 9|||Spelling|||ви|||REQUIRED|||-NONE-|||2
+A 23 23|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+
+S Це гарна нагода , що я опинився в Фішер Хіл , пане мере " - сказав я , " всі засоби лікування від корнукопії , що використовуються звичайними медичними закладами не змогли б допомогти Вам .
+A 12 13|||G/Case|||мер|||REQUIRED|||-NONE-|||1
+A 13 17|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 25 26|||G/Conjunction|||які|||REQUIRED|||-NONE-|||1
+A 26 27|||G/VerbVoice|||використовують|||REQUIRED|||-NONE-|||1
+A 27 28|||G/Case|||звичайні|||REQUIRED|||-NONE-|||1
+A 28 29|||G/Case|||медичні|||REQUIRED|||-NONE-|||1
+A 29 30|||G/Case|||заклади|||REQUIRED|||-NONE-|||1
+A 30 30|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 0 0|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 12 13|||G/Case|||мер|||REQUIRED|||-NONE-|||2
+A 13 14|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 14 15|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 18 19|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 30 30|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 34 35|||Spelling|||вам|||REQUIRED|||-NONE-|||2
+A 35 35|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+
+S І ось після зникнення болю , зрозуміло , що він був несправжнім , давайте натякнемо на цікавішу тему - наприклад подарунок у розмірі 250 $ .
+A 13 15|||G/VerbAForm|||натякнімо|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 20 20|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 13 15|||G/VerbAForm|||натякнімо|||REQUIRED|||-NONE-|||2
+A 18 18|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 18 19|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 20 20|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Тільки без квитанцій будь ласка , я ненавиджу писати своє ім'я на зворотньому боці квитанції так само як і спереду " .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||зворотному|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 12 13|||Spelling|||зворотному|||REQUIRED|||-NONE-|||2
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 20 21|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+

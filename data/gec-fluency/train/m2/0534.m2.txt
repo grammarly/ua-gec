@@ -1,0 +1,55 @@
+S Мене лякає байдужість цих жінок .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Це відбувається майже кожного дня , знову і знову .
+A 3 5|||F/Style|||щодня|||REQUIRED|||-NONE-|||1
+
+S По суті , я до нього вже майже звик , але все одно , кожен раз мене всього пересмикує , коли я знову це чую .
+A 5 6|||G/Gender|||неї|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 14 16|||F/Style|||щоразу|||REQUIRED|||-NONE-|||1
+
+S Адже , невже так важко для неї запитати : " Привіт , Артем .
+A 0 3|||F/Style|||Ну невже їй|||REQUIRED|||-NONE-|||1
+A 5 7|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 13|||G/Case|||Артеме|||REQUIRED|||-NONE-|||1
+
+S Як у тебе справи на роботі ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Які плани на майбутнє ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ти виглядаєш втомленим .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Підемо , сходимо в кіно . "
+A 0 3|||F/Repetition|||Ходімо|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Або : " Я вчора дивилася нову серію Теорії Великого Вибуху , супер ! " .
+A 8 8|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S Або ще що - небудь .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Можна зовсім інше , але те , про що люди говорять зазвичай .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Але ні , ніколи .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Сьогодні знову :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - - Доброго дня .
+A 0 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S У вас картка є ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Кульок потрібен ?
+A 0 1|||F/Calque|||Пакет|||REQUIRED|||-NONE-|||1
+

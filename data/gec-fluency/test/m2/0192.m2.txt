@@ -1,0 +1,64 @@
+S Він чекав близько двадцяти хвилин , а потім високий чоловік у довгому пальто , з коміром , піднятим до вух , швидко перейшов дорогу з іншої сторони вулиці .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 12 14|||G/Case|||пальті|||REQUIRED|||-NONE-|||2
+A 25 27|||F/Calque|||іншого боку|||REQUIRED|||-NONE-|||2
+
+S Він шов прямо до очікуючого .
+A 1 2|||Spelling|||ішов|||REQUIRED|||-NONE-|||1
+A 4 5|||G/UngrammaticalStructure|||очікувача|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||ішов|||REQUIRED|||-NONE-|||2
+A 4 5|||G/UngrammaticalStructure|||того , хто очікував|||REQUIRED|||-NONE-|||2
+
+S " Боб , це ти ? " він запитав із сумнівом .
+A 1 2|||G/Case|||Бобе|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 1 2|||G/Case|||Бобе|||REQUIRED|||-NONE-|||2
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 7 7|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S " Це ти , Джиммі Уеллс ? " вигукнув чоловік в дверях .
+A 5 6|||G/Case|||Веллсе|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 5 6|||Spelling|||Веллс|||REQUIRED|||-NONE-|||2
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 10 11|||Spelling|||у|||REQUIRED|||-NONE-|||2
+
+S " Боже мій ! " вигукнув новоприбулий , схопивши обидві руки іншого своїми .
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 5 6|||F/Repetition|||— озвався|||REQUIRED|||-NONE-|||2
+
+S " Це Боб , жодного сумніву .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Я був переконаний , що знайду тебе тут , якщо ти ще досі існуєш .
+A 13 14|||F/Style|||живий|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Так , так , так !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Двадцять років - довгий час .
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Старі часи минули , Боб ; я б хотів аби вони не закінчились , щоб ми могли ще раз повечеряти тут .
+A 4 5|||G/Case|||Бобе|||REQUIRED|||-NONE-|||1
+A 7 8|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 9|||F/PoorFlow|||би,|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Case|||Бобе|||REQUIRED|||-NONE-|||2
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Як тобі жилось на Заході , старий ? "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 2 3|||Spelling|||жилося|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+

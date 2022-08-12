@@ -1,0 +1,32 @@
+S Шон Байзель .
+A 1 2|||Spelling|||Байзел|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Щоденник книгаря .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Букіністична крамниця у маленькому місті ; сюжету немає , кожен день майже те ж саме , відірватись неможливо .
+A 9 11|||G/Case|||кожного дня|||REQUIRED|||-NONE-|||1
+A 12 12|||F/PoorFlow|||одне й|||REQUIRED|||-NONE-|||1
+A 13 14|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||в|||REQUIRED|||-NONE-|||2
+A 9 11|||F/PoorFlow|||щодня|||REQUIRED|||-NONE-|||2
+A 13 14|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Як годиться - світ з котом і каміном , місцевим книжковим фестівалем , пивом , конкуперацією з амазоном , теплотою людських стосунків .
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||фестивалем|||REQUIRED|||-NONE-|||1
+A 19 20|||F/Calque|||теплом|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 11 12|||Spelling|||фестивалем|||REQUIRED|||-NONE-|||2
+
+S Якщо ще не прочитали -- заздрю .
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Можете підгадати час так , щоб почати читати вечорами у жовтні - листопаді , бажано перед вікном з котом і у пледі .
+A 17 18|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 20 21|||Spelling|||в|||REQUIRED|||-NONE-|||2
+

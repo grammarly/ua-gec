@@ -1,0 +1,45 @@
+S Переклад назви не зовсім вдалий , в оригіналі книга називається " Chaos Monkey " - на ім'я відомої програми netflix ( https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey ) , що вбиває випадковий процес у системі , заради певності у роботі підсистеми відновлення після збоїв .
+A 14 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 14 17|||G/Case|||ім’ям|||REQUIRED|||-NONE-|||2
+A 30 31|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Автор описує шлях свого стартапу , від створення ідеї до закриття внаслідок 'aquhire' по частинам .
+A 14 15|||G/Case|||частинах|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 12 13|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 12 15|||G/UngrammaticalStructure|||”|||REQUIRED|||-NONE-|||2
+
+S Відверто описується внутрішня кухня великих технологічних компаній .
+A 3 3|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 1 4|||G/VerbVoice|||описано внутрішню “ кухню ”|||REQUIRED|||-NONE-|||2
+
+S Я проковтнув цю книгу одним разом протягом 6-годинного перельоту з великим задоволенням .
+A 4 6|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 6|||G/Prep|||за один раз|||REQUIRED|||-NONE-|||2
+
+S Якщо ви маєте якесь відношення до adtech , то читати взагалі обов'язково .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Посилання :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Український переклад:https://nashformat.ua/products/haos-u-kremnievij-dolyni.-startapy-scho-zlamaly-system...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Вікіпедія : https://en.wikipedia.org/wiki/Chaos_Monkeys
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Амазон : https://www.amazon.com/Chaos-Monkeys-Obscene-Fortune-Failure/dp/0062458191
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S netflix про chaos engeneering : https://medium.com/netflix-techblog/tagged/chaos-monkey
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

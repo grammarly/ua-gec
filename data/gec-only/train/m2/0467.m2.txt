@@ -1,0 +1,79 @@
+S Вона побачила майстра , що лежав , здригнулася і прошепотіла :
+A 4 5|||G/Conjunction|||який|||REQUIRED|||-NONE-|||1
+
+S - Цього я не очікувала ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Вбивця !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Та ні , ні , - відповів Азазелло , - зараз він встане .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ох , навіщо ви так нервуєте !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Маргарита повірила йому одразу , на стільки переконливим був голос рудого демона .
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Маргарита різко встала , сильна і жива , і допомогла напоїти лежачого вином .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Відкривши очі , він подивився похмуро і з ненавистю повторив своє останнє слово :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Отруйник ....
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ах !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Образа - це звичайна винагорода за хорошу роботу , - відповів Азазелло , - невже ви сліпий ?
+A 1 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Але прозрійте ж швидше .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Тут майстер піднявся , подивився поглядом живим і світлим і спитав :
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S - Що ж означає це нове ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Воно означає , - відповів Азазелло , - що вам час .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Вже гримить гроза , ви чуєте ?
+A 0 1|||Spelling|||Уже|||REQUIRED|||-NONE-|||1
+
+S Темніє .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Кони риють землю , дрижить маленький садок .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Прощайтеся з підвалом , прощайтеся швидше .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - А , розумію , - сказав майстер , озираючись , - ви нас вбили , ми мертві .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||убили|||REQUIRED|||-NONE-|||1
+
+S Ах , як це розумно !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Як це вчасно !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Тепер я зрозумів все .
+A 3 4|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+

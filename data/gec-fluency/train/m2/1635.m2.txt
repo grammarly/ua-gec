@@ -1,0 +1,74 @@
+S Да чогу ти там над дитиною смієшся ? - кричить з іншої кімнати Палагея Іванівна .
+A 0 1|||F/Calque|||一 Та чого|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S - Замість того , щоб сміятися , краще б показав !
+A 0 1|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 10|||F/PoorFlow|||би|||REQUIRED|||-NONE-|||1
+
+S Він же завтра знову одиницю отримає , горе моє !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Ти що не розумієш ? - питає Павел Васильович у Степана .
+A 0 1|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 2 3|||F/Style|||чого|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 8 9|||F/Calque|||Павло|||REQUIRED|||-NONE-|||1
+
+S - Та от ... ділення дробів ! - сердито відповідає той .
+A 0 1|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S - Ділення дробу на дріб ...
+A 0 1|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S - Хм . . дивак .
+A 0 1|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S Що ж тут ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Тут і розуміти нема чого .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Зазубри правило , от і все ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Для того щоб поділити дріб на дріб , треба чисельник першого дробу помножити на знаменник другого , і це буде чисельник спільного ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ну , після цього знаменник першого дробу ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Я це і без вас знаю ! - перебиває його Степан , збиваючи зі столу горіхову шкаралупу .
+A 0 1|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S - Ви покажіть мені доказ !
+A 0 1|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S - Доказ ?
+A 0 1|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S Добре , давай олівець .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Слухай .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Допустимо , що нам треба сім восьмих поділити на дві п'ятих .
+A 0 1|||F/Style|||Припустімо|||REQUIRED|||-NONE-|||1
+
+S Так -с .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Механіка тут в тому , брат мій , що треба ці дроби поділити один на одного ...
+A 2 3|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Case|||брате|||REQUIRED|||-NONE-|||1
+
+S Самовар поставили ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

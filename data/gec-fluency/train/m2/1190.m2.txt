@@ -1,0 +1,46 @@
+S - Далі , що писати ? - запитує жандарм
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Малахін викладає перед ним бланки , поштові і телеграфні розписки , рахунки ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Що йому потрібно від жандарма , він сам остаточно не знає ; йому хочеться описати в протоколі не якийсь небудь відділений епізод , а всі свої подорожі , всі свої втрати , розмови з начал начальником станції , описати довго і правильно .
+A 19 20|||F/Style|||окремий|||REQUIRED|||-NONE-|||1
+A 20 21|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 34 35|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S - А на сторінці Z . , - говорить він , - напише : начальник станції відєднав мої вагони від воєнного поїзда , тому що , моє обличчя йому не сподобалося .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 9|||Punctuation|||— каже|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||G/Other|||напиши|||REQUIRED|||-NONE-|||1
+A 16 17|||Spelling|||від'єднав|||REQUIRED|||-NONE-|||1
+A 20 21|||F/Style|||військового|||REQUIRED|||-NONE-|||1
+A 22 23|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 25 26|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S І йому хочеться , щоб жандарм неодмінно згадав про обличчя .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Той втомлено слухає і , не до слухавши , продовжує писати .
+A 1 2|||Spelling|||утомлено|||REQUIRED|||-NONE-|||1
+A 6 8|||Spelling|||дослухавши|||REQUIRED|||-NONE-|||1
+
+S Свій протокол він закінчує так : " Вище перечислене я , унтер - офіцер Черед , записав в цей протокол і постановив представити начальнику Z-го відділення , а копію видати мішану Гаврилові Мелахину " .
+A 7 8|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||F/PoorFlow|||Перечислене|||REQUIRED|||-NONE-|||1
+A 9 9|||F/PoorFlow|||вище|||REQUIRED|||-NONE-|||1
+A 11 14|||Spelling|||унтерофіцер|||REQUIRED|||-NONE-|||1
+A 17 18|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 30 31|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Старий бере копію , прикріплює її до паперу , яким набитий його боковий карман , і дуже задоволений іде до себе в вагон
+A 10 11|||G/Gender|||набита|||REQUIRED|||-NONE-|||1
+A 12 13|||G/Gender|||бокова кишеня|||REQUIRED|||-NONE-|||1
+A 13 14|||F/Calque|||-NONE-|||REQUIRED|||-NONE-|||1
+A 21 22|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 23 23|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

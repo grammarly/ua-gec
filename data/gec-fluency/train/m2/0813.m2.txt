@@ -1,0 +1,41 @@
+S " Це звучить досить цікаво " , - сказав поліцейський .
+A 2 3|||F/PoorFlow|||доволі|||REQUIRED|||-NONE-|||1
+A 3 4|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Мені здається , досить довгий час між зустрічами .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Чи ви не чули свого друга з моменту свого від'їзду ?"
+A 1 2|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 4|||F/PoorFlow|||ви|||REQUIRED|||-NONE-|||1
+A 6 8|||F/Style|||від часу|||REQUIRED|||-NONE-|||1
+
+S " Ну так , деякий час ми листувалися " , - сказав інший .
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Але через рік або два ми втратили слід один одного .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Розумієте , Захід - це досить велика пропозиція , і я продовжував тулятися навколо цього досить жваво .
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||F/Style|||крутитися|||REQUIRED|||-NONE-|||1
+
+S Але я знаю , що Джимі зустріне мене тут якщо він живий , він завжди був найправдивішим , найстійкішим старим хлопцем у світі .
+A 5 6|||Spelling|||Джиммі|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 20 21|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Він ніколи не забуде .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я пройшов тисячу миль , щоб стояти у цих дверях вночі , і воно того варте , якщо мій старий партнер з'явиться . "
+A 22 23|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 24 24|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Чоловік , який чекав , дістав гарний годинник , кришки якого встановлені малими діамантами .
+A 9 10|||F/Style|||поверхні|||REQUIRED|||-NONE-|||1
+A 11 12|||F/Collocation|||були оздоблені|||REQUIRED|||-NONE-|||1
+

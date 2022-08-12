@@ -1,0 +1,25 @@
+S Пори року , день-ніч , врожай - увсе в цьому світі циклічно .
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+A 11 12|||G/UngrammaticalStructure|||циклічне|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 7 8|||Spelling|||усе|||REQUIRED|||-NONE-|||2
+
+S Тож не дивно що наші думки теж зациклюються .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Поспостерігайте за своїми думками .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Та не даючи оцінку добрі вони чи не дуже , просто запишіть кількома словами про що вони .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Потім , подивившись на аркуш з темами думок , можна задати собі питання : а які з цих думок мені справді допомагають бути щасливим та досягати своїх цілей ?
+A 5 6|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||із|||REQUIRED|||-NONE-|||2
+

@@ -1,0 +1,91 @@
+S Приготування їжі завжди чомусь було викликом для мене - іноді хочеть щось швидке й просте , але з часом все більше з'являється бажання балувати себе цікавими смаками .
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||хочеться|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Case|||чогось|||REQUIRED|||-NONE-|||1
+A 12 13|||G/Case|||швидкого|||REQUIRED|||-NONE-|||1
+A 14 15|||G/Case|||простого|||REQUIRED|||-NONE-|||1
+A 19 20|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+
+S Нерідко воно як настрій коливається з однієї крайності в іншу .
+A 2 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Особливо , коли на роботі наступає який колапс , то бажання швиденько перекусити і бігти далі стає номером один .
+A 5 6|||F/Style|||настає|||REQUIRED|||-NONE-|||1
+A 6 7|||G/UngrammaticalStructure|||якийсь|||REQUIRED|||-NONE-|||1
+
+S І тільки винирнувши розумієш , що треба щось змінити і витрачаєш декілька вечорів на кулінарні експерименти і здавалося б надскладні страви .
+A 2 2|||F/PoorFlow|||, коли випірнеш,|||REQUIRED|||-NONE-|||1
+A 2 3|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 19 19|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Та мушу визнати саме робота познайомила мене з моєб найулюбленішою страво на сьогодні - курочка по китайськи .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||моєю|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||стравою|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 15|||G/Case|||курочкою|||REQUIRED|||-NONE-|||1
+A 16 16|||Punctuation|||-|||REQUIRED|||-NONE-|||1
+
+S Яка це смакота , просто не можу предати .
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||передати|||REQUIRED|||-NONE-|||1
+
+S Колись колега влаштувала кулінарний майстер клас де й познайомила мене з цим рецептом .
+A 5 5|||Punctuation|||-|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Ідея супер проста - різноманітні овочі обсмажуються почерзі , потім змішуються та заливаються супер інгридієнтом - кисло солодким соусом .
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||по черзі|||REQUIRED|||-NONE-|||1
+A 13 15|||Spelling|||суперінгредієнтом|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||-|||REQUIRED|||-NONE-|||1
+
+S Це просто вибух смаку .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Кожен шматочок , що ти куштуєш має щось унікальне - з одного боку це смак овоча , а з іншого кисло солодкий присмак соусу .
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 20 20|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 21 21|||Punctuation|||-|||REQUIRED|||-NONE-|||1
+
+S Особливе задоволення отримуєш , коли вдається не поспішати - тоді можна відчути все й по черзі .
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Кисленьке одразу ж захоплює рецептори і потроху відступає .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Солоденький присмак теж довго не тягне і включається лишень троши пізніше кисленького .
+A 9 10|||Spelling|||трохи|||REQUIRED|||-NONE-|||1
+A 11 11|||G/Prep|||від|||REQUIRED|||-NONE-|||1
+
+S А от на останок , вже після того як розпробуєш - прокидається смак овочів .
+A 2 4|||Spelling|||наостанок|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||уже|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Неймовірне задоволення смаку .
+A 2 3|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S У цієї страви є лише один мінус - це час приготування .
+A 6 7|||F/Style|||недолік|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Щоб підготувати та обсмажити всі інгридієнти йде години півтори - дві .
+A 5 6|||Spelling|||інгредієнти|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Не кожного вечора хочеться витрачати стільки часу .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Але коли витрачаєш , то розумієш заради чого .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

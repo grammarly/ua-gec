@@ -1,0 +1,45 @@
+S Лі Рандл жував забагато табаку на дорозі назад .
+A 4 5|||F/Calque|||тютюну|||REQUIRED|||-NONE-|||1
+
+S Я був зайнятий тим , що я вів машину , бо я поспішав .
+A 6 7|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 12|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Якомога швидше після нашого повернення з порожніми руками , Гудлу Бенкс і я зустрілися у задній кімнаті салона Снайдера щоб зіграти в доміно та поділитись інформацією .
+A 9 10|||Spelling|||Гудлоу|||REQUIRED|||-NONE-|||1
+A 19 19|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Я розповів Гудлу про мою експедицію за захованим скарбом .
+A 2 3|||Spelling|||Гудлоу|||REQUIRED|||-NONE-|||1
+
+S " Якби я зміг знайти ті триста тисяч доларів , " - сказав я йому , - " я б перевернув землю догори дригом щоб знайти Мей Марту Мангум " .
+A 10 11|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 17 18|||F/PoorFlow|||то|||REQUIRED|||-NONE-|||1
+A 18 20|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 21 21|||F/PoorFlow|||би|||REQUIRED|||-NONE-|||1
+A 23 24|||Spelling|||дриґом|||REQUIRED|||-NONE-|||1
+A 24 24|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S " Вона призначена для вищих речей , " - сказав Гудлу .
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||Гудлоу|||REQUIRED|||-NONE-|||1
+
+S " Я сам знайду її .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Але , розкажи як ти дізнався про місце де цей знайдений інкремент був так похабцем захований " .
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||похапцем|||REQUIRED|||-NONE-|||1
+
+S Я розповів йому усе у найменших деталях .
+A 3 4|||Spelling|||все|||REQUIRED|||-NONE-|||1
+
+S Я показав йому ескіз чертежника , на якому були ясно написані відстані .
+A 4 5|||F/Calque|||кресляра|||REQUIRED|||-NONE-|||1
+A 9 10|||F/Style|||чітко|||REQUIRED|||-NONE-|||1
+

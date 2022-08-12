@@ -1,0 +1,62 @@
+S Згадаймо : у дитинстві , якщо батьки забороняли гуляти з друзями , то було для вас дуже неприємно , бо було дуже важливим .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S У школі стає важливим те , що про тебе думають інші .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 2 3|||G/Tense|||стало|||REQUIRED|||-NONE-|||2
+
+S В інституті намагаємось триматись 'компанії' .
+A 4 5|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 2 4|||G/Tense|||намагалися бути в|||REQUIRED|||-NONE-|||2
+A 4 5|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 4 5|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+
+S А на роботі , все вищезазначене лише заважає у досягненні успіху .
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Отже , з часом , все важливе змінюється .
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S # Логічно ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S : -)
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Та на жаль , дорослі бачать лише себе сьогодні , коли сварять дітей .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S І не розуміють , що те що важливо для них , зовсім не важливо для дітей , як би вони не хотіли .
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 7 8|||Spelling|||важливе|||REQUIRED|||-NONE-|||2
+A 13 14|||Spelling|||важливе|||REQUIRED|||-NONE-|||2
+
+S Тож варто не забувати , ви самі постійно змінюєте важливість того чи іншого , тож який сенс когось лаяти сьогодні ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 4 5|||Punctuation|||:|||REQUIRED|||-NONE-|||2
+
+S :)
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Це те саме що себе лаяти завтра , за те що змінили свою думку сьогодні : )
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S # Логічно ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

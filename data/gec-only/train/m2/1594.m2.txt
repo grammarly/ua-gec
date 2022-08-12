@@ -1,0 +1,81 @@
+S Кучер та Альошка повернулись до сараю .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Помолились богу , роззулись .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Степан ліг в углі на підзолгу , Альошка у санях .
+A 2 3|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Case|||підлозі|||REQUIRED|||-NONE-|||1
+
+S Двері сараю були вже зачинені , сильно смерділо гаром від загашеного ліхтаря .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Трохи згодом Альошка підняв голову та озирнувся довкола ; крізь щелини дверей було видно світло від тих самих чотирьох вікон .
+A 10 11|||Spelling|||щілини|||REQUIRED|||-NONE-|||1
+
+S - Діду , мені страшно ! - сказав він .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ну , спи , спи ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Тобі кажу , страшно !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Чому тобі страшно ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S От пустун !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Помовчали .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Альошко раптом вискочив з санів і , голосно заплакав , підбіг до діда .
+A 0 1|||G/Case|||Альошка|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 4 5|||G/UngrammaticalStructure|||саней|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Particle|||заплакавши|||REQUIRED|||-NONE-|||1
+
+S - Що ти ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Чого тобі ? - злякався кучер , теж піднімаючись .
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Виє !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Хто виє ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Страшно , діду ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Чуєшь ?
+A 0 1|||Spelling|||Чуєш|||REQUIRED|||-NONE-|||1
+
+S Кучер прислухався .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Це плачуть , - сказав він .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Нумо йди , дурнику .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Їм шкода , от і плачуть .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Я в село хочу ... - продовжував онук , схлипуючи та тремтя всім тілом .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||G/Particle|||тремтячи|||REQUIRED|||-NONE-|||1
+
+S - діду , поїхали в село до мами ; поїхали , діду , милий , бог тобі за це пошле царство небесне ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||Діду|||REQUIRED|||-NONE-|||1
+

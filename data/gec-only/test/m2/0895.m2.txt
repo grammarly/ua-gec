@@ -1,0 +1,47 @@
+S Все своє життя я намагаюся розвивати свій світогляд та досягати нових висот в науковій сфері .
+A 0 1|||Spelling|||Усе|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Усе|||REQUIRED|||-NONE-|||2
+A 12 13|||Spelling|||у|||REQUIRED|||-NONE-|||2
+
+S Але не завжди мені вистачає мотивації задля втілення усіх своїх планів .
+A 6 7|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||G/UngrammaticalStructure|||втілити|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Case|||усі|||REQUIRED|||-NONE-|||1
+A 9 10|||G/Case|||свої|||REQUIRED|||-NONE-|||1
+A 10 11|||G/Case|||плани|||REQUIRED|||-NONE-|||1
+A 6 7|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+A 7 8|||G/UngrammaticalStructure|||втілити|||REQUIRED|||-NONE-|||2
+A 8 9|||G/Case|||усі|||REQUIRED|||-NONE-|||2
+A 9 10|||G/Case|||свої|||REQUIRED|||-NONE-|||2
+A 10 11|||G/Case|||плани|||REQUIRED|||-NONE-|||2
+
+S Переді мною часто постає питання : " що саме є причиною моєї періодичної пасивності у житті ? " .
+A 7 8|||Spelling|||Що|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||Що|||REQUIRED|||-NONE-|||2
+A 18 19|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Це страх невдачі або ж просто лінь ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Кажуть , що лінь - це і є страх .
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Мені хочеться змінити в першу чергу себе : не боятися проявляти ініціативу , не уникати тяжкої інтелектуальної праці , яка , хоч і не завжди цікава та захоплива , але завжди корисна та результативна .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Я хочу навчитися знаходити в собі сили на невпинне освоєння нових знань та навичок , не боятися провалу чи критики .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Впевнена , що своє життя треба починати змінювати зі свої переконань , шляху мислення .
+A 9 10|||G/Case|||своїх|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S І тоді відпаде необхідність в бажанні щось собі доводити чи іншим .
+A 4 5|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

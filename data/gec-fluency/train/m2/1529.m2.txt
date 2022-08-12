@@ -1,0 +1,63 @@
+S " Суді , я була поганою дівчинкою , " сказала Джонсі .
+A 1 2|||Spelling|||Сьюді|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Щось змусило той останній листочок ще висіти , щоб показати мені наскільки поганою я була .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Це гріх хотіти померти .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ти можеш принести мені трішки бульйону та молока з протвейном .
+A 9 10|||Spelling|||портвейном|||REQUIRED|||-NONE-|||1
+
+S А ні , принеси мені спочатку дзеркальце та постав ще подушки мені під спину , я сидітиму і дивитимуся як ти готуєш . "
+A 19 19|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 22 23|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 24 24|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Годиною пізніше вона сказала :
+A 0 2|||F/PoorFlow|||За годину|||REQUIRED|||-NONE-|||1
+
+S " Суді , я сподіваюся , що колись зможу намалювати Неаполітанський залив . "
+A 1 2|||Spelling|||Сьюді|||REQUIRED|||-NONE-|||1
+A 10 11|||G/Gender|||Неаполітанську|||REQUIRED|||-NONE-|||1
+A 11 13|||F/Calque|||затоку|||REQUIRED|||-NONE-|||1
+
+S Лікар приходив в обід і Сью мала нагоду вийти в коридор коли він йшов .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||ішов|||REQUIRED|||-NONE-|||1
+
+S " Рівні шанси , " сказав лікар , беручи в свої долоні худу та тримтячу руку Сью .
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||тремтячу|||REQUIRED|||-NONE-|||1
+
+S " З хорошим доглядом ти переможеш . "
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S А зараз мені треба йти вниз до іншого пацієнта .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Його звати Берман , я думаю він -- художник .
+A 4 6|||F/Style|||здається ,|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S у нього теж пневмонія .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він є старим , слабким чоловіком , і хвороба протікає в нього важко .
+A 1 2|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Case|||старий|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Case|||слабкий|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Case|||чоловік|||REQUIRED|||-NONE-|||1
+
+S Я думаю у нього немає шансів , та ми госпіталізуємо його сьогодні , щоб йому було комфортніше .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S "
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+

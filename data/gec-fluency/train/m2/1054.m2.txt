@@ -1,0 +1,22 @@
+S Насправді , гріхів вистачає скрізь .
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Наприклад в Java , через примітивність мови , було багато копіпасти .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S З цим почали боротись .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S В книгах стали описувати найнеобхідніші патерни , а потім додали ті ж лямбди .
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
+A 1 2|||F/Style|||книжках|||REQUIRED|||-NONE-|||1
+
+S Вже хоч щось .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S А в Делфі / Лазарусі склалося так , як склалося .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

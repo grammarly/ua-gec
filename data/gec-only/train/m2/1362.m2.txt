@@ -1,0 +1,54 @@
+S " Це твоя гра " , відповів я , терпеливо , перебираючи пальцями мої подвійні шістки .
+A 6 6|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S " Двадцять " , сказав Гудло , роблячи два хрести на столі своєю крейдою .
+A 4 4|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S " Чому я дурний " .
+A 4 5|||Punctuation|||?|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S Я запитав .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Схований скарб був знайдений у багатьох місцях . "
+A 0 1|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Тому що " , сказав Він , " у розрахунку точки на річці де твоя лінія могла б нехтувати Вашою похибкою , щоб дозволити відхилення .
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||він|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Відхилення тут буде дев'яносто градусів на захід .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Дозвольте Ваш олівець . "
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Банк Гудло явно виднівся на задній частині конверта .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Відстань , від півночі до півдня , на лінії пробігу від іспанської місії " , Він сказав , " є точно двадцять дві милі .
+A 14 15|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 19 20|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S Це був пробіг за кишеньковим компасом , відповідно до Вашої історії .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Дозволяючи відхилення , точка на річці Аламіто де Вам необхідно було
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S шукати скарб є точно шість миль і дев'ятсот сорок п'ять кроків на захід від місця де ви вдарили .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S О , який же Ви є дурень , Джиме ! "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

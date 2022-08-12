@@ -1,0 +1,52 @@
+S Через годину вона сказала " Сюді , я сподіваюсь одного дня намалювати Неаполітанський залив " .
+A 4 4|||Punctuation|||:|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||Сьюді|||REQUIRED|||-NONE-|||1
+A 12 13|||G/Gender|||Неаполітанську|||REQUIRED|||-NONE-|||1
+A 13 14|||F/Calque|||затоку|||REQUIRED|||-NONE-|||1
+
+S Врач прийов по обіді , і Сью мала привід піти в коридор , коли він пішов .
+A 0 1|||F/Calque|||Лікар|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||прийшов|||REQUIRED|||-NONE-|||1
+A 15 16|||G/Aspect|||ішов|||REQUIRED|||-NONE-|||1
+
+S " Є шанси " , сказав врач , тиснучи її худу руку .
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Calque|||лікар|||REQUIRED|||-NONE-|||1
+A 10 11|||F/Style|||худорляву|||REQUIRED|||-NONE-|||1
+
+S " З лікуванням все буде добре " .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S І зараз я маю розглянути інший випадок , мені потрібно вниз .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Його звати Берман , він якийсь художник , мені здається .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Теж пневмонія .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він старий слабий чоловік , випадок серйозний .
+A 2 3|||F/Style|||слабкий|||REQUIRED|||-NONE-|||1
+
+S У нього немає шансів але він приходить в лікарню кожного дня , щоб йому стало легше . "
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 11|||F/PoorFlow|||ми сьогодні забираємо його в лікарню|||REQUIRED|||-NONE-|||1
+A 14 15|||F/Style|||було|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 18 18|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Наступного дня врач сказав Сью : " Ти в безпеці .
+A 2 3|||F/Calque|||лікар|||REQUIRED|||-NONE-|||1
+
+S Ти одужала .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Харчування і лікування - це все , що потрібно . "
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

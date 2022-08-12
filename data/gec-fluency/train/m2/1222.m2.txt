@@ -1,0 +1,65 @@
+S " Вy-ху " - кажу я .
+A 2 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я повернусь об одинадцятій завтра .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Коли він прокинеться дайте йому 8 крапель живиці і 3 фунти м'яса .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Доброго ранку .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Наступного ранку я повернувся вчасно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Що ж Містер Рідлл , - сказав я , коли він відчиняв двері спальні , ' і як мій дядько почувається цього ранку "
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Case|||містере|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Case|||Рідле|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 24 24|||Punctuation|||?|||REQUIRED|||-NONE-|||1
+
+S " Він почувається набагато краще ' , каже молодий чоловік
+A 1 1|||F/PoorFlow|||Йому вже набагато краще|||REQUIRED|||-NONE-|||1
+A 1 3|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 6|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Колір і пульс були в порядку .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я дав йому ще одне лікування , і він сказав , що більшість болю його залишила .
+A 4 5|||G/Number|||одні|||REQUIRED|||-NONE-|||1
+A 5 6|||F/PoorFlow|||ліки|||REQUIRED|||-NONE-|||1
+A 12 16|||F/PoorFlow|||біль послабшав|||REQUIRED|||-NONE-|||1
+
+S Наразі , ' кажу я , ' вам краще залишитися в ліжку на два три дні , і з вами все буде гаразд .
+A 0 0|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 15|||Spelling|||два-три|||REQUIRED|||-NONE-|||1
+
+S Добре , що я опинився у Фішер Хілл , містере Мейор - кажу я , 'будь-які методи та засоби лікування проти рогу достатку , які використовують звичайні школи медицини не змогли б вас врятувати .
+A 6 8|||Spelling|||Фішер-Гіл|||REQUIRED|||-NONE-|||1
+A 10 11|||F/Other|||мер|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+A 29 29|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S І ось ця проблема минула , і біль виявився лась лжесвідком , давайте переключимось на приємне - скажімо , плата в розмірі 250 доларів .
+A 8 9|||F/Style|||ущух|||REQUIRED|||-NONE-|||1
+A 9 11|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 13|||G/VerbAForm|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 14|||G/VerbAForm|||переключімось|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Без чеків , будь ласка , я ненавиджу коли моє ім'я пишуть на зворотній стороні чеку майже так само як і з передньої сторони .
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 13 14|||F/PoorFlow|||звороті|||REQUIRED|||-NONE-|||1
+A 14 15|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 19 19|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 21 24|||F/PoorFlow|||на лицевому боці|||REQUIRED|||-NONE-|||1
+

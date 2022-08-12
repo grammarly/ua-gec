@@ -1,0 +1,41 @@
+S “ Якби я знайшла триста тисяч доларів »
+A 3 4|||G/Gender|||знайшов|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+
+S Сказала я йому , « я би облетіла всю землю , щоб знайти Марту Мангум » .
+A 0 1|||G/Gender|||сказав|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 8|||F/PoorFlow|||облетів би|||REQUIRED|||-NONE-|||1
+
+S « вона означає щось величне » , сказав Годло .
+A 1 2|||Spelling|||Вона|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S « Я знайду її сам .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Але скажи мені як ти дізнався про місце де ... »
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Я сказала йому в найменших деталях .
+A 1 2|||G/Gender|||сказав|||REQUIRED|||-NONE-|||1
+
+S Я показала йому малюнок з чіткими дистанціями .
+A 1 2|||G/Gender|||показав|||REQUIRED|||-NONE-|||1
+
+S Після майстерного огляду він вернувся в своє крісло і гучно засміявся
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S « Ітак , ти дурень , Джим » він сказав , коли зміг .
+A 1 2|||F/Calque|||Отже|||REQUIRED|||-NONE-|||1
+A 6 7|||G/Case|||Джиме|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+A 8 9|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 10|||F/PoorFlow|||він|||REQUIRED|||-NONE-|||1
+
+S « Це твоя гра » , відповіла я , терпляче , тримаючи мою подвійну шістку .
+A 6 7|||G/Gender|||відповів|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+

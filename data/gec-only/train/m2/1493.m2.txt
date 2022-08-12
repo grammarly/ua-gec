@@ -1,0 +1,53 @@
+S « Ага ! . . » - сказав собі Поплавський , - але хто - небудь же є в правлінні ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Я , - слабким голосом відгукнувся чоловік .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Бачте , - переконливо заговорив Поплавський , - я є єдиним спадкоємцем покійного Берліоза , мого племінника , який загинув , як відомо , на Патріарших , і я зобов'язаний , відповідно до закону , прийняти спадщину , що полягає в нашій квартирі номер п'ятдесят ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Чи не в курсі я , товариш , - тоскно перебив чоловік .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||G/Case|||товаришу|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Але , дозвольте , - звучним голосом сказав Поплавський , - ви член правління і зобов'язані ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S І тут до кімнати зайшов якийсь громадянин .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Побачивши увійшов сидить за столом зблід .
+A 1 2|||G/UngrammaticalStructure|||його, той, що|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Tense|||сидів|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S - Член правління Пятнажко ? - запитав у сидячого увійшов .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||G/UngrammaticalStructure|||прибулий|||REQUIRED|||-NONE-|||1
+
+S - Я , - ледь чутно відповів той .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Увійшовши щось прошепотів сидить , і той , абсолютно засмучений , піднявся зі стільця , і через кілька секунд Поплавський залишився один в порожній кімнаті правління .
+A 0 1|||G/UngrammaticalStructure|||Той , що увійшов ,|||REQUIRED|||-NONE-|||1
+A 3 4|||G/UngrammaticalStructure|||сидячому|||REQUIRED|||-NONE-|||1
+A 22 23|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S « Ех , яке ускладнення !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S І потрібно ж було , щоб їх всіх відразу ... » - з досадою думав Поплавський , перетинаючи асфальтовий двір і поспішаючи в квартиру N 50 .
+A 11 12|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+

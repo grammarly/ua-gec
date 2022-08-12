@@ -1,0 +1,30 @@
+S Тут Lisp-ові системи завезли .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Бажаючі можуть потикати у віртуалці .
+A 0 1|||G/PartVoice|||Охочі|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||потицяти|||REQUIRED|||-NONE-|||1
+
+S Оригінальну Genera і новеньку Mezzano .
+A 1 1|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S Приклад того , що робилося на Genera видно у роліку .
+A 6 6|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||" ,|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||ролику|||REQUIRED|||-NONE-|||1
+
+S Це 80-90-ті .
+A 1 2|||Punctuation|||80 — ті90-ті|||REQUIRED|||-NONE-|||1
+
+S Mezzano можна потикати і на реальному залізові .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Можна поDOOM - ати або поQUAKE - ти .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Всі посилання в коментах .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

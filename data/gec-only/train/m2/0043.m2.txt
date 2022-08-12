@@ -1,0 +1,24 @@
+S Купила V60 ( просто в Сільпо у кавовому відділі - зрештою , немає різниці де ) - це чайничок і воронка , в яку вставляється фільтр ( їх теж треба купити ) .
+A 5 5|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Купую арабіку грубого помелу - зазвичай просто кажу - мені " на фільтр " і продавці знають , як треба помолоти .
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Заварюю за схожою інструкцією , як у статті - займає кілька хвилин .
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Головне - температура води ( не окріп ) - Уу мене є градусник на чайнику , але можна просто після кипіння трішки зачекати .
+A 1 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||У|||REQUIRED|||-NONE-|||1
+
+S Ну і мій аматорський фільтр готовий )))
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

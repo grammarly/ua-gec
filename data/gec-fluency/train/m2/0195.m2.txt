@@ -1,0 +1,37 @@
+S Хто гірший для втрати таких речей як ось ці ?
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Гадаю , не померлий . " " Ні , таки точно " , - сказала Місіс Ділбер , сміючись .
+A 4 6|||Punctuation|||".|||REQUIRED|||-NONE-|||1
+A 7 12|||F/PoorFlow|||Точно ні|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||місіс|||REQUIRED|||-NONE-|||1
+
+S " Якщо він хотів залишити їх собі по смерті , старий поганець , " - продовжувала жінка - " чому він не був собою за життя ?
+A 13 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 17 19|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Якби він був , хтось би доглянув його , коли він зустрів Смерть , замість того , щоб задихаючись промовляти свої останні слова на самоті " .
+A 18 18|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 19 19|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S " Найсправдешніша правда , " - сказала Місіс Ділбер .
+A 1 2|||F/Style|||Щирісінька|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||місіс|||REQUIRED|||-NONE-|||1
+
+S " Це його кара " .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Якби ж то вона була суворіша , " відповіла жінка ; " і мала ж би бути , будь певна , якби ж я змогла докласти рук до чогось іншого .
+A 3 4|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 13|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+
+S Розкрий вузлик , старий Джо , і дай оцінити його .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Говори прямо .
+A 2 2|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,63 @@
+S - Покликати портье , нехай Петро Олександрович виведе її
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||портьє|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S - Ні , ні ! - злякався Кістунов . - вона крику здійме , а в цьому домі багато квартир , а про нас бой зна що подумають .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 6|||Punctuation|||! —|||REQUIRED|||-NONE-|||1
+A 8 10|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||Вона|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Case|||крик|||REQUIRED|||-NONE-|||1
+A 24 27|||Spelling|||бозна-що|||REQUIRED|||-NONE-|||1
+
+S Ну ви , дорогенький , Як - небудь намагайтесь пояснити їй .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||як|||REQUIRED|||-NONE-|||1
+
+S Через хвилину знов почулось мугикання Олексія Миколайовича .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Пройшла чверть години , а на заміну його басу задзинчав сипий тенерок бухгалтера .
+A 10 11|||Spelling|||сиплий|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||тенорок|||REQUIRED|||-NONE-|||1
+
+S - Чудово , підступна ! - обурився Кістунов , нервово дригаючи плечами .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Дурненька наче сідий мерин , дідько її б побрав .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Здається в мене знов подагра розігралась .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S Знов мігрень .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S В сусідній кімнаті знесилений Олексій Миколайович нарешті постукав пальцем по столу потім собі по лобі .
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S - Одним словом у вас на плечах не голова , - сказав він , - а ось що
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ну нічого нічого , образилась стара .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Своїй жінці постукай .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Скважина .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Не дуже то рукам волю давай
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

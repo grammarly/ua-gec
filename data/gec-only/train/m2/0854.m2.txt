@@ -1,0 +1,48 @@
+S " Сьюді , я вірю , що колись намалюю Наполеонівську затоку . "
+A 11 12|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Доктор вернувся після обіду , і Сью вийшла в коридор .
+A 1 2|||G/Aspect|||повернувся|||REQUIRED|||-NONE-|||1
+
+S " Є шанси , - сказав доктор , стискаючи худу руку Сью . - з хорошим харчуванням ти переможеш .
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S А зараз я маю маю побачити іншого пацієнта .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Його ім'я Берман , я думаю він художник .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Пневмонія .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він старий і слабкий чоловік та й випадок тяжкий .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я не вірю в нього , але сьогодні він переїжджає в лікарню для більшої зручності .
+A 15 15|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S " На наступний день доктор сказав Сью : " вВона поза небезпекою .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||"Вона|||REQUIRED|||-NONE-|||1
+
+S Ти перемогла .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Хороше харчування і догляд - ось і все . "
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Після обіду Сью повернулася до ліжка де лежала Джонсі , і в'язав дуже вовняний , синій шашлик .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 8 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 12 14|||G/Gender|||в'язала|||REQUIRED|||-NONE-|||1
+A 13 14|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S І обійняла її рукою і подушки .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

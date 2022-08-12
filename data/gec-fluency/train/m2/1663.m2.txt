@@ -1,0 +1,59 @@
+S Ось в цьому лісочку , що за балкою , сталась , пане , історія .
+A 1 2|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S МІй покійний татечко , цартсво їм небесне , везли до пана п'ятсот цілковитих грошей ; тоді наші і шепелівські чоловіки знімали у пана в оренду землю , так татечко везли гроші за пів року .
+A 2 3|||Spelling|||таточко|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||царство|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Number|||йому|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Number|||віз|||REQUIRED|||-NONE-|||1
+A 11 11|||F/PoorFlow|||цілих|||REQUIRED|||-NONE-|||1
+A 12 14|||F/PoorFlow|||рублів|||REQUIRED|||-NONE-|||1
+A 28 29|||Spelling|||таточко|||REQUIRED|||-NONE-|||1
+A 29 30|||G/Number|||віз|||REQUIRED|||-NONE-|||1
+
+S Людина вони були богобоязливий , письмо читали , и щоб прорахувати кого або образити чи скажем .... обжулити - це не дай бог і чоловіки їх дуже обожнювали , і коли потрібно було кого в місто послати - по керівництву , або з грішми , то їх посилали .
+A 0 1|||F/Style|||Чоловік|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Number|||він|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Number|||був|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||Письмо|||REQUIRED|||-NONE-|||1
+A 6 7|||G/Number|||читав|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||і|||REQUIRED|||-NONE-|||1
+A 10 11|||F/Style|||обрахувати|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 15 16|||G/Other|||скажімо|||REQUIRED|||-NONE-|||1
+A 17 18|||F/Style|||обдурити|||REQUIRED|||-NONE-|||1
+A 23 23|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 25 26|||G/Number|||його|||REQUIRED|||-NONE-|||1
+A 26 27|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 37 38|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 46 47|||G/Gender|||його|||REQUIRED|||-NONE-|||1
+
+S Були вони віиділяює зі звичного , але не в обіду сказати , сиділа в них малодушевна фантазія .
+A 0 5|||G/UngrammaticalStructure|||Виділявся він серед звичних|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||F/Calque|||образу|||REQUIRED|||-NONE-|||1
+A 14 15|||G/Number|||ньому|||REQUIRED|||-NONE-|||1
+A 15 16|||F/Style|||малодушна|||REQUIRED|||-NONE-|||1
+
+S Любили вони муху пришибити .
+A 0 1|||G/Number|||Любив|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Number|||він|||REQUIRED|||-NONE-|||1
+
+S Бувало , попри кабак апроїхати нема змоги : зайдуть , вип'юь стаканчик - і забери ти моє горе !
+A 3 4|||F/Calque|||шинок|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||проїхати|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Number|||зайде|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||вип'є|||REQUIRED|||-NONE-|||1
+A 11 12|||F/Style|||чарчину|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Знали вони за свою цю слабкість і , коли громадські гроші возили , то , щоб не заснути або раптом не упустити , завчасно брали з собою мене і сестричку Анютку
+A 0 1|||G/Number|||Знав|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Number|||він|||REQUIRED|||-NONE-|||1
+A 2 4|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||F/PoorFlow|||свою|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Number|||віз|||REQUIRED|||-NONE-|||1
+A 24 25|||G/Number|||брав|||REQUIRED|||-NONE-|||1
+A 25 26|||Spelling|||зі|||REQUIRED|||-NONE-|||1
+A 31 31|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

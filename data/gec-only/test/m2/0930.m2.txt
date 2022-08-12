@@ -1,0 +1,25 @@
+S 33 Інтервью ( або скоріше нарисів про зустічі ) з діячами сучасного концепутального мистецтва .
+A 1 2|||Spelling|||Інтерв'ю|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||зустрічі|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||концептуального|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||інтерв’ю|||REQUIRED|||-NONE-|||2
+A 5 6|||G/Case|||нариси|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||)|||REQUIRED|||-NONE-|||2
+A 7 9|||Spelling|||зустрічі|||REQUIRED|||-NONE-|||2
+A 12 13|||Spelling|||концептуального|||REQUIRED|||-NONE-|||2
+
+S Tакий собі , зріз галузевої реальності .
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Такий|||REQUIRED|||-NONE-|||2
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Уся книга - ніби іллюстрація до цитати з Грейсон Перрі " Не бійтесь галерей " з наступного допису ( див . www.book.ua/review/4063 )
+A 2 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||ілюстрація|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 4 5|||Spelling|||ілюстрація|||REQUIRED|||-NONE-|||2
+A 8 9|||Spelling|||Ґрейсон|||REQUIRED|||-NONE-|||2
+A 23 23|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+

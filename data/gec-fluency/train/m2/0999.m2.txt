@@ -1,0 +1,63 @@
+S До вашої уваги автомобіль Шкода Октавія .
+A 4 6|||Punctuation|||"Шкода Октавія"|||REQUIRED|||-NONE-|||1
+
+S Тип кузова - хєтчбек , рік випуску - 1996 .
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||хетчбек|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Пробіг абсолютно рідний , ніхто , нікуди не лазив - 172000 км .
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Фото додати не можу ( не той формат ) - він мокрий асфальт .
+A 9 11|||Punctuation|||— колір "|||REQUIRED|||-NONE-|||1
+A 13 13|||F/PoorFlow|||"|||REQUIRED|||-NONE-|||1
+
+S Автівка облаштована цільносплавними титановими дисками .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Клімат контроль , система абс , дискові гальма , потужна аудіосистема та запасна зимова гума - цього всього немає .
+A 1 1|||Spelling|||-|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||ABS|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Тонування вікон , тонування задніх ліхтарів , агресивне антикрило та наліпка у виді рибалки - це все є .
+A 12 13|||F/Calque|||вигляді|||REQUIRED|||-NONE-|||1
+A 13 14|||F/Style|||риболовлі|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Вона трошки бита , але це якщо чесно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Стояла здебілше на відкритому повітрі ( інколи в гаражі на дачі ) .
+A 1 2|||Spelling|||здебільшого|||REQUIRED|||-NONE-|||1
+A 2 5|||F/Collocation|||просто неба|||REQUIRED|||-NONE-|||1
+
+S Трохи їсть масло , але це також нормально для її віку .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Якщо я би їі купував , то одразу ж міняв би трансміссію - свистить як хвора .
+A 2 3|||Spelling|||б|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||її|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||трансмісію|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Це знову ж таки - якщо чесно .
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Можемо торгуватись , трохи шось скину , але хочу 2500 долларів .
+A 4 5|||Spelling|||щось|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||доларів|||REQUIRED|||-NONE-|||1
+
+S Подивитись її можна у Черкасах , по вул Олішера Навої , 26 . гаражний кооператив " Свіблово " , 16-й бокс .
+A 6 7|||G/Prep|||на|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Можемо поїхати на вказане вами сто на огляд .
+A 3 4|||G/Gender|||вказану|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||СТО|||REQUIRED|||-NONE-|||1
+A 6 8|||G/Prep|||для огляду|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,80 @@
+S Взагалі складно виділити щось одне , оскільки маю чимало страв , які подобаються , і взагалі не дуже вибагливий у їжі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||F/Style|||У цілому|||REQUIRED|||-NONE-|||2
+A 16 16|||G/UngrammaticalStructure|||я|||REQUIRED|||-NONE-|||2
+A 19 20|||G/Prep|||до|||REQUIRED|||-NONE-|||2
+
+S Але можу виділити одну з найбільш простих , смачних , і ситних страв .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Вцьому сенсі моя улюблена страва - це картопля з відбивними .
+A 0 1|||Spelling|||У цьому|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||У цьому|||REQUIRED|||-NONE-|||2
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Як правило під картоплею варто розуміти картопляне пюре .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S От серйозно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Інгредієнтів там небагато : картопля , вода , можливо масло ( за бажанням ) , м'ясо , яйця і приправи для м'яса .
+A 0 1|||F/Style|||Складників|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Готується така страва не більше години .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ну це якщо не надто багато смажити відбивних .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Загалом я можу її приготувати і сам , але звичайно краще за мене це робить моя мама .
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Тому насолодитись таким обідом я можу вдома , але не тільки там .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Її також добре роблять в одній з популярних в Україні мережі закладів харчування .
+A 6 7|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||G/Number|||популярній|||REQUIRED|||-NONE-|||1
+A 3 4|||F/Style|||готують|||REQUIRED|||-NONE-|||2
+A 6 7|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 10 11|||G/Number|||мереж|||REQUIRED|||-NONE-|||2
+
+S Там вона є досить дешевою , хоч від того і не менш ситною .
+A 3 4|||F/Style|||доволі|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||хоча|||REQUIRED|||-NONE-|||1
+A 3 4|||F/Style|||доволі|||REQUIRED|||-NONE-|||2
+
+S До неї також можна взяти молоко чи кефір .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 2|||F/Repetition|||страви|||REQUIRED|||-NONE-|||2
+
+S Смакує вона і з овочами : помідорами , огірками .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Хтось навіть додає сало з цибулею та часником .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Не знаю чому я обрав саме цю справу , мабуть через спогади з дитинства , але впевнений , що познайомлю своїх дітей з рецептом цієї простої і смачної страви .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 22 23|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 23 23|||F/PoorFlow|||її|||REQUIRED|||-NONE-|||1
+A 24 29|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 22 29|||F/PoorFlow|||із таким простим і смачним рецептом|||REQUIRED|||-NONE-|||2
+

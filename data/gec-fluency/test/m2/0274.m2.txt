@@ -1,0 +1,68 @@
+S Друге , що дивує , після мови – доброзичливість місцевих .
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Після кримського узбережжя як правило готуєшся до гіршого , а тут все підказують , завертають , коли не правильно йдеш , усім автобусом відповідають , що « На Ужгород » наступний йтиме .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+A 18 19|||F/Style|||туди|||REQUIRED|||-NONE-|||1
+A 31 32|||Spelling|||ітиме|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 27 28|||Spelling|||на|||REQUIRED|||-NONE-|||2
+A 31 32|||Spelling|||ітиме|||REQUIRED|||-NONE-|||2
+
+S І звичайно ж , коли справляєшся з лінгвістичним шоком і культурною толерантністю аборигенів , починаєш кайфувати від побаченого .
+A 5 9|||F/PoorFlow|||відходиш від лінгвістичного шоку|||REQUIRED|||-NONE-|||1
+A 10 11|||G/Case|||культурної|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Case|||толерантності|||REQUIRED|||-NONE-|||1
+A 5 6|||F/Calque|||впораєшся|||REQUIRED|||-NONE-|||2
+
+S А оку тут є за що зачепитися .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Як не за вершечки вже не дуже високих гір , то за архітектуру Ужгорода чи Мукачевого , у яких час , здається , зупинився , і про сучасність нагадують хіба магазини сучасних брендів .
+A 31 32|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+A 15 16|||G/Case|||Мукачева|||REQUIRED|||-NONE-|||2
+
+S Мукачеве вигідно вирізняється на фоні Ужгорода , як зовнішнім виглядом і атмосферою міста , яку важко предати словами .
+A 4 5|||F/Calque|||тлі|||REQUIRED|||-NONE-|||1
+A 6 8|||G/Conjunction|||і|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 16 17|||Spelling|||передати|||REQUIRED|||-NONE-|||1
+A 1 2|||F/Style|||приємно|||REQUIRED|||-NONE-|||2
+A 4 5|||F/Calque|||тлі|||REQUIRED|||-NONE-|||2
+A 6 8|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+A 16 17|||Spelling|||передати|||REQUIRED|||-NONE-|||2
+
+S Воно компактніше , тихіше , і нагадує угорські містечка ( і не дивно , замок то угорці побудували .
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 15 16|||F/Style|||же ж|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Досі їздять сюди , пишатися своїми ) .
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Після шостої з вулиць зникають не лише люди , а й машини .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Тихо навіть біля вокзалу .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Казка .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Чого ще хотіти від міста ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Червоний захід над Мукачівським замком , випадково підглянутий із залізничного мосту , ще більше переконує в тому , що у це місто потрібно повернутися …
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

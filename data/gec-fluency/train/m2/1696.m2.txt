@@ -1,0 +1,54 @@
+S " Гаразд , лікарю , " - сказав Лицар , не стримуючи нотки тріумфу в його голосі , - " ви бачили ? "
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 15 16|||F/Other|||своєму|||REQUIRED|||-NONE-|||1
+A 18 20|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Це неймовірно - - неймовірно " - я не міг перестати викрикувати поки наше таксі починало поїздку назад .
+A 3 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 8|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 17 19|||F/PoorFlow|||повертатися|||REQUIRED|||-NONE-|||1
+
+S " Але як ви це зробили ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Яким процесом індукції ?"
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Мій дорогий докторе , " - перебив великий вбивця , - " теорія індукції - це те чим користуються детективи " .
+A 3 4|||F/Calque|||лікарю|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||убивця|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 18 18|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 21 22|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Мій процес мислення більш сучасний .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я називаю це салтаронською теорією .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я відразу переходжу до висновку , не турбуючи себе нудним ментальним феноменом , потрібним для розв'язку загадки з мінімальними підказками .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я поясню тобі використаний в цій справі метод .
+A 4 5|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S " Перш за все , я аргументував , що злочинець ніколи не буде знайдений , оскільки злочин був вчинений вдень в Нью Йорку за дивно жахливих рьсиавин , і навіть найкращий слідчий не мав жодної здогадки .
+A 1 5|||F/PoorFlow|||Передусім|||REQUIRED|||-NONE-|||1
+A 17 19|||F/PoorFlow|||скоїли|||REQUIRED|||-NONE-|||1
+A 20 21|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 21 23|||Spelling|||Нью-Йорку|||REQUIRED|||-NONE-|||1
+A 24 25|||G/UngrammaticalStructure|||дивних і|||REQUIRED|||-NONE-|||1
+A 26 27|||Spelling|||обставин|||REQUIRED|||-NONE-|||1
+
+S Думаєте моя думка виправдана ситуацією ?"
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+

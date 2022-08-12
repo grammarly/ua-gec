@@ -1,0 +1,79 @@
+S Вони сиділи на пляжі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він і вона .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Їхнє волосся зовсім побіліло чи то від сонця чи таки від часу чи від всього разом .
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||усього|||REQUIRED|||-NONE-|||1
+
+S Він бігав купатися , то пірнав , то випливав .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Потім ніжився на призахідному сонці біля неї .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Вона ж вкуталась покривалом , що не закривало хіба лише руки .
+A 2 3|||Spelling|||укуталась|||REQUIRED|||-NONE-|||1
+
+S І обличчя .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Плетиво часу лежало на тому обличчі цупкою вуаллю .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Вона соромливо всміхалась .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Йому .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Пішли купатися , - так юно , по-хлопчачому підморгнув він .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Та я .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я просто тут посиджу , - вона втиснулась в покривало ще більше .
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S - Чого ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Пішли , вода ж тепла , - він всміхався поораним зморшками обличчя .
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||усміхався|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Case|||обличчям|||REQUIRED|||-NONE-|||1
+
+S - Вірю , - сказала вона , - я просто ... стара для такого дуже , - вона опустила очі .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - І я старий , але поки з тобою , я молодший від всіх на світі .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||усіх|||REQUIRED|||-NONE-|||1
+
+S І ти молода .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Хай навіть тільки для мене .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Вона таки пішла купатись .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Вже потім , з ним за руку .
+A 0 1|||Spelling|||Уже|||REQUIRED|||-NONE-|||1
+
+S І молодшої пари я там не бачила .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Хай навіть їм і глибоко за
+A 6 6|||Punctuation|||...|||REQUIRED|||-NONE-|||1
+

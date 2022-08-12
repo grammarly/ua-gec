@@ -1,0 +1,55 @@
+S Всі , в тому числі і смішний підстрибуючий хлопець , потягнулись до віконечка .
+A 2 5|||F/PoorFlow|||зокрема|||REQUIRED|||-NONE-|||1
+A 7 9|||G/UngrammaticalStructure|||хлопець, який підстрибував|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Усі|||REQUIRED|||-NONE-|||2
+A 7 9|||G/UngrammaticalStructure|||хлопець , що підстрибував|||REQUIRED|||-NONE-|||2
+
+S У кожного фельдшер запитував ім'я та по-батькові , літа , місце проживання , чи давно хворіє і таке інше .
+A 6 7|||Spelling|||по батькові|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||по батькові|||REQUIRED|||-NONE-|||2
+A 8 9|||F/Style|||вік|||REQUIRED|||-NONE-|||2
+
+S З відповідей своєї матері Пашко дізнався , що звати його не Пашком , а Павлом Галактіоновим , що йому сім років , що він неграмотний і хворий від самого Великодня .
+A 26 27|||F/PoorFlow|||хворіє|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Із|||REQUIRED|||-NONE-|||2
+
+S Незабаром після запису треба було ненадовго піднятись ; через приймальню пройшов лікар у білому фартуці та підпоясаний рушником .
+A 14 15|||Spelling|||фартусі|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 14 15|||Spelling|||фартусі|||REQUIRED|||-NONE-|||2
+A 16 17|||F/Calque|||підперезаний|||REQUIRED|||-NONE-|||2
+
+S Проходячи повз підстрибуючого хлопця , він потиснув плечима і сказав співочим тенором :
+A 2 4|||G/UngrammaticalStructure|||хлопця , що підстрибував|||REQUIRED|||-NONE-|||1
+A 2 4|||G/UngrammaticalStructure|||хлопця - стрибунця|||REQUIRED|||-NONE-|||2
+A 6 7|||F/Style|||стиснув|||REQUIRED|||-NONE-|||2
+
+S - Але і дурень !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 2 3|||Spelling|||й|||REQUIRED|||-NONE-|||2
+
+S Що ж , хіба не дурень ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Я говорив тобі прийти в понеділок , а ти приходиш в п'ятницю .
+A 1 2|||F/Style|||казав|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||у|||REQUIRED|||-NONE-|||2
+
+S Як на мене , то хоч зовсім не ходи , але дурню ти такий , нога пропаде !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Хлопець зробив таке жаліслине обличчя , наче збирався просити милостиню , заблимав і сказав :
+A 3 4|||Spelling|||жалісливе|||REQUIRED|||-NONE-|||1
+A 11 12|||F/Style|||закліпав|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||жалісне|||REQUIRED|||-NONE-|||2
+
+S - Зробіть таку милість , Іване Миколаїчу !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Style|||Миколайовичу|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 6 7|||Spelling|||Миколайовичу|||REQUIRED|||-NONE-|||2
+

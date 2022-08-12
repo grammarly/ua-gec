@@ -1,0 +1,53 @@
+S Але Лі і я встановили палатку .
+A 5 6|||F/Calque|||намет|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||та|||REQUIRED|||-NONE-|||2
+A 4 5|||F/Style|||розклали|||REQUIRED|||-NONE-|||2
+A 5 6|||F/Calque|||намет|||REQUIRED|||-NONE-|||2
+
+S Через річку було видно з десяток маленьких гір густо вкритих кедрами , але жоден з них не був у форму сідла .
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 13 14|||G/Gender|||жодна|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 17 19|||F/PoorFlow|||мала|||REQUIRED|||-NONE-|||1
+A 19 20|||G/Case|||форми|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 13 14|||G/Gender|||жодна|||REQUIRED|||-NONE-|||2
+A 14 15|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 17 19|||F/PoorFlow|||мала|||REQUIRED|||-NONE-|||2
+A 19 20|||G/Case|||форми|||REQUIRED|||-NONE-|||2
+
+S Це нам не завадило .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Видимість оманлива .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Форма сідла , як і краса , можливо існує тільки в очах спростерігача .
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||спостерігача|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 12 13|||Spelling|||спостерігача|||REQUIRED|||-NONE-|||2
+
+S Я та онук скарбу обшукали цей покритий кедрами схил з такою прискіпливістю , з якою панянка шукає в себе блоху .
+A 3 3|||G/UngrammaticalStructure|||власника|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Style|||вкритий|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ми дослідили кожен схил , вершину , окружність , впадину , кут , укіс , і заглибину на кожному з них дві милі вгору і вниз попри річку .
+A 14 15|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||F/Style|||западину|||REQUIRED|||-NONE-|||2
+A 14 15|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 26 28|||F/Style|||уздовж річки|||REQUIRED|||-NONE-|||2
+
+S Ми провели чотири дні роблячи це .
+A 0 6|||F/PoorFlow|||Нам це зайняло чотири дні|||REQUIRED|||-NONE-|||1
+A 0 6|||F/PoorFlow|||У такій роботі ми провели чотири дні|||REQUIRED|||-NONE-|||2
+
+S Після цього ми запрягли гнідого та саврасого , і повезли остатки кави і бекону сто сорок миль назад до Кончо - Сіті .
+A 10 11|||F/Calque|||залишки|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 10 11|||F/Calque|||залишки|||REQUIRED|||-NONE-|||2
+

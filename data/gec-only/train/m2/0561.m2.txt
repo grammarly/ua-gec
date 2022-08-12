@@ -1,0 +1,57 @@
+S " Зараз " , кажу я " запалення минає .
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Права доля пригеліону зменшилась .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ви стаєте сонним .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ви більше не можете тримати ваші очі відкритими .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S На даний момент хвороба під контролем .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Зараз ви уві сні .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Мер повільно закрив свої очі та почав хропіти
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S " Ви бачите , містере Тідл " , кажу я , " дива сучасної науки "
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 16|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Бідл " , каже він , " Коли ви дасте дядькові решту лікування , докторе Пух-пух ? "
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Ваф-ху " , кажу я . " Я повернусь завтра в одинадцять .
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Prep|||об|||REQUIRED|||-NONE-|||1
+A 12 13|||G/Case|||одинадцятій|||REQUIRED|||-NONE-|||1
+
+S Коли він прокинеться дайте йому вісім крапель турпентину та три фунти стейку .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Доброго ранку . "
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Наступного ранку я прийшов у визначений час .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S " Добре , містере Рідл " сказав я , коли він відкрив двері спальні , " як там дядько цього ранку ? "
+A 5 6|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

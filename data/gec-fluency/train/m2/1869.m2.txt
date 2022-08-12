@@ -1,0 +1,63 @@
+S " Іди сюди " , - сказав він , підносячи папір до сонячного світла .
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S " Подивіться на це ; він сказав , кок лаври на нього палець .
+A 0 1|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 8 10|||G/UngrammaticalStructure|||поклавши|||REQUIRED|||-NONE-|||1
+
+S На блакитному папері - такого я раніше ніколи не помічав - виділяється білими літерами слово і цифри : " Малверн , 1898 " .
+A 3 4|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S - Щоз з цим ? - запитав я .
+A 0 1|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 2 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S " Це водний знак - сказав Гудло .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S - Папір було виготовлено в 1898 році .
+A 0 1|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S Надпис на папері датований 1863 .
+A 0 1|||F/Calque|||Напис|||REQUIRED|||-NONE-|||1
+
+S Це відчутне шахрайство " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " О , я не знаю " , сказав я .
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S " Рундли досі переглядають рівнини та сельских жителів .
+A 0 1|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||сільських|||REQUIRED|||-NONE-|||1
+
+S Можливо , виробники паперу намагалися вчинити шахрайство .
+A 5 7|||F/PoorFlow|||шахраювати|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S І тоді Гуло Бенкс злетів так само , як і його посвідчення .
+A 2 3|||Spelling|||Гудло|||REQUIRED|||-NONE-|||1
+
+S Він скинув окуляри з носа і глянув на мене .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Я часто казав тобі , що ти дурень .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - сказав він - Ви дозволили себе нав‘язувати .
+A 0 1|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 4 5|||F/Other|||Ти|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Number|||дозволив|||REQUIRED|||-NONE-|||1
+
+S І у вас є притензії до мене .
+A 4 5|||Spelling|||претензії|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,61 @@
+S - Дивовижно , як багато у вас мух !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Ми говоримо він , оскільки ні полові , ні власник , ні відвідувачі трактиру не знали хто він , якого звання , звідки й навіщо приїхав в наше місто .
+A 2 2|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 16 16|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 26 27|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 1 3|||G/UngrammaticalStructure|||говорили про нього|||REQUIRED|||-NONE-|||2
+A 6 7|||G/Case|||Пол|||REQUIRED|||-NONE-|||2
+A 16 16|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 26 27|||Spelling|||у|||REQUIRED|||-NONE-|||2
+
+S Це був виданий , достатньо похилого віку чоловік , гарно одягнутий й , скоріш за все , благодійний .
+A 2 3|||Spelling|||видний|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||видний|||REQUIRED|||-NONE-|||2
+A 10 11|||G/PartVoice|||одягнений|||REQUIRED|||-NONE-|||2
+
+S По зовнішньому вигляду його можна було прийняти за аристократа .
+A 0 1|||G/Prep|||За|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||зовнішнім|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Case|||виглядом|||REQUIRED|||-NONE-|||1
+A 0 1|||G/Prep|||За|||REQUIRED|||-NONE-|||2
+A 1 2|||G/Case|||зовнішнім|||REQUIRED|||-NONE-|||2
+A 2 3|||G/Case|||виглядом|||REQUIRED|||-NONE-|||2
+
+S Ми звернули увагу , що він мав золотий годинник , шпильку з жемчужиною , а в його касторовій шляпі лежали перчатки з з модними защіпками , які раніше ми бачили у віце - губернатора .
+A 17 18|||G/Gender|||касторовому|||REQUIRED|||-NONE-|||1
+A 31 34|||Spelling|||віцегубернатора|||REQUIRED|||-NONE-|||1
+A 31 34|||Spelling|||віцегубернатора|||REQUIRED|||-NONE-|||2
+
+S Обідаючи він весь час намагався показати своє виховання : тримав виделку в лівій руці , витирався серветкою й морщився коли в рамку падали мухи .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 19 19|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 2 3|||Spelling|||увесь|||REQUIRED|||-NONE-|||2
+A 19 19|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Кожен знає , що там , де є мухи , посуд не може бути чистим : не говорячи вже про звичайних відвідувачів , навіть такі обличчя як виправних , станичний й проїзжаючі поміщики , обідаючи в трактирі , ніколи не жаліються , якщо їм подають тарілку або рюмку , загаджену мухами ; він же не почав їсти до тих пір , як посудомийник не помив тарілки в гарячій воді .
+A 26 26|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 27 28|||G/Number|||виправний|||REQUIRED|||-NONE-|||1
+A 30 31|||Spelling|||і|||REQUIRED|||-NONE-|||1
+A 31 32|||G/PartVoice|||приїжджі|||REQUIRED|||-NONE-|||1
+A 65 66|||G/Case|||тарілок|||REQUIRED|||-NONE-|||1
+A 66 67|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 22 24|||Punctuation|||. Навіть|||REQUIRED|||-NONE-|||2
+A 26 26|||Spelling|||,|||REQUIRED|||-NONE-|||2
+A 27 28|||Punctuation|||виправний|||REQUIRED|||-NONE-|||2
+A 30 32|||G/UngrammaticalStructure|||і проїжджі|||REQUIRED|||-NONE-|||2
+A 61 62|||G/Conjunction|||поки|||REQUIRED|||-NONE-|||2
+
+S Скоріш за все , форсував и намагався показати свою благородність більше ніж є на справді .
+A 5 6|||Spelling|||і|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 13 15|||Spelling|||насправді|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||і|||REQUIRED|||-NONE-|||2
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 13 15|||Spelling|||насправді|||REQUIRED|||-NONE-|||2
+

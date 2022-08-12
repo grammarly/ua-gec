@@ -1,0 +1,60 @@
+S " Як довго ти хворієш " , - я запитав .
+A 7 8|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 8 9|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 10|||F/PoorFlow|||я|||REQUIRED|||-NONE-|||1
+
+S " Мене схватило ( звуки болі ) минулої ночі " , - сказав Мер . " Лікар , чи не могли Ви дати мені щось для цього ? " .
+A 1 7|||F/PoorFlow|||Я відчув біль|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 16 17|||G/Case|||Лікарю|||REQUIRED|||-NONE-|||1
+
+S Я сказав : " ? Містер Фідл , може Ви піднімите трохи завісу ? " .
+A 5 6|||G/Case|||Містере|||REQUIRED|||-NONE-|||1
+A 6 7|||G/Case|||Бідле|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||піднімете|||REQUIRED|||-NONE-|||1
+
+S Молодий хлопець , Бідл сказав : " Дядько Джеймс , Ви відчуваєте задоволення , що можете їсти шинку та яйця ?
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 9|||G/Case|||Дядьку Джеймсе|||REQUIRED|||-NONE-|||1
+A 21 21|||G/Case|||" .|||REQUIRED|||-NONE-|||1
+
+S " . " Містер Мер , - я сказав , кладучи моє вухо на його праву лопатку та прислухаючись , - Ви маєте поганий діагноз великого запалення правої ключиці ...
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Case|||Містере|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||мер|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 7 7|||F/PoorFlow|||сказав|||REQUIRED|||-NONE-|||1
+A 8 9|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 12|||F/Style|||своє|||REQUIRED|||-NONE-|||1
+A 17 18|||Spelling|||і|||REQUIRED|||-NONE-|||1
+A 20 21|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 21 22|||Spelling|||ви|||REQUIRED|||-NONE-|||1
+A 22 25|||F/PoorFlow|||у вас|||REQUIRED|||-NONE-|||1
+A 25 26|||G/Case|||велике|||REQUIRED|||-NONE-|||1
+
+S " Господи , - сказав він з стогіном , - можете Ви щось втерти чи вправити що - небудь ? " .
+A 3 4|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||зі|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||стогоном|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S " Я беру свій капелюх та направляюсь до двері " .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||і|||REQUIRED|||-NONE-|||1
+A 6 7|||F/PoorFlow|||йду|||REQUIRED|||-NONE-|||1
+A 8 10|||G/Case|||дверей|||REQUIRED|||-NONE-|||1
+
+S " Куда Ви , Лікар - кричить мер " . " Не залишите же Ви Мене помирати з цим ? " .
+A 1 2|||F/Calque|||Куди|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||ви|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Case|||лікарю|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 11 12|||F/PoorFlow|||Ви ж не|||REQUIRED|||-NONE-|||1
+A 13 15|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||мене|||REQUIRED|||-NONE-|||1
+

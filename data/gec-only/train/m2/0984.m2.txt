@@ -1,0 +1,51 @@
+S Прівіт мій любий друже !
+A 0 1|||Spelling|||Привіт|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Запрошую тебе та твою дружину на мій день народження .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я бажаю відсвткувати цей день не я завжді в кафе з шашликами та горилкою .
+A 2 3|||Spelling|||відсвяткувати|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||як|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||завжди|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||горілкою|||REQUIRED|||-NONE-|||1
+
+S Помятаю як у детінстві ми бажалі бути пірататі або чаклунами і тому я вирішів зробити тематичне свято і темою буде пірати та чаклуни .
+A 0 1|||Spelling|||Пам'ятаю|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||дитинстві|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||піратами|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||вирішив|||REQUIRED|||-NONE-|||1
+A 20 21|||Spelling|||Пірати|||REQUIRED|||-NONE-|||1
+A 23 23|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S Тому прошу вас жинкою підготуватися до цого дня .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||жінкою|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||цього|||REQUIRED|||-NONE-|||1
+
+S Зробіть костюмі улюбленнимі з улюбленіх героїв .
+A 1 2|||Spelling|||костюми|||REQUIRED|||-NONE-|||1
+A 2 3|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 6|||G/Case|||улюбленими героями|||REQUIRED|||-NONE-|||1
+
+S Двадцать пьятого грудня о шостій годіні вечора автобус буде чекаті вас біля вїзду до села троещіна , ну ти розуміїш .
+A 0 1|||Spelling|||Двадцять|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||п'ятого|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||годині|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||чекати|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||в'їзду|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||Троєщина|||REQUIRED|||-NONE-|||1
+A 19 20|||Spelling|||розумієш|||REQUIRED|||-NONE-|||1
+
+S З нетерпінням та поваго твій друже Мікола Деснянскій !
+A 3 4|||Spelling|||повагою|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Case|||друг|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||Микола|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||Деснянський|||REQUIRED|||-NONE-|||1
+

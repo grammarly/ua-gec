@@ -1,0 +1,54 @@
+S " Будьте впевнені !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Сподіваюся , Джиммі впорався хоча б наполовину .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Втім , він був в деякому роді трудягою , хоч і славним малим .
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Мені довелося змагатися з деякими з найгостріших умів , щоб отримати свою купу .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S У Нью-Йорку людина потрапляє в халепу .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Тільки захід може поставити його на вістрі бритви . "
+A 6 7|||G/Case|||вістря|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Поліцейський змахнув кийком і зробив пару кроків .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " - Я піду своєю дорогою .
+A 0 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S Сподіваюся , з твоїм другом все буде в порядку .
+A 5 6|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+
+S Збираєтесь назвати час на нього різким ? "
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S " - Я повинен сказати , що ні ! " - сказав другий .
+A 0 2|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S " Я дам йому щонайменше півгодини .
+A 0 1|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S Якщо Джиммі живий на землі , він буде тут уже до того часу .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Так довго , офіцере " .
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S " - На добраніч , сер , - сказав поліцейський , проходячи повз і на ходу пробуючи двері .
+A 0 2|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S "
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+

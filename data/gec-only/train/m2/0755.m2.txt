@@ -1,0 +1,56 @@
+S Прямо з люстерка трюмо вийшов маленький , але незвично широкоплечий , в капелюсі як у Чапліна на голові , з випираючим в роті кликом , який робив і без того жахливий вид ще мерзеннішим .
+A 11 12|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 20 24|||G/UngrammaticalStructure|||іклом , що випирав із рота|||REQUIRED|||-NONE-|||1
+A 32 33|||Spelling|||іще|||REQUIRED|||-NONE-|||1
+
+S І при цьому ще полум'яно - рудий .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Я- ввійшов в розмову це тип - взагалі не розумію , як він потрапив в директори - рудий говорив під ніс все сильніше і сильніше - він такий же директор , як я архієрей !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Gender|||цей|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||узагалі|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 17 18|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 22 23|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+A 26 30|||Punctuation|||— з нього такий|||REQUIRED|||-NONE-|||1
+
+S - Ти не схожий на архієрея , Азазело - помітив кіт , кладучи собі сосисок в тарілку .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||Азазелло|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S - Я про це і кажу - проказав під себе рудий і , повернувшись до Воланда , додав з повагою : - Дозвольте , пане , його викинути до дідька з Москви ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 18 19|||Spelling|||із|||REQUIRED|||-NONE-|||1
+
+S - Киш !! - раптом прокричав кіт , здійнявши хутро сторчма .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S І тоді спальня закрутилась довкола Стецька , і він вдарився об край ліжка головою , й втрачаючи свідомість подумав : " Я помираю ... "
+A 16 16|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Він не помер .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Відкривши трохи очі , він побачив що сидить , на чомусь кам'яному .
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Навколо нього щось шуміло .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Коли він відкрив , як треба , очі , він побачив , що шумить море , і що навіть більше того - хвиля доходить до його ніг , і що , словом кажучи , він сидить на самому краю мілини , й що під ним блакитне сяюче море , а позаду - красиве місто в горах .
+A 21 22|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 51 52|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

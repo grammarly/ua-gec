@@ -1,0 +1,47 @@
+S Я зневажливо сміявся
+A 3 3|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Ти ніколи не побачиш Джолнса " - продовжив я : " поки це вбивство не буде забуте , через два чи три тижні .
+A 6 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||Поки|||REQUIRED|||-NONE-|||1
+A 19 20|||G/Prep|||за|||REQUIRED|||-NONE-|||1
+
+S Я був кращої думки про твою здогадливість , Найт .
+A 8 9|||G/Case|||Найте|||REQUIRED|||-NONE-|||1
+
+S Протягом трьох з половиною годин , які ти чекав , він вийшов за межі твого розуміння .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він йде за тобою по справжніх індукційних теоріях і жоден кривдник ще не зміг на нього вийти у такому стані .
+A 1 2|||Spelling|||іде|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Я раджу тобі здатись "
+A 5 5|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Докторе " , сказав Найт з раптовим блиском у його вірних сірих очах та задертим підборіддям : " в супереч тому що ваше місто має рекорд по приблизно дюжені вбивств без подальшого знайомства винуватця та слідчого у справі , я візьмусь за те щоб зламати цей рекорд .
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 17 18|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 19 21|||Spelling|||Всупереч|||REQUIRED|||-NONE-|||1
+A 22 22|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 27 28|||G/Prep|||за|||REQUIRED|||-NONE-|||1
+A 29 30|||Spelling|||дюжиною|||REQUIRED|||-NONE-|||1
+A 44 44|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Завтра я відведу вас до Шамрока Джолнса .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я зніму з нього маску у вас на очах і доведу вам що це не неможливо аби слуга закону та людиновбивця стояли один перед одним у вашому місті .
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 14 16|||Spelling|||неможливо|||REQUIRED|||-NONE-|||1
+A 16 16|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

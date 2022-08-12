@@ -1,0 +1,82 @@
+S - чи варто ? - хмуриться листоноша
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||Чи|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Нічого , пішли вип'ємо .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я сам , брат , не п'ю , так тут нашому брату актору знижка , майже півціни - не хочешь , так все одно вип'єшь .
+A 3 4|||G/Case|||брате|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Conjunction|||але|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Case|||братові|||REQUIRED|||-NONE-|||1
+A 16 17|||Spelling|||пів ціни|||REQUIRED|||-NONE-|||1
+A 17 18|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 19 20|||Spelling|||хочеш|||REQUIRED|||-NONE-|||1
+A 21 22|||G/Conjunction|||та|||REQUIRED|||-NONE-|||1
+A 24 25|||Spelling|||вип'єш|||REQUIRED|||-NONE-|||1
+
+S Ходімо !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Приятелі підходять до буфету та випивають .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Надивився я на ваши театри .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Добрі , нічого сказати , . - бурчить благородний батько , посміхаясь .
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Particle|||посміхаючись|||REQUIRED|||-NONE-|||1
+
+S - Мерсі , не очікував .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S А щє столиця , центр мистецтва !
+A 1 2|||Spelling|||ще|||REQUIRED|||-NONE-|||1
+
+S Дивитись соромно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Був у Александрівці ? - питає газетчик ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Благородний батько презирливо маше рукою та усміхається .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Малиновий ніс його морщиться та видає уссіхнений звук .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Був ! - відповідає він як би неохоче
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - і як ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||І|||REQUIRED|||-NONE-|||1
+
+S Подобається ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Так будівля подобається .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Зовні добрий театр , не буду сперечатись , але на рахунок самих акторів - вибач .
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Можливо вони гарні люди , генії , Дидероти , но з моєї точки зору вони для мистецтва вбивці і більш нічого .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Якщоб моя воля я б їх з Пітербурга вислав .
+A 0 1|||G/Conjunction|||Якби|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||Петербурга|||REQUIRED|||-NONE-|||1
+
+S Хто над ними у вас головний ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

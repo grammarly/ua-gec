@@ -1,0 +1,47 @@
+S " Док , " - каже майор , " я тяжко хворий .
+A 1 2|||G/Case|||Доку|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Скоро помру Ви справді ніяк не можете мені допомогти ? "
+A 2 2|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Містер Майор , " кажу я , " Я не учень С . К . Лапіуса і навіть не проходив курс у медицинському коледжі .
+A 1 2|||G/Case|||Містере|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я лише прийшов сюди як товариш , щоб подивитися , чи зможу я бути корисним . "
+A 15 16|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Я вам дуже вдячний " , - відповів він " Доктор Во-ху , це мій племінних , містер Бідл .
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||. —|||REQUIRED|||-NONE-|||1
+
+S Він намагався полегшити моє горе , проте спроба виявилася невдалою .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S О , Господи !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Оу-оу-ої ! ! " - проспівав хлопець .
+A 0 1|||Spelling|||Оу-оу-ой|||REQUIRED|||-NONE-|||1
+
+S Я привітно кивнув містеру Бідлу і сів біля ліжка щоб перевірити пусьс майора .
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||пульс|||REQUIRED|||-NONE-|||1
+
+S " Дайте подивитися чи все добре із твоєю печінкою - висунь язика . " - кажу я .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||G/Number|||висуньте|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 15|||Punctuation|||", —|||REQUIRED|||-NONE-|||1
+
+S Потім піднімаю його повіки і пристально дивлюсь у зіниці .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

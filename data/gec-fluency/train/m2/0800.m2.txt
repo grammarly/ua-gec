@@ -1,0 +1,51 @@
+S Білі , він міг дати мені що завгодно , щоб я не попросив .
+A 1 3|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||що б|||REQUIRED|||-NONE-|||1
+
+S Ти сильно змінився Джимі .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||Джиммі|||REQUIRED|||-NONE-|||1
+
+S Я ніколи б не подумав , що ти такий високий , на сантиметрів десь два , три .
+A 15 16|||Spelling|||-|||REQUIRED|||-NONE-|||1
+
+S Ох , я сильно виріс відколи мені було дванадцять
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Добре в Нью-Йорку Джимі ?
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||Джиммі|||REQUIRED|||-NONE-|||1
+
+S Переважно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я маю посаду , в одному з міських департаментів .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Давай Боб , поїдемо до місця , яке я знаю і ми багато поговоримо , про старі добрі часи .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||Бобе|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Other|||поїдьмо|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Двоє чоловіків вийшли на вулицю , і йшли рука в руку .
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 11|||F/PoorFlow|||поруч|||REQUIRED|||-NONE-|||1
+
+S Той що з Заходу , чий егоїзм допоміг йому в роботі , почав розповідати про свою кар'єру .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Інший , занурившись в шинель , слухав його з цікавістю .
+A 2 3|||F/Style|||закутавшись|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S На розі стояла аптека , що виблискувала електричними спалахами .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Коли вони наткнулись на ці спалахи , кожен з них повернув обличчя одне на одного .
+A 8 10|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 10 12|||F/PoorFlow|||поглянув|||REQUIRED|||-NONE-|||1
+A 12 13|||G/Gender|||один|||REQUIRED|||-NONE-|||1
+

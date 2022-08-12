@@ -1,0 +1,245 @@
+S Ранок був вельми насичений .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Після безсонної ночі в потязі , я закинув речі на нову хату і побіг шукати швабру для прибіральниці , яка мала прийти о десятій .
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 17 18|||Spelling|||прибиральниці|||REQUIRED|||-NONE-|||1
+A 4 6|||F/Style|||поїзді|||REQUIRED|||-NONE-|||2
+A 17 18|||Spelling|||прибиральниці|||REQUIRED|||-NONE-|||2
+
+S Дорогою забіг взяв їжи в Dominos , прибіг акурат до прибуття майстра , який замінив замок на вхідній двері .
+A 1 2|||F/PoorFlow|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||їжі|||REQUIRED|||-NONE-|||1
+A 17 18|||G/Number|||вхідних|||REQUIRED|||-NONE-|||1
+A 18 19|||G/Case|||дверях|||REQUIRED|||-NONE-|||1
+A 2 4|||G/UngrammaticalStructure|||взяти їжі|||REQUIRED|||-NONE-|||2
+A 5 5|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+A 16 19|||G/UngrammaticalStructure|||у вхідних дверях|||REQUIRED|||-NONE-|||2
+
+S Поки не прийшла прибиральниця , підключив інет , поміняв віртуальні бакси та повернув частину боргу Пруднікової .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 6 7|||F/Style|||Інтернет|||REQUIRED|||-NONE-|||2
+A 8 11|||F/Style|||обміняв віртуальні долари|||REQUIRED|||-NONE-|||2
+
+S Об одинадцятій я вже підходив до нового офісу на Олімпійській .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Стільки справ вдалося успішно зробити за проміжок з восьмої до одинадцятої !
+A 7 8|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 5 7|||G/Prep|||в проміжку|||REQUIRED|||-NONE-|||2
+
+S Дорогою зустрів Ігоря .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S З’ясувалося , що він працює в сусідній будівлі і може бачити наш офіс , коли спускається сходами .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Офіс , до речі , в них новий , вони тільки сьогодні в нього переїхали .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Офіс являє собою open-space , кухня відокремлена прозорою стінкою так само , як і переговорні комори .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 4|||F/PoorFlow|||Це офіс відкритого типу|||REQUIRED|||-NONE-|||2
+A 15 16|||F/Style|||кімнати|||REQUIRED|||-NONE-|||2
+
+S Столи стоять великі , їх можна регулювати за висотою аж до перетворення в стіл для стояння .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Монітор особисто мені дали величезний , дюймів , може , 29 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S В багатьох стоять кронштейни з двома моніторами .
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||2
+
+S Крісла дуже зручні .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S На кухні годують обідами та вечерями , причому не порційно , як було в Murano , а просто приносять багато їжи і кожен накладає скільки хоче .
+A 20 21|||Spelling|||їжі|||REQUIRED|||-NONE-|||1
+A 20 21|||Spelling|||їжі|||REQUIRED|||-NONE-|||2
+A 21 21|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Також безкоштовно можна брати багато всяких снеків , -- шоколадки , nuts , печиво смачне , m&mds і таке інше , -- та напої : coca-cola , соки , смузі , боржомі , пиво модняве , сидр та багато всього іншого .
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 21 22|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 9|||F/Calque|||дрібниць для перекусів|||REQUIRED|||-NONE-|||2
+A 9 9|||Punctuation|||(|||REQUIRED|||-NONE-|||2
+A 11 12|||F/Other|||горіхи|||REQUIRED|||-NONE-|||2
+A 16 17|||F/Other|||цукерки|||REQUIRED|||-NONE-|||2
+A 20 22|||Punctuation|||)|||REQUIRED|||-NONE-|||2
+A 24 26|||Punctuation|||(|||REQUIRED|||-NONE-|||2
+A 25 26|||F/Other|||кока-кола|||REQUIRED|||-NONE-|||2
+A 41 41|||Punctuation|||)|||REQUIRED|||-NONE-|||2
+
+S У понеділок я нарешті набрався духу і поговорив з Серьогою стосовно того , що я хочу звільнитися .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 8 12|||F/PoorFlow|||із Сергієм|||REQUIRED|||-NONE-|||2
+
+S Він , звичайно , вже був трошки підготовлений нашею розмовою в Чураско Барі ( див . нижче ) , але він не чекав , що це стане так швидко .
+A 8 9|||Spelling|||нашою|||REQUIRED|||-NONE-|||1
+A 26 27|||F/Style|||станеться|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||нашою|||REQUIRED|||-NONE-|||2
+A 11 13|||F/PoorFlow|||барі “Чураско”|||REQUIRED|||-NONE-|||2
+A 26 27|||F/Style|||станеться|||REQUIRED|||-NONE-|||2
+
+S Як мені здається , він засмутився і ходив таким весь тиждень .
+A 8 9|||G/Case|||такий|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||увесь|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Гадаю , я змусив його замислитися , чи вірно він робить , що продовжує працювати в тут вже п’ять років .
+A 8 9|||F/Style|||правильно|||REQUIRED|||-NONE-|||1
+A 15 16|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 17 18|||Spelling|||уже|||REQUIRED|||-NONE-|||1
+A 8 9|||F/Style|||правильно|||REQUIRED|||-NONE-|||2
+A 15 16|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Тут мушу розповісти докладніше , чому саме я вирішив звільнятися .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Над цим я думав вже , мабуть , рік ба й навіть і більше -- відтоді , як закінчив училище та стало очевидно , що робота в мене доволі нудна .
+A 4 5|||Spelling|||уже|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Відносини з калюжами в нас просто чудові .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Всі перехожі та діти навколо завжди або заздрять , або шоковані , або водночас заздрять та шоковані .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Бо в Улясі є чудові гумові чоботи та ще більш чудовий Комбінезон Reima ( з великої літери , бо час від часу Уляся звертається до нього як до живого ) , а також брезентові рукавички .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 11 12|||Spelling|||комбінезон|||REQUIRED|||-NONE-|||2
+
+S В такому одязі міжна бовкатись в калюжах як завгодно , чим Уляся радо користується :)
+A 3 4|||Spelling|||можна|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||2
+A 3 5|||Spelling|||можна бовтатися|||REQUIRED|||-NONE-|||2
+A 14 15|||Punctuation|||:).|||REQUIRED|||-NONE-|||2
+
+S Нарешті до нас у гості прийшов Вася з Оленою .
+A 5 6|||G/Number|||прийшли|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Якщо не рахувати Вероніку з Сашею , які пили в нас час , але прийшли забрати стільницю , то це перші наші новосільні гості .
+A 11 12|||Spelling|||чай|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Aspect|||враховувати|||REQUIRED|||-NONE-|||2
+A 11 12|||F/Calque|||годину|||REQUIRED|||-NONE-|||2
+A 17 18|||Punctuation|||;|||REQUIRED|||-NONE-|||2
+
+S Подарували нам вишиту скатертину з серветками .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Я знаю , що такі продаються в Країні , і то , непевне , недорого , але ж яка вона крутюща !
+A 12 13|||Spelling|||напевне|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+A 12 13|||Spelling|||напевно|||REQUIRED|||-NONE-|||2
+
+S В принципі , добре посиділі .
+A 0 3|||F/PoorFlow|||Загалом|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||посиділи|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 4 5|||Spelling|||посиділи|||REQUIRED|||-NONE-|||2
+
+S Частували їх картоплею , сосиками та смачнущею салаткою з сиром фета .
+A 6 7|||Spelling|||смачнющою|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||сосисками|||REQUIRED|||-NONE-|||2
+A 6 8|||Spelling|||смачним салатом|||REQUIRED|||-NONE-|||2
+A 8 9|||Spelling|||із|||REQUIRED|||-NONE-|||2
+
+S А ми з Васею щось трохи перебрали : спочатку випили пляшку легкого французького вина ( купив випадково , купившись на маркетинговий хід " тільки всього французьке вино за 49 грн . " ) , а потім ще 0 . 75 пляшку вермуту Шабо .
+A 18 19|||F/Style|||спокусившись|||REQUIRED|||-NONE-|||1
+A 23 25|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 27 27|||F/PoorFlow|||лише|||REQUIRED|||-NONE-|||1
+A 40 41|||G/Case|||пляшки|||REQUIRED|||-NONE-|||1
+A 18 22|||F/PoorFlow|||піддавшись маркетингу|||REQUIRED|||-NONE-|||2
+A 22 22|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 23 25|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||2
+A 27 27|||F/PoorFlow|||всього лише|||REQUIRED|||-NONE-|||2
+A 42 42|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 43 43|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+
+S Якщо врахувати , що за міцністю воно як портвейн , то виходить багато .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S В Олени вже великий - превиликий живіт .
+A 5 6|||Spelling|||превеликий|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||превеликий|||REQUIRED|||-NONE-|||2
+
+S Вона каже , що й не знає як доносить його аж до Нового Року .
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||року|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 13 14|||Spelling|||року|||REQUIRED|||-NONE-|||2
+
+S Ім’я , до речі , ще не вигадали .
+A 7 8|||F/Style|||вибрали|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Купили дитячий возик та повним ходом роблять ремонт .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 2 3|||F/Style|||візок|||REQUIRED|||-NONE-|||2
+
+S А ще Вася відходив курси для молодих татусів :)
+A 3 4|||F/Style|||закінчив|||REQUIRED|||-NONE-|||1
+A 3 4|||F/Style|||завершив|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||:).|||REQUIRED|||-NONE-|||2
+
+S Прийшли вони десь о третій , а пішли о дев’ятій .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Уляся пропустила свій денний сон , тож вона поснула трохи недочекавшись відправлення гостей і проспала аж до ранку .
+A 8 9|||G/Aspect|||заснула|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||не дочекавшись|||REQUIRED|||-NONE-|||1
+A 11 12|||F/Style|||відходу|||REQUIRED|||-NONE-|||1
+A 6 8|||F/Repetition|||тому|||REQUIRED|||-NONE-|||2
+A 8 9|||F/Style|||заснула|||REQUIRED|||-NONE-|||2
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 10 11|||Spelling|||не дочекавшись|||REQUIRED|||-NONE-|||2
+A 11 12|||F/Style|||відходу|||REQUIRED|||-NONE-|||2
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S А ми зі Світланкою подивились трошки " Кін-Дза-Дза " та теж поснули .
+A 9 10|||F/Repetition|||і|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Забув ще написати , вранці до нас приходили з вентиляційної служби , прочищали вентиляцію , бо щось не тягнуло .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 11 12|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 18 19|||F/PoorFlow|||було тяги|||REQUIRED|||-NONE-|||2
+
+S Така мила молода пара , жіночка та чоловік , зовсім не схожі на те , як ми уявляли собі пічників .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Кажуть , що витягнули з вентиляції рулон рубіроїду .
+A 7 8|||Spelling|||руберойду|||REQUIRED|||-NONE-|||1
+A 3 4|||F/PoorFlow|||витягли|||REQUIRED|||-NONE-|||2
+A 7 8|||Spelling|||руберойду|||REQUIRED|||-NONE-|||2
+
+S Отаке .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

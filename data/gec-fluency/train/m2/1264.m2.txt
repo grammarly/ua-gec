@@ -1,0 +1,61 @@
+S Абадонна стояв нерухомо .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - А можна , щоб він зняв окуляри на секунду ? - спитала Маргарита , притискаючись до Воланда та вздрогуючи , але вже від допитливості .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 19 20|||F/Calque|||здригаючись|||REQUIRED|||-NONE-|||1
+
+S - А ось цього не можна , - серйозно промовив Воланд та махнув рукою Абадонні , й того не стало .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Що ти хочеш сказати , Азазело ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||Азазелло|||REQUIRED|||-NONE-|||1
+
+S - Месір , - відповів Азазело , - дозвольте мені сказати .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||Мессіре|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||Азазелло|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S нас двоє сторонніх : красуня , яка пхикає та вмовляє , щоб її залишили при пані , та крім цього , з нею , перепрошую , її борів .
+A 27 28|||G/UngrammaticalStructure|||кабан|||REQUIRED|||-NONE-|||1
+
+S - Дивно ведуть себе красуні , - помітив Воланд .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Це Наталя , Наталя ! - вигукнула Маргарита .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ну , залишити при пані .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S А борів до кухарів !
+A 1 2|||G/UngrammaticalStructure|||кабана —|||REQUIRED|||-NONE-|||1
+
+S - Зарізати ? - злякано крикнула Маргарита , - помилуйте , месір , це Микола Іванович , нижній мешканець .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Case|||мессіре|||REQUIRED|||-NONE-|||1
+A 17 18|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 19 19|||F/PoorFlow|||з нижнього поверху|||REQUIRED|||-NONE-|||1
+
+S Тут непорозуміння , вона , бачте , мазнула його кремом ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Помилуйте ! - сказав Воланд , - якого дідька та хто стане його різати ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Нехай посидить разом з кухарями , ось і все !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Не можу ж , погодьтеся , я його пустити у бальну залу !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

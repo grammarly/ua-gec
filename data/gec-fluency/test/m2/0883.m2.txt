@@ -1,0 +1,37 @@
+S Вони пройшли , Гост та Скрудж , через хол до дверей позаду будинку .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ті відчинилися перед ними і відкрили їх погляду велику порожню меланхолічну кімнату , що виглядала так порожньо через лінії та форми всередині неї , зокрема - столів .
+A 6 7|||G/Other|||їхньому|||REQUIRED|||-NONE-|||1
+A 25 26|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||G/UngrammaticalStructure|||їхньому|||REQUIRED|||-NONE-|||2
+A 10 11|||F/Calque|||меланхолійну|||REQUIRED|||-NONE-|||2
+A 16 17|||F/Style|||понуро|||REQUIRED|||-NONE-|||2
+A 18 26|||F/PoorFlow|||ряди однотипних|||REQUIRED|||-NONE-|||2
+
+S За одним з них самотньо сидів хлопчик , читаючи книгу біля вогню ; Скрудж присів напроти форми і сльози заповнили його очі від споглядання його нещасного забутого себе - того , ким він колись був .
+A 2 3|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 9 10|||F/Style|||книжку|||REQUIRED|||-NONE-|||1
+A 24 25|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 28 29|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 14 17|||F/PoorFlow|||теж присів за стіл навпроти|||REQUIRED|||-NONE-|||2
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 22 22|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 22 24|||F/PoorFlow|||адже він споглядав|||REQUIRED|||-NONE-|||2
+A 24 25|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||2
+A 28 28|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 28 29|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Звуки , що поширювалися ехом у будинку , пищання та шурхіт від миші за стіною , крапання з напів - розмерзшої водостічної труби в похмурому подвір'ї позаду , тремтіння гілок на самотній тополі , ліниве покачування дверей порожнього сараю , навіть тріщання вогню - все це м'яко навалилося на серце Скруджа і дало сльозам легшого повного ходу .
+A 18 21|||Spelling|||напіврозмерзлої|||REQUIRED|||-NONE-|||1
+A 35 36|||F/Calque|||погойдування|||REQUIRED|||-NONE-|||1
+A 43 44|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||F/Calque|||луною|||REQUIRED|||-NONE-|||2
+A 8 9|||F/Style|||писк|||REQUIRED|||-NONE-|||2
+A 11 12|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||2
+A 18 21|||F/Style|||відталої|||REQUIRED|||-NONE-|||2
+A 43 44|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 54 57|||F/PoorFlow|||легше стікати|||REQUIRED|||-NONE-|||2
+

@@ -1,0 +1,58 @@
+S Наказ Воланда був виконаний миттєво .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Після короткого мовчання Воланд звернувся до майстра :
+A 6 7|||Spelling|||Майстра|||REQUIRED|||-NONE-|||1
+
+S - Ну що ж , вАрбатський підвал ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||в Арбатський|||REQUIRED|||-NONE-|||1
+
+S А хто ж буде писати ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S А мрії , а натхнення ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - У мене більше немає ніяких мрій і натхнення також немає , - відповів майстер , - мене не цікавить нічого навколо , окрім неї , - він знову поклав руку на голову Маргариті , - мене зламали , мені нудно і я хочу в підвал .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 23 24|||Spelling|||крім|||REQUIRED|||-NONE-|||1
+A 26 27|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 35 36|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - А ван роман , Пілате ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||ваш|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Prep|||про|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Case|||Пилата|||REQUIRED|||-NONE-|||1
+
+S - Я його ненавиджу , цей роман , - відповів майстер , - я занадто багато пережив через нього .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||Майстер|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Я прошу тебе , - жалібно попросила Маргарита , - не кажи так .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S За що ти мене мучиш ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Адже ти знаєш , що я все життя вклала в твою роботу .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Маргарита додала ще , звернувшись до Воланда : - Не слухайте його , месир , він занадто замучений .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 15|||G/Case|||мессіре|||REQUIRED|||-NONE-|||1
+
+S - Але треба ж що - небудь описувати ? - говорив Воланд , - якщо ви вичерпали цього прокуратора , що ж , почніть зображати хоча б цього Алоізія
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 29 29|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

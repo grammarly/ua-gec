@@ -1,0 +1,58 @@
+S Я вже уявляю , як мені скажуть -- шо вона ото пише , видно ж , що ніколи не бувала не Кубі , ніколи толком не жила в Союзі і взагалі поняття зеленого не має .
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||що|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||:|||REQUIRED|||-NONE-|||2
+A 7 9|||Spelling|||“Що|||REQUIRED|||-NONE-|||2
+A 20 21|||Spelling|||на|||REQUIRED|||-NONE-|||2
+A 24 25|||F/Style|||по суті|||REQUIRED|||-NONE-|||2
+A 29 30|||Spelling|||та|||REQUIRED|||-NONE-|||2
+A 31 35|||F/Collocation|||не має про це найменшого уявлення|||REQUIRED|||-NONE-|||2
+A 35 35|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+
+S Найбільший страх , коли ті , хто таки пройшли Карибську кризу 62-го ( або чиї батьки , діди / баби були там ) заявлять , що я все перебрехала .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 7 8|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||2
+A 11 12|||F/Style|||1962-го|||REQUIRED|||-NONE-|||2
+
+S Ой ні , найгірше , якщо це скажуть мої мама з татом !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S А я мисткиня , я так бачу ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Перечитала купу всього , передивилася , переговорила .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S І я дивлюся трохи за горизонт , бо " наших " на Кубі було 42 тис , досвід кожного -- унікальний , а хочеться розказати принаймні про пару десятків .
+A 16 16|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 19 20|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 27 28|||F/Style|||кілька|||REQUIRED|||-NONE-|||1
+A 19 20|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 27 28|||F/Style|||кілька|||REQUIRED|||-NONE-|||2
+
+S Та й про кубинців , і про американців ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Та зрештою , це не стільки про Кубу , скільки про зростання , пошук ідентичності , історію моєї родини .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||F/PoorFlow|||так|||REQUIRED|||-NONE-|||1
+A 9 10|||F/PoorFlow|||як|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S І щораз , коли я беруся її писати , я переконую себе , що маю право .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 9 10|||F/Repetition|||переконуюся|||REQUIRED|||-NONE-|||2
+A 10 12|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Я розповідала цю історію сотні раз по всьому світу .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 5 6|||G/Number|||разів|||REQUIRED|||-NONE-|||2
+
+S Тепер час її записати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

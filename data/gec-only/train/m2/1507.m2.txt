@@ -1,0 +1,59 @@
+S - А погано , Лізавета , о ми не дали тому козаку розговоритись .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Case|||Лизавето|||REQUIRED|||-NONE-|||1
+A 6 7|||G/UngrammaticalStructure|||що|||REQUIRED|||-NONE-|||1
+
+S - Чудний ти , їй - богу ! - Сказала Лізавета і з подивом стиснула плечима .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||сказала|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||Лизавета|||REQUIRED|||-NONE-|||1
+
+S - Де ти взяв таку моду , щоб освячену паску роздавати по дорозі ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Може це булка ?
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Тепер вона порізана на столі лежить , хай їсть , хто хоче , хоч і козак твій !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Хіба мені жаль ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Так - то воно , але жаль мені козака .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Адже він гірше сироти .
+A 1 2|||G/Case|||йому|||REQUIRED|||-NONE-|||1
+A 3 3|||G/Prep|||від|||REQUIRED|||-NONE-|||1
+
+S В дорозі , далеко від дому , хворий ...
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
+
+S Торчаков випив півстакану чаю і ба бльше нічого не пив і не їв .
+A 2 3|||Spelling|||пів склянки|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||більше|||REQUIRED|||-NONE-|||1
+
+S Їсти йому не хотілося , чай здавався як трава , і знову стало скучно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Після розмови лягли спати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Коли через ві години Лізавета прокинулась , він стояв біля вікна і дивився на подвір'я .
+A 2 3|||Spelling|||дві|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||Лизавета|||REQUIRED|||-NONE-|||1
+
+S - Ти уже прокинувся ? - спитала дружина .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Не спиться щось ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ехх , Лізавета , - вздихнув він , - образили ми з тобою козака !
+A 2 3|||G/Case|||Лизавето|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

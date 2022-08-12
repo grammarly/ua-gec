@@ -1,0 +1,60 @@
+S Цих слів Маргарита не стерпіла і заплакала знову .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Потім , витерши очі , вона скрикнула :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Жахливі слова !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Жахливі слова !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він майстер , месер , я вас попереджаю про це .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Вилікуйте його , він вартий цього .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Ви знаєте , з ким ви зараз говорите , - запитав у того , що прийшов , Воланд , - у кого ви перебуваєте ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 20 21|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Знаю , - відповів майстер , - моїм сусідом в психлікарні був цей хлопчик , Іван Бездомний .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S Він розказав мені про вас .
+A 1 2|||F/Style|||розповів|||REQUIRED|||-NONE-|||1
+
+S - Як же , як же , - відгукнувся Воланд , - я мав задоволення зустрітись з цією молодою людиною на Патріарших ставках .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Spelling|||із|||REQUIRED|||-NONE-|||1
+
+S Він чуть мене самого не звів з розуму , доказуючи мені , що мене нема !
+A 1 2|||F/Calque|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 4|||F/PoorFlow|||мало|||REQUIRED|||-NONE-|||1
+
+S А ви вірите , що це дійсно я ?
+A 6 7|||F/Style|||справді|||REQUIRED|||-NONE-|||1
+
+S - Доводиться вірити , - сказав той , що прийшов , - але , звичайно , більш спокійно було б вважати вас плодом галюцинації .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 17 18|||G/Comparison|||спокійніше|||REQUIRED|||-NONE-|||1
+
+S Вибачте мене , - схаменувшись добавив майстер .
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||F/Style|||додав|||REQUIRED|||-NONE-|||1
+
+S - Ну , що ж , якщо спокійніше , то вважайте , - ввічливо відповів Воланд .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

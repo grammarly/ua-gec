@@ -1,0 +1,58 @@
+S Афраній відповідав спокійно і вагомо :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S - Ні в якому разі , прокураторе .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Ця можливість повністю виключена .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Необхідно міркувати логічно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Хто був зацікавлений в смерті Іуди ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Якісь блукаючі фантазери , якийсь гурток , в якому перш за все , не було жодних жінок .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Щоб одружитись , прокураторе , необхідні гроші , щоб народити людину потрібні вони ж , але щоб зарізати людину за допомогою жінки , потрібні дуже великі гроші , і ні в яких бродяг їх немає .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Жінки не було у цій справі , прокураторе .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Більше того скажу , таке тлумачення вбивства може тільки збивати зі сліду , заважати слідству та плутати мене .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S - А я бачу , що ви повністю правий , Афранію , - говорив Пілат , - і я лише дозволив собі висказати своє припущення .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 14 15|||Spelling|||Пилат|||REQUIRED|||-NONE-|||2
+A 16 17|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S - Воно , нажаль , хибне , прокураторе .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 3 4|||Spelling|||на жаль|||REQUIRED|||-NONE-|||2
+
+S - Але що ж , що ж тоді ? - вигукнув прокуратор , з жадібною цікавістю вдивляючись в обличчя Афранія
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 20 20|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 20 20|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+

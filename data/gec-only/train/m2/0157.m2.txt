@@ -1,0 +1,176 @@
+S Ден Аріелі в книжці " Чесна правда про нечестність " описує різні ситуації коли люди обманюють інших і насамперед себе .
+A 8 9|||Spelling|||нечесність|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||нечесність|||REQUIRED|||-NONE-|||2
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S В розділі Шахрайство як інфекція він описує експерименти , які він ставив над студентами курсу поведінкової економіки .
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 12 13|||G/Prep|||зі|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||2
+A 2 2|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 5 5|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+A 12 13|||G/Prep|||зі|||REQUIRED|||-NONE-|||2
+
+S Отже , правила буди наступні :
+A 3 4|||Spelling|||були|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Студенти отримували 20 завдань на множення матриць .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Час був обмежений .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S З задачами давався конверт з 10 $ та відповідями .
+A 0 1|||Spelling|||Зі|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||із|||REQUIRED|||-NONE-|||2
+
+S Студенти розв'язували задачі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Потім діставали віддповіді , рахували правильний результат та брали з конверту відповідну суму грошей .
+A 2 3|||Spelling|||відповіді|||REQUIRED|||-NONE-|||1
+A 10 11|||G/Case|||конверта|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||відповіді|||REQUIRED|||-NONE-|||2
+A 10 11|||G/Case|||конверта|||REQUIRED|||-NONE-|||2
+
+S 1 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Перший експеримент був контрольний .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Студенти підходили до організатора і він перевіряв кількість правильних задач і грошей , що залишились у конверті .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Результат : в середньому розв'язували 7 задач з 20 .
+A 2 3|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S 2 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Другий експеримент давав вільну можливість шахрайства .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ніхто не перевіряв кількість грошей у конверті і задачі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Відповідно середня кількість " розв'язаних " задач зросла до 12 , величина шахрайства - 5 .
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S 3 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S В третьому експерименті додали приклад поведінки .
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||2
+
+S Після початку роботи через 60 сек один з учасників ( підставна особа ) піднімається , і каже - я все розв’язав , що мені робити ?
+A 17 18|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 7 8|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 14 15|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 17 17|||Punctuation|||:|||REQUIRED|||-NONE-|||2
+A 17 18|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 18 19|||Spelling|||Я|||REQUIRED|||-NONE-|||2
+A 26 26|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+
+S Організатор відповідає , що , потрібно взяти грошей відповідно до кількості правильних відповідей .
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S 4 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Провокаційне питання .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S В цьому експерименті учасник ( підставна особа ) запитав у організатора : відповідно до цих правил я можу просто сказати , що розв'язав всі задачі , взяти гроші і піти ?
+A 23 24|||Spelling|||усі|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||2
+A 8 9|||G/Tense|||запитує|||REQUIRED|||-NONE-|||2
+A 12 13|||Punctuation|||“ Відповідно|||REQUIRED|||-NONE-|||2
+A 23 24|||Spelling|||усі|||REQUIRED|||-NONE-|||2
+A 31 31|||Spelling|||”|||REQUIRED|||-NONE-|||2
+
+S Організатор відповідає : " Ви можете робити як захочете " .
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 0|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+A 9 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Таким чином , всі інші учасники проінформовані про таку можливість , однак середня кількість задач у цьому експерименті дорівнювала 10 , величина шахрайства всього 3 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S 5 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Чужинець .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Експерименти проводились у Університеті Карнегі - Меллон .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 2 3|||Spelling|||в|||REQUIRED|||-NONE-|||2
+
+S Його вічний ворог і суперник Університет Пітсбурга .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 7 6|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Результат - найнижчий рівень шахрайства - 9 задач , 2 дописано .
+A 1 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+A 5 4|||Punctuation|||:|||REQUIRED|||-NONE-|||2
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Висновки .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Шахрайство заразне як інфекційна хвороба .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Якщо представник нашої соціальної групи обманює , нам легше обманювати також ( всі так роблять ) .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 2 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Інформація про можливість шахрайства і спостереження його на прикладі дає різний ефект .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Punctuation|||нформація|||REQUIRED|||-NONE-|||2
+
+S Якщо обманює представник “ ворожої ” групи , виправдати обман важче ( ми не такі як він ) .
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Люди дуже гнучко змінюють границі допустимої поведінки в залежності від соціальних норм .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 5 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Особливо важлива щоденна практика і приклад публічних людей - моральних авторитетів , політиків , зірок .
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 14|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 14 16|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+

@@ -1,0 +1,53 @@
+S " Гей !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Сир ! раптом вигукнув Жак Коктьє , що сталося з гострою точкою хвороби , за якою мене послала ваша величність ?
+A 0 1|||Spelling|||Сер|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||Що|||REQUIRED|||-NONE-|||1
+
+S - О ! - сказав король , - справді , мені дуже боляче , друже .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S У мене хриплять вуха , а вогняні граблі скребуть груди .
+A 0 4|||F/PoorFlow|||Мені стріляє у вухах|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||шкребуть|||REQUIRED|||-NONE-|||1
+
+S " Коїктьє взяв короля за руку і почав відчувати його пульс здатним виразом .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||рахувати|||REQUIRED|||-NONE-|||1
+A 11 13|||F/Style|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S - Дивись , Коппеноле , - сказав Рим тихим голосом .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ось він між Коїктьє та Трістаном .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Це все його серце .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Лікар для нього , кат для інших .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Відчуваючи пульс короля , Коїктьє набирав увсе більшої тривоги .
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 2|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 2 5|||F/Style|||Слухаючи|||REQUIRED|||-NONE-|||1
+
+S Людовик XI подивився на нього з деякою тривогою .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Coictier помітно темнів .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S У доброго чоловіка не було іншого дрібного володіння , крім поганого здоров'я короля .
+A 5 8|||F/PoorFlow|||нічого|||REQUIRED|||-NONE-|||1
+
+S Він використовував його наскільки міг .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

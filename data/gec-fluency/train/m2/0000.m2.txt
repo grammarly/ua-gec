@@ -1,0 +1,425 @@
+S Byte for France або “ Мій досвід ведення блогу у Instagram ”
+A 9 10|||Spelling|||в|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||в|||REQUIRED|||-NONE-|||2
+
+S Останні 3 місяці мого життя видалися аж занадто насиченими на події та емоції , але ось нарешті у мене з’явилося декілька вільних годин та трохи енергії щоб продовжити серію записів щодо мого досвіду блогерства .
+A 20 21|||F/Style|||кілька|||REQUIRED|||-NONE-|||1
+A 26 26|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 31 32|||F/Style|||свого|||REQUIRED|||-NONE-|||1
+A 26 26|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 30 33|||F/PoorFlow|||про мій досвід|||REQUIRED|||-NONE-|||2
+
+S Сьогодні розповім про те як і навіщо мене занесло у Instagram .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||в|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Якщо цікаво подивитися відразу на результат , то щиро прошу за цим посиланням – https://www.instagram.com/yevhenii_kanivets/
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||F/Style|||запрошую|||REQUIRED|||-NONE-|||2
+A 13 13|||Punctuation|||:|||REQUIRED|||-NONE-|||2
+A 13 14|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Моє бачення Instagram
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Колись давно я прочитав статтю , чи просто коментарій – вже не згадаю .
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||F/Calque|||коментар|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||уже|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 8 9|||F/Calque|||коментар|||REQUIRED|||-NONE-|||2
+
+S Але йшлося там про те , що найпопулярнішою соціальною мережею стане платформа на котрій можно буде лише ділитися світлинами та ставити лайки .
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 12 14|||F/Style|||де|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||можна|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 13 14|||G/Conjunction|||якій|||REQUIRED|||-NONE-|||2
+A 21 22|||F/Calque|||вподабайки|||REQUIRED|||-NONE-|||2
+
+S Було це за декілька років до появи усім відомого сервісу .
+A 3 4|||F/Style|||кілька|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||всім|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Як же автору вдалося передбачити майбутнє ?
+A 0 2|||F/Style|||То як|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Case|||авторові|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Дуже просто !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Instagram втілює глибинні бажання кожної людини :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S емоційне збудження від перегляду гарних фото ( читання – це менш природний процес , ніж споглядання )
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||аніж|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||;|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 14 15|||Spelling|||аніж|||REQUIRED|||-NONE-|||2
+A 17 17|||Punctuation|||;|||REQUIRED|||-NONE-|||2
+
+S нескінченне поглинання ніби - то важливої інформації про інших людей ( користовуч відчуває себе у потоці )
+A 2 5|||Spelling|||нібито|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||користувач|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||;|||REQUIRED|||-NONE-|||1
+A 2 5|||Spelling|||нібито|||REQUIRED|||-NONE-|||2
+A 11 12|||Spelling|||користувач|||REQUIRED|||-NONE-|||2
+A 17 17|||Punctuation|||;|||REQUIRED|||-NONE-|||2
+
+S соціальне підтвердження того , що користувач виглядає та поводиться відповідно до тренду
+A 12 12|||Punctuation|||;|||REQUIRED|||-NONE-|||1
+A 11 12|||F/Calque|||тенденцій|||REQUIRED|||-NONE-|||2
+A 12 12|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Якщо честно , то всі зазначені моменти мені не дуже близькі , тому до поїздки у Францію у мене в Instagram не було жодного фото .
+A 1 2|||Spelling|||чесно|||REQUIRED|||-NONE-|||1
+A 17 23|||F/PoorFlow|||я в Instagram не мав|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Але що сталося потім ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Byte for France
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Французькою мовою до Франції я володів не дуже добре .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 3 4|||F/PoorFlow|||поїздки у Францію|||REQUIRED|||-NONE-|||2
+
+S Треба було якось виправляти ситуацію .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Не знаю як у інших , а у мене в житті траплялось не так багато див .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Знаєте , так щоб прокинувся одного ранку і володієш мовою як місцевий .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Все , що я зараз вмію , давалося мені доволі важко , через щоденну працю протягом багатьох років .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 11 12|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 12 15|||G/Prep|||завдяки щоденній праці|||REQUIRED|||-NONE-|||2
+
+S Але як змусити себе займатися французькою кожен день ?
+A 6 8|||F/Style|||щодня|||REQUIRED|||-NONE-|||1
+A 6 8|||F/PoorFlow|||щодня|||REQUIRED|||-NONE-|||2
+
+S Особливо письмом ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Мені завжди було цікаво читати статті про життя закордоном .
+A 8 9|||Spelling|||за кордоном|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||за кордоном|||REQUIRED|||-NONE-|||2
+
+S Але в них , на мій погляд , завжди не вистачало системності .
+A 1 3|||G/Case|||їм|||REQUIRED|||-NONE-|||1
+A 4 7|||F/Style|||як на мене|||REQUIRED|||-NONE-|||1
+A 9 11|||F/Style|||бракувало|||REQUIRED|||-NONE-|||1
+A 11 12|||F/Style|||систематичності|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Тож я вирішив започаткувати проект під назвою Byte For France – Instagram - блог , в якому б я честно та системно ( кожного дня ) ділився враженнями про життя у Франції французькою та російською мовами .
+A 4 5|||Spelling|||проєкт|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 17 17|||F/PoorFlow|||я|||REQUIRED|||-NONE-|||1
+A 18 19|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 19 20|||Spelling|||чесно|||REQUIRED|||-NONE-|||1
+A 21 22|||F/Style|||систематично|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||проєкт|||REQUIRED|||-NONE-|||2
+A 7 7|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 10 10|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+A 23 25|||F/PoorFlow|||щодня|||REQUIRED|||-NONE-|||2
+
+S Перші кроки
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Свій перший пост я опублікував 3-го лютого 2018 року .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Це було фото валіз , котрі ми зібрали з собою до Франції .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 5 6|||G/Conjunction|||які|||REQUIRED|||-NONE-|||2
+
+S Тоді на мене були підписані лише декілька моїх друзів , але початок будо покладено .
+A 1 5|||F/Style|||за мною стежили|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Style|||кілька|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||було|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||було|||REQUIRED|||-NONE-|||2
+
+S Yevhenii Kanivets's Blog
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Мій перший пост
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 3|||F/Calque|||Моя перша публікація|||REQUIRED|||-NONE-|||2
+
+S Я відразу ж вирішив , що буду буду писати все як є , щоб не вийшло такого , знаєте , ідеального Instagram , що показує лише приємні моменти .
+A 6 7|||Spelling|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 9|||G/VerbAForm|||описуватиму|||REQUIRED|||-NONE-|||1
+A 23 24|||F/Style|||який|||REQUIRED|||-NONE-|||1
+A 6 7|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Я прагнув максимально точно передати свій досвід .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S До речі , всі ці ідеальні Instagram зламали психіку далеко не одному підлітку ( та не тільки ) .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Досі не розумію чому люди так бояться бути самими собою і створюють собі ці нудні образи “ успішних людей ” .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Але повернемося до теми .
+A 1 2|||G/VerbVoice|||повернімося|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Спочатку написання постів мені давалося дуже важко , адже я витрачав по декілька годин на їх переклад кожного дня .
+A 1 3|||F/Calque|||писати дописи|||REQUIRED|||-NONE-|||1
+A 4 5|||F/Style|||було|||REQUIRED|||-NONE-|||1
+A 12 13|||F/Style|||кілька|||REQUIRED|||-NONE-|||1
+A 15 16|||G/Case|||їхній|||REQUIRED|||-NONE-|||1
+A 2 3|||F/Calque|||публікацій|||REQUIRED|||-NONE-|||2
+A 11 13|||F/Style|||кілька|||REQUIRED|||-NONE-|||2
+A 15 16|||G/UngrammaticalStructure|||їхній|||REQUIRED|||-NONE-|||2
+A 17 19|||F/PoorFlow|||щодня|||REQUIRED|||-NONE-|||2
+
+S На щастя тем для записів було багато , залишалось тільки обирати про що розповісти .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S До речі поступово на мене почали підписуватися друзі та знайомі , а згодом і не знайомі люди …
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 7|||F/PoorFlow|||за мною почали стежити|||REQUIRED|||-NONE-|||1
+A 14 16|||Spelling|||незнайомі|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 14 16|||Spelling|||незнайомі|||REQUIRED|||-NONE-|||2
+
+S Як це сталося , розповім трохи далі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Прогрес та мотивація
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Якщо щось робити , то щось починає виходити .
+A 5 6|||F/Repetition|||це|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Так сталося і цього разу .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Несподівано мені почала допомагати мій викладач французької мови з університету – вона корегувала кожен мій запис .
+A 4 6|||G/Gender|||моя викладачка|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 6|||G/Gender|||моя викладачка|||REQUIRED|||-NONE-|||2
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Помилок було дуже багато , але кожного разу їх було все менше і це не могло не радувати .
+A 6 8|||F/Style|||щоразу|||REQUIRED|||-NONE-|||1
+A 6 8|||F/PoorFlow|||щоразу|||REQUIRED|||-NONE-|||2
+A 9 10|||F/Repetition|||ставало|||REQUIRED|||-NONE-|||2
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Поступово мені дуже сподобалося ділитися цікавою інформацією , що могла стати у нагоді іншим людям .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 12 13|||F/Collocation|||пригоді|||REQUIRED|||-NONE-|||2
+
+S Мені здається , що я навіть почав жити цікавіше , щоб було про що розповісти .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ми відвідували багато музеїв , парків , подорожували по іншим містам та країнам .
+A 8 11|||G/Case|||іншими містами|||REQUIRED|||-NONE-|||1
+A 12 13|||G/Case|||країнами|||REQUIRED|||-NONE-|||1
+A 8 13|||G/Case|||іншими містами та країнами|||REQUIRED|||-NONE-|||2
+
+S Я навіть писав про свої співбесіди та роботу , власні думки .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Звідки беруться підписники ?
+A 2 3|||F/Calque|||читачі|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Instagram створено таким чином , щоб отримати підписників органічним шляхом було максимально важко .
+A 7 8|||F/Calque|||читачів|||REQUIRED|||-NONE-|||1
+A 8 9|||G/UngrammaticalStructure|||звичним|||REQUIRED|||-NONE-|||1
+A 8 9|||F/Style|||природним|||REQUIRED|||-NONE-|||2
+
+S У головній стрічці кожен користувач бачить лише тих на кого вже підписаний .
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S У пошуку користувач переглядає контент , не звертаючи особливої уваги на його автора .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Таким чином кожен користувач має привести підписників з іншого джерела ( реальних знайомих , наприклад ) або ж придбати рекламу в Instagram , щоб влізти зі своїм контентом у стрічку незнайомців .
+A 0 2|||F/Calque|||Отже ,|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Calque|||читачів|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Третій спосіб , на котрий витрачають час звичайні користувачі – лайки та підписки на інших користувачів у надії на те , що ті підпишуться у відповідь .
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||F/Calque|||вподобання|||REQUIRED|||-NONE-|||1
+A 12 13|||F/Calque|||стеження|||REQUIRED|||-NONE-|||1
+A 13 16|||G/Case|||за іншими користувачами|||REQUIRED|||-NONE-|||1
+A 23 24|||F/Calque|||стежитимуть|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 10 11|||F/Calque|||вподобайки|||REQUIRED|||-NONE-|||2
+
+S Зазвичай кількість підписок / підписників у таких користувачів майже однакова .
+A 4 5|||F/Calque|||читачів|||REQUIRED|||-NONE-|||1
+A 3 4|||F/Style|||і|||REQUIRED|||-NONE-|||2
+
+S Є ще четвертий спосіб , але він вже для зовсім зневірених людей – придбання підписок та лайків .
+A 7 8|||Spelling|||уже|||REQUIRED|||-NONE-|||1
+A 9 10|||F/Style|||геть|||REQUIRED|||-NONE-|||1
+A 12 15|||Punctuation|||— придбати читачів|||REQUIRED|||-NONE-|||1
+A 16 17|||F/Calque|||вподобання|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 16 17|||F/Calque|||вподобайок|||REQUIRED|||-NONE-|||2
+
+S Є ( чи принаймні були ) цілі мережі фейкових аккаунтів , що за невелику винагороду підпишуться , пролайкають та навіть прокоментують ваші пости .
+A 9 10|||Spelling|||акаунтів|||REQUIRED|||-NONE-|||1
+A 15 15|||G/UngrammaticalStructure|||за вами|||REQUIRED|||-NONE-|||1
+A 15 16|||F/Calque|||стежитимуть|||REQUIRED|||-NONE-|||1
+A 17 18|||F/Calque|||вподобають|||REQUIRED|||-NONE-|||1
+A 18 19|||Spelling|||і|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||акаунтів|||REQUIRED|||-NONE-|||2
+A 17 18|||F/Calque|||вподобають|||REQUIRED|||-NONE-|||2
+A 22 23|||F/Calque|||публікації|||REQUIRED|||-NONE-|||2
+
+S Тільки задумайтесь , що люди готові витрачати власні кошти та брехати тисячам інших людей , лиша заради того , щоб виглядати краще у очах тих же самих людей .
+A 15 16|||Spelling|||лише|||REQUIRED|||-NONE-|||1
+A 21 22|||G/Case|||кращими|||REQUIRED|||-NONE-|||1
+A 22 22|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 22 26|||F/Calque|||на думку тих|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||лише|||REQUIRED|||-NONE-|||2
+
+S Але проблема мабуть не в Instagram , чи не так ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Розумне чи хитре рішення ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Як і кожному Instagram - блогеру , мені здавалося , що мій контент має побачити більше людей .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Тому після того як перша хвиля підписників закінчилася ( знайомі та друзі із реального життя ) , я вирішив , що потрібно збільшити охоплення іншим шляхом .
+A 6 7|||F/Calque|||читачів|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Саморекламу можно було організувати за рахунок лайків іншим користувачам , що доволі просто було автоматизувати за допомогою цього проекту – https://github.com/instabot-py/instabot.py.
+A 1 2|||Spelling|||можна|||REQUIRED|||-NONE-|||1
+A 4 7|||F/PoorFlow|||, ставлячи вподобання|||REQUIRED|||-NONE-|||1
+A 19 20|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 7|||F/Calque|||завдяки вподобайкам|||REQUIRED|||-NONE-|||2
+A 18 19|||Spelling|||проєкту|||REQUIRED|||-NONE-|||2
+
+S Yevhenii Kanivets's Blog
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Мій IoT набір , який я пізніше використовував для Instagram
+A 10 10|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Але ставити лайки рандомним користувачам було не дуже еффективно , тож я написав пошук в ширину і зібрав список підписників моїх підписників , що ймовірно могли про мене чути .
+A 8 9|||Spelling|||ефективно|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 19 20|||F/Calque|||читачів|||REQUIRED|||-NONE-|||1
+A 21 22|||F/Calque|||читачів|||REQUIRED|||-NONE-|||1
+A 2 4|||F/Calque|||вподобайки випадковим|||REQUIRED|||-NONE-|||2
+A 8 9|||F/Calque|||ефективно|||REQUIRED|||-NONE-|||2
+A 12 13|||Spelling|||розширив|||REQUIRED|||-NONE-|||2
+A 14 16|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S У результаті мій скрипт пропрацював близько 2 місяців запущений на Raspberry Pi вдень та вночі , збільшивши кількість моїх підписніків до 1000 .
+A 4 4|||G/UngrammaticalStructure|||, запущений на Raspberry Pi,|||REQUIRED|||-NONE-|||1
+A 8 12|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||удень|||REQUIRED|||-NONE-|||1
+A 19 20|||F/Calque|||читачів|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 19 20|||Spelling|||підписників|||REQUIRED|||-NONE-|||2
+
+S Потім мені стало нудно і я перестав займатися цією “ дуже важливою ” справою .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Результати
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Я успішно завершив свій проект через 256 днів після його початку .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 4 5|||Spelling|||проєкт|||REQUIRED|||-NONE-|||2
+
+S Рівень моєї французької значно виріс .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 4 5|||F/Style|||зріс|||REQUIRED|||-NONE-|||2
+
+S Крім того я дізнався та розповів про багато цікавих речей та подій .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||і|||REQUIRED|||-NONE-|||1
+A 10 11|||F/Repetition|||і|||REQUIRED|||-NONE-|||2
+
+S Нарешті мені вдалося розібратися з тим що так Instagram і навіщо він потрібен .
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||таке|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 7 8|||Spelling|||таке|||REQUIRED|||-NONE-|||2
+
+S Нажаль Instagram перетворився у місце маніфестації свого “ успіху ” та марнування власного часу для більшості користувачів .
+A 0 1|||Spelling|||На жаль|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Prep|||на|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||На жаль|||REQUIRED|||-NONE-|||2
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 3 4|||G/Prep|||на|||REQUIRED|||-NONE-|||2
+
+S Але не думаю , що проблема у самому ресурсі – він просто дав людям те , чого вони хотіли .
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Мені дуже подобається освітній контент , що спрямовано на розвиток людини – звіти про івенти , подорожі , книги та фільми , лайфхаки .
+A 6 7|||G/Conjunction|||який|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||G/VerbVoice|||спрямований|||REQUIRED|||-NONE-|||2
+A 11 11|||Punctuation|||:|||REQUIRED|||-NONE-|||2
+A 11 12|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 14 15|||F/Calque|||події|||REQUIRED|||-NONE-|||2
+
+S Загалом все , що несе у собі цінність для когось окрім самолюбства автора …
+A 1 2|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+

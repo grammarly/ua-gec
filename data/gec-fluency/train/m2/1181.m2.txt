@@ -1,0 +1,56 @@
+S " Я була поганою дівчинкою , Суді " , - сказала Джонсі .
+A 6 7|||Spelling|||Сьюді|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Щось змусило той останній листок залишитись там і показати мені наскільки слабкою я була .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Воліти померти - це гріх .
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Чи не могла б ти тепер принести мені трохи супу і молока з дещицею портвейну , і - ні ; принеси мені спершу люстерко , а потім уклади подушки біля мене , і я сяду та буду спостерігати як ти готуєш . "
+A 17 18|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 38 38|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 41 42|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 43 43|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S За годину вона сказала :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Суді , я сподіваюсь одного дня намалювати залив Неаполя . "
+A 1 2|||Spelling|||Сьюді|||REQUIRED|||-NONE-|||1
+A 8 9|||F/Calque|||затоку|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Доктор прийшов вдень , і Сью вийшла до холу вслід за ним .
+A 2 3|||Spelling|||удень|||REQUIRED|||-NONE-|||1
+
+S " Шанси рівні " , - мовив лікар , беручи тендітні тремтячі руки Сью до своїх .
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Ви переможете з добрим лікуванням . "
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S А зараз мені потрібно розглянути інший випадок , вниз по сходам від вас .
+A 8 9|||Spelling|||униз|||REQUIRED|||-NONE-|||1
+A 10 11|||G/Case|||сходах|||REQUIRED|||-NONE-|||1
+
+S Берман його звуть - якийсь артист .
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Також пневмонія .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він старий , слабкий чоловік і напад дуже важкий .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Безнайдійний випадок , але він лягає до госпіталю на днях , щоб почуватися більш комфортно .
+A 0 1|||Spelling|||Безнадійний|||REQUIRED|||-NONE-|||1
+A 13 14|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 14 15|||G/Comparison|||комфортніше|||REQUIRED|||-NONE-|||1
+

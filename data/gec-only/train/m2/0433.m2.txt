@@ -1,0 +1,47 @@
+S Король недалеко не вистачає сили це найгірше !
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Гей , на Січі ти б зараз спав , а тут бив у темряві , як убога .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Вони повинні блукати тут і сиромахами , бо коні хропуть .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Голоси поступово згасали - і нарешті зникли .
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Містер Лонгінус підвівся і продовжував ходити .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Дощ , такий тонкий , як туман , почав ітимочити .
+A 8 9|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||G/UngrammaticalStructure|||іти|||REQUIRED|||-NONE-|||1
+
+S Стало ще темніше .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S На лівій стороні містера Лонгіна трохи блиснуло дві зупинки , потім друга , потім третя , десята .
+A 4 5|||Spelling|||Лонгінуса|||REQUIRED|||-NONE-|||1
+
+S Тепер він був впевнений , що перебуває на лінії рухомого складу .
+A 3 4|||Spelling|||упевнений|||REQUIRED|||-NONE-|||1
+
+S Вогні були рідкісні та негучні - мабуть , всі спали там і тільки тут і там , можливо , люди пили чи готували їжу на завтра .
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||усі|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S " Слава Богу , що я йду після штурму та екскурсії " , - сказав собі пан Лонгінус .
+A 11 12|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Стомлені повинні бути смертельними .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 5|||G/UngrammaticalStructure|||Втома — це небезпечно|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S Він навряд чи подумав про це , коли знову почув ударину коня вдалині - їхав другий охоронець .
+A 10 12|||G/UngrammaticalStructure|||кінський біг|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

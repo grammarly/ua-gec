@@ -1,0 +1,53 @@
+S Мер Бенкс лежав у ліжку практично весь , окрім вусів та ніг .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він видавав такі звуки , які б йшли від людини , котра гуляє в парку Сан Франциско .
+A 7 8|||Spelling|||ішли|||REQUIRED|||-NONE-|||1
+A 15 17|||Spelling|||Сан-Франциско|||REQUIRED|||-NONE-|||1
+
+S Молодий чоловік стояв біля ліжка , тримаючи склянку води .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Док " , каже містер Мер , " Я жахливо хворий .
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||. —|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Я помираю .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Хіба нічого не можна зробити ? "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Містер Мер " , кажу я , " Я не учень школи Лапіус .
+A 1 2|||G/Case|||Містере|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 9|||Punctuation|||. —|||REQUIRED|||-NONE-|||1
+
+S Я ніколи не вчився в медичному коледжі , " кажу я , " Я просто прийшов як товариш по службі , щоб глянути чи я можу чимось допомогти .
+A 7 13|||G/UngrammaticalStructure|||.|||REQUIRED|||-NONE-|||1
+A 23 23|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 28 28|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S " " На мені стільки обов'язків " , каже він .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 9 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Док ( кашляє ) , це мій плимінник , містер Бідл .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||племінник|||REQUIRED|||-NONE-|||1
+
+S Він спробував полегшити мої неприємності , але нажаль безуспішно .
+A 8 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||на жаль|||REQUIRED|||-NONE-|||1
+A 9 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S О , Господи !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Оу-оу-оу ! ! " , вигукує він .
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

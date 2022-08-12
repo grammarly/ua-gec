@@ -1,0 +1,54 @@
+S " Я дуже завинив " , сказав він . " Лікаре Вагу , це мій небіж , Пан Бідл .
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 9 11|||G/Case|||一Лікарю|||REQUIRED|||-NONE-|||1
+A 17 18|||Spelling|||пан|||REQUIRED|||-NONE-|||1
+
+S Він спробував полегшити мій емоційний стан , але марно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S О , Боже !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ох-ох -ох ! " він протягнув .
+A 4 4|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S " Я кивнув пану Бідлу , сів на ліжко та почав вимірювати пульс мера .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S " Покажіть мені вашу печінку - ваш язик , я мав на увазі , " сказав я .
+A 5 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S Потім я підняв його повіки та уважно подивився , так само як дивляться його учні .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Як довго ви хворієте ? я запитав .
+A 0 0|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 7 7|||G/UngrammaticalStructure|||я|||REQUIRED|||-NONE-|||1
+
+S Мені погіршало вчора ввечері , ай , боляче , сказав мер .
+A 0 0|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S Дасте мені щось від цього ?
+A 0 0|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S Так , лікарю ?
+A 4 4|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S Пане Фідл , чи не відкриєте ви фіранку на вікні ?
+A 0 0|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||Бідле|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S Бідл , сказав молодик , може б ви з'їли трохи яєчні з шинкою , Дядько Джеймс ?
+A 0 0|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||"Може|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 14 15|||G/Case|||дядьку|||REQUIRED|||-NONE-|||1
+A 15 16|||G/Case|||Джеймсе|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,33 @@
+S " Вони є .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Досі , " відповів джентельмен " , " Хотів би я сказати , що ні . " " Тоді жалюгідна робота та закон про бідних ще у силі ? " сказав Скрудж .
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 7|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 30 30|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Обоє дуже зайняті , сер . " " Ох !
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Я спершу був наляканий від того , що почув від вас , думаючи , що трапилось щось , що зупинило їхній щирий курс " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Я радий чути це . " " Під враженням , що він слабо допомагає християнській душі чи тілу мас " , відказав джентельмен , " декілька з нас прагнуть виділити гроші , аби купити біднякам їжі та води , та щось , щоб зігрітись .
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 20 21|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 21 22|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+A 25 26|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 26 27|||F/Style|||дехто|||REQUIRED|||-NONE-|||1
+A 29 30|||G/Number|||прагне|||REQUIRED|||-NONE-|||1
+
+S Ми обираємо цей час , тому що це час , коли гостро відчувається нестача , а достаток дає більше насолоди .
+A 7 11|||F/PoorFlow|||тоді|||REQUIRED|||-NONE-|||1
+
+S Скільки мені відкласти за Вас ?"
+A 4 5|||Spelling|||вас|||REQUIRED|||-NONE-|||1
+

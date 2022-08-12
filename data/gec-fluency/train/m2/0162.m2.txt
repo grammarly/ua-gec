@@ -1,0 +1,40 @@
+S " Я не лікар " , кажу я .
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Чому б тобі не піти знайти лікаря ? "
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Бос " , каже він . " Лікар Госкінс за тватцять миль вітвітуює по селах теяких хволих .
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Він єтиний лікар у місті , а Мелу Бенксу туже погано .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він послав мене плосити вас плиїхати , сех , буть ласка " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Як чоловік чоловікові " , кажу я , " Я приїду подивитися його " .
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Тож я засунув до кишені пляшку " Resurrection Bitters " і піднявся на пагорб до маєтку мера , найкрасивішого будинку міста , із мансардами на даху та двома залізними литими собаками на газоні .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Цей Мер Бенкс був у ліжку і звідти стирчали тільки його скроні та ноги .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він продукував звуки схожі з тими , які мав би кожен , хто у Сан-Франциско діставався парків .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Prep|||на|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Case|||ті|||REQUIRED|||-NONE-|||1
+
+S Молодик стояв поруч із ліжком тримаючи горнят води .
+A 2 3|||F/Style|||поряд|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Style|||чашку|||REQUIRED|||-NONE-|||1
+

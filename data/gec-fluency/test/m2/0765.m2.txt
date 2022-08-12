@@ -1,0 +1,109 @@
+S Привіт , Настя !
+A 2 3|||G/Case|||Насте|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Case|||Насте|||REQUIRED|||-NONE-|||2
+
+S Чи буде тобі зручно піднести бустер до нашого будинку до 18 : 10 ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 9 10|||G/Prep|||о|||REQUIRED|||-NONE-|||2
+
+S Надя почувається чуводо , але ми даємо антибіотик , тож вирішили перший тиждень потримати її подалі від великого дитячого колективу .
+A 2 3|||Spelling|||чудово|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||чудово|||REQUIRED|||-NONE-|||2
+
+S Подарунок це дуже приємно , дякуємо !
+A 1 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Гадаю що Уляні буде цікавішим намистинки для прикраси .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Number|||будуть|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Number|||цікавішими|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 1 2|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||2
+A 3 5|||G/Number|||будуть цікавішими|||REQUIRED|||-NONE-|||2
+
+S Так чудова ідея !
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S А о котрій там початок ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S ( У нас вранці буде ще один візит до інфекціоністки )
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 10 11|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S А я дзвонила в немо розмовляла з тренеркою Ольгою .
+A 4 5|||Spelling|||"Немо|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||",|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||“Немо”|||REQUIRED|||-NONE-|||2
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Якщо встигнемо зробити справку Уляні , то вона піде в середу на 12 : 30 на тренування .
+A 3 4|||F/Calque|||довідку|||REQUIRED|||-NONE-|||1
+A 3 4|||F/Calque|||довідку|||REQUIRED|||-NONE-|||2
+A 11 12|||G/Prep|||о|||REQUIRED|||-NONE-|||2
+
+S Подивимось що там і як .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Подивимося|||REQUIRED|||-NONE-|||2
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S А Надіці відвідувати басейн поки що не варто .
+A 1 2|||Spelling|||Надійці|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||Надійці|||REQUIRED|||-NONE-|||2
+
+S Ні , це групове заняття .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Я питала про приватні і тренерка якось не зацікавлена .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 6 7|||F/Style|||, здається ,|||REQUIRED|||-NONE-|||2
+
+S Може якщо назбираємо кілька дружніх діток , то зможемо створити групу на зручний час .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 4 5|||F/Style|||дружних|||REQUIRED|||-NONE-|||2
+
+S Але перш ніж про щось домовлятись мені хочеться подивитись на басейн і на тренерку .
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 5 6|||Spelling|||домовлятися|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 8 9|||Spelling|||подивитися|||REQUIRED|||-NONE-|||2
+
+S Тож подивимось з Уляною в середу якщо вийде .
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 2|||F/Repetition|||подумаємо|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Нам 12 : 30 теж не дуже то й підходить , просто що цього тижня діти не в садочку , то вирішили спробувати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 1|||G/UngrammaticalStructure|||о|||REQUIRED|||-NONE-|||2
+A 11 13|||F/Style|||оскільки|||REQUIRED|||-NONE-|||2
+
+S Оо , а спитайте будь ласка виховательку чи не з'явилися раптом місця в Гафійчиній групі .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||О|||REQUIRED|||-NONE-|||2
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 10 11|||F/Style|||часом|||REQUIRED|||-NONE-|||2
+
+S Ми зараз почали робити Надії медогляд для державного садочка .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 1|||F/PoorFlow|||з Надією|||REQUIRED|||-NONE-|||2
+A 1 2|||F/Style|||вже|||REQUIRED|||-NONE-|||2
+A 3 5|||F/PoorFlow|||проходити|||REQUIRED|||-NONE-|||2
+
+S Але ж ці три тижні на антибіотиках , тому справку " може відвідувати садок " лікарка нам не дасть .
+A 9 10|||F/Calque|||довідку|||REQUIRED|||-NONE-|||1
+A 5 5|||G/UngrammaticalStructure|||вона|||REQUIRED|||-NONE-|||2
+A 9 15|||F/PoorFlow|||довідку про можливість відвідування садка|||REQUIRED|||-NONE-|||2
+

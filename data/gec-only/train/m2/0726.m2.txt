@@ -1,0 +1,73 @@
+S Після того , як Майстер допив другу склянку , його очі зробилися живими та усвідомленими .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - От це вже інша справа - сказав Воланд , примружуючись , - тепер поговоримо .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Хто Ви такий ?
+A 1 2|||Spelling|||ви|||REQUIRED|||-NONE-|||1
+
+S - Я тепер ніхто , - відповів Майстер , і посмішка викривила його рота .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Звідки Ви щойно ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||ви|||REQUIRED|||-NONE-|||1
+
+S - З будинку скорботи .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я - психічнохворий , - відповів прибулець .
+A 1 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||психічно хворий|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Цих слів Маргарита не витримала і знову заплакала .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Згодом вона протерла очі і вскрикнула :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Жахливі слова !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Жахливі слова !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він Майстер , мессір , я Вас попереджаю про це .
+A 3 4|||G/Case|||мессіре|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||вас|||REQUIRED|||-NONE-|||1
+
+S Вилікуйте його , він вартий того .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Ви знаєте , з ким зараз спілкуєтеся , - спитав у прибулого Воланд , - у кого Ви знаходитеся ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 18 19|||Spelling|||ви|||REQUIRED|||-NONE-|||1
+
+S - Знаю , - відповів Майстер , - моїм сусідом в божевільні був цей хлопчик , Іван Безхатній .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S Він розповів мені за Вас .
+A 4 5|||Spelling|||вас|||REQUIRED|||-NONE-|||1
+
+S - А як же , а як же , - озвався Воланд , - я мав задоволення зустрітися з цим молодиком на Патріархових ставках .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Він ледь мене самого не звів з розуму , доводячи , що мене немає !
+A 6 7|||Spelling|||із|||REQUIRED|||-NONE-|||1
+
+S Але Ви ж вірите , що це дійсно я ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

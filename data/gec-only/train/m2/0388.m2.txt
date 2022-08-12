@@ -1,0 +1,52 @@
+S Ви досить добре справились з Вестом , хіба ні ?- запитав поліцейський .
+A 0 0|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||" —|||REQUIRED|||-NONE-|||1
+
+S Ти правий !
+A 0 0|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S Я сподіваюсь Джиммі справився добре щ половиною .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||з|||REQUIRED|||-NONE-|||1
+
+S Він був шахраєм , однак і хорошим товаришем .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я мав змагатися з найгострішими розумами , які прагнуть забрати мою купу .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Чоловік потрапив в неприжмності Нью-Йорку .
+A 2 3|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||неприємності|||REQUIRED|||-NONE-|||1
+A 4 4|||Spelling|||в|||REQUIRED|||-NONE-|||1
+
+S Це змусило Веста порізати себе бритвою .
+A 6 6|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S Полісмен покрутив своєю дубиною і ступив крок чи два .
+A 2 3|||G/Gender|||своїм|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Gender|||дубцем|||REQUIRED|||-NONE-|||1
+
+S Я буду в дорозі .
+A 0 0|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S Сподіваюсь , з вашим другом буде все впорядку , коли він приїде .
+A 2 3|||Spelling|||із|||REQUIRED|||-NONE-|||1
+
+S Збираєтесь назначити точний час для нього ?
+A 7 7|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S Я повинен сказати ні ! відповів інший .
+A 0 0|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я дам йому щонайменше пів години .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Якщо Джиммі живе на Землі , він прибуде вчасно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Бувайте , офіцер .
+A 2 3|||G/Case|||офіцере|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+

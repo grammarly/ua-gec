@@ -1,0 +1,55 @@
+S " Благослови мене , Господи ! " вигукнув новоприбулий , хапаючи обидві свої руки .
+A 7 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 14|||F/PoorFlow|||плеснувши руками|||REQUIRED|||-NONE-|||1
+
+S " Це Бобе , я впевнений що доля " .
+A 1 2|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 7|||F/PoorFlow|||це|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Я був певний що знайду тебе якщо ти ще існуєш .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||F/Style|||живий|||REQUIRED|||-NONE-|||1
+
+S Ну-ну-ну ! -- двадцять років це довгий термін .
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Старе пройшло , Бобе ; я б хотів щоб воно тривало і ми змогли б повечеряти разом .
+A 0 2|||F/PoorFlow|||Все минуло|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Як там Захід ставився до тебе , старий ? "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Задирако , це дало мені все про що я просив .
+A 7 9|||Punctuation|||, чого|||REQUIRED|||-NONE-|||1
+A 10 11|||F/PoorFlow|||прагнув|||REQUIRED|||-NONE-|||1
+
+S Ти дуже змінився , Джиммі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ніколи не думав що ти вищий на два чи три дюйми . "
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " О , я підріс від двадцяти "
+A 8 8|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Як справи в Нью Йорку , Джиммі ? "
+A 4 6|||Spelling|||Нью-Йорку|||REQUIRED|||-NONE-|||1
+
+S " Помірно .
+A 1 2|||F/PoorFlow|||Може бути|||REQUIRED|||-NONE-|||1
+
+S Займаю посаду в одному з міських управлінь .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Давай , Бобе , відвідаймо знайомі місця і поговоримо про старі добрі часи . "
+A 8 9|||G/Other|||поговорімо|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,76 @@
+S " П'ять чого , дорогенька ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Скажи своїй Сюді . "
+A 2 3|||Spelling|||Сьюді|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||Сьюді|||REQUIRED|||-NONE-|||2
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S " Листків .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S На стеблі плюща .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Коли останній впаде , я мушу йти також .
+A 5 7|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 8|||F/PoorFlow|||піду|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Я знаю це вже три дні .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Чи лікар тобі не казав ? "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S " Ох , я ще не чула такої нісенітниці , " поскаржилася Сю , з значною зневагою .
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||F/Style|||відповіла|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||Сью|||REQUIRED|||-NONE-|||1
+A 13 17|||F/PoorFlow|||зневажливо|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 12 14|||Spelling|||Сью|||REQUIRED|||-NONE-|||2
+A 14 15|||Spelling|||зі|||REQUIRED|||-NONE-|||2
+
+S " Що мають старі листки плюща до твого одужання ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S А тобі ж подобалась це стебло дуже , ти неслухняна дівчинко .
+A 3 4|||G/Gender|||подобалось|||REQUIRED|||-NONE-|||1
+A 6 7|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Gender|||дуже подобалось|||REQUIRED|||-NONE-|||2
+A 6 7|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||2
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 9 11|||G/Gender|||неслухняне дівчисько|||REQUIRED|||-NONE-|||2
+
+S Чому , лікар сказав мені цього ранку , що твої шанси одужати - давай згадаємо точно , що він сказав - він сказав , що шанси десять до одного !
+A 0 3|||F/PoorFlow|||Лікар|||REQUIRED|||-NONE-|||1
+A 12 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||F/Style|||дай-но|||REQUIRED|||-NONE-|||1
+A 14 15|||G/Number|||згадаю|||REQUIRED|||-NONE-|||1
+A 20 21|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 20 26|||F/Repetition|||—|||REQUIRED|||-NONE-|||2
+A 27 28|||F/PoorFlow|||проти|||REQUIRED|||-NONE-|||2
+
+S Чому , цеж такі самі як шанси , які ми мали в Нью-Йорку коли ми каталися на вуличних машинах чи проходили повз новий будинок .
+A 0 2|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||Це ж|||REQUIRED|||-NONE-|||1
+A 5 6|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 14 15|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||це ж|||REQUIRED|||-NONE-|||2
+A 5 6|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 14 15|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||2
+

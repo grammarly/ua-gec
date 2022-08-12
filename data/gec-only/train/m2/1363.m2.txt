@@ -1,0 +1,62 @@
+S Це ти Джимі Волс ? плакав чоловік в дверях .
+A 0 0|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||Джиммі|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S Благослови моє серце ! " , - вигукнув новоприбувший , схопивши обидві руки інших . "
+A 0 0|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||G/Number|||іншого|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Це Боб , впевнений , як доля .
+A 3 4|||Spelling|||упевнений|||REQUIRED|||-NONE-|||1
+
+S Я була впевнена , що знайду вас тут , якби ви все ще існували .
+A 1 2|||G/Gender|||був|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Gender|||упевнений|||REQUIRED|||-NONE-|||1
+
+S Так Так Так ! - двадцять років - це багато часу .
+A 1 1|||Punctuation|||!|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||!|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Старий пішов , Боб ; Я би хотів , щоб це тривало , тож ми могли б там ще обідати .
+A 3 5|||G/Case|||Бобе|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 16 17|||Spelling|||би|||REQUIRED|||-NONE-|||1
+
+S Як Захід ставився до вас , старий ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Хуліган ; він дав мені все , про що я просив .
+A 2 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Ти багато чого змінив , Джиммі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я ніколи не думав , що ти такий високий на два- три дюйми " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " О , я трохи виріс після того , як мені було двадцять " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Добре в Нью-Йорку , Джиммі ? "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Помірковано .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S У мене є посада в одному з міських департаментів .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Давай , Боб ; ми поїдемо туди , де я знаю , і довго поговоримо про давні часи " .
+A 2 3|||G/Case|||Бобе|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,46 @@
+S " Тепер , виконуйте свої обов'язки , офіцере " , - сказав мер скалячись на відміну від хворої людини .
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Пан Бідл кладе свою руку на моє плече .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Вас заарештовано , Доктор Ван-ху , на прізвисько Петерс , - сказав він , - за практикування медицини без державної ліцензії .
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " " Хто ти ? " - Я запитую .
+A 0 1|||Punctuation|||".|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||я|||REQUIRED|||-NONE-|||1
+
+S " Я скажу хто він , - каже Пан Мер сидячи на ліжку .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||пан|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||мер|||REQUIRED|||-NONE-|||1
+A 11 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Це детектив найнятий Державним медичним товариством .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він слідував за вами через п'ять округів .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він прийшов вчора до мене і ми
+A 4 6|||Spelling|||учора|||REQUIRED|||-NONE-|||1
+
+S погодили цей план спіймати вас .
+A 1 0|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Думаю , ви більше не будете лікувати в цьому районі , пан Факір .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Що ви сказали я мав , докторе ? Мер сміється , " суміш - що ж , це мабуть не пом'якшення для мозку . "
+A 2 3|||G/Case|||пане|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||— мер|||REQUIRED|||-NONE-|||1
+A 13 17|||G/Aspect|||засміявся|||REQUIRED|||-NONE-|||1
+A 18 18|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 21 20|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 22 21|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+

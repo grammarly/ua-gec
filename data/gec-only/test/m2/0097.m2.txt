@@ -1,0 +1,85 @@
+S Дивитись кіно - це відпочинок ?
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Давайте подумаємо , напротязі перегляду фільму ви диветесь на екран і щосекунди Ви отримаєте нову інформацію яка завантажується у Ваш мозок .
+A 0 2|||G/VerbAForm|||Подумаймо|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||дивитесь|||REQUIRED|||-NONE-|||1
+A 13 14|||G/Tense|||отримуєте|||REQUIRED|||-NONE-|||1
+A 16 16|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 19 20|||Spelling|||ваш|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||дивитесь|||REQUIRED|||-NONE-|||2
+A 13 14|||G/Tense|||-NONE-|||REQUIRED|||-NONE-|||2
+A 16 16|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 19 20|||Spelling|||ваш|||REQUIRED|||-NONE-|||2
+
+S Отже мозок не відпочиває .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Комп'ютерні ігри , соціальні мережі ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Те саме , багато нової інформації .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Пити вино , пиво - це відпочинок ?
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Для Вашої печінки точно ні .
+A 1 2|||Spelling|||вашої|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||вашої|||REQUIRED|||-NONE-|||2
+
+S Шопінг ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Постійний аналіз подобається / не подобається .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 2 2|||Punctuation|||:|||REQUIRED|||-NONE-|||2
+
+S Отже , якщо Ви вважаєте що мозок та печінка це щось відокремлене від Вас , то можете вважати що все вище зазначене це відпочинок .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||вас|||REQUIRED|||-NONE-|||1
+A 18 18|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||ви|||REQUIRED|||-NONE-|||2
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 9 9|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 18 18|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 20 22|||Spelling|||вищезазначене|||REQUIRED|||-NONE-|||2
+A 22 22|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Якщо ж Ви дійсно хочете відпочити , варто спочатку визначитись , що Ви вважаєте під ' Я' у виразі ' Я хочу відпочити ' .
+A 2 3|||Spelling|||ви|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||ви|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 19 20|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 23 24|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||ви|||REQUIRED|||-NONE-|||2
+A 15 16|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 16 17|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+A 19 19|||Punctuation|||:|||REQUIRED|||-NONE-|||2
+A 19 20|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 23 24|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+
+S Для Я - руки - ноги це один відпочинок , а для Я - людина - зовсім інший .
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 2 3|||Punctuation|||” —|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S # Логічно ?)
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 2 3|||Punctuation|||?|||REQUIRED|||-NONE-|||2
+

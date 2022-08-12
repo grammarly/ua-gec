@@ -1,0 +1,58 @@
+S У будь-який країні , для того щоб розвиватись і рухатись вперед - пишуть , обговорюють , правлять , а потім приймають закони .
+A 1 2|||G/Gender|||будь-якій|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||будь-якій|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 11 12|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S А що ми з Вами робимо щоб рухатись і досягати цілей ?
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||вами|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Чи є у кожного детальний , прописаний план із термінами реалізації кожного пункту , або іншими словами чи є договір із самим собою , який включає і штрафи у разі не виконання ?
+A 17 17|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 30 32|||Spelling|||невиконання|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 30 32|||Spelling|||невиконання|||REQUIRED|||-NONE-|||2
+
+S : -)
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Наприклад , я сьогодні заплатив дружині 2500 грн за чашку кави , бо порушив договір що не буду пити каву один місяць .
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 18 19|||G/Tense|||питиму|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Все просто , порушив - має бути покарання яке ти запам'ятаєш , та яке буде стимулювати тебе більше не порушувати .
+A 0 1|||Spelling|||Усе|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 15 16|||G/Tense|||стимулюватиме|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 11 12|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Отже , будь яка компанія чи держава досягає успіхи через укладання договорів та виконання своїх забов'язань .
+A 2 4|||Spelling|||будь-яка|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Case|||успіхів|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||зобов'язань|||REQUIRED|||-NONE-|||1
+A 2 4|||Spelling|||будь-яка|||REQUIRED|||-NONE-|||2
+A 8 9|||G/Case|||успіхів|||REQUIRED|||-NONE-|||2
+A 15 16|||Spelling|||зобов’язань|||REQUIRED|||-NONE-|||2
+
+S Так і чому би це не перейняти та укладати і дотримуватись договорів для досягнення своїх цілей ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S # Логічно ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

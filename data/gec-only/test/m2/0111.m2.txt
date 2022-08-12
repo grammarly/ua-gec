@@ -1,0 +1,83 @@
+S - Я не лікар , - скажу я . -
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 4 8|||Punctuation|||. — кажу|||REQUIRED|||-NONE-|||2
+A 9 10|||G/Aspect|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Чому ти не підш і не звернишся до лікаря ?
+A 3 4|||Spelling|||підеш|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||звернешся|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||підеш|||REQUIRED|||-NONE-|||2
+A 6 7|||Spelling|||звернешся|||REQUIRED|||-NONE-|||2
+
+S - Бос , - каже він . - Лікар Хокінг я пройшов двадцять миль , щоб побачити хвору людину .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||Босе|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 8|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 10 11|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 1 2|||G/Case|||Босе|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 6 8|||Punctuation|||, —|||REQUIRED|||-NONE-|||2
+A 8 9|||Spelling|||лікар|||REQUIRED|||-NONE-|||2
+A 10 11|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Він єдиний лікар в місті й Мессі Бенк дуже сильно погано .
+A 1 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 5 8|||G/UngrammaticalStructure|||і містеру Бенксу|||REQUIRED|||-NONE-|||2
+
+S Він відправив мені сокиру , щоб вгодити , отже , прийдіть .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S - Як чоловік чоловіку , - кажу я , – - Я поїду й огляну його .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 4 6|||Punctuation|||, -|||REQUIRED|||-NONE-|||2
+A 9 11|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Отжу я поклав бутилку ліків в портфель та пішов в гору до маєтку мера , кінцевий будинок в селещі , з мансардною кришею та двума срібними псами на газані .
+A 0 1|||Spelling|||Отже|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Prep|||до|||REQUIRED|||-NONE-|||1
+A 6 7|||G/Case|||портфеля|||REQUIRED|||-NONE-|||1
+A 9 11|||Spelling|||вгору|||REQUIRED|||-NONE-|||1
+A 17 18|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 18 19|||Spelling|||селищі|||REQUIRED|||-NONE-|||1
+A 21 22|||G/Gender|||мансардним|||REQUIRED|||-NONE-|||1
+A 24 25|||Spelling|||двома|||REQUIRED|||-NONE-|||1
+A 28 29|||Spelling|||газоні|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Отже|||REQUIRED|||-NONE-|||2
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 5 6|||Spelling|||у|||REQUIRED|||-NONE-|||2
+A 9 11|||Spelling|||угору|||REQUIRED|||-NONE-|||2
+A 18 19|||Spelling|||селищі|||REQUIRED|||-NONE-|||2
+A 24 25|||Spelling|||двома|||REQUIRED|||-NONE-|||2
+A 28 29|||Spelling|||газоні|||REQUIRED|||-NONE-|||2
+
+S Цьому меру Бенкс було зовсім погано , але його вуса та ноги .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 12|||G/UngrammaticalStructure|||Цей мер Бенкс увесь сховався у ліжку, що виднілися лише борода і ступні ніг|||REQUIRED|||-NONE-|||2
+
+S Він створював внутрішній шум , який могли почути кожен в Сан Франциско хто гуляв у парку .
+A 9 10|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 10 12|||Spelling|||Сан-Франциско|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 10|||G/Number|||міг почути кожен у|||REQUIRED|||-NONE-|||2
+A 10 12|||Spelling|||Сан-Франциско|||REQUIRED|||-NONE-|||2
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Молодий чоловік стояв біля ліжку , тримаючи стакан з водою .
+A 4 5|||G/Case|||ліжка|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Case|||ліжка|||REQUIRED|||-NONE-|||2
+A 8 9|||Spelling|||із|||REQUIRED|||-NONE-|||2
+

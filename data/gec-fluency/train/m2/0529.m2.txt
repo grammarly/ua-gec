@@ -1,0 +1,38 @@
+S Любов довготерпить , говорили вони
+A 5 5|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Що з того , що навколо тебе стільки пітьми
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S що з того , знаєш від нього лише кулаки
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Хіба хліб твій - не з його руки ?
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Любов довготерпить , смиренність одна з чеснот
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S що з того , що він тобі затуляє рот
+A 9 9|||Punctuation|||?|||REQUIRED|||-NONE-|||1
+
+S Мальовидла - не марнославство , коли ховають синці
+A 1 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S підстав іншу щоку , пудру візьми й олівці
+A 8 8|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S любов довготерпить , таке життя
+A 0 1|||Spelling|||Любов|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Ради бога , не треба виносити з хати сміття
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S " любов не рветься до гніву " , але чому
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S цього ніхто не розповів йому ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

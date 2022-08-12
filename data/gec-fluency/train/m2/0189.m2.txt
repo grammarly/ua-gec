@@ -1,0 +1,47 @@
+S Нещодавно Сергія Шкарлета призначили в .о .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Міністра освіти і науки .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S У його роботах виявлено велику кількість плагіату ( https://zn.ua/ukr/EDUCATION/posada-z-chuzhogo-plecha-350164_.html) — тобто чужого тексту з думками та інформацією , який видається за свій .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 13 13|||Punctuation|||(|||REQUIRED|||-NONE-|||2
+A 17 17|||Punctuation|||)|||REQUIRED|||-NONE-|||2
+
+S ( Про класифікацію плагіату можна подивитись інфографіку англійською тут : https://realkm.com/2016/09/01/infographics-did-i-plagiarize-and-can-i-use-that-picture/)
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Я можу припустити , що такий підхід до написання наукових робіт у багатьох галузях науки в Україні якийсь час тому вважався нормальним .
+A 19 20|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 17 20|||F/PoorFlow|||колись|||REQUIRED|||-NONE-|||2
+A 20 22|||G/VerbVoice|||вважали нормою|||REQUIRED|||-NONE-|||2
+
+S Але він не є нормальним — це треба визнати , інакше замість розвитку та руху вперед буде тільки переставляння слів місцями .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 7|||F/PoorFlow|||це не нормально,|||REQUIRED|||-NONE-|||2
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 16 16|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S На жаль , Сергій Шкарлет не визнає наявність плагіату та не вибачається .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Це натякає , що і змінювати подібні плагіатні практики в науковому середовищі він не буде .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 2|||F/PoorFlow|||натяк на те|||REQUIRED|||-NONE-|||2
+A 7 9|||F/PoorFlow|||практики плагіату|||REQUIRED|||-NONE-|||2
+
+S Тому закликаю підписати петицію до Кабінету міністрів із вимогою відставки Шкарлета з посади в .о .
+A 6 7|||Spelling|||Міністрів|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Міністра освіти і науки .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

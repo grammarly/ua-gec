@@ -1,0 +1,22 @@
+S " Господь благословив мене " , - вигукнув чоловік із захватом .
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Шановний пане Скрудж , ви сер'йозно " ? " Якщо ваша ласка - , відповів пан Скрудж .
+A 6 7|||Spelling|||серйозно|||REQUIRED|||-NONE-|||1
+A 7 9|||Punctuation|||?"|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 13 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - І це справедлива ціна , я певен , що отримаю зиск в майбутньому .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S То ви згодні ? " " Друже " , - почав говорити другий чоловік , що привітався з паном Скруджем , Я не знаю , навіть , що додати ... " " Нічого не кажіть " , - перебив чоловіка Скрудж , - " Приходьте і самі все побачите " .
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 20 21|||Punctuation|||. —|||REQUIRED|||-NONE-|||1
+A 24 25|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 35 36|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 37 38|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 41 44|||Punctuation|||. —|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,47 @@
+S " Полісмене ! " - кажу я , " чудова нічі "
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||ніч|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Чи маєш ти ліцензію " , запитав він , " щоб продавати цю не лигітимізовану суспензію , що ви називаєте ліками ?
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 16|||Spelling|||нелегітимізовану|||REQUIRED|||-NONE-|||1
+A 18 19|||G/Conjunction|||яку|||REQUIRED|||-NONE-|||1
+A 19 21|||G/UngrammaticalStructure|||називаєш|||REQUIRED|||-NONE-|||1
+
+S "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Ні , сер " - відповів я , " Я не знав , що потрібно .
+A 4 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Якщо я знайду її до завтра , то принесу , якщо це так необхідно "
+A 15 15|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Тоді я мушу вас арештувати до поки ви це не зробите " - відповів полісмен
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 8|||Spelling|||доки|||REQUIRED|||-NONE-|||1
+A 9 10|||G/Case|||цього|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+A 16 16|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Я покинув продавати і повернувся в готель .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Потім поговорив з власником отелю про це .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Ох , ти не зможеш робити свою справу на Фішер Хіл " - відповів він " містер Хоскінс єдиний доктор тут , а ще він зять майора , тому вони не дозволять фіктивному лікарю практикуватись у місті "
+A 13 14|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+A 26 26|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 39 39|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

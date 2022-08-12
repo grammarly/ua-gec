@@ -1,0 +1,55 @@
+S " Рахунок 1 проти культури " сказала я .
+A 5 6|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+
+S " Я буду знати , коли побачу це . "
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Гудлое дивився на старий документ Рудле , коли у нього вирвалось найбільш неколегійне лайливе слово .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Підійди сюди , " - сказав він , тримаючи папір проти сонця .
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S " Подивись на це , " - він сказав , поклавши свій палець напроти нього .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 14|||F/Style|||навпроти|||REQUIRED|||-NONE-|||1
+
+S На цьому голубому папері - річ , яку я ніколи раніш не помічав раніш - я побачив виділені білими буквами слова та фігури : " Мальверн , 1898 . "
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||G/Case|||якої|||REQUIRED|||-NONE-|||1
+A 10 11|||F/Style|||раніше|||REQUIRED|||-NONE-|||1
+A 13 14|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S " Як щодо цього ? " - запитала я .
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Це водяний знак , - сказав Гудлое .
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Папір був виготовлений у 1898 .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Напис на папері він був датованим 1863 .
+A 3 4|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Це відчутне шахрайство . "
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Ох , я не знаю , - сказав я .
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Рундли є достатньо надійними , простими , неосвідченими селянами .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||неосвіченими|||REQUIRED|||-NONE-|||1
+
+S Можливо , виробник паперу спробував вчинити шахрайство . "
+A 5 7|||F/PoorFlow|||шахраювати "|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+

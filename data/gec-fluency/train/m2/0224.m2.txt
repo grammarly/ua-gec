@@ -1,0 +1,488 @@
+S Це другий матеріал з серії статей про рідинні ракетні двигуни .
+A 3 4|||Spelling|||із|||REQUIRED|||-NONE-|||1
+
+S Першу частину присвячено поясненню що таке РРД , що таке тяга та питомий імпульс тяги , на чому працюють РРД .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я буду використовувати термінологію і факти з неї , так що якщо ви її не читали -- прочитайте .
+A 1 2|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Tense|||використовуватиму|||REQUIRED|||-NONE-|||1
+A 9 11|||F/PoorFlow|||тож|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Спочатку я розповів про те які речовини використовують у якості пального для РРД то в цій статті ми розглянемо як це пальне потрапляє з баків до камери згоряння .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 10|||F/Calque|||як|||REQUIRED|||-NONE-|||1
+A 10 11|||G/Case|||пальне|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 13 14|||G/Conjunction|||а|||REQUIRED|||-NONE-|||1
+A 19 19|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Для цього придумали декілька типів систем подачі і всі вони повинні виконувати задачу подачі всіх компонентів пального до КЗ під відповідним тиском , який більше тиску в КЗ , з необхідною для створення тяги секундною витратою пального і з дотриманням співвідношення компонентів .
+A 3 4|||F/Style|||кілька|||REQUIRED|||-NONE-|||1
+A 11 14|||F/PoorFlow|||подавати|||REQUIRED|||-NONE-|||1
+A 14 15|||G/Case|||всі|||REQUIRED|||-NONE-|||1
+A 15 16|||G/Case|||компоненти|||REQUIRED|||-NONE-|||1
+A 24 25|||G/Prep|||більший за|||REQUIRED|||-NONE-|||1
+A 25 26|||G/Case|||тиск|||REQUIRED|||-NONE-|||1
+A 26 27|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S О !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Згадав !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ще одна штука про яку треба розказати , Співвідношення компонентів .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||співвідношення|||REQUIRED|||-NONE-|||1
+
+S Давайте зробимо хіміко - математичний відступ і трохи розберемося з ним .
+A 0 2|||G/VerbAForm|||Зробімо|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Other|||розберімося|||REQUIRED|||-NONE-|||1
+
+S Зі шкільного курсу хімії всі пам'ятають що речовини які реагують в якійсь реакції повинні складати певну пропорцію , інакше залишається деяка маса речовини що не прореагувала .
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 23 23|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S В нашому випадку мова йде про реакцію окислення тобто горіння .
+A 3 5|||F/PoorFlow|||йдеться|||REQUIRED|||-NONE-|||1
+A 7 8|||F/Calque|||окиснення|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Давайте розглянемо пару кисень - водень .
+A 0 2|||G/VerbAForm|||Розгляньмо|||REQUIRED|||-NONE-|||1
+
+S Реакція горіння цього пального :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Тобто на два моля водню треба 1 моль кисню , або якщо перерахувати в масі то на 4 г водню - 32 г кисню .
+A 0 1|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Case|||молі|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 20 21|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Це - стехіометричне співвідношення компонентів , тобто таке при якому все паливо згорає .
+A 1 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 10|||G/Prep|||за якого|||REQUIRED|||-NONE-|||1
+
+S Коефіцієнтом співвідношення компонентів називають відношення масової витрати окисника до масової витрати палива , позначають як [ latex ]K_﹛m﹜[ / latex] і в даному випадку [ latex]K_﹛m0﹜=\frac﹛32 ﹜ ﹛4 ﹜ =8[ / latex] .
+A 22 23|||F/Calque|||цьому|||REQUIRED|||-NONE-|||1
+
+S Нолик в індексі означає що це стехіометричне співвідношення компонентів .
+A 0 1|||Spelling|||Нулик|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Однак в РРД не використовують стехіометричні суміші - - якщо давати трошки більше палива то молекулярна маса продуктів згоряння падає і це підвищує питомий імпульс тяги .
+A 1 2|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 7 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 20 20|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S А також незначно знижує температуру горіння що добре для двигуна .
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Для пари кисень - водень оптимальне співвідношення [ latex]K_﹛m﹜=6[ / latex] , тобто в продуктах згоряння буде не тільки вода а й досить багато водню що значно покращує імпульс тяги .
+A 20 20|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 25 25|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Для того щоб простіше оперувати співвідношенням компонентів і розуміти в яку сторону від стехіометрії відрізняється співвідношення компонентів вводять параметр коефіцієнт надлишку окислювача [ latex]\alpha_﹛ok﹜=\frac﹛K_﹛m﹜﹜﹛K_﹛m0﹜﹜[/ latex].
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 12|||F/PoorFlow|||як|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 19 19|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Таким чином бачимо що оптимальним для водневих двигунів буде [latex]\alpha_﹛ok﹜=\frac﹛6﹜﹛8﹜=0,75[/latex].
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Газ у якого [latex]\alpha_﹛ok﹜<1[/latex] є відновлювальним тобто у ньому є надлишок палива , газ з [latex]\alpha_﹛ok﹜>1[/latex] відповідно оксилювальний , а стехіометрична пропорція компонентів відповідно буде мати [ latex]\alpha_﹛ok﹜=1[/latex].
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 17 18|||Spelling|||окислювальний|||REQUIRED|||-NONE-|||1
+A 24 26|||F/PoorFlow|||матиме|||REQUIRED|||-NONE-|||1
+
+S На жаргоні ракетників окислювальний газ називають " кислим " , а відновлювальний по аналогії - - " солодким " .
+A 12 14|||G/Prep|||за аналогією|||REQUIRED|||-NONE-|||1
+A 14 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ці жаргонізми я і буду використовували .
+A 5 6|||G/UngrammaticalStructure|||використовувати|||REQUIRED|||-NONE-|||1
+
+S На цьому закінчимо наш не ліричний відступ .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Так як же нам подавати пальне в камеру ?
+A 0 1|||F/PoorFlow|||То|||REQUIRED|||-NONE-|||1
+
+S Перші експериментальні РРД обходилися силою тяжіння – компоненти самі текли в КЗ .
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Але звичайно це не надійний спосіб і удосконалити його досить просто – створити в баках надлишковий тиск і ним виштовхувати пальне .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||вдосконалити|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Так з'явилася
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Виштовхувальна схема
+A 0 1|||Spelling|||виштовхувальна|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S В англомовній літературі використовують термін pressure fed .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Все досить просто – надуваємо баки газом , бажано інертним , бажано дуже легким , бажано гелієм але можна і азотом – отримуємо компоненти які витікають з цих баків під тим самим тиском .
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 21 22|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 24 24|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 26 27|||Spelling|||із|||REQUIRED|||-NONE-|||1
+
+S Змінюючи тиск в баках змінюємо тиск пального , а значить і його подачу в КЗ і таким чином змінюємо тягу .
+A 2 3|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||F/Calque|||отже|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Дешево , зручно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Надувати баки можна не тільки газом з балонів - можна розкладати один з компонентів .
+A 6 7|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||із|||REQUIRED|||-NONE-|||1
+
+S Можна потрошку спалювати обидва компоненти в газогенераторі з [latex]\alpha_﹛ok﹜=1[/latex] і отриманим газом надувати баки .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Можна зробити порохову шашку , помістити її в пороховий акумулятор тиску ( ПАТ ) і надувати баки ним .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S В кінці кінців для надуву баків з кріогенними компонентами можна газифікувати ці компоненти і подавати в бак .
+A 0 3|||F/Style|||Врешті - решт|||REQUIRED|||-NONE-|||1
+A 4 5|||F/Calque|||надування|||REQUIRED|||-NONE-|||1
+
+S Все добре і зручно доки баки маленькі .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Але як тільки вони ростуть у розмірах то вони починають ставати заважкими .
+A 1 3|||F/PoorFlow|||щойно|||REQUIRED|||-NONE-|||1
+A 4 5|||F/Style|||збільшаться|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Справа в тому що тиск у баку має бути вищим за тиск у КЗ – інакше ж нічого в камеру не потече .
+A 0 1|||F/Calque|||Річ|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||y|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Наскільки вищим ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ну давайте глянемо .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 3|||G/VerbAForm|||погляньмо|||REQUIRED|||-NONE-|||1
+
+S Тиск у баках [ latex]p_﹛t﹜=p_﹛k﹜+ \ Delta p_﹛o﹜+ \ Delta p_﹛p﹜ + \ Delta p_﹛f﹜[ / latex] де [latex]p_﹛k﹜[/ latex] тиск у КЗ , [ latex]\ Delta p_﹛o﹜[/ latex] втрати тиску у тракті охолодження , [ latex] \ Delta p_﹛p﹜[ / latex] втрати тиску у трубопроводах , [ latex]\ Delta p_﹛f﹜[/ latex] перепад тиску на форсунках .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Остання величина може досягати 1 , 5 МПа і чим вона вища тим краще розпилення .
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||G/Conjunction|||що|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 12 13|||G/Conjunction|||то|||REQUIRED|||-NONE-|||1
+
+S Втрати тиску в тракті охолодження і трубопроводах також не маленькі і може вийти що скажімо при [ latex]p_﹛k﹜ =1[ / latex ]
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 17 19|||Punctuation|||latex]p_﹛k﹜=1[|||REQUIRED|||-NONE-|||1
+
+S МПа тиск в баках має бути 3 МПа .
+A 2 3|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S А баки великі і для того щоб зробити їх міцними потрібно збільшувати товщину стінок тобто нарощувати масу баків .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Що як ви розумієте дуже погано з точки зору маси корисного навантаження .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 9|||F/PoorFlow|||погляду|||REQUIRED|||-NONE-|||1
+
+S Оптимізаційні розрахунки кажуть що виштовхувальну схему доцільно використовувати для тиску в КЗ не більше ніж 5 МПа .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Далі підвищення [ latex]p_﹛k﹜[ / latex] приведе до непропорційного збільшення маси баків .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S А сучасні РРД мають [ latex]p_﹛k﹜ =15 ... 25[/ latex] МПа і більше .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Навіщо , спитаєте ви
+A 1 2|||Punctuation|||?|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Навіщо піднімати тиск у камері РРД ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S А все просто – перш за все для підвищення питомого імпульсу тяги – чим вищий [ latex]p_﹛k﹜[ / latex] тим вищий і імпульс за рахунок збільшення співвідношення тиску в КЗ до тиску на зрізі сопла .
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||G/Conjunction|||що|||REQUIRED|||-NONE-|||1
+A 19 19|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 19 20|||G/Conjunction|||то|||REQUIRED|||-NONE-|||1
+
+S Але збільшення [ latex]p_﹛k﹜[ / latex] також допомагає зменшити розмір і відповідно масу КЗ !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Але ж тиск росте і стінки камери треба робити товщими тобто важчими – скажете ви -- з баками ж так виходить ?
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S А от і ні .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S По-перше КЗ значно менша від баків і збільшення її маси не так сильно впливає на загальну масу конструкції .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||F/Style|||набагато|||REQUIRED|||-NONE-|||1
+
+S А по-друге – а от не обов'язково збільшення тиску КЗ потребує збільшення товщини стінок камери -- вони і так доволі товсті і міцні .
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 21 22|||F/Other|||та|||REQUIRED|||-NONE-|||1
+
+S Справа в тому що сучасна конструкція стінки КЗ має в собі канали охолодження .
+A 0 2|||F/Calque|||Річ|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||y|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Тобто така конструкція вже і так витримує тиск в КЗ .
+A 8 9|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S Камери згоряння РРД розраховують спочатку з точки зору газодинаміки - форму і розміри самої камери .
+A 6 8|||F/PoorFlow|||погляду|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Потім товщину стінок визначають розрахунком тепловідводу і охолодження КЗ - товщину вогневої стінки , розмір каналів .
+A 6 7|||Spelling|||й|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S А вже після цього проводять перевірочний розрахунок міцності в найбільш навантажених місцях .
+A 5 6|||F/Calque|||перевірчий|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S Мости скажімо проектують розраховуючи розміри через формули міцності .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||проєктують|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Ну як мінімум так мають мости проектувати :).
+A 1 3|||F/Style|||принаймні|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||проєктувати|||REQUIRED|||-NONE-|||1
+
+S Таким чином виходить що підвищення тиску в КЗ дозволяє підвищити ефективність РРД і одночасно зменшити розміри і масу камери згоряння .
+A 0 2|||F/Calque|||Так|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||F/Calque|||дає змогу|||REQUIRED|||-NONE-|||1
+A 16 17|||F/Other|||та|||REQUIRED|||-NONE-|||1
+
+S Правда у виштовхувальній схемі збільшення Рк призводить до збільшення маси баків .
+A 0 1|||F/Calque|||Щоправда ,|||REQUIRED|||-NONE-|||1
+
+S Які набагато більші від КЗ .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Що ж тоді робити ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Як подавати пальне з баків в КЗ ?
+A 5 6|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S Нам потрібен
+A 1 2|||G/Gender|||потрібна|||REQUIRED|||-NONE-|||1
+
+S Насос
+A 0 1|||F/Calque|||Помпа|||REQUIRED|||-NONE-|||1
+
+S Проблему підвищення тиску в камері і необхідність насосу розуміли ще піонери ракетобудування - Годдард і Оберт .
+A 7 8|||F/Calque|||помпи|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Але задача створення такого агрегату здавалася їм надто складною - він повинен подавати компонент пального під досить великим тиском , при цьому забезпечувати високу продуктивність в десятки , а в сучасних двигунах сотні ба навіть тисячі , кілограм за секунду .
+A 1 2|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Gender|||здавалося|||REQUIRED|||-NONE-|||1
+A 7 9|||F/PoorFlow|||заскладною|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 25 26|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 33 33|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 36 37|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 37 38|||G/Case|||кілограмів|||REQUIRED|||-NONE-|||1
+
+S Не забуваємо що як мінімум один , а то і обидва компоненти це кріогенна або хімічно агресивна рідина .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 5|||F/Style|||принаймні|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||й|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ну і звичайно цей насос має бути легким і надійним .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Gender|||ця|||REQUIRED|||-NONE-|||1
+A 4 5|||F/Calque|||помпа|||REQUIRED|||-NONE-|||1
+A 7 8|||G/Gender|||легкою|||REQUIRED|||-NONE-|||1
+A 9 10|||G/Gender|||надійною|||REQUIRED|||-NONE-|||1
+
+S Задача здається не простою ...
+A 0 1|||F/Calque|||Завдання|||REQUIRED|||-NONE-|||1
+A 2 4|||G/Gender|||непростим|||REQUIRED|||-NONE-|||1
+
+S За свідченням Віллі Лея Вернер фон Браун саме так - складна і незрозуміла - оцінював задачу створення насосу десь в 1939 році коли стало зрозуміло що для Агрегату - 4 , скорочено А - 4 - ракети яка стане відомою світу як V - 2 - потрібна саме насосна подача кисню і спирту .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||G/Gender|||складне|||REQUIRED|||-NONE-|||1
+A 12 13|||G/Gender|||незрозуміле|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 16|||F/Calque|||завдання|||REQUIRED|||-NONE-|||1
+A 16 17|||F/PoorFlow|||створити|||REQUIRED|||-NONE-|||1
+A 17 18|||F/Calque|||помпу|||REQUIRED|||-NONE-|||1
+A 19 20|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 22 22|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 25 25|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 35 36|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 37 37|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 40 41|||F/PoorFlow|||світові|||REQUIRED|||-NONE-|||1
+A 45 46|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S І тоді він відправився на німецьку фірму , яка випускала різноманітні насоси , порадитися з тамтешніми інженерами .
+A 3 4|||F/Calque|||вирушив|||REQUIRED|||-NONE-|||1
+A 4 6|||G/Prep|||до німецької|||REQUIRED|||-NONE-|||1
+A 6 7|||G/Case|||фірми|||REQUIRED|||-NONE-|||1
+A 11 12|||F/Calque|||помпи|||REQUIRED|||-NONE-|||1
+
+S Віллі Лей в своїй книзі " Ракети і польоти в космос " описує як фон Браун звернувся до конструкторів очікуючи що вони скажуть що це неможливо .
+A 2 3|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 19 19|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 20 20|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 23 23|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Однак !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Інженери відразу сказали що такі насоси є - їх фірма випускає такі для пожежників .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||F/Calque|||помпи|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Other|||їхня|||REQUIRED|||-NONE-|||1
+
+S Прості , надійні , спроможні створювати значний тиск і прокачувати великі об'єми - це все про
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Відцентрові насоси
+A 1 2|||F/Calque|||помпи|||REQUIRED|||-NONE-|||1
+
+S Відцентровий насос це лопаточна машина яка передає кінетичну енергію обертання через лопатки рідині , яку прокачує , збільшуючи її швидкість і тиск .
+A 0 1|||G/Gender|||Відцентрова|||REQUIRED|||-NONE-|||1
+A 1 2|||F/Calque|||помпа|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||F/Calque|||лопаткова|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S На відміну від об'ємних насосів - поршневих або шиберних - у відцентрового насосу нема зміни напряму руху , нема потреби в контактних ущільненнях .
+A 4 5|||F/Calque|||помп|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Gender|||відцентрової|||REQUIRED|||-NONE-|||1
+A 12 13|||F/Calque|||помпи|||REQUIRED|||-NONE-|||1
+A 15 16|||F/Style|||напрямку|||REQUIRED|||-NONE-|||1
+
+S Єдиний недолік відцентрових насосів це те що вони потребують тиску рідини на вході для того щоб уникнути її кавітації .
+A 3 4|||F/Calque|||помп|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Але чим крутити відцентровий насос ?
+A 3 4|||G/Gender|||відцентрову|||REQUIRED|||-NONE-|||1
+A 4 5|||F/Calque|||помпу|||REQUIRED|||-NONE-|||1
+
+S Я думаю у фон Брауна і Ко не виникло проблем з пошуком джерела енергії - турбіна .
+A 1 2|||F/Style|||гадаю|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Тобто лопаточна машина яка перетворює енергію газу або рідини на механічну енергію обертання валу .
+A 1 2|||F/Calque|||лопаткова|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Таким чинам десь в 1939-му - 40-му роках під керівництвом фон Брауна , Вальтера Дорнбрегера і Вальтера Ріделя на кульманах в Пенемюнде з'явилися перші креслення того що ми зараз називаємо турбо - насосний агрегат , або скорочено ТНА - серця сучасних РРД .
+A 1 2|||Spelling|||чином|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 4 7|||F/PoorFlow|||1939–40х|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||Дорнбергера|||REQUIRED|||-NONE-|||1
+A 20 21|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 26 26|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 30 33|||F/Calque|||турбо-помповий|||REQUIRED|||-NONE-|||1
+A 38 39|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Десь в той самий проміжок часу коли в підвалах НКВД розстрілювали головного інженера Ракетного НДІ Лангемака , катували Валентина Глушко і ламали щелепу Сергію Корольову ...
+A 1 2|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 8|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 9 10|||F/Calque|||НКВС|||REQUIRED|||-NONE-|||1
+A 19 20|||G/Case|||Глушка|||REQUIRED|||-NONE-|||1
+A 23 24|||F/PoorFlow|||Сергієві|||REQUIRED|||-NONE-|||1
+
+S Отже з насосом визначилися , з тим що крутити його буде турбіна також менш більш ясно .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||F/Calque|||помпою|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||F/PoorFlow|||крутитиме|||REQUIRED|||-NONE-|||1
+A 10 12|||Punctuation|||турбіна , —|||REQUIRED|||-NONE-|||1
+A 13 15|||Spelling|||більш - менш|||REQUIRED|||-NONE-|||1
+
+S От що було не ясно так це чим приводити в рух саму турбіну ?
+A 3 5|||F/PoorFlow|||незрозуміло|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Conjunction|||то|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 11|||F/Calque|||урухомлювати|||REQUIRED|||-NONE-|||1
+
+S Отже так з'явився перший РРД з насосною подачею який став дідусем усіх
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Calque|||помповою|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S РРД відкритої схеми
+A 3 3|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Чому її називають відкритою ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Та тому що газ після турбіни , його ще називають м'ятим газом , не потрапляє в камеру згоряння і не створює реактивної тяги -- його використовують тільки для приводу ТНА .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 23 24|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Що з ним можна робити після турбіни ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

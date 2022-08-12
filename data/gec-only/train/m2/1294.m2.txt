@@ -1,0 +1,39 @@
+S - Боже мій ! - вигукнув новоприбулий , схопивши його за руки .
+A 0 1|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S - Це Боб , точно доля .
+A 0 1|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S Я був упевнений , що знайду тебе тут , якщо ти все ще існуєш .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Так , так , так ! -- двадцять років - довгий термін .
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S Старе пішло , Боб ; шкода , що це не тривало довго , так що ми могли б ще раз повечеряти там .
+A 3 4|||G/Case|||Бобе|||REQUIRED|||-NONE-|||1
+
+S Як Захід обійшовся з тобою , старина ? "
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S - Хуліган , він дав мені все , про що я просив .
+A 0 1|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S Ти дуже змінився , Джиммі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я ніколи не думав , що ти такий високий на два-три дюйми . "
+A 7 9|||G/Comparison|||вищий|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S - О , я трохи виросла після двадцяти .
+A 0 1|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Gender|||виріс|||REQUIRED|||-NONE-|||1
+
+S " - Добре живеш в Нью-Йорку , Джиммі ? "
+A 0 2|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||у|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||-NONE-|||REQUIRED|||-NONE-|||1
+

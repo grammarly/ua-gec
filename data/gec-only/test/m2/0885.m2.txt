@@ -1,0 +1,38 @@
+S 1 . " Відстань , з півночі на південь , лінії , що проходить від іспанської місії , " сказав він , " рівно двадцять дві милі .
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 22 23|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 4|||Spelling|||— Відстань|||REQUIRED|||-NONE-|||2
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 5 6|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 9 10|||G/UngrammaticalStructure|||по|||REQUIRED|||-NONE-|||2
+A 16 20|||Spelling|||місії, — сказав|||REQUIRED|||-NONE-|||2
+A 20 24|||Spelling|||він, — рівно|||REQUIRED|||-NONE-|||2
+
+S За вашою історією , ним керував кишеньковий компас .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Якщо врахувати варіації , то точка на річці Аламіто , де вам слід було шукати свій скарб , який знаходиться рівно в шести милях і дев’ятьсот сорок п’ять варах далі на захід від місця , на яке ви потрапили .
+A 25 26|||G/Case|||дев’ятистах|||REQUIRED|||-NONE-|||1
+A 26 27|||G/Case|||сорока|||REQUIRED|||-NONE-|||1
+A 27 28|||G/Case|||п’яти|||REQUIRED|||-NONE-|||1
+A 18 19|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+A 21 24|||G/Prep|||на шість миль|||REQUIRED|||-NONE-|||2
+A 25 26|||Spelling|||дев’ятсот|||REQUIRED|||-NONE-|||2
+
+S О , який ти дурень , Джиме !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S " Я думав , що фігури ніколи не брехали " .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S 3 . " Варіація магнітного компаса , " сказала Гудло , " від справжнього меридіана " .
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||—|||REQUIRED|||-NONE-|||2
+A 6 11|||Spelling|||компаса, — сказала|||REQUIRED|||-NONE-|||2
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+

@@ -1,0 +1,453 @@
+S Мутон
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S – Тільки ви чуєте свої думки ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Солдат заховався за монолітом поламаної стіни , піднявши зброю вверх , щоб не було видно що він там ховається , прислухаючись до кожного кроку який дробив цеглу як пісок .
+A 9 10|||F/Style|||вгору|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 24 24|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 27 27|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 20 21|||G/UngrammaticalStructure|||прислухався|||REQUIRED|||-NONE-|||2
+A 24 24|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 27 27|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Його крок був важким і кожний крок його тільки дратував більше .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 6 11|||F/Repetition|||наступний усе більше дратував|||REQUIRED|||-NONE-|||2
+
+S У мене була лише одна спроба і вистрілити йому треба вище грудей , інакше весь удар прийдеться на броню і тоді він просто розірве мене свої кігтями .
+A 19 19|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 25 26|||G/Case|||своїми|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 6 7|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+A 8 9|||G/UngrammaticalStructure|||в нього|||REQUIRED|||-NONE-|||2
+A 19 19|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Знаючи що я досі тут він почав ламати усе довкола , і в один момент він замахнувся щоб розламати ту стіну за якою я ховався , це був момент якого я чекаю , бо я знаю що він близько і не очікує моєї появи .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 15 16|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 21 21|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 27 29|||F/Style|||була мить|||REQUIRED|||-NONE-|||1
+A 29 29|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 29 30|||G/Gender|||якої|||REQUIRED|||-NONE-|||1
+A 31 32|||G/Tense|||чекав|||REQUIRED|||-NONE-|||1
+A 34 35|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+A 35 36|||G/Tense|||знав|||REQUIRED|||-NONE-|||1
+A 36 36|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 21 21|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 29 29|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 31 32|||G/Tense|||чекав|||REQUIRED|||-NONE-|||2
+A 34 35|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||2
+A 35 36|||G/Tense|||знав|||REQUIRED|||-NONE-|||2
+A 36 36|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S З шаленим криком його руки долітаючи до моєї голови просто втратили той імпульс що мали на початку а тіло врізалися в стіну за крок до мене .
+A 0 3|||F/PoorFlow|||Гучно ревучи|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 11|||F/PoorFlow|||він втратив|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 15 15|||F/PoorFlow|||його руки|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 19 20|||G/Number|||врізалося|||REQUIRED|||-NONE-|||2
+
+S І коли дійшов звук пострілу снайперської гвинтівки я зрозумів , це не остання моя місія .
+A 2 3|||F/Style|||пролунав|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||:|||REQUIRED|||-NONE-|||1
+A 1 9|||F/Style|||такий один зараз летить просто на мене з піднятими руками|||REQUIRED|||-NONE-|||2
+A 10 15|||Punctuation|||які замахнулися добити надокучливого комара|||REQUIRED|||-NONE-|||2
+
+S Він був останній за сьогодні .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Наші радари просканували місцевість щоб визначити аномальні хвилі які видають прибульці , хоча я не до кінця розумію як сам це працює , але відділ досліджень на базі робить чудову роботу , ці прилади ще не давали жодних збоїв .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 18 19|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 20 20|||F/PoorFlow|||принцип|||REQUIRED|||-NONE-|||1
+A 20 22|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 18 18|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 19 20|||G/UngrammaticalStructure|||саме|||REQUIRED|||-NONE-|||2
+
+S - Вертаємось на базу ! - крикнув командир . - поранених несем на Ренджер , решта зберіть трупи та технології прибульців .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||F/Style|||несемо|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 1 2|||F/Style|||Повертаємося|||REQUIRED|||-NONE-|||2
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 9 11|||Spelling|||— Поранених|||REQUIRED|||-NONE-|||2
+A 11 12|||F/Style|||несемо|||REQUIRED|||-NONE-|||2
+
+S Швидко !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S ## База
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ми нарешті вдома .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Це місце стало моїм домом від тоді коли мене забрали в новобранці з міста яке було розроблене прибульцями , але нам казали що це було лише наслідки отруєння .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 7|||Spelling|||відтоді|||REQUIRED|||-NONE-|||1
+A 7 8|||G/Conjunction|||як|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 15 17|||G/VerbVoice|||розробили|||REQUIRED|||-NONE-|||1
+A 17 18|||G/Case|||прибульці|||REQUIRED|||-NONE-|||1
+A 19 20|||G/Conjunction|||хоча|||REQUIRED|||-NONE-|||1
+A 22 22|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 24 25|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 5 7|||Spelling|||відтоді|||REQUIRED|||-NONE-|||2
+A 7 8|||G/Conjunction|||як|||REQUIRED|||-NONE-|||2
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 15 17|||G/VerbVoice|||розробили|||REQUIRED|||-NONE-|||2
+A 17 18|||G/Case|||прибульці|||REQUIRED|||-NONE-|||2
+A 22 22|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 24 25|||G/Number|||були|||REQUIRED|||-NONE-|||2
+
+S Коли до мене підійшов майор Рено і змалював те як виглядають прибульці , я йому повірив , тому що він виглядав так наче бачив їх не вперше , згадуючи кожну дрібницю .
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||G/Conjunction|||який|||REQUIRED|||-NONE-|||1
+A 10 11|||F/Calque|||мають вигляд|||REQUIRED|||-NONE-|||1
+A 19 22|||F/PoorFlow|||здавалося|||REQUIRED|||-NONE-|||1
+A 22 22|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 23 23|||G/UngrammaticalStructure|||він|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 9 10|||G/Conjunction|||який|||REQUIRED|||-NONE-|||2
+A 10 11|||F/Calque|||мають вигляд|||REQUIRED|||-NONE-|||2
+A 19 22|||F/PoorFlow|||здавалося|||REQUIRED|||-NONE-|||2
+A 22 22|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 23 23|||G/UngrammaticalStructure|||він|||REQUIRED|||-NONE-|||2
+
+S З того моменту пройшло 7 років .
+A 3 4|||F/Collocation|||минуло|||REQUIRED|||-NONE-|||1
+A 3 4|||F/Collocation|||минуло|||REQUIRED|||-NONE-|||2
+
+S Ми досі воюємо з прибульцями і тримаємо усе в секреті , поки їх технології надто потужні щоб давати до них доступ іншим .
+A 12 13|||G/Other|||їхні|||REQUIRED|||-NONE-|||1
+A 16 16|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 12 13|||G/UngrammaticalStructure|||їхні|||REQUIRED|||-NONE-|||2
+A 16 16|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S На базі є група вчений яка була завербована ще на початку створення таємної організації X - COM , і вони зробили великий прорив у вивченні нових сплавів та плазмової зброї які використовують ворожі юніти .
+A 4 5|||G/Number|||вчених|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 30 30|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 30 31|||G/UngrammaticalStructure|||що її|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Number|||вчених|||REQUIRED|||-NONE-|||2
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 19 21|||G/Number|||вона зробила|||REQUIRED|||-NONE-|||2
+A 30 30|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Частина з них уже використовується нашими підрозділами і показали себе дуже добре .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 7|||F/PoorFlow|||Наші підрозділи вже також успішно дещо використовують|||REQUIRED|||-NONE-|||2
+
+S Все що нас не вбиває робить нас сильнішими .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S ## Псі - сила
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Зазвичай усі дослідження на базі засекречені , але дещо вдається дізнатись , все ж таки ми перші хто зустрічається лицем до лиця з ворогом , і тримаємо в руках те що науковці беруться розібрати на деталі .
+A 12 13|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 30 30|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 30 30|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S На одній з місій , снайпер стверджував що він не міг довго прицілитись по мутону який мене шукав , тому що чув наче шепіт і постійно оглядався , бо думав що це Сектоїд який підкрався позаду , але скільки він не дивився і не міняв локації , шепіт повторювався , це його дуже налякало .
+A 2 3|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 30 30|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 33 33|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 35 36|||F/Style|||ззаду|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 8 9|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||2
+A 12 15|||G/Prep|||прицілитися до мутона|||REQUIRED|||-NONE-|||2
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 22 23|||F/PoorFlow|||щось схоже на|||REQUIRED|||-NONE-|||2
+A 26 27|||F/Style|||озирався|||REQUIRED|||-NONE-|||2
+A 30 30|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 33 33|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 44 45|||F/Style|||змінював|||REQUIRED|||-NONE-|||2
+
+S Але те що ми побачили на наступній місії лякало усіх членів підрозділу , бо ми усі чули ці звуки .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||всіх|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||всі|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Як завжди ми прилетіли на Ренджері , і висадились в безпечній зоні , яка показувала що на території десяток мутонів і пару сектоїдів - схоже на групу тетору , щоб схилити країн прийняти з ними договір про " мир " , який виглядав як капітуляція .
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 21 22|||F/Style|||кілька|||REQUIRED|||-NONE-|||1
+A 23 24|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 30 31|||F/Style|||переконати|||REQUIRED|||-NONE-|||1
+A 31 32|||G/Case|||країни|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 6 8|||Spelling|||та|||REQUIRED|||-NONE-|||2
+A 9 10|||Spelling|||у|||REQUIRED|||-NONE-|||2
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 18 23|||F/PoorFlow|||близько десяти мутонів і кілька сектоїдів.|||REQUIRED|||-NONE-|||2
+A 23 25|||F/PoorFlow|||Це скидалося|||REQUIRED|||-NONE-|||2
+A 27 28|||Spelling|||терору|||REQUIRED|||-NONE-|||2
+A 31 32|||G/Case|||країни|||REQUIRED|||-NONE-|||2
+A 35 40|||F/PoorFlow|||мирний договір|||REQUIRED|||-NONE-|||2
+
+S Але коли ми побачили корабель на якому вони прибули , який був розміром з квартал і висотою з 5ти поверховий будинок , командир розпорядився діяти за новою тактикою : група 8ми людей розділяється на 3 групи , 2 снайпера засідають на високій точці і прикривають інші групи по 3 людей , що заходять корабель з двох сторін .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||G/Conjunction|||щоб|||REQUIRED|||-NONE-|||1
+A 12 13|||F/Calque|||завбільшки|||REQUIRED|||-NONE-|||1
+A 16 17|||F/Calque|||заввишки|||REQUIRED|||-NONE-|||1
+A 18 20|||Spelling|||п'ятиповерховий|||REQUIRED|||-NONE-|||1
+A 30 31|||F/Style|||з восьми|||REQUIRED|||-NONE-|||1
+A 32 33|||F/Style|||ділиться|||REQUIRED|||-NONE-|||1
+A 38 39|||G/Number|||снайпери|||REQUIRED|||-NONE-|||1
+A 54 55|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 5 9|||F/PoorFlow|||прибульців|||REQUIRED|||-NONE-|||2
+A 12 13|||F/Calque|||завбільшки|||REQUIRED|||-NONE-|||2
+A 16 17|||F/Calque|||заввишки|||REQUIRED|||-NONE-|||2
+A 18 20|||F/Style|||п’ятиповерховий|||REQUIRED|||-NONE-|||2
+A 30 31|||Spelling|||8-ми|||REQUIRED|||-NONE-|||2
+A 38 39|||G/Number|||снайпери|||REQUIRED|||-NONE-|||2
+A 49 50|||G/Case|||людини|||REQUIRED|||-NONE-|||2
+A 53 53|||G/UngrammaticalStructure|||на|||REQUIRED|||-NONE-|||2
+A 54 55|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 56 57|||F/Style|||боків|||REQUIRED|||-NONE-|||2
+
+S Корабель був достатньо великий , що в нього було два входу і цим ми і вирішили скористатись .
+A 5 6|||F/Style|||ще|||REQUIRED|||-NONE-|||1
+A 10 11|||G/Number|||входи|||REQUIRED|||-NONE-|||1
+A 11 12|||F/Repetition|||,|||REQUIRED|||-NONE-|||1
+A 5 9|||F/PoorFlow|||мав|||REQUIRED|||-NONE-|||2
+A 10 11|||G/Number|||входи|||REQUIRED|||-NONE-|||2
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 14 15|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||2
+A 16 17|||Spelling|||скористатися|||REQUIRED|||-NONE-|||2
+
+S Створивши шум з обох сторін ми можемо легше стримувати їх всередині і їм важче буде ховатися , крім того психологічний фактор того , що їх обійшли з двох сторін , складало враження наче нас більше .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||усередині|||REQUIRED|||-NONE-|||1
+A 19 19|||G/UngrammaticalStructure|||діяв|||REQUIRED|||-NONE-|||1
+A 21 22|||F/PoorFlow|||:|||REQUIRED|||-NONE-|||1
+A 23 24|||G/Conjunction|||якщо|||REQUIRED|||-NONE-|||1
+A 30 31|||F/Collocation|||виникало|||REQUIRED|||-NONE-|||1
+A 32 32|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 4 5|||F/Style|||боків,|||REQUIRED|||-NONE-|||2
+A 10 11|||Spelling|||усередині|||REQUIRED|||-NONE-|||2
+A 16 17|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+A 17 18|||Spelling|||Окрім|||REQUIRED|||-NONE-|||2
+A 21 22|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||2
+A 28 29|||F/Style|||боків|||REQUIRED|||-NONE-|||2
+A 32 32|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S коли ми зайняли зручну позицію біля дверей , а снайпери підійшли щоб прикривати прохід , ми почали штурм водночас , щоб не дати ворогові реагувати і не дати сховатися , розстрілюючи з обох сторін .
+A 0 1|||Spelling|||Коли|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Коли|||REQUIRED|||-NONE-|||2
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 17 19|||F/PoorFlow|||одночасно штурмувати|||REQUIRED|||-NONE-|||2
+A 33 34|||F/Style|||боків|||REQUIRED|||-NONE-|||2
+
+S Все пройшло добре , тактичних хід виправдав себе , і ми зустрілись в центрі корабля біля єдиного входу який вів на командний центр .
+A 1 2|||F/Collocation|||минуло|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Number|||тактичний|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 18 18|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Number|||тактичний|||REQUIRED|||-NONE-|||2
+A 11 12|||Spelling|||зустрілися|||REQUIRED|||-NONE-|||2
+A 18 18|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 22 23|||F/Style|||пункт|||REQUIRED|||-NONE-|||2
+
+S Ми очікували побачити там командира - сектоїда , і взяти його в полон .
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Лише пару днів тому , у нас успішно пройшов усі тести капсула для утримання прибульців .
+A 1 2|||F/Style|||кілька|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Gender|||пройшла|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||всі|||REQUIRED|||-NONE-|||1
+A 1 2|||F/Style|||кілька|||REQUIRED|||-NONE-|||2
+A 4 6|||Spelling|||в|||REQUIRED|||-NONE-|||2
+A 8 11|||G/Gender|||пройшла тестування|||REQUIRED|||-NONE-|||2
+
+S Ми можемо дізнатися багато цінного від командира , що не знають їх рядові солдати .
+A 8 9|||G/Case|||чого|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Other|||їхні|||REQUIRED|||-NONE-|||1
+A 4 5|||F/PoorFlow|||цінної інформації|||REQUIRED|||-NONE-|||2
+A 10 12|||G/UngrammaticalStructure|||можуть знати їхні|||REQUIRED|||-NONE-|||2
+
+S Ми стояли усі біля дверей і вели зворотній відлік : 3 - 2 - 1 - штрум .
+A 2 3|||Spelling|||всі|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||зворотний|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Spelling|||штурм|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 13 14|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 15 16|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 16 17|||Spelling|||штурм|||REQUIRED|||-NONE-|||2
+
+S Потрібно діяти швидко , щоб не дати і найменшого шансу сфокусуватися на нас , розділитися по всій кімнаті і вести прикривающий вогонь , але як тільки перший з нас забіг в всередину , зупинився прямо в проході і закляк і це було не здивування чи шок , він просто зупинився наче так і хотів .
+A 7 9|||F/Style|||анінайменшого|||REQUIRED|||-NONE-|||1
+A 20 21|||G/PartVoice|||-NONE-|||REQUIRED|||-NONE-|||1
+A 22 22|||F/PoorFlow|||на прикриття|||REQUIRED|||-NONE-|||1
+A 24 26|||F/Calque|||щойно|||REQUIRED|||-NONE-|||1
+A 27 28|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 30 31|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 33 33|||G/UngrammaticalStructure|||то|||REQUIRED|||-NONE-|||1
+A 39 39|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 50 50|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 7|||G/UngrammaticalStructure|||їм|||REQUIRED|||-NONE-|||2
+A 11 13|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||2
+A 20 22|||G/UngrammaticalStructure|||вогонь під прикриттям|||REQUIRED|||-NONE-|||2
+A 27 28|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 30 32|||Spelling|||усередину|||REQUIRED|||-NONE-|||2
+A 39 39|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 39 40|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||2
+A 50 50|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Його лице було спокійне і він выпрямившись дивився прямо , потім різко розвернувся і вистрілив в наступного що прямував за ним .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Style|||випроставшись|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 17 18|||G/Conjunction|||який|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 6 9|||Punctuation|||, випроставшись|||REQUIRED|||-NONE-|||2
+A 10 11|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||2
+A 15 16|||Spelling|||у|||REQUIRED|||-NONE-|||2
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Третій повалив його на підлогу , і вибив з рук зброю .
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Сержан позаду мене почав кричати , кинувши гвинтівку та побіг з ножем вперед .
+A 0 1|||Spelling|||Сержант|||REQUIRED|||-NONE-|||1
+A 6 7|||G/Particle|||кинув|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||уперед|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Сержант|||REQUIRED|||-NONE-|||2
+A 6 7|||G/UngrammaticalStructure|||кинув|||REQUIRED|||-NONE-|||2
+A 10 11|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 12 13|||Spelling|||уперед|||REQUIRED|||-NONE-|||2
+
+S Всередині стояв дивний туман , який не давав розгледіти що нічого далі 2 ох метрів .
+A 0 1|||Spelling|||Усередині|||REQUIRED|||-NONE-|||1
+A 9 10|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 14|||Spelling|||2-х|||REQUIRED|||-NONE-|||1
+A 9 11|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+A 12 14|||Spelling|||2-х|||REQUIRED|||-NONE-|||2
+
+S Складалося враження що гравітація в цій кімнаті була сильніша ніж зовні , але це лише було наше незвичне сприйняття того явища що нас усіх тиснув неймовірної псі-сили новий прибулець , як ми його потім назвемо Небесний .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 21 21|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 30 31|||G/Conjunction|||якого|||REQUIRED|||-NONE-|||1
+A 32 33|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 21 21|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 24 25|||F/Style|||стискав|||REQUIRED|||-NONE-|||2
+A 35 35|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Високий , худощавий та закутаний у накидку як монах який рідко показує своє обличчя .
+A 2 3|||F/Calque|||худорлявий|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||F/Calque|||худорлявий|||REQUIRED|||-NONE-|||2
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 9 10|||F/Style|||що|||REQUIRED|||-NONE-|||2
+
+S Ми помітили дві пари рук коли він їх піднімав , але можливо він має три пари .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 12 14|||F/PoorFlow|||у нього їх|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 12 14|||F/PoorFlow|||у нього їх|||REQUIRED|||-NONE-|||2
+
+S Я помітив , що мені легше протидіяти цій силі ніж моїм товаришам .
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S І часу було не багато , до нас уже приближался мутони які бачили нашу безпорадність і хотіли якомога швидше розірвати нас на шматки .
+A 3 5|||Spelling|||небагато|||REQUIRED|||-NONE-|||1
+A 9 10|||F/Calque|||наближалися|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 5|||Spelling|||небагато|||REQUIRED|||-NONE-|||2
+A 9 10|||F/Calque|||наближалися|||REQUIRED|||-NONE-|||2
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Залишалось лише зібрати всю свою силу і піднятися на балкон , щоб з зручної позиції знищити нашу головну перешкоду - Небесного .
+A 12 13|||Spelling|||зі|||REQUIRED|||-NONE-|||1
+A 19 20|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Залишилося|||REQUIRED|||-NONE-|||2
+A 12 13|||Spelling|||зі|||REQUIRED|||-NONE-|||2
+A 19 20|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Я відчував як сили покидають мене , але це був єдиний спосіб , який мені вдалося виконати успішно , проте коли я знаходився там , мене ранили пару плазмових вистрелів .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||F/Style|||залишають|||REQUIRED|||-NONE-|||1
+A 9 10|||G/Gender|||було|||REQUIRED|||-NONE-|||1
+A 10 12|||F/PoorFlow|||єдине|||REQUIRED|||-NONE-|||1
+A 13 14|||G/Conjunction|||що|||REQUIRED|||-NONE-|||1
+A 22 23|||F/Style|||перебував|||REQUIRED|||-NONE-|||1
+A 26 27|||G/Aspect|||поранили|||REQUIRED|||-NONE-|||1
+A 27 28|||F/Style|||кількома|||REQUIRED|||-NONE-|||1
+A 28 29|||G/Case|||плазмовими|||REQUIRED|||-NONE-|||1
+A 29 30|||G/Case|||пострілами|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 9 19|||F/PoorFlow|||була єдина успішна можливість.|||REQUIRED|||-NONE-|||2
+A 19 31|||F/PoorFlow|||Там я отримав кілька поранень від плазмових пострілів.|||REQUIRED|||-NONE-|||2
+
+S Ми так і не змогли взяти його живим , але мені вдалося врятувати більшість бійців - це були єдині думки в голові , коли я лежав і втрачав свідомість від втрати крові .
+A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 27 29|||F/Collocation|||непритомнів|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 26 29|||F/Collocation|||майже непритомний|||REQUIRED|||-NONE-|||2
+

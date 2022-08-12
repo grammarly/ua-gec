@@ -1,0 +1,65 @@
+S Десь через дванадцять ярдів від нас заможний на вигляд мешканець заокруглював кущі , де стежка вигиналася .
+A 1 2|||G/Prep|||за|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Prep|||за|||REQUIRED|||-NONE-|||2
+A 10 16|||F/PoorFlow|||йшов по доріжці, що вигиналась колом біля кущів|||REQUIRED|||-NONE-|||2
+
+S Найт раптово дістав револьвер та вистрілив у чоловіка позаду .
+A 8 9|||F/Style|||ззаду|||REQUIRED|||-NONE-|||1
+A 6 9|||F/PoorFlow|||чоловіку в спину|||REQUIRED|||-NONE-|||2
+
+S Жертва упала та лежала непорушно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Великий убивця неквапливо підійшов до нього та забрав із одягу гроші , годинник та цінну каблучку та гвоздику .
+A 8 10|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 16 17|||F/Repetition|||і|||REQUIRED|||-NONE-|||1
+A 7 8|||F/Style|||витягнув|||REQUIRED|||-NONE-|||2
+A 9 10|||G/UngrammaticalStructure|||кишень|||REQUIRED|||-NONE-|||2
+A 13 14|||G/UngrammaticalStructure|||, зняв|||REQUIRED|||-NONE-|||2
+A 17 18|||F/PoorFlow|||відчепив із краватки діамантову шпильку|||REQUIRED|||-NONE-|||2
+
+S Потім він повернувся до мене , спокійно посміхаючись , та ми продовжили нашу прогулянку .
+A 9 10|||Spelling|||і|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Через десять кроків ми зустріли поліцейського , біжачого до місця , де пролунав постріл .
+A 0 1|||G/Prep|||За|||REQUIRED|||-NONE-|||1
+A 7 8|||G/UngrammaticalStructure|||який біг|||REQUIRED|||-NONE-|||1
+A 0 1|||G/Prep|||За|||REQUIRED|||-NONE-|||2
+A 7 8|||G/UngrammaticalStructure|||що біг|||REQUIRED|||-NONE-|||2
+
+S Ейвері Найт зупинив його .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S " Я щойно убив людину , - промовив він серйозно , - та забрав усе його добро . "
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 17 18|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 19 19|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 3 4|||Spelling|||вбив|||REQUIRED|||-NONE-|||2
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 18 19|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S " Іди , куди йшов , - сердито сказав поліцейський , - або я заарештую тебе !
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Хочеш побачити своє ім'я у газетах , так ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ніколи не зустрічав чудаків , які з'являлися так швидко після стрілянини .
+A 3 4|||F/Calque|||диваків|||REQUIRED|||-NONE-|||1
+A 3 4|||F/Calque|||диваків|||REQUIRED|||-NONE-|||2
+A 6 6|||G/UngrammaticalStructure|||б|||REQUIRED|||-NONE-|||2
+
+S Геть з парку , хутко , поки я не передумав "
+A 1 2|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+

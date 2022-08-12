@@ -1,0 +1,67 @@
+S Містер Бідль поклав руку мені на передпліччя .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S - Вас заарештовано , докторе Вах-ху , також відомий як Пітерс , - сказав він , - за медичну практику без дозволу за законами штату .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 16 17|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S - Хто ви ? - запитав я .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S - Я скажу вам , хто він насправді , - відповів мер , сидячи у ліжку .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Він - детектив , найнятий Медичною спільнотою штату .
+A 1 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Він переслідував вас більше ніж у п'яти країнах .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Він прийшов до мене вчора , і ми вигадали цей план , щоб зловити вас .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Так виглядає , що ви більше не зможете лікувати у цих місцях .
+A 0 2|||F/Calque|||Схоже на те ,|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Що ви сказали зі мною не так , док ? - мер засміявся .
+A 8 9|||G/Case|||доку|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S - У всякому випадку це точно не проблеми з мозком .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 4|||F/Calque|||Хай там як|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 2 4|||F/Calque|||будь-якому разі|||REQUIRED|||-NONE-|||2
+
+S - Детектив , - повторив я .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S - Саме так , - підтвердив Бідль .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S - Мені доведеться передати вас шерифу .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+

@@ -1,0 +1,8 @@
+S Просто моє твердження про кількість говнокоду в Делфі , воно не просто так взялось .
+A 8 10|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 14|||F/Style|||виникло|||REQUIRED|||-NONE-|||1
+
+S Щоб це знайти знадобилось хвилин 5 в еталоному продукті .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||еталонному|||REQUIRED|||-NONE-|||1
+

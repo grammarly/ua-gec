@@ -1,0 +1,37 @@
+S Сью знайшов Бермана , який сильно пахнув ягодами .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 2|||G/Gender|||знайшла|||REQUIRED|||-NONE-|||2
+
+S В одному кутку було пусте полотно яке чекало двадцять п'ять років , щоб отримати першу лінію шедевру .
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 16 17|||G/Case|||шедевра|||REQUIRED|||-NONE-|||2
+
+S Вона сказала йому про модність Джонсі , і про те як вона боялась , що вона , звісно , легка як листочок , полетить кудись , коли її світ стає слабшим .
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 20 20|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 29 30|||G/Tense|||стане|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Старий Берман , зі своїми червоними очима , викрикнув своє обурення щодо таких ідіотських уявлень .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Я ніколи не чув такої нісенітниці .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ні , я не буду позувати моделлю для твоєї голови , повної термітів .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Як ти дозволила тій хворій малючці таке впускати до голови ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ой , бідна манюня Міс Йонсі . "
+A 5 6|||Spelling|||Джонсі|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+

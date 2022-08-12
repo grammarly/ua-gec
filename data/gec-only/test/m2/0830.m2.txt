@@ -1,0 +1,65 @@
+S " Ти не Джиммі Велс . " - відрізав він .
+A 5 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 6 8|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Двадцять років - це довгий період , але недостатній для того , щоб змінити римський чоловічий ніс на курносий .
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S " Іноді це змінює хорошу людину на погану . - сказав високий чоловік .
+A 8 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S - Ти був арештований десять хвилин , " Ніжний " Боб .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||G/Case|||Бобе|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 4 5|||G/UngrammaticalStructure|||за десять|||REQUIRED|||-NONE-|||2
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 10 11|||G/Case|||Бобе|||REQUIRED|||-NONE-|||2
+
+S Чикаго думає , що ти заскочив до нас і вона хоче поговорити з тобою .
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Ти ж будеш вести cебе тихо , правда ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Це було б розважливо .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S А зараз , перед тим як відправитись до станції , я віддам тобі записку .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Прочитай її тут , біля вікна .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Це від Патролмена Веллса . "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Чоловік із Заходу розкрив маленьку бумажку , яку йому вручили .
+A 4 5|||G/Gender|||маленький|||REQUIRED|||-NONE-|||1
+A 7 8|||G/Gender|||який|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Gender|||маленький|||REQUIRED|||-NONE-|||2
+A 7 8|||G/Gender|||який|||REQUIRED|||-NONE-|||2
+
+S Його рука не рухалась , коли він почав читати , проте вона злегка затремтіла , коли він вже закінчив .
+A 17 18|||Spelling|||уже|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Записка була швидше короткою .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

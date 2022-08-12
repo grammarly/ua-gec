@@ -1,0 +1,79 @@
+S Лікар питально подививсяна Рюхіна , й той хмуро пробубонив :
+A 2 3|||Spelling|||подивився на|||REQUIRED|||-NONE-|||1
+A 7 8|||F/Style|||похмуро|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||пробубонів|||REQUIRED|||-NONE-|||1
+
+S - Ресторан так називається .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ага , - відповів лікар , - а чого так поспішала ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Number|||поспішали|||REQUIRED|||-NONE-|||1
+
+S Якась ділова зустріч ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Консультанта я ловлю , - відповів Іван Миколаєвич й тривожно озернувся .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||Миколайович|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||озирнувся|||REQUIRED|||-NONE-|||1
+
+S - Якого консультанта ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ви знаєте берліоза ? - спитав Іван багатозначно .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||Берліоза|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Це ... композитор ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Іван засмутився .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Який там композитор ?
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ах та , та ні !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Композитор - це однофамілець Міши Берліоза !
+A 1 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Case|||Міші|||REQUIRED|||-NONE-|||1
+
+S Рюхіну нічого не хотілось казати , але довелось пояснити .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Секратаря МАССОЛІТа Берліоза сьогодні ввечері задовило трамваєм на Патріаршах .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Case|||МАССОЛІТу|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||задавило|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||Патріарших|||REQUIRED|||-NONE-|||1
+
+S - Не бреши ти , чого не знаєш ! - розсердився на Рюхіна Іван , -я , а не ти був там при цьому !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||— я|||REQUIRED|||-NONE-|||1
+A 20 20|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Він його спеціально під травмай підлаштував !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Штовхнув ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Та до чого тут " штовхнув " ? - розсердившись на загальну безтолковість , виголосив Іван , - такому і штовхати не треба !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Він такі штуки може виробляти , що тільки тримайся !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він завчасно знав , що Берліоз потрапить під трамвай !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

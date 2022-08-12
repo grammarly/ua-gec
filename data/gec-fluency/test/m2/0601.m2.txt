@@ -1,0 +1,75 @@
+S " Припини це " , из посмішкою перебив Найт , " Я чув це вже кілька разів .
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||— із|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 5 6|||Spelling|||— із|||REQUIRED|||-NONE-|||2
+A 9 10|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Тепер запідно .
+A 1 2|||Spelling|||запізно|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Я продовжую
+A 2 2|||Punctuation|||" .|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Tense|||продовжу|||REQUIRED|||-NONE-|||2
+A 2 2|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Але не тільки у невірному , а ще в повністю протилежному .
+A 4 5|||F/Style|||неправильному|||REQUIRED|||-NONE-|||1
+A 4 5|||F/Style|||хибному|||REQUIRED|||-NONE-|||2
+
+S Це було моє припущення .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S " Я вбив чоловіка в Центральному Парку .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 6 7|||Spelling|||парку|||REQUIRED|||-NONE-|||2
+
+S Тепер , дозвольте мені описати себе для вас .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 3 8|||F/PoorFlow|||вам себе описати|||REQUIRED|||-NONE-|||2
+
+S " Я високий , з чорною бородою та ненавиджу публічність .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 4|||F/PoorFlow|||чоловік|||REQUIRED|||-NONE-|||2
+A 4 5|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 7 8|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S У меня не має грошей щоб говорити .
+A 1 2|||F/Calque|||мене|||REQUIRED|||-NONE-|||1
+A 2 4|||Spelling|||немає|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 4|||Spelling|||немає|||REQUIRED|||-NONE-|||2
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 5 7|||F/PoorFlow|||про які б варто було згадувати|||REQUIRED|||-NONE-|||2
+
+S Я не люблю вівсянку і це є амбіція мого життя - померти багатим .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 7|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 5 7|||F/PoorFlow|||єдина|||REQUIRED|||-NONE-|||2
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Я холодний та безсердечний .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Мені байдуже до моїх ботратимів , я ніколи не даю гроші жебракам , або на благочинність .
+A 2 3|||G/Prep|||на|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||побратимів|||REQUIRED|||-NONE-|||1
+A 10 11|||G/Case|||грошей|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 16 16|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||побратимів|||REQUIRED|||-NONE-|||2
+A 12 13|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 15 16|||F/Style|||благодійність|||REQUIRED|||-NONE-|||2
+

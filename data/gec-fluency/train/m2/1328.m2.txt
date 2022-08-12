@@ -1,0 +1,71 @@
+S - Завдання ! - каже Яша , прислухаючись .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Повинно , поїзд важкий .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||F/Calque|||Мабуть|||REQUIRED|||-NONE-|||1
+
+S Ніяк не зрушить .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Раніше не був важкий , а тепер раптом поважчав .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ні , брат , це означає обер - кондуктор з ним не поділився .
+A 2 3|||G/Case|||брате|||REQUIRED|||-NONE-|||1
+A 6 9|||Spelling|||оберкондуктор|||REQUIRED|||-NONE-|||1
+
+S Піди-но знеси йому , а то він до ранку буде смикати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Яша бере у старого трьохрублеву папірець і стрибає з вагона .
+A 4 5|||G/Case|||трирублевого|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Case|||папірця|||REQUIRED|||-NONE-|||1
+
+S Його важкі кроки глухо лунають поза вагона і поступово вщухають .
+A 5 6|||F/Style|||з-за|||REQUIRED|||-NONE-|||1
+
+S Тиша ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S У сусідньому вагоні протяжно і тихо мукає бик , точно співає .
+A 9 10|||F/Style|||наче|||REQUIRED|||-NONE-|||1
+
+S Яша повертається .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S У вагон влітає сирої , холодний вітер .
+A 3 5|||G/Gender|||вологий|||REQUIRED|||-NONE-|||1
+
+S - Закрий - ка , Яша , двері , нехай буде він лягати , - каже старий .
+A 0 2|||Punctuation|||— Зачини|||REQUIRED|||-NONE-|||1
+A 3 4|||F/Calque|||но|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Case|||Яшо|||REQUIRED|||-NONE-|||1
+A 9 12|||F/PoorFlow|||будемо|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Що даром свічку палити ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||F/Style|||Чого|||REQUIRED|||-NONE-|||1
+A 2 3|||F/Style|||дарма|||REQUIRED|||-NONE-|||1
+
+S Яша відсуває важкі двері ; лунає свист локомотива , і поїзд рушає .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Холодно ! - бурмоче старий , розтягуючись на бурці і кладучи голову на вузол .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 15|||F/Style|||клунок|||REQUIRED|||-NONE-|||1
+
+S - Чи то справа вдома !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 4|||F/PoorFlow|||Інша річ –|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||удома|||REQUIRED|||-NONE-|||1
+
+S І тепло , і чисто , і м'яко , і богу є де помолитися , а тут гірше свиней всяких .
+A 19 20|||Spelling|||усяких|||REQUIRED|||-NONE-|||1
+
+S Вже чотири доби як чобіт не знімали .
+A 0 1|||Spelling|||Уже|||REQUIRED|||-NONE-|||1
+

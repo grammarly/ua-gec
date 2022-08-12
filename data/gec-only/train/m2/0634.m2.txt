@@ -1,0 +1,44 @@
+S " Я не практикую медицину , сказав я , - я маю державнк ліцензію і я вимагаю міської .
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||державну|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S " " Я пішов до головного офісу мера на наступний ранок і вони сказали , що не можуть зараз це зробити .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Вони не знають коли це станеться .
+A 4 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S " Док Ваух - Ху знову всівся в готельне крісло щось запалив і став чекати .
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 11 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S " Знову і знову молодий чоловік , в синій краватці , у кріслі питав у мене котра година . "
+A 6 8|||Punctuation|||у|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||-NONE-|||REQUIRED|||-NONE-|||1
+A 16 16|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 18 20|||Punctuation|||" .|||REQUIRED|||-NONE-|||1
+
+S " Дев'ята тридцять , сказав , - і ти Енді Тукер .
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 1|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я можу побачити твою роботу .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Хіба ти не отримав підвищення у Великій Купідонський сомбінаторній компанії в північних штатах ?
+A 7 8|||G/Gender|||Купідонській|||REQUIRED|||-NONE-|||1
+
+S Давай глянемо на перстень з діамантами , картопляне кільце , щось із картоплі , пляшку з під сиропу і Дротяні Вернон - і це все за 50 доларів .
+A 2 5|||G/VerbAForm|||Погляньмо|||REQUIRED|||-NONE-|||1
+A 19 20|||Spelling|||з-під|||REQUIRED|||-NONE-|||1
+A 26 27|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

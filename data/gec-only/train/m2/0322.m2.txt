@@ -1,0 +1,112 @@
+S Усе наше життя це система роздоріж та алгоритмів вибору .
+A 3 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S кожен день ми робимо тисячі виборів від яких залежить наше майбутнє .
+A 0 1|||Spelling|||Кожен|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Але є особливі роздоріжжя від вибору на яких залежать долі мільйонів , долі наступних поколінь , доля країни .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 16 17|||G/Case|||долю|||REQUIRED|||-NONE-|||2
+
+S Помилки на цих роздоріжжях коштують дуже дорого і , часом , наш вибір виводить нас на нове роздоріжжя вибір на якому завчасно принесе фатальні наслідки .
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 18 18|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 10 11|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 18 18|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Це так звана " вилка " , в якій втрати неминучі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S До чого це я все ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Тогоріч моя Україна зустрілася з вибором : або повернути в фатальну " вилку " , або рухатись прямою важкою наміченою дорогою .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Оскільки , # козойоби нічого не знають про роздоріжжя , а більше турбуються про вміст свого шлунку , вибір було зроблено у бік посипаної манною " вилки " .
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 16 17|||G/Case|||шлунка|||REQUIRED|||-NONE-|||1
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Чому у нас право голосу мають # козойоби це інша важлива тема .
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Тож ми невпинно рухаємося до наступного роздоріжжя будь-який вибір на якому не принесе нічого доброго .
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Один з них , " не розхитувати бо путінападе " , призведе до поступового демонтажу Держави і ми знову заорбітимося з віковим монстром Московією .
+A 1 2|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||путін нападе|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||держави|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 8 9|||Spelling|||путін нападе|||REQUIRED|||-NONE-|||2
+A 15 16|||Spelling|||держави|||REQUIRED|||-NONE-|||2
+A 16 16|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Думаю , це не потрібно доводити , бо процеси вже набрали очевидних , навіть для сліпих " шлунків " , масштабів .
+A 3 5|||Spelling|||непотрібно|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Другий шлях : почати швидкі зміни влади Майданом .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Але для цього випадку на наших кордонах вже стоять танки з уже прогрітими двигунами .
+A 7 8|||Spelling|||уже|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Третього шляху на цьому роздоріжжі немає !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Може й є , але ймовірність їх реалізації настільки фантастична , як падіння метеорита акурат на Московію і миттєве огненне очищення території за поребриком .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||G/Number|||його|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 6 7|||G/UngrammaticalStructure|||їхньої|||REQUIRED|||-NONE-|||2
+A 22 22|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 24 24|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+
+S Задавав питання деяким людям , що знають стан справ і реальні сценарії , про те чи може Україна вистояти у такому військовому протистоянні .
+A 2 3|||G/Case|||деяких|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Case|||людей|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Conjunction|||які|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 16 17|||G/Aspect|||зможе|||REQUIRED|||-NONE-|||2
+
+S Відповідь була песимістично ствердна .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S А як думаєте ви ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Які сценарії розіграються в найближчі рік - два ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 2 3|||G/VerbVoice|||буде розіграно|||REQUIRED|||-NONE-|||2
+A 3 4|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Те , що ми як країна і як нація втратимо - це вже навіть не питання , це факт , який спостерігаємо щодня .
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Питання лиш в порядку тих втрат , як у виміру крові , часу , економіки , історичної репутації , скалічених людських життів та невиправно зіпсованих поколінь .
+A 2 3|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

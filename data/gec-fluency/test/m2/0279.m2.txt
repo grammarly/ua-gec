@@ -1,0 +1,60 @@
+S Насправді , я не дуже люблю святкувати .
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 6 7|||F/Style|||святкування|||REQUIRED|||-NONE-|||2
+
+S Та виключенням є Різдво .
+A 1 2|||F/Calque|||винятком|||REQUIRED|||-NONE-|||1
+A 0 4|||F/PoorFlow|||Різдво — виняток|||REQUIRED|||-NONE-|||2
+
+S Спочатку ставимо ялинку ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 2|||F/Style|||прикрашаємо|||REQUIRED|||-NONE-|||2
+
+S Хоча ні , цілу ялинку вже давно не купляємо , бо багато мороки .
+A 8 9|||F/Style|||купуємо|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Одного разу повісили на вікно гулочку , іншого - малюнок ялинки , а коли повезе , то знайдемо в комірці штучну ялинку і поставимо її .
+A 5 6|||Spelling|||гілочку|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 15|||F/Calque|||пощастить|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||гілочку|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 13 15|||F/Calque|||як пощастить|||REQUIRED|||-NONE-|||2
+A 17 18|||G/Aspect|||знаходимо|||REQUIRED|||-NONE-|||2
+A 23 24|||F/Style|||прикрашаємо|||REQUIRED|||-NONE-|||2
+
+S Є щось дуже затишне у обрядах Різдва .
+A 4 5|||Spelling|||в|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||в|||REQUIRED|||-NONE-|||2
+
+S Вдень 6го з мамою готуємо 12 страв , обов'язково кутю , а на Свят - вечір сісти з сім'єю та балакати , розхвалюючи як все смачно .
+A 13 16|||Spelling|||Святвечір|||REQUIRED|||-NONE-|||1
+A 16 17|||G/Number|||сідаємо|||REQUIRED|||-NONE-|||1
+A 17 18|||Spelling|||зі|||REQUIRED|||-NONE-|||1
+A 19 20|||F/Style|||і|||REQUIRED|||-NONE-|||1
+A 20 21|||G/Number|||балакаємо|||REQUIRED|||-NONE-|||1
+A 23 23|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 24 25|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||6-го|||REQUIRED|||-NONE-|||2
+A 13 16|||Spelling|||Святвечір|||REQUIRED|||-NONE-|||2
+A 16 21|||G/Tense|||сідаємо з сім’єю та балакаємо|||REQUIRED|||-NONE-|||2
+A 23 23|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Як була меншою , то ще й колядувала всім - всім родичам по телефону .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S На відміну від Великодня , Ісус не помирає та воскресає , а народжується .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Якось веселіше .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Наступне Різдво хочу відсвяткувати з татом в селі .
+A 6 7|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

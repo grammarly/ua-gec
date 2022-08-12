@@ -1,0 +1,62 @@
+S Маргарита під столом штовхнула ногою Майстра .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - З великим задоволенням , - відповів майстер , вивчаючи Азазелло , а той продовжував :
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||Майстер|||REQUIRED|||-NONE-|||1
+
+S - Ми сподіваємося , що і Маргарита Миколаївна не відмовиться від цього ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Я ж то , мабуть , відмовлюся , - сказала Маргарита , і знову її нога проїхалася по нозі майстра .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 20 21|||Spelling|||Майстра|||REQUIRED|||-NONE-|||1
+
+S - Чудова річ ! - вигукнув Азазелло , - от це я люблю .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Один - два і готово !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Не то , що тоді в Олександрівсьокму саду .
+A 6 7|||Spelling|||Олександрівському|||REQUIRED|||-NONE-|||1
+
+S - Йо , не нагадуйте мені , Азазело !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||Азазелло|||REQUIRED|||-NONE-|||1
+
+S Я була дурна тоді .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Та , між іншим , мене і не можна обвинувачувати за це - бо не кожного дня зустрічаєшся з нечистою силою !
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ще б , - підтверджував Азазело , - якщо б кожного дня , це було б приємно !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||Азазелло|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||би|||REQUIRED|||-NONE-|||1
+
+S - Мені самій подобається швидкість , - казала Маргарита заведено , - подобається швидкість та оголеність .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Як із маузера - раз !
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ох , як він стріляє , - вигукнула Маргарита , звертаючись до майстра , - сімка під подушкою , і будь-яке очко ...
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||Майстра|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Маргарита починала п'яніти , від чого очі в неі розгорілися .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||неї|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,83 @@
+S - Інколи хороший чоловік мое перетворитися у поганого , - сказав високий чоловік .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||може|||REQUIRED|||-NONE-|||1
+A 6 7|||G/Prep|||на|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 2 4|||F/Style|||хороша людина|||REQUIRED|||-NONE-|||2
+A 4 5|||Spelling|||може|||REQUIRED|||-NONE-|||2
+A 6 7|||G/Prep|||на|||REQUIRED|||-NONE-|||2
+A 7 8|||G/Gender|||погану|||REQUIRED|||-NONE-|||2
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S - Ти був під арештом протягом 10 хвилин , " Ніжний " Боб .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||G/Case|||Бобе|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 9 13|||G/Case|||Ніжний Бобе|||REQUIRED|||-NONE-|||2
+
+S Чикаго думає ти впав у дорозі й нас приводить , що овна хоче погаворити з тобою .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||вона|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||поговорити|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 11 12|||Spelling|||вона|||REQUIRED|||-NONE-|||2
+A 13 14|||Spelling|||поговорити|||REQUIRED|||-NONE-|||2
+
+S Продовжуй тихо , зрозумів ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Це чутливо .
+A 1 2|||F/Style|||важливо|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Зараз , перед тим як ми підемо на станцію , ось записка , яку я попросив передати тобі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ти зможем прочитати її біля вікна .
+A 1 2|||G/Number|||зможеш|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Це від Пртолмен Велс
+A 2 3|||Spelling|||Птолмен|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Чоловік з заходу розгорнув маленький шматочок бумаги , переданий йому .
+A 1 2|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||Заходу|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Calque|||паперу|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Calque|||паперу|||REQUIRED|||-NONE-|||2
+
+S Його рука була непохитна коли він почав читати , але задрижала до того часу як він закінчив .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Записка була досить короткою .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S - Я прибув на місці вчасно .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Case|||місце|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Case|||місце|||REQUIRED|||-NONE-|||2
+
+S Коли ти запалив сірник для сегарети я побачив , це було обличчя чоловіка , який розшукується в Чикаго .
+A 5 6|||Spelling|||сигарети|||REQUIRED|||-NONE-|||1
+A 14 15|||G/Case|||якого|||REQUIRED|||-NONE-|||1
+A 15 16|||G/VerbVoice|||розшукують|||REQUIRED|||-NONE-|||1
+A 16 17|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Case|||сірника|||REQUIRED|||-NONE-|||2
+A 5 6|||Spelling|||сигарети|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 9 11|||F/PoorFlow|||що це|||REQUIRED|||-NONE-|||2
+
+S Якось я не зміг зробити це сам , отже я пішов навколо і отримав однотонний одяг чоловіка , щоб зробити роботу , - сказав Боб .
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||й|||REQUIRED|||-NONE-|||1
+A 22 23|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+

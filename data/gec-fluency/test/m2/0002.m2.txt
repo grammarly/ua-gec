@@ -1,0 +1,77 @@
+S Наступного ранку рівно о одинадцятій годині , коли я сидів сам , дядько Том шаштався в готелі і попросив у лікаря підійти і побачити Джанге Банк , хто , воно здавалось , це був майор і дуже хворий чоловік .
+A 3 4|||Spelling|||об|||REQUIRED|||-NONE-|||1
+A 14 15|||G/UngrammaticalStructure|||шастав|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 17 18|||F/Repetition|||та|||REQUIRED|||-NONE-|||1
+A 27 30|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 34 35|||F/Calque|||мер|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||об|||REQUIRED|||-NONE-|||2
+A 14 40|||F/PoorFlow|||прийшов у готель з проханням, щоб лікар відвідав суддю Бенкса, який, як виявилось, був ще й мером, бо він тяжко захворів.|||REQUIRED|||-NONE-|||2
+
+S " Я не є доктор " - сказав я : " Чому вам не піти до лікаря ? " .
+A 3 6|||F/Calque|||лікар|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 11|||Punctuation|||. —|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 3 6|||F/Calque|||лікар.|||REQUIRED|||-NONE-|||2
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 9 11|||Punctuation|||. —|||REQUIRED|||-NONE-|||2
+A 12 12|||G/UngrammaticalStructure|||б|||REQUIRED|||-NONE-|||2
+A 18 20|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S " Босс " - сказав він : " Доктор Хоскінс має проїхати 20 миль по країні , щоб побачити хворих персон .
+A 2 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 8|||Punctuation|||. —|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 1 3|||F/Calque|||Пане,|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 6 9|||F/Calque|||, — лікар|||REQUIRED|||-NONE-|||2
+A 10 16|||G/Tense|||поїхав на 20 миль від міста|||REQUIRED|||-NONE-|||2
+A 19 21|||F/PoorFlow|||хворих|||REQUIRED|||-NONE-|||2
+
+S Він є єдиний лікар в місті і Масса банки сильно погано обурудувані .
+A 1 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 11 12|||F/Calque|||облаштовані|||REQUIRED|||-NONE-|||1
+A 1 2|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 6 12|||F/PoorFlow|||а судді Бенксу дуже погано|||REQUIRED|||-NONE-|||2
+
+S Він відправив мені , щоб спитав чи погоджуйтеся хоч прийти " .
+A 2 3|||G/Case|||мене|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||погоджуєтеся|||REQUIRED|||-NONE-|||1
+A 1 3|||F/PoorFlow|||послав мене,|||REQUIRED|||-NONE-|||2
+A 5 12|||F/PoorFlow|||я спитав, чи погодитесь ви прийти.|||REQUIRED|||-NONE-|||2
+
+S " Як чоловік до чоловіка " - я сказав : " Я буду йти і пошукаю його пізніше " .
+A 5 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||F/PoorFlow|||я|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 5 7|||Punctuation|||, —|||REQUIRED|||-NONE-|||2
+A 9 14|||Punctuation|||, — піду|||REQUIRED|||-NONE-|||2
+A 15 16|||F/Repetition|||огляну|||REQUIRED|||-NONE-|||2
+A 17 19|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Отже , Я підняв пляшку " Recurrection Bitters " з мого ранця і пішов на схил до майорівського особняку , будинок в місті , з розкішною кришою і два виготовлені залізних собак на газоні .
+A 2 3|||Spelling|||я|||REQUIRED|||-NONE-|||1
+A 3 4|||F/Style|||взяв|||REQUIRED|||-NONE-|||1
+A 17 18|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 18 19|||G/Case|||особляка|||REQUIRED|||-NONE-|||1
+A 19 19|||G/UngrammaticalStructure|||мера|||REQUIRED|||-NONE-|||1
+A 21 22|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 25 26|||G/Gender|||розкішним|||REQUIRED|||-NONE-|||1
+A 26 27|||F/Calque|||дахом|||REQUIRED|||-NONE-|||1
+A 28 29|||G/Case|||двома|||REQUIRED|||-NONE-|||1
+A 29 30|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 30 31|||G/Case|||залізними|||REQUIRED|||-NONE-|||1
+A 31 32|||G/Case|||собаками|||REQUIRED|||-NONE-|||1
+A 2 5|||F/PoorFlow|||я взяв пляшечку ліків|||REQUIRED|||-NONE-|||2
+A 17 19|||F/Calque|||маєтку мера|||REQUIRED|||-NONE-|||2
+A 20 34|||G/UngrammaticalStructure|||міського будинку з розкішним дахом і двома залізними собаками на газоні|||REQUIRED|||-NONE-|||2
+

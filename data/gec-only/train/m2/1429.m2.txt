@@ -1,0 +1,19 @@
+S І про медичні коноплі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Торчок завжди знайде , чим сторчатись , Полтава вся в наркографіті .
+A 0 0|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S Торчків не жалко .
+A 0 0|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S А людей , які місяцями терплять муки — жалко .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S І особлива " подяка " Європейська Солідарність за те , що не голосували за цей закон .
+A 5 6|||G/Case|||Європейській|||REQUIRED|||-NONE-|||1
+A 6 7|||G/Case|||Солідарності|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,52 @@
+S - " Доку " , сказав він , - " Я маю це .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 11|||Spelling|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 11|||G/UngrammaticalStructure|||я|||REQUIRED|||-NONE-|||1
+A 0 2|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 8 10|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Вдягай свою шляпу , і пішли зі мною .
+A 1 2|||G/Gender|||свого|||REQUIRED|||-NONE-|||1
+A 5 6|||G/UngrammaticalStructure|||ходімо|||REQUIRED|||-NONE-|||2
+
+S Через пів години , я ґарантую , що ти стоятимеш в присутносты Шемрока Джолнса . "
+A 5 6|||Spelling|||гарантую|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 16 16|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||гарантую|||REQUIRED|||-NONE-|||2
+A 11 12|||Spelling|||присутності|||REQUIRED|||-NONE-|||2
+A 15 16|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S I сів до кабіни з Ейвері Найтом .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Я не чув його вказівок водієві , але авто вирушило помірним темпом Бродвеєм , незабаром повернувши на П'яту Авеню , і продовжуючи на північ знову .
+A 18 19|||Spelling|||авеню|||REQUIRED|||-NONE-|||1
+A 19 20|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 18 19|||Spelling|||авеню|||REQUIRED|||-NONE-|||2
+A 19 20|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 22 22|||G/UngrammaticalStructure|||рух|||REQUIRED|||-NONE-|||2
+
+S Серце калатоло в грудях від того , що я супроводжував цього чудового і обдарованого вбивцю , чиї аналітичний геній і відмінна впевненість у собі , спонукали його дати мені приголомшливу обіцянку привести мене до вбивці і Нью Йоркського детектива , що його переслідує , заразом .
+A 1 2|||Spelling|||калатало|||REQUIRED|||-NONE-|||1
+A 24 25|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 36 38|||Spelling|||нью-йоркського|||REQUIRED|||-NONE-|||1
+A 40 41|||G/Conjunction|||який|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||калатало|||REQUIRED|||-NONE-|||2
+A 16 17|||G/Number|||чий|||REQUIRED|||-NONE-|||2
+A 24 25|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 31 31|||Punctuation|||:|||REQUIRED|||-NONE-|||2
+A 36 38|||Spelling|||нью-йоркського|||REQUIRED|||-NONE-|||2
+
+S Навіть зараз , я не міг повірити що це можливо .
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+

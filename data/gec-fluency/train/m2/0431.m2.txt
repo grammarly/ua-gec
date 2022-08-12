@@ -1,0 +1,191 @@
+S Крилатий шолом ( оповідання )
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Натягнувши лямки свого рюкзака він поволі прямував до воріт .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Вже вкотре він так робив і вже вкотре не витрачав дорогоцінного часу свого життя на те , щоб обернутись .
+A 0 1|||Spelling|||Уже|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+A 18 19|||F/Calque|||озирнутись|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Уже|||REQUIRED|||-NONE-|||2
+A 18 19|||F/Style|||озирнутися|||REQUIRED|||-NONE-|||2
+
+S Замало часу ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S На що ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S На які відкриття у внутрішньому чи зовнішньому світі ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Усе , здавалося б , відкрито .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Усе ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Він давно вже звик до нав*язливого бажання подивитись за плече , адже вже не заперечував існування Духа гірських думок та його невидимої раті .
+A 5 6|||Spelling|||нав'язливого|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||нав’язливого|||REQUIRED|||-NONE-|||2
+A 7 8|||F/Style|||глянути|||REQUIRED|||-NONE-|||2
+
+S Академічної заангажованості він позбувся ще там , коли чекав на УАЗик , яким мав дістатися до готеля .
+A 16 17|||G/Case|||готелю|||REQUIRED|||-NONE-|||1
+A 16 17|||G/Case|||готелю|||REQUIRED|||-NONE-|||2
+
+S Тепер він мислив м а й ж е к о с м і ч н о .
+A 3 16|||Spelling|||майже космічно|||REQUIRED|||-NONE-|||2
+
+S Майже ...
+A 1 2|||Punctuation|||…|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Йому ще складно було збагнути багато елементарних , на думку тутешнього горця Трохима Яковича , речей .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Можливо , єдине , чого вдалося навчити просмерділого асфальтом та людською лайкою міщанина - це тиші , розпізнавання Шляху та співтворчості з Духом гірських думок .
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Сьогодні , можливо , багатолітній дід , що пережив і поляків , і австроугорців , і нацистів і , врешті - решт , учорашній день , розповість йому ще що - небудь ...
+A 13 14|||F/Other|||австрійців з угорцями|||REQUIRED|||-NONE-|||1
+A 29 33|||F/Style|||щось ..|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||австро-угорців|||REQUIRED|||-NONE-|||2
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 18 19|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 22 23|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Видряпавшись на крутий схил , з якого ледве простежувався крізь вранішню імлу величний Попіван , він з полегшенням зітхнув після виснажливого підйому .
+A 8 9|||F/Style|||виднівся|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||Піп Іван|||REQUIRED|||-NONE-|||1
+A 16 18|||F/Calque|||полегшено|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S ... Як і того разу ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 5 6|||Punctuation|||…|||REQUIRED|||-NONE-|||2
+
+S Сьогодні Трохим Якович вигляда якось урочисто - піднесено .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 3 4|||Spelling|||виглядав|||REQUIRED|||-NONE-|||2
+
+S Урочисто - смачний сьогодні був і чай , зібраний з найліпших тутешніх трав .
+A 9 10|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Балакали чоловіки і про те , і про се , непомічаючи плину дорогоцінного часу .
+A 10 11|||Spelling|||не помічаючи|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||не помічаючи|||REQUIRED|||-NONE-|||2
+
+S Але сивий знавець Шляху цей плин , все ж , помітив .
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S - Мені пора , Олексо , вже час - піднесено сповістив він і міцно ухопив буковий кий , наче єдиний порятунок від чогось неминучого .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S - Ми ще зустрінемось ? - чомусь запитав подорожній .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S - Не на цьому Шляху : туди УАЗиком не дістатись .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Лише пішки ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Слухай , мало із собою не забрав , Олексо . - він бидобув з кишені малесенький згорток і подав туристові .
+A 9 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||видобув|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 11 13|||Spelling|||Він видобув|||REQUIRED|||-NONE-|||2
+A 13 14|||Spelling|||із|||REQUIRED|||-NONE-|||2
+
+S Розгорнувши папірці , той вийняв дивну монету .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Точніше , найдивнішою була її вага і колір : начебто звичайна гривня - монета була виготовлена з металу , схожого на бронзу або мідь( подорожній не був досвідчениий у справі металознавства ) , що викривало досить давнє карбування .
+A 23 24|||Punctuation|||мідь (|||REQUIRED|||-NONE-|||1
+A 27 28|||Spelling|||досвідчений|||REQUIRED|||-NONE-|||1
+A 34 35|||F/Style|||вказувало на|||REQUIRED|||-NONE-|||1
+A 23 25|||Spelling|||мідь (подорожній|||REQUIRED|||-NONE-|||2
+A 27 28|||F/Style|||обізнаний|||REQUIRED|||-NONE-|||2
+A 33 38|||F/PoorFlow|||з досить давнім карбуванням|||REQUIRED|||-NONE-|||2
+
+S - Єдине , що в о н и не знайшли під час обшуку у 40-х ... сімейна реліквія ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 4 8|||Spelling|||вони|||REQUIRED|||-NONE-|||2
+A 16 17|||Spelling|||Сімейна|||REQUIRED|||-NONE-|||2
+
+S Роздивись уважно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S - Начебто гривня ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||…|||REQUIRED|||-NONE-|||2
+
+S - Уважніше !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Невідомий майстер викарбував тризуб , певне , багато століть тому , але не древністю вперше привабив його увагу наш герб .
+A 14 15|||Spelling|||уперше|||REQUIRED|||-NONE-|||1
+A 5 6|||F/Style|||певно|||REQUIRED|||-NONE-|||2
+
+S Не княжий герб , а меморіал героям дивився на нього - крилатий шолом невідомого , але оспіваного у століттях арійського воїна , що боронить святе .
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S " Пам*ять про нього і про його нащадів - володарів духу в о н и у нас ніколи не відберуть " - раптом подумки пообіцяв собі турист .
+A 1 2|||Spelling|||Пам'ять|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||нащадків|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 21 21|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||Пам’ять|||REQUIRED|||-NONE-|||2
+A 7 8|||Spelling|||нащадків|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 11 15|||Spelling|||— вони|||REQUIRED|||-NONE-|||2
+A 15 16|||Spelling|||в|||REQUIRED|||-NONE-|||2
+A 21 21|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 21 22|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Поряд вже давно нікого не було , але в душі , на глибині к о с м і ч н о ї свідомості , він заприсягся донести крилатий шолом героя навіть туди , куди не дістанешся УАЗиком , а лише пішки ...
+A 1 2|||Spelling|||уже|||REQUIRED|||-NONE-|||1
+A 13 22|||Spelling|||космічної|||REQUIRED|||-NONE-|||2
+
+S ПРИСВЯЧУЄТЬСЯ УСІМ ЗАХИСНИКАМ МОЄЇ БАТЬКІВЩИНИ
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

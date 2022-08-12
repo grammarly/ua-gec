@@ -1,0 +1,39 @@
+S " Як " , відповідав чоловік , " хочеш порушувати своє слово ?
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Чи ти мені не обіцяв відправити месенджера ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я жодного не побачів .
+A 3 4|||Spelling|||побачив|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S " " Мовчи " , відповідав смерть , " чи я тобі не відправів багато месенджерів ?
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Gender|||відповідала|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||відправив|||REQUIRED|||-NONE-|||1
+
+S Чи не пришла до тебе лихоманка , кинула тебе на землю ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Чи запаморочення оміняв тобі голову ?
+A 2 3|||G/UngrammaticalStructure|||оминуло|||REQUIRED|||-NONE-|||1
+
+S Чи не подагра кусила тобі кінцівки ?
+A 3 4|||Spelling|||кусала|||REQUIRED|||-NONE-|||1
+
+S Чи тобі не зашелестіли вуха ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Чи не зуби болили ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Чи не стало тобі темно перед очами ?"
+A 6 7|||Spelling|||очима|||REQUIRED|||-NONE-|||1
+

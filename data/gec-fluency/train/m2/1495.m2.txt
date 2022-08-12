@@ -1,0 +1,60 @@
+S Іван Миколайович зиркнув з недовірою , але все ж пробурчав :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Слава тобі господи !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||Господи|||REQUIRED|||-NONE-|||1
+
+S Знайшовся хоча б один нормальний серед ідіотів , із яких перший - телепень і бездарність Сашко !
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 15|||F/Style|||нездара|||REQUIRED|||-NONE-|||1
+
+S - Хто цей Сашко - бездарність ? - прийшов до тями лікар .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||F/Style|||нездара|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - А ось він , Рюхін ! - відповів Іван і тикнув брудним пальцем в сторону Рохіна .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||F/Style|||тицьнув|||REQUIRED|||-NONE-|||1
+A 14 16|||F/PoorFlow|||на|||REQUIRED|||-NONE-|||1
+
+S Той вибухнув від непорозуміння .
+A 3 4|||F/Style|||нерозуміння|||REQUIRED|||-NONE-|||1
+
+S " Це він мені замість дякую ! - гірко подумав він , - за те , що я взяв у ньому участь !
+A 5 5|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 18 19|||Spelling|||узяв|||REQUIRED|||-NONE-|||1
+
+S От же , дійсно , гімно ! "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Типовий кулачок по своїй психології , - заговорив Іван Миколайович , якому , очевидно , захотілося опозорити Рюхіна , - і потім кулачок , добре маскуючий під пролетарія .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 17 18|||F/Calque|||осоромити|||REQUIRED|||-NONE-|||1
+A 20 21|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 25 25|||F/PoorFlow|||що|||REQUIRED|||-NONE-|||1
+A 26 27|||G/VerbVoice|||маскується|||REQUIRED|||-NONE-|||1
+
+S Подивіться на його пафосну фізіономію і співвідносьте з тими звучними віршами , який він написав до першого числа !
+A 6 7|||F/Calque|||порівняйте|||REQUIRED|||-NONE-|||1
+A 12 13|||G/Gender|||які|||REQUIRED|||-NONE-|||1
+
+S Хе-хе-хе ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Звийтеся ! ' та " розвийтеся ! " ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S А ви зазирніть до нього всередину - що він там думає ... ви ахнете ! - і Іван Миколайович злюще розсміявся
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||F/Style|||охнете|||REQUIRED|||-NONE-|||1
+A 16 17|||Spelling|||й|||REQUIRED|||-NONE-|||1
+A 19 20|||F/Style|||зловісно|||REQUIRED|||-NONE-|||1
+

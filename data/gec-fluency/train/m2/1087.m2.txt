@@ -1,0 +1,48 @@
+S " Я слідував один чи два помилкові сліди , докторе " - зізнався він .
+A 2 3|||F/Style|||зробив|||REQUIRED|||-NONE-|||1
+A 9 11|||F/Calque|||лікарю|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Я знаю дещо про детективні методи і я використовував декілька з них , очікуючи знайти Джолнса в кінці .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 11|||F/Style|||кілька|||REQUIRED|||-NONE-|||1
+A 15 15|||F/PoorFlow|||врешті|||REQUIRED|||-NONE-|||1
+A 17 19|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Пістолет . 45-го калібра , я думав , точно , я знайду його за роботою над доказами на сорок - п'ятій вулиці .
+A 1 3|||Punctuation|||45-го|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Case|||калібру|||REQUIRED|||-NONE-|||1
+A 18 19|||Spelling|||Сорок|||REQUIRED|||-NONE-|||1
+A 19 20|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Однак , знову ж таки , я шукав детектива в Колумбійському університеті , так як чоловік застрілений у спину свідчить про дідовщину .
+A 13 15|||F/Calque|||оскільки|||REQUIRED|||-NONE-|||1
+A 15 16|||G/Case|||чоловіка|||REQUIRED|||-NONE-|||1
+A 16 17|||G/VerbVoice|||застрелили|||REQUIRED|||-NONE-|||1
+A 19 19|||F/PoorFlow|||, і це|||REQUIRED|||-NONE-|||1
+
+S Але я не знайшов і слідуйого і сліда . "
+A 2 2|||F/PoorFlow|||і сліду його|||REQUIRED|||-NONE-|||1
+A 5 8|||G/UngrammaticalStructure|||сліду "|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S - " І не знайдеш , " сказав я емпатично .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Не звичайними методами " - сказав Найт .
+A 1 3|||Spelling|||Незвичайними|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я можу місяць безуспішно ходити туди - сюди по Бродвею .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Але Ви заділи мою гординю , докторе і якщо я не зможу показати Вам Шамрока Джолнса сьогодні , обіцяю , я ніколи більше не вб'ю і не пограбую у Вашому місті .
+A 2 3|||F/Calque|||зачепили|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Calque|||лікарю ,|||REQUIRED|||-NONE-|||1
+A 31 31|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+

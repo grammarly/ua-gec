@@ -1,0 +1,59 @@
+S Цей мер Бенкс був увесь у ліжку , окрім його вус та ніг .
+A 10 11|||G/Case|||вусів|||REQUIRED|||-NONE-|||1
+
+S Він видавав звуки зсередини , які мали всі в Сан Франциско хто гуляв по парках .
+A 6 7|||F/Style|||чули|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Молодий чоловік стояв біля ліжка тримаючи чашку з водою .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S ''Лікарю , сказав мер , ''Я жахливо хворий .
+A 2 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Style|||страшенно|||REQUIRED|||-NONE-|||1
+
+S Я скоро помру .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Чи ви можете хоча б якось допомогти мені ?''
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S ' 'Містере Мере , сказав я , Я не звичайний попередньо визначений учень С . К . Лапіуса .
+A 2 3|||G/UngrammaticalStructure|||мер|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||я|||REQUIRED|||-NONE-|||1
+
+S Я ніколи не навчався в медичному коледжі , кажу я , Я просто прийшов як звичайний чоловік подивитись чи я можу чимось допомогти .''
+A 8 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 12|||F/PoorFlow|||я|||REQUIRED|||-NONE-|||1
+A 15 16|||G/Gender|||звичайна|||REQUIRED|||-NONE-|||1
+A 16 17|||F/Style|||людина|||REQUIRED|||-NONE-|||1
+A 18 18|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 19 20|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+A 23 24|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 24 23|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Я глибоко зобов'язаний , сказав він .
+A 0 0|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 2 3|||F/Style|||вдячний|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Докторе Ва-ху , це мій племінник , Містер Бідл .
+A 7 8|||Spelling|||містер|||REQUIRED|||-NONE-|||1
+
+S Він намагався полегшити моє горе , але безуспішно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S О , Боже !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ой-ой-ой !! виспвівує він
+A 2 2|||Punctuation|||" —|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||виспівує|||REQUIRED|||-NONE-|||1
+

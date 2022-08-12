@@ -1,0 +1,58 @@
+S – - Як ви смієте говорити мені це ? –- спитав тихо Абогін , і його лице знову застрибало і на цей раз вже ясно від гніву .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 20 23|||F/PoorFlow|||цього разу|||REQUIRED|||-NONE-|||1
+A 24 25|||F/Style|||чітко|||REQUIRED|||-NONE-|||1
+
+S - Ні , як ви , знаючи , що в мене горе , сміли привезти мене сюди вислуховувати пошлості ? - крикнув доктор і знов грюкнув кулаком по столі .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 18 19|||F/Style|||грубощі|||REQUIRED|||-NONE-|||1
+A 20 21|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Хто вам надав право так знущатися над чужим горем ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ви з глузду з'їхали ! - крикнув Абогін .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Не великодушно !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я сам глибоко нещасний та ... та ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Нещасний , - презирливо посміхнувся доктор .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Не чіпайте цього слова , воно вас не стосується .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Вар'яти , які не знаходять грошей під вексель , теж називають себе нещасними .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Каплун , якого тисне зайвий жир , також нещасний .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ниці люди !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Милостивий государю , ви забуваєтесь ! - звизкнув Абогін .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||F/Style|||пане|||REQUIRED|||-NONE-|||1
+A 5 6|||G/VerbVoice|||забуваєте|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||F/Calque|||верескнув|||REQUIRED|||-NONE-|||1
+
+S - За такі слова ... б'ють !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Тямите ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Абогін поспішно поліз в бокову кишеню , висмикнув звідти гаманця і , діставши два папірці , жбурнув їх на стіл .
+A 3 4|||Spelling|||у|||REQUIRED|||-NONE-|||1
+

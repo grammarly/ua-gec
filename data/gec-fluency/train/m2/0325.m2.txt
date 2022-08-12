@@ -1,0 +1,57 @@
+S Біда кажуть православні бути багатою людиною , купцем чи чимось подібним ( тупі москалі ) .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||F/Style|||кимось|||REQUIRED|||-NONE-|||1
+
+S Немає грошей - нема і турбот , є гроші - тримайся весь час за кишеню , щоб злі люди не вкрали .
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Страшно жити на світі , в кого грошей багато ( а ще страшніше жити з дебілами які так думають ) .
+A 16 16|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S П'яний народ , звісно слухав , розумів , та на вуса собі намотував .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||F/Other|||і|||REQUIRED|||-NONE-|||1
+
+S А тоді коли в Каланчаку чугунку ( не знаю що це в біса таке ) будували , й всякого бидла з обірванцями було видно без краю , наче сарани .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 17 18|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Батько потім схаменувся , та вже було пізно .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Слово не горобець , вилетить - не спіймаєш .
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Їдуть вони , пан лісом невеликим , і раптом чують , що хтось позаду верхи скаче .
+A 2 4|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Батько був не з слабкодухих - це вже точно , та тоді ми засумнівались .
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Там в лісі , дорога піша , хіба сіно з дровами і возять , того скакати тут нікому , та й нема для чого , особливо в робочий час .
+A 1 2|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S За хорошими справами не їздять верхи ( чого , про що вони говорять ! ?)
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Таке відчуття наче погоня - каже батько Ані - аж надто галопом їздять .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S В корчмі , мені треба було мовчати , щоб мене .
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Ой дочко , чує моє серце , тут щось не так !
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,55 @@
+S Так , слідує відмітити першу дивину цього травневого вечора .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Не тільки біля будочки , але й на всій алеї , паралельній Малій Бронной вулиці , не виявилося ні одної людини .
+A 12 13|||G/Case|||Малої|||REQUIRED|||-NONE-|||1
+A 13 14|||G/Case|||Бронної|||REQUIRED|||-NONE-|||1
+
+S В той час , коли вже , здається , й сил не має дихати , коли сонце , розжаривши Москву , в сухім тумані валилось кудись за Садове кільце , - ніхто не прийшов під липу , ніхто не сів на лавочку , порожня була алеєя
+A 11 13|||Spelling|||немає|||REQUIRED|||-NONE-|||1
+A 30 31|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Дайте нарзану , - попросив Берліоз
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S - Нарзану немає , - відповіла жінка у будочці и чомусь образилась
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||й|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S - Пиво є ?- осиплим голосом поцікавився бездомний
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||? —|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S - Пиво привезуть на вечір , - відповіла жінка .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - А що є ? - запитав Берлиоз
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||Берліоз|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S - Абрикосова , тільки тепла , - сказала жінка
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S - Ну давайте , давайте , давайте !..
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Абрикосова дала рясну жовту піну , і у повітрі запахло перукарнею .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Напившись , літератори негайно почали гукати , розрахувались и всілися на лавку обличчям до пруду і спиною до Бронной
+A 5 6|||Spelling|||гикати|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||і|||REQUIRED|||-NONE-|||1
+A 18 19|||G/Case|||Бронної|||REQUIRED|||-NONE-|||1
+A 19 19|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

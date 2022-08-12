@@ -1,0 +1,38 @@
+S Друзі , зміни в наших екскурсійних планах : на МК з писанкарства йдемо до Національний заповідник « Софія Київська » – познайомитися , крім усього , з цікавим майстром і живописцем Віктором Дейсун .
+A 10 11|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 14 15|||G/Case|||Національного|||REQUIRED|||-NONE-|||1
+A 15 16|||G/Case|||заповідника|||REQUIRED|||-NONE-|||1
+A 32 33|||G/Case|||Дейсуном|||REQUIRED|||-NONE-|||1
+A 2 2|||G/UngrammaticalStructure|||ось|||REQUIRED|||-NONE-|||2
+A 9 10|||F/Style|||майстер-клас|||REQUIRED|||-NONE-|||2
+A 10 11|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 13 14|||G/Prep|||в|||REQUIRED|||-NONE-|||2
+A 20 20|||G/UngrammaticalStructure|||, де|||REQUIRED|||-NONE-|||2
+A 20 26|||G/UngrammaticalStructure|||познайомимося|||REQUIRED|||-NONE-|||2
+A 26 27|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 28 31|||F/PoorFlow|||майстром-живописцем|||REQUIRED|||-NONE-|||2
+A 32 33|||G/Case|||Дейсуном|||REQUIRED|||-NONE-|||2
+
+S Вихід зі школи – 11 год , зустріч біля Софійська дзвіниця 11 : 50 , повернення до школи до 14 . 30 .
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||G/Case|||Софійської|||REQUIRED|||-NONE-|||1
+A 10 11|||G/Case|||дзвіниці|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 18 18|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||G/UngrammaticalStructure|||об|||REQUIRED|||-NONE-|||2
+A 9 11|||G/Case|||Софіївської дзвіниці|||REQUIRED|||-NONE-|||2
+A 11 11|||G/UngrammaticalStructure|||об|||REQUIRED|||-NONE-|||2
+A 19 22|||F/Style|||14:30|||REQUIRED|||-NONE-|||2
+
+S Вартість : 90 грн ( МК , транспортні витрати ) .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 5 6|||F/Style|||майстер - клас|||REQUIRED|||-NONE-|||2
+
+S Інші плани ( поїнг , українознавство , інформатика ) – за планом .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S До зустрічі !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

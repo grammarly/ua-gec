@@ -1,0 +1,24 @@
+S Прошу вибачення , Олексію семеновичу ! - с3азав інжинер , прижимаючи руку до серця .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||Семеновичу|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||сказав|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||інженер|||REQUIRED|||-NONE-|||1
+
+S - Я негайно пртйму міри і всі ваші наймееші побажання будуть виконвні найкращім і найшвидшим способом .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||найменші|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||виконані|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||найкращим|||REQUIRED|||-NONE-|||1
+
+S - ну добре , ступай .
+A 0 2|||Punctuation|||— Ну|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Інженер поклонився , пішов назад все в нахиленомуположені , і зник за дверима .
+A 5 6|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||нахиленому положенні|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S В останнє сверкнувши фальшивими бриліантами на сорочці .
+A 0 2|||Spelling|||Востаннє|||REQUIRED|||-NONE-|||1
+

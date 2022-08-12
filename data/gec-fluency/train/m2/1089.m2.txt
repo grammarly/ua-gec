@@ -1,0 +1,48 @@
+S Він сів близенько до тата на своєму малому стільчику .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Боб узяв його маленьку зморшкувату руку в свою , наче він любив дитину , і хотів , щоб вона залишилась із ним , і боявся , що її в нього віднімуть .
+A 13 14|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S " Духу " , - сказав Скрудж із зацікавленням , якого раніше ніколи не відчував , - " скажи мені , чи виживе Маленький Тім " .
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 17 18|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S " Я бачу порожнє місце " , - відповів Привид , - " у куточку біля комину , і старанно збережений ціпок без власника .
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 16 17|||G/Case|||комина|||REQUIRED|||-NONE-|||1
+
+S Якщо ці тіні не змінить Майбутнє , дитя помре . "
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Ні , ні " , - промовив Скрудж .
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S - " О ні , добрий Духу !
+A 0 2|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S Скажи , що він буде врятований " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Якщо ці тіні не змінить Майбутнє , ніхто з мого роду " - повернувся Привид - " не знайде його тут .
+A 12 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 16 16|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 17 18|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Що тоді ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Якщо йому судилось померти , нічого йому не залишається , крім як так і зробити та знизити перенаселення . "
+A 15 16|||F/Repetition|||і|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 20 20|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

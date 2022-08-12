@@ -1,0 +1,70 @@
+S " Фарба ? - Дурня !
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Невже вона ні про що вартісне не думає , приміром , про чоловіка ? "
+A 9 10|||F/Style|||наприклад|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S " Чоловіка ? " - сказала Сью , з еврейською уїдливістю в голосі .
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||єврейською|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||в'їдливістю|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 5 6|||F/Style|||запитала|||REQUIRED|||-NONE-|||2
+
+S " Чи про чоловіка варто думати - але ж , ні , лікарю ; нічого схожого . "
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 18 18|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 17 18|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S " Отже , тоді це слабкість , " - сказав лікар .
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S " Я зроблю усе доступне для науки , зважаючи на мої зусилля .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||F/PoorFlow|||від мене можливе|||REQUIRED|||-NONE-|||1
+A 7 12|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 4 5|||F/Style|||можливе|||REQUIRED|||-NONE-|||2
+
+S Але коли моя пацієнтка починає рахувати машини у її поховальній процесії , я віднімаю п’ятдесят відсотків цілющої сили ліків .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 8 9|||F/Style|||власній|||REQUIRED|||-NONE-|||2
+
+S Якщо ви вмовите її запитати одне питання про фасон рукавів пальта з нової зимової колекції , я обіцяю один з п’яти шансів для неї замість одного з десяти .
+A 4 5|||F/Repetition|||поставити|||REQUIRED|||-NONE-|||1
+A 19 20|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 28 28|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 4 5|||F/Style|||поставити|||REQUIRED|||-NONE-|||2
+A 6 7|||F/Style|||запитання|||REQUIRED|||-NONE-|||2
+A 19 20|||Spelling|||із|||REQUIRED|||-NONE-|||2
+
+S " Після того як лікар пішов Сью увійшла в майстерню й виплакала серветку вщент .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||F/PoorFlow|||виплакалася в|||REQUIRED|||-NONE-|||1
+A 13 15|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 11 12|||F/PoorFlow|||залила сльозами|||REQUIRED|||-NONE-|||2
+
+S Потому вона майнула в кімнату Джонсі з її мольбертом , насвистуючи реґтайм .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

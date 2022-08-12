@@ -1,0 +1,13 @@
+S - Я придумав режим для мікрохвильовки , щоб готувати попкорн !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - І як , смачно виходить ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - *закидує в рот жменю смаленого кукурузного ошмаття *
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||G/UngrammaticalStructure|||закидає|||REQUIRED|||-NONE-|||1
+
+S Ідеально !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

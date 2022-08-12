@@ -1,0 +1,83 @@
+S " Вас ! " - він закричав !
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 5|||F/PoorFlow|||закричав|||REQUIRED|||-NONE-|||1
+A 6 7|||F/PoorFlow|||.|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S - " Чи ці люди у світі із їхньою дурістю померти через листки , які вони висаджують із змішаної лози ?
+A 0 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 9|||F/PoorFlow|||розуміють, яка це дурість|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 20|||F/PoorFlow|||опадають із своїх стебел|||REQUIRED|||-NONE-|||1
+A 19 20|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Я не чув про таку річ !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ні , я не буду взірцем для твоїх дурнуватих відлюдників .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Чому ти дозволяєш тим дурненьким справам прийти до її голови ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ахх ...
+A 0 1|||F/Style|||Охх|||REQUIRED|||-NONE-|||1
+
+S Бідна маленька Міс Йонсі . "
+A 2 3|||Spelling|||міс|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Вона дуже хвора і слабка " - сказала Сью , - " і гарячка залишила її мозок хворобливим та повним чудернацьких фантазій .
+A 6 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 16|||F/Style|||зробила|||REQUIRED|||-NONE-|||1
+A 20 21|||F/Style|||сповненим|||REQUIRED|||-NONE-|||1
+
+S Дуже добре , Містере Бехрмане , якщо Вам байдуже позувати мені , то не потрібно .
+A 3 4|||Spelling|||містере|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||Бермане|||REQUIRED|||-NONE-|||1
+A 14 15|||F/Style|||треба|||REQUIRED|||-NONE-|||1
+
+S Але я думаю , що Ви жахливий старий - старий фліббертигіббет " .
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Ви проводите себе точно як жінка ! " - закричав Бехрман .
+A 2 3|||F/Style|||поводите|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||Берман|||REQUIRED|||-NONE-|||1
+
+S " Хто сказав , що я не позуватиму ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Продовжуймо .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я прийду до Вас .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Вже півгодини я намагаюся сказати Вам , що позуватиму !
+A 1 2|||Spelling|||пів години|||REQUIRED|||-NONE-|||1
+
+S Боже !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Це не таке те місце , де хтось , такий чудовий , як Міс Йонсі повинна лежати хвора .
+A 2 3|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||міс|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 15 16|||G/Gender|||повинен|||REQUIRED|||-NONE-|||1
+A 17 18|||G/Gender|||хворий|||REQUIRED|||-NONE-|||1
+
+S Одного дня , я намалюю шедевр і ми заберемося звідси геть .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Боже !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Так ! "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

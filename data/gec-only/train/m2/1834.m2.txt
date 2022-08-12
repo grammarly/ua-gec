@@ -1,0 +1,45 @@
+S " " Констебль , - кажу я , - " гарна ніч " .
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Case|||Констеблю|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S " " У вас є міська ліцензія , - запитує він , - щоб продати цю нелегітимну суть spooju , якій ви лестите на ім'я ліки ?
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 25 25|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 26 26|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " " У мене немає , - каже я .
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||G/Other|||кажу|||REQUIRED|||-NONE-|||1
+
+S - Я не знав , що у вас є місто .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Якщо я зможу знайти його завтра , я винесу його , якщо це буде потрібно " .
+A 4 5|||G/Gender|||її|||REQUIRED|||-NONE-|||1
+A 9 10|||G/Gender|||її|||REQUIRED|||-NONE-|||1
+
+S " " Мені доведеться закрити вас , поки ви це не зробите " , - говорить констебль .
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||G/Case|||цього|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Я кинув продавати і повернувся до готелю .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Я говорив про це з орендодавцем .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " " О , ви не витримаєте жодного шоу на Фішер - Хілл , - каже він . - Доктор Хоскінс , єдиний лікар тут , є швагром мера , і вони не дозволять жодному підробленому лікарю практикуватися в місті " .
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,43 @@
+S – Боже мій ! - каже він із стогоном - невже Ви не взмозі нанести та натерти , або зробити щось інше ?
+A 9 9|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||Невже|||REQUIRED|||-NONE-|||1
+
+S Я беру свій капелюх , і рушаю до дверей .
+A 2 3|||G/Case|||свого|||REQUIRED|||-NONE-|||1
+A 3 5|||G/Case|||капелюха|||REQUIRED|||-NONE-|||1
+
+S – То Ви нікуди не йдете , докторе ? - питає мер міста , випускаючи із себе виття - Ви нікуди не підете й не збирайтеся залишити мене тут померти у цій обшарпаній халупі , невже це так ?
+A 7 8|||F/Calque|||лікарю|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 18 18|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S – Це звичайна людяність , доктор Ей - сказав містер Біддл - Моїм зобов’язанням є допомогти міському голові запобігти пагіну від людини , яка пізнала такого ж лиха , що і Він .
+A 5 6|||F/Calque|||лікарю|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 31 32|||Spelling|||він|||REQUIRED|||-NONE-|||1
+
+S – Доктор Ей , Ви обов´язково проб’єтесь крізь ці труднощі , завдяки власним зусиллям .
+A 1 2|||F/Calque|||Лікарю|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||ви|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Потім я повертаюся до ліжка , і відкидаю свої довгі пасма назад .
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S – Пане мер - кажу я - на Вас є лише одна надія .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Наркотики Вам не принесуть ніякої користі .
+A 4 5|||F/Style|||жодної|||REQUIRED|||-NONE-|||1
+
+S Але є найбільш потужний засіб , хоча такого роду ліки також сильні .
+A 7 9|||F/PoorFlow|||такі|||REQUIRED|||-NONE-|||1
+

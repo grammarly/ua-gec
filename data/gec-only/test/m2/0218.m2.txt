@@ -1,0 +1,54 @@
+S " Ох , я вже дещо виріс з двадцятирічного віку "
+A 7 8|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 7 8|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 10 11|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S " Як воно в Нью-Йорку , Джиммі ? "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S " Непогано .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Я займаю посаду в одному з міських департаментів .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Облиш , Бобе .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ходімо , покажу тобі одне цікаве місце та згадаємо старі добрі часи "
+A 13 13|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Два чоловіки пішли вулицею під руку .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 4 4|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Чоловік з Заходу , чия самозакоханність живилася успіхом , почав розповідати свою історію успіху .
+A 1 2|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||самозакоханість|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 5 6|||Spelling|||самозакоханість|||REQUIRED|||-NONE-|||2
+
+S Інший , загорнувшись в пальто , зацікавлено слухав .
+A 3 4|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S На розі знаходилася аптека , що відблискувала електричними вогнями .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Коли вони увійшли у потік світла , вони одночасно поглянули одне на одного .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Чоловік з Заходу раптово зупинився та вивільнив руку .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 2|||Spelling|||із|||REQUIRED|||-NONE-|||2
+

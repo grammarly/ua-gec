@@ -1,0 +1,103 @@
+S Про український кінематограф , до часів Майдану 13 - 14 років , можна було говорити або щось хороше , або нічого .
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 12|||G/UngrammaticalStructure|||перед ним|||REQUIRED|||-NONE-|||1
+
+S Фільмів майже не знімали , ті що знімали , або були не дуже , або були " поетичним " кіно - абсолютно незрозуміле бог зна шо , яке вже давно мало померти .
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 20 21|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 22 23|||G/Case|||незрозумілим|||REQUIRED|||-NONE-|||1
+A 23 26|||G/UngrammaticalStructure|||казна-що|||REQUIRED|||-NONE-|||1
+
+S Що до речі таке кіно благополучно і зробило , в 2008 році з фільмом " Богдан - Зіновій хмельницький " .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Case|||року|||REQUIRED|||-NONE-|||1
+A 18 19|||Spelling|||Хмельницький|||REQUIRED|||-NONE-|||1
+
+S ( ск )
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Тотальна непідтримка з боку держави , байдужість самого населення до власного кіно , й орієнтованість того ринку що лишився , був в сторону москалів .
+A 12 13|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S А потім стався Майдан , третій за ліком , який мав значний вплив на новітню історію України , і для фільмів у тому числі .
+A 17 18|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 19 21|||G/Prep|||на фільми|||REQUIRED|||-NONE-|||1
+
+S Держ . Кіно почало збільшувати обсяг коштів на створення фільмів , частина зних почала орієнтуватись на українців , і про українців .
+A 0 3|||Spelling|||Держкіно|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||з них|||REQUIRED|||-NONE-|||1
+A 17 18|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Чи стало від цього краще ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ну це звичайно як на це поглянути .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Його стало більше , якщо порівняти з кількістю фільмів нульових , і десятих різниця буде очевидною .
+A 10 11|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Це добре звичайно , ат чи стало воно краще ?.
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||а|||REQUIRED|||-NONE-|||1
+A 8 9|||G/UngrammaticalStructure|||кращим|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S І так і ні , якщо в тих ще нульових з хорошого можна згадати , хіба більш менш непогану " Штольню " , то в десятих були хороші " Кіборги " " Дике поле " можливо " Червоний " " Наші котики " ( я розумію що останнє довбонуте , але довбонутим його і задумували ) , та " Захар Беркут " це ті які я особисто бачив , й вважаю хорошими фільмами .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 16 16|||G/UngrammaticalStructure|||що|||REQUIRED|||-NONE-|||1
+A 16 18|||Spelling|||більш-менш|||REQUIRED|||-NONE-|||1
+A 29 33|||Punctuation|||Кіборги", "Дике|||REQUIRED|||-NONE-|||1
+A 35 35|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 36 36|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 37 41|||Punctuation|||Червоний", "Наші|||REQUIRED|||-NONE-|||1
+A 46 46|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 48 48|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 49 49|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 51 51|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 52 52|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 62 62|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 62 63|||Spelling|||Це|||REQUIRED|||-NONE-|||1
+A 64 64|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 68 69|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Вже погодьтесь краща ситуація .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||погодьтеся|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S ( ск )
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Та і гівняних фільмів з'явилось немало , хоча кого я дурю , цих фільмів як гівна .
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Різні " Дзідзьо Контрабас " " Свінгери " та будь-яке лайно що знімав квартал ( а всі їх фільми повне гімно і образа кінематографу ) , назнімались в великій кількості .
+A 3 8|||Punctuation|||Контрабас", "Свінгери"|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||"Квартал|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 17 18|||G/Other|||їхні|||REQUIRED|||-NONE-|||1
+A 19 19|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 20 21|||Spelling|||гівно|||REQUIRED|||-NONE-|||1
+A 21 22|||Spelling|||й|||REQUIRED|||-NONE-|||1
+A 23 24|||G/Case|||кінематографа|||REQUIRED|||-NONE-|||1
+A 26 27|||G/VerbVoice|||назнімали|||REQUIRED|||-NONE-|||1
+A 27 28|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S Проте хороші фільми не бувають без поганих , й фільморобам треба практика і час щоб зняти щось хороше .
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Тому поки на ситуацію з кіно в Україні , можна дивитись позитивно , врешті решт живого хоч можна лаяти , якщо по ділу ...
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 14 14|||Spelling|||-|||REQUIRED|||-NONE-|||1
+A 15 16|||G/Case|||живе|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,43 @@
+S привіт , слухай , а від Олега ніяких новин ? я правильно зрозуміла що він саме ТЗ має , ми просто чекаємо , поки він все зробить ?
+A 0 1|||Spelling|||Привіт|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||Я|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 25 26|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+
+S Вибач , що тобі доводиться мою українську редагувати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я б не хотіла її дуже турбувати .
+A 5 6|||F/Style|||надто|||REQUIRED|||-NONE-|||1
+
+S Але якщо нам принципово ок варіант з нихи я їй напишу .
+A 7 8|||Spelling|||них|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Настя , привіт ! я хотіла уточнити про завдання Олі .
+A 0 1|||G/Case|||Насте|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||Я|||REQUIRED|||-NONE-|||1
+
+S Оце головний , а мені треба ще подивитися всі останні з іншими конструкціями і пододавати їх до цього беклогу вірно ? як я розумію цей словник дуже чутливий до змін в мові .
+A 19 19|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 19 20|||F/Style|||правильно|||REQUIRED|||-NONE-|||1
+A 21 22|||Spelling|||Як|||REQUIRED|||-NONE-|||1
+A 24 24|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 30 31|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S а можна я собі куплю набір гантелей і бігові кросівки на літо ? я купила собі зимовий варіант на абонемент , що ви мені подарували але в них спекотно літом .
+A 0 1|||Spelling|||А|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||Я|||REQUIRED|||-NONE-|||1
+A 21 22|||G/Conjunction|||який|||REQUIRED|||-NONE-|||1
+A 25 25|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 29 30|||F/Calque|||влітку|||REQUIRED|||-NONE-|||1
+
+S подумала мабуть краще бігати все таки .
+A 0 1|||Spelling|||Подумала|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 6|||Spelling|||все-таки|||REQUIRED|||-NONE-|||1
+
+S Дуже сподіваюся ти одужаєш якомога швидше !!!
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+

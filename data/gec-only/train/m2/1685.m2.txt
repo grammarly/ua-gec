@@ -1,0 +1,59 @@
+S Навіщо йти додому ? - запитав він у себе .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ідея , але чи донесу я цей візок ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Величезна , проклята .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Творог та квіти до біса .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він піднів візок , але в той момент згадав , що поки дідйде додому , візок встигне намочитись 5 разів .
+A 1 2|||Spelling|||підняв|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||дійде|||REQUIRED|||-NONE-|||1
+
+S - Ну , загадка ! - посміхається він .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Попи , вода за шию потекла ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ехх Промок , п‘яний , перевізчика немає ... не хватає лише , щоб чоловік вибіг на вулицю і відгамселив мене палицею .
+A 0 1|||Spelling|||Ех|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Але що ж робити ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Не можна залишатись тут до ранку та і сукня зіпсується .
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Ось що ..
+A 2 3|||Punctuation|||...|||REQUIRED|||-NONE-|||1
+
+S Я зателефоную ще раз і передем Дюняші речі , а сам піду додому .
+A 5 6|||Spelling|||передам|||REQUIRED|||-NONE-|||1
+
+S Жирков , обережнл зателефонував .
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||обережно|||REQUIRED|||-NONE-|||1
+
+S Через хвилину за дверима було чути кроки і в замковій дирці маякнуво світло .
+A 10 11|||Spelling|||дірці|||REQUIRED|||-NONE-|||1
+A 11 12|||G/UngrammaticalStructure|||промайнуло|||REQUIRED|||-NONE-|||1
+
+S - Хто тут ? - запитав захриплий чоловічий голос з не російським акцентом .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||G/Aspect|||хриплий|||REQUIRED|||-NONE-|||1
+
+S « Попи , повинно бути чоловік , - розмірковував Жирков .
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Потрібно збрехати що - небудь ... »
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

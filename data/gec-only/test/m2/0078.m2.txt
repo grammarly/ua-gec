@@ -1,0 +1,96 @@
+S 20 грн за кілограм картоплі це дорого ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Давайте Розберемось .
+A 0 2|||G/VerbAForm|||Розберімось|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||розберемося|||REQUIRED|||-NONE-|||2
+
+S Щоб отримати картоплю потрібно її посадити , потім доглядати , далі зібрати та доставити .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 11 11|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Всё це займе півроку часу .
+A 0 1|||G/UngrammaticalStructure|||Все|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||пів року|||REQUIRED|||-NONE-|||1
+A 4 5|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Усе|||REQUIRED|||-NONE-|||2
+A 3 5|||Spelling|||пів року|||REQUIRED|||-NONE-|||2
+
+S Отже 20 грн за кілограм картоплі економить вам півроку часу .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||пів року|||REQUIRED|||-NONE-|||1
+A 9 10|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Тож , чи це дорого ?
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S А 700 грн за квиток Київ - Львів це дорого ?
+A 8 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Скільки часу займе дорога , якщо ви будете йти пішки ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Вже не кажучи додаткові витрати на харчування та відпочинок .
+A 3 3|||G/Prep|||про|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Уже|||REQUIRED|||-NONE-|||2
+A 2 3|||G/UngrammaticalStructure|||кажу про|||REQUIRED|||-NONE-|||2
+
+S Якщо навіть їхати своїм авто , окрім витрат на пальне та амортизації авто , не забувайте що ви за кермом , тож весь час Ви фактично працюєте .
+A 16 16|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 24 25|||Spelling|||ви|||REQUIRED|||-NONE-|||1
+A 16 16|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 24 25|||Spelling|||ви|||REQUIRED|||-NONE-|||2
+
+S А чи 30 000 грн за рік навчання в університеті це дорого ?
+A 10 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Подивимось , загальна вартість за 5 років навчання складе 150 000 грн .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Припустимо , після навчання у вас буде середня зарплата , яка зараз складає ~ 10 000 грн .
+A 0 1|||Spelling|||Припустімо|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Вийде , що за ті самі 5 років , які ви навчались , ви заробите 600 000 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Тобто в 4 рази більше ніж вклали .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Непогано , чи не так ?!
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Отже , коли наступного разу ви подумаєте що щось дорого , спробуйте подивитись це під іншим кутом .
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 13 13|||G/Prep|||на|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 13 13|||G/UngrammaticalStructure|||на|||REQUIRED|||-NONE-|||2
+
+S Ярлик 'дорого' лише зупиняє Вас , тож задавайте собі краще питання і не зупиняйтесь .
+A 4 5|||Spelling|||вас|||REQUIRED|||-NONE-|||1
+A 1 2|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 1 2|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+A 4 5|||Spelling|||вас|||REQUIRED|||-NONE-|||2
+
+S # Логічно ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

@@ -1,0 +1,8 @@
+S З понеділочком вас .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ну і блєску і ніщєти штучного інтелекту вам у стрічку
+A 2 2|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

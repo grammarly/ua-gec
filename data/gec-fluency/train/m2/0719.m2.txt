@@ -1,0 +1,46 @@
+S " Гудлоу Бенкс " , я сказав , " Мене зовсім не колишить твоя освіта .
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||G/UngrammaticalStructure|||я|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||G/UngrammaticalStructure|||колише|||REQUIRED|||-NONE-|||1
+
+S Я завжди ледве переносив освіченість в людях , та я зневажав її в тобі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Що та освіта зробила з тобою ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Це прокляття для самого себе та нудьга для твоїх друзів .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Досить , " я сказав -- " досить цих твоїх водяних знаків та напрямів магнітної стрілки .
+A 2 7|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Вони нічого не значуть для мене .
+A 3 4|||G/UngrammaticalStructure|||значать|||REQUIRED|||-NONE-|||1
+
+S Вони не мають відволікати мене від пошуків .
+A 7 7|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S " Я вказав виделкою на невеличкий пагорб у формі в'ючного сідла , що височівся над рікою .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 13 15|||G/UngrammaticalStructure|||височів|||REQUIRED|||-NONE-|||1
+
+S " Я збираюся оглянути того пагорба " , я продовжив " на скарби .
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 12|||F/Repetition|||я,|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Роби вибір зараз , чи ти зі мною , чи ні .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Якщо ти хочеш дозволити водяному знаку чи магнітній стрілочці вибирати за тебе , ти не справжній шукач пригод .
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Обирай . "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

@@ -1,0 +1,65 @@
+S — Привіт .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S А ти вже думав коли хотів бі розповісти команді ?
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||би|||REQUIRED|||-NONE-|||1
+
+S — В середу , мабуть
+A 1 2|||Spelling|||У|||REQUIRED|||-NONE-|||1
+
+S — І зорієнтуй будь ласка коли останній день , щоб фін відділ перерахував зп . може тоді варто сьогодні на сінку сказати ?
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 12|||Spelling|||фінвідділ|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||Може|||REQUIRED|||-NONE-|||1
+A 16 16|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S — Давай сьогодні .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Скажеш ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Чи мені ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Ну думаю хорошо буде якщо ти щось скажеш .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||F/Calque|||добре|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S я звичайно підведу до цього
+A 0 1|||Spelling|||Я|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S — Ага , окей .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Щоправда , я сьогодні на сінку буду віртуально , бо саме в той час маю бути вдома
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Окей , шо поробиш ...
+A 3 4|||Spelling|||що|||REQUIRED|||-NONE-|||1
+
+S — Якщо хочеш особисто сказати , можемо раніше в принципі
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — О , давай !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Так краще буде .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S До 14 : 40 я в офісі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Зараз RnD sync , можна на ньому сказати
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S — Давай
+A 2 2|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

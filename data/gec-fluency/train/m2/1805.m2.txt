@@ -1,0 +1,52 @@
+S Настала тиша .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Никанор Іванович перевів дух і тихо заговорив :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Богом присягаюся , що ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Але не встиг він вимовити ці слова , як весь зал вибухнув криками обурення .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Никанор Іванович розгубився і замовк .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Наскільки я зрозумів вас , - заговорив провідну програму , - ви хотіли побитися об заклад богом , що у вас немає валюти ? - і він співчутливо подивився на Никанора Івановича .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 10|||G/UngrammaticalStructure|||ведучий програми|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 17|||F/Collocation|||заприсягнутися|||REQUIRED|||-NONE-|||1
+A 25 26|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Так точно , немає , - відповів Никанор Іванович .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Так , - відгукнувся артист , - а вибачте за нескромність : звідки ж узялися чотириста доларів , виявлені в убиральні тієї квартири , єдиним мешканцем якої є ви з вашою дружиною ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Чарівні ! - явно іронічно сказав хтось в темному залі .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S - Так точно , чарівні , - несміливо відповів Никанор Іванович запо невизначеній адресі , не те артисту , не те в темний зал , і пояснив : - Нечиста сила , картатий перекладач підкинув .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 14|||G/UngrammaticalStructure|||невідомо комуза|||REQUIRED|||-NONE-|||1
+A 15 17|||G/Conjunction|||чи то|||REQUIRED|||-NONE-|||1
+A 17 18|||F/PoorFlow|||артистові|||REQUIRED|||-NONE-|||1
+A 19 21|||G/Conjunction|||чи то|||REQUIRED|||-NONE-|||1
+A 28 29|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S І знову обурено заревів зал .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Коли ж настала тиша , артист сказав :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

@@ -1,0 +1,13 @@
+S Тут мені Майкрософт пропонує оновити вінду .
+A 2 2|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S Не хочу , бо Ubuntu та Mac прекрасні .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Причому , Ubuntu ( в її Mate реалізації ) мені подобається найбільше .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S А вінди вже років з 15 у мене нема
+A 9 9|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

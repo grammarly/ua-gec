@@ -1,0 +1,47 @@
+S « Як чоловік чоловікові , - кажу я , - Я піду і нагляну за ним » .
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||я|||REQUIRED|||-NONE-|||1
+
+S Я поклав пляшку Гіркого Воскресіння у свою кишеню і пішов на пагорб меровихволодінь , найкращого будинку у місті , із мансардою і двома фігурами залізних собак на газоні .
+A 3 3|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||мерових володінь|||REQUIRED|||-NONE-|||1
+
+S « Мер Бенкс повністю сидів на ліжку , звісивши ноги .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Він видавав такі звуки , що міг розбудити кожну дорослу людину у всьому Сан-Франциско .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Юнак стояв біля ліжка і тримав чашку води .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S « Док , - сказав мер , - яЯ жахливо хворих .
+A 0 1|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||Доку|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||я|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||хворий|||REQUIRED|||-NONE-|||1
+
+S І скоро помру .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ви точно не можете нічого зробити ?‘
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S « Пане Мер , - сказав я - Я не підготовлений С . К . Лапіуса .
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||я|||REQUIRED|||-NONE-|||1
+
+S Я ніколи не відвідував жодного заняття у медицинському коледжі‘ - продовжив я , - Я прийшов , як звичайна людина , яка прийшла дізнатися , чи може вона допомогти . »
+A 8 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||я|||REQUIRED|||-NONE-|||1
+A 29 30|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 31 31|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

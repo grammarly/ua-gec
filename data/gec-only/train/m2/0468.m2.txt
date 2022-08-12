@@ -1,0 +1,107 @@
+S Акценти !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Буде декілька постів .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Твій акцент чи діалект одразу може розповісти про те звідки ти , де ти ріс і який твій соціальний статус ( хоча вже зараз ці кордони затираються ) .
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Лондон із правами столиці вбирає до себе людей із різних регіонів країни ( та і інших країн теж ) , тому розкажу про відомі усім акценти і про новоутвори теж .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 14 15|||Spelling|||й|||REQUIRED|||-NONE-|||2
+A 28 29|||Spelling|||новотвори|||REQUIRED|||-NONE-|||2
+
+S Отже , стандартна тема : .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Received Pronunciation ( RP , літературна мова ) – стандартний акцент стандартної англійської .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S RP англійська – це такий " пістний " акцент : коли його чуєш , ти не можеш зрозуміти звідки мовець , немає цікавих слів чи фонетичних викрутасів , як у будь-якому іншому " живому " акценті .
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||пісний|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 6 7|||Spelling|||пісний|||REQUIRED|||-NONE-|||2
+A 9 10|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 10 10|||G/UngrammaticalStructure|||що|||REQUIRED|||-NONE-|||2
+A 18 18|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Сучасний RP викладають для тих , хто вчить англійську .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S А самі бритіші можуть перескочити на RP , щоб їх зрозуміли люди , яким туго заходить рідний акцент мовця .
+A 2 2|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ну і похизуватися знанням RP не завадить .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S . Queen English – ... , ні , це не особистий вид англійської мови Королеви .
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||королеви|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S У Королеви є свій власний акцент – RP , але дуже перекручений із роками ( 93 роки , це не жарти ) .
+A 1 2|||Spelling|||королеви|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Скоріше за все , якесь згадування про королівську англійську можна почути від старшого покоління , яке попросить дитину говорити чітко і ясно ( I can't understand a bloody word you're saying , can't you speak the Queen's English ??!!! ? ) .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 38 39|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 39 40|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Ще є BBC English та Oxford English , але по суті це різні назви RP .
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Хоча назву Оксфордська англійська можуть вживати якщо кажуть про графство Оксфордшир .
+A 2 2|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||уживати|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||оксфордська|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S А BBC English – це теж назва для простої , зрозумілої та лаконічної англійської .
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S . Posh English ( або Upper RP або просто U ) – " аристократичний " акцент , який можна почути у таких навчальних закладах як Оксфорд чи Ітон .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 24 24|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 24 24|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Має свій лексикон , за яким відрізняється від мови робітничого класу ( історично акцент виокремили якраз для того , аби " покращити себе " , прийнявши культуру і манеру " кращих " ) .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Наприлад , до пош-англ відносять досить прості слова Vegetables , die , rich замість Greens , pass on та wealthy із Non-U мови .
+A 0 1|||Spelling|||Наприклад|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||Наприклад|||REQUIRED|||-NONE-|||2
+
+S Це із ессея 1954 року Ненсі Мітфорд , яке справедливо викликало срач про снобізм у тодішній Британії .
+A 2 3|||Spelling|||есе|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Gender|||який|||REQUIRED|||-NONE-|||2
+A 10 11|||G/Prep|||спровокував|||REQUIRED|||-NONE-|||2
+A 12 15|||Spelling|||щодо снобізму в|||REQUIRED|||-NONE-|||2
+
+S Уже під кінець 20 століття ідеї цієї суперечки перестали бути актуальними , тому що молодь стала запозичувати елементи робочого класу , проте більшість відмінностей є і до сьогодні .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 17 17|||G/UngrammaticalStructure|||мовні|||REQUIRED|||-NONE-|||2
+

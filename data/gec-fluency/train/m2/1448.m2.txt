@@ -1,0 +1,57 @@
+S Воланд кивнув головою , і Маргарита , припавши до вуха майстра , щось пошептала йому .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Чути було , як той відповів їй :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Ні , пізно .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Нічого більше не хочу в житті .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Крім того , щоб бачити тебе .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Але тобі знову раджу - залиш мене .
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ти пропадеш зі мною .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Ні , не залишу , - відповіла Маргарита і звернулася до Воланда : - Прошу вас знову повернути нас до підвалу в провулку на Арбаті , і щоб лампа загорілася , і щоб все стало , як було .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 34 35|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+
+S Тут майстер засміявся і , обхопивши давно розвинулася кучеряву голову Маргарити , сказав :
+A 6 9|||G/UngrammaticalStructure|||розкучерявлену|||REQUIRED|||-NONE-|||1
+
+S - Ах , не слухайте бідну жінку , мессир .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||F/Style|||Ох|||REQUIRED|||-NONE-|||1
+A 8 9|||F/PoorFlow|||мессіре|||REQUIRED|||-NONE-|||1
+
+S У цьому підвалі вже давно живе інша людина , і взагалі не буває так , щоб все стало , як було . - Він доклав щоку до голови своєї подруги , обняв Маргариту і став бурмотіти : - Бідна , бідна ...
+A 16 17|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+A 21 22|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 22 23|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 23 24|||Spelling|||він|||REQUIRED|||-NONE-|||1
+A 24 25|||F/Style|||приклав|||REQUIRED|||-NONE-|||1
+A 37 38|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Не буває , ви говорите ? - сказав Воланд .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 6|||F/PoorFlow|||кажете|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Це вірно .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||F/Calque|||правильно|||REQUIRED|||-NONE-|||1
+
+S Але ми спробуємо . - І він сказав : - Азазелло !
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

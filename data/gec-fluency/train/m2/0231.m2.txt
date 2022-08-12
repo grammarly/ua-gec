@@ -1,0 +1,28 @@
+S Для тих , хто вже подивився останню серію Гри Престолів :
+A 8 8|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||престолів|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S - Отож , Джоне , ось тобі загадка : є два трони .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S На одному - мечі валірійські , на іншому - *** дотракійські .
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S На який сам сядеш , на який Матір Драконів посадиш ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Так - так , щось мені знайоме ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я візьму мечі валірійські та заріжу Матір Драконів !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Нічого ти не знаєш , Джоне Снов
+A 6 7|||Spelling|||Сноу|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

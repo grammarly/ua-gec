@@ -1,0 +1,34 @@
+S " Я киваю пану Бібблу і всаджую ліжко та міряю пульс мера .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 7|||G/UngrammaticalStructure|||на|||REQUIRED|||-NONE-|||1
+
+S " Позвольте мені поглянути на вашу печінку - ваш язик , точніше " , кажу я .
+A 14 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Тоді я піднімаю повіку його очей та дивлюсь ближче його зіниці .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Як довго Ви хворієте ? " запитала я .
+A 7 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Мене забрали - ой-ауч - минулої ночі " - сказав мер . " Дасте мені щось від цього , лікарю , чи ні ? "
+A 3 4|||Punctuation|||...|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Пане Фідді , - кажу я , - підніміть трішки штори , гаразд ? "
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Бідді , - говорить молодий чоловік , - можливо ви з'їли якусь шинку або яйця , дядьку Джеймс ? "
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 18 19|||G/Case|||Джеймсе|||REQUIRED|||-NONE-|||1
+
+S " Пане Мер , - кажу я , приклавши своє вухо до його правої лопатки та послухавши , - у вас було запалення правої ключиці клавесини ! "
+A 2 3|||Spelling|||мер|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,63 @@
+S « Звісно ж я буду , - каже він .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S А тепер повертайтесь до роботи , лікарю , бо болі повертаються знов »
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S « Моя послуга коштуватиме двісті п‘ятдесят доларів , одуження гарантовано після двох процедур , - кажу я . »
+A 8 9|||Spelling|||одужання|||REQUIRED|||-NONE-|||1
+A 9 10|||G/VerbVoice|||гарантоване|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 17 18|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 19 19|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S « Добре , - каже Майор .
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я оплачу їх .
+A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Напевно моє життя того варте . »
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Я сів навпроти ліжка і подивився йому прямо в око .
+A 9 10|||G/Number|||очі|||REQUIRED|||-NONE-|||1
+
+S « Тепер , - кажу я , не зволікайте на хворобу .
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||F/Style|||зважайте|||REQUIRED|||-NONE-|||1
+
+S Ви не хворі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S У вас нема ні сердця , ні ключиці , ні ліктьової кістки , ні мізків чи взагалі будь-чого .
+A 4 5|||Spelling|||серця|||REQUIRED|||-NONE-|||1
+
+S У вас нема болю .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Оголосіть що це помилка .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Тепер ви відчуваєте , як біль , якого у вас і не було , відступає , правда ж ?
+A 18 19|||Punctuation|||?»|||REQUIRED|||-NONE-|||1
+
+S « Я справді почуваюся краще , лікарю , - каже Майор , Чорт забирай ще б не почувався б .
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 18 19|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Тепер ще декілька разів повторіть свою брехню про відсутність цього набряку у моєму лівому боці , і думаю я можу вважатись вилікуваним щоб ласувати сосисками і гречаними тортами . »
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 18 18|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 18 21|||F/PoorFlow|||мене можна вважати|||REQUIRED|||-NONE-|||1
+A 22 22|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 28 29|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 30 30|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

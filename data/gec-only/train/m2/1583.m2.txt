@@ -1,0 +1,8 @@
+S Привіт
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Можливо хтось їде зараз з Гребенного потрібно забрати людину ( Томашів люб . - Варшава )
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||Люб|||REQUIRED|||-NONE-|||1
+

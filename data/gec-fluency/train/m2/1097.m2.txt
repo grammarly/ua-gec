@@ -1,0 +1,42 @@
+S Він чекав близько двадцяти хвилин , а потім високий чоловік у довгому пальто з ошийником піднятим до його вух поспішав з іншої сторони вулиці .
+A 12 13|||G/Case|||пальті|||REQUIRED|||-NONE-|||1
+A 14 15|||F/Style|||коміром|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 19 19|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Він йшов прямо на чоловіка , що чекав .
+A 1 2|||Spelling|||ішов|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Prep|||до|||REQUIRED|||-NONE-|||1
+
+S " Це ти , Бобе ? " запитав він із сумнівом .
+A 7 7|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S " Чи це ти , Джиммі Веллсе ? " закричав чоловік біля дверей .
+A 6 7|||Spelling|||Велсе|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S " Дякуювати богу ! " прокричав новоприбулий , огортаючи своїми руками руки іншого .
+A 1 2|||Spelling|||Дякувати|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S " Це Боб , точнісінько .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я був впевнений , що знайду тебе тут , якщо ти досі існуєш .
+A 2 3|||Spelling|||упевнений|||REQUIRED|||-NONE-|||1
+A 12 13|||F/Style|||живий|||REQUIRED|||-NONE-|||1
+
+S Оце так ! " -- двадцять років - довгий термін .
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||Двадцять|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||一|||REQUIRED|||-NONE-|||1
+
+S Старе пройшло , Бобе ; я б хотів , щоб воно тривало далі , щоб ми могли повечеряти знову там .
+A 1 2|||F/Style|||минулося|||REQUIRED|||-NONE-|||1
+A 6 7|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 8|||F/PoorFlow|||би|||REQUIRED|||-NONE-|||1
+
+S Як Захід тебе прийняв , старий ? "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

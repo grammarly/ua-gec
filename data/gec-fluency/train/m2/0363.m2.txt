@@ -1,0 +1,77 @@
+S - Додому , на пільгу .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Чому ж ти тут сидиш ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Та так ... прихворів ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Нема сил їхати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Що ж в тебе болить ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Весь болію .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 3|||F/Calque|||Все|||REQUIRED|||-NONE-|||1
+
+S - Гм ... от напасть !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S В людей свято , а ти хворієш !
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
+
+S Та ти б у село або на постійне їхав , а що так сидіти !
+A 11 12|||G/UngrammaticalStructure|||чого|||REQUIRED|||-NONE-|||1
+
+S Козак підняв голову і обвів втомленими хворими очима Максима , його дружину , коня .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Ви оце із церкви ? - спитав він .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Із церкви .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - А мене свято в дорозі застало .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Не привів бог доїхати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Зараз би сісти та їхати , а сил нема ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ви би , православні , дали мені , проїзжому , свяченої пасочки [ 71 ] розговіться !
+A 8 9|||F/Calque|||мандрівнику|||REQUIRED|||-NONE-|||1
+A 15 15|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S - Пасочки ? - спитав Торчаков .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Воно можна , нічого ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Постій , зараз ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Максим швидко пошарив у себе в карманах , поглянув на дружину і сказав :
+A 2 3|||F/Calque|||понишпорив|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Calque|||кишенях|||REQUIRED|||-NONE-|||1
+
+S - Нема в мене ножика , відрізати нема чим .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S А ламати - то - не рука , всю паску зіпсуєш .
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S От задача !
+A 1 2|||F/Calque|||завданнячко|||REQUIRED|||-NONE-|||1
+
+S Пошукай - но , чи нема в тебе ножика ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

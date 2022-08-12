@@ -1,0 +1,75 @@
+S Прозвучав тьмяний хворий голос :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Ім'я ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Моє ? - кваплячись відізвався арештований , усім нутром виражаючи готовність відповідати толково , не викликати більше гніву .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Прокуратор сказав неголосно :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Моє - мені відомо .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Не прикидайся більш дурним , ніж ти є .
+A 3 4|||G/Comparison|||дурнішим|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||аніж|||REQUIRED|||-NONE-|||1
+
+S Твоє .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Ієшуа , - поспіхом відповів арештант .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Прізвище є ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Га-Ноцрі .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Звідки ти родом ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Із міста Гамали , - відповів арештант , головою показуючи , що там , десь далеко , направо від нього , на півночі , є місто Гамали .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Хто ти по крові ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Я точно не знаю , - швидко відповів арештований , - я не пам'ятаю своїх батьків .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Мені казали , що мій батько був сирійцем ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Де ти живеш постійно ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - У мене немає постійної домівки , - сором'язливо відповів арештант , - я подорожую з міста до міста .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Це можна виразити коротше , одним словом - бродяга , - сказав прокуратор і спитав : - Рідні є ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 17 18|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S - Немає нікого .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Я один у світі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Чи знаєш ти грамоту ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

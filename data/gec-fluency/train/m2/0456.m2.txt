@@ -1,0 +1,154 @@
+S Так ,
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Це пост дорстрою .
+A 2 2|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||Дорстрою|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S Копія
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S 1 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Якщо Ви проекуєте Київ у майбутньому зручним зеленим мегаполісом світового рівня необхідно Українку включати всередену кільця
+A 2 3|||Spelling|||проєктуєте|||REQUIRED|||-NONE-|||1
+A 6 9|||G/Conjunction|||як зручний зелений мегаполіс|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 13 14|||F/Style|||вносити|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||всередину|||REQUIRED|||-NONE-|||1
+
+S 2 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Якщо ні то через 30 - ть років зупиниться у розвитку і впреться у кільце , і потім знову будувати 3-є .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Prep|||за|||REQUIRED|||-NONE-|||1
+A 4 7|||Spelling|||30|||REQUIRED|||-NONE-|||1
+A 8 8|||G/UngrammaticalStructure|||він|||REQUIRED|||-NONE-|||1
+A 20 21|||Spelling|||3-тє|||REQUIRED|||-NONE-|||1
+
+S Розвиток міста буде зупинений , Вартість будівельних проектів зовні кільця впаде , разом з ним Київський ринок будівництва втратить купу цікавих проектів .
+A 4 5|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||проєктів|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||київський|||REQUIRED|||-NONE-|||1
+A 21 22|||Spelling|||проєктів|||REQUIRED|||-NONE-|||1
+
+S . 2 . Українка має бути включена у кільце , пізніше у місто , це перлина .
+A 1 4|||Spelling|||Українка|||REQUIRED|||-NONE-|||1
+A 6 8|||F/Style|||внесена|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 16 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S 3 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Міст будується у вузькому місці бо він дорогий .
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S , Це далі , також за Українкою
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S 3 Карти не співпадають .
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||збігаються|||REQUIRED|||-NONE-|||1
+
+S Винос проекту в натуру висвітить недоліки проекту
+A 1 5|||F/PoorFlow|||Втілення проєкту на практиці|||REQUIRED|||-NONE-|||1
+
+S 4 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Парки та заповідники якщо не перенести проект всі можна викреслити .
+A 2 3|||F/PoorFlow|||Якщо не перенести проєкт, всі парки|||REQUIRED|||-NONE-|||1
+A 5 10|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S А за Украінкою вже є промислова зона , яка потребує реконструкції , і на реконструкцію якої зараз громада витрачає свої кошти .
+A 5 6|||Spelling|||Українкою|||REQUIRED|||-NONE-|||1
+A 14 15|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 15 18|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 17 19|||G/Case|||яку|||REQUIRED|||-NONE-|||1
+
+S 5 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Де можна подивитися проект детально ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S 6 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Будуйте так щоб не було соромно потім через 30 ть років , а з цим проектом буде .
+A 0 2|||Spelling|||проєкт|||REQUIRED|||-NONE-|||1
+A 7 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 14 16|||G/Prep|||за|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||30|||REQUIRED|||-NONE-|||1
+
+S Подивиться на Москву , Пекін , вони задихаються у пробках і купі кілець .
+A 1 3|||Spelling|||проєктом|||REQUIRED|||-NONE-|||1
+A 3 2|||G/UngrammaticalStructure|||так і|||REQUIRED|||-NONE-|||1
+A 4 8|||G/Other|||Подивіться|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Вже є досвід .
+A 1 3|||F/Calque|||заторах|||REQUIRED|||-NONE-|||1
+
+S 7 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Це Вам не дороги ремонтувати , це нове будівництво і досвіду у дорстрою немає .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S 8 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Довіри після Шулявки , коли вибрали найгірший та найдорожчий варіант будівництва теж немає .
+A 1 0|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||А|||REQUIRED|||-NONE-|||1
+A 3 2|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 2 5|||Spelling|||Дорстрою|||REQUIRED|||-NONE-|||1
+A 5 4|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S 9 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Судячи з представлених даних , ціна будівництва буде збільшена після підписання контракту , а терміни затягнуті у судових спорах .
+A 2 3|||F/Style|||наведених|||REQUIRED|||-NONE-|||1
+
+S ( Дивіться вище що різні типи карт не співпадають )
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S 10 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S В мене для того щоб давати такі оцінки досвід більше 20 ти років будівництва .
+A 0 5|||Punctuation|||Щоб|||REQUIRED|||-NONE-|||1
+A 8 10|||F/Calque|||, у мене понад|||REQUIRED|||-NONE-|||1
+A 11 14|||F/PoorFlow|||років досвіду у будівництві|||REQUIRED|||-NONE-|||1
+
+S В службі замовника також .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S 11 .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S І обов'язково представте детальний проект для громадського обговорення , а не малюйте фломастерами на гугл картах , я сам таке можу намалювати Ще будувати будете по цих малюнках ?
+A 2 1|||G/Prep|||у|||REQUIRED|||-NONE-|||1
+A 1 3|||G/Case|||будівництві|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||У|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||проєкт|||REQUIRED|||-NONE-|||1
+A 23 26|||Spelling|||ґуґл-картах|||REQUIRED|||-NONE-|||1
+A 26 27|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Проект має пройти вільну громадську експертизу , та обговорення .
+A 0 1|||Punctuation|||Проєкт|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Екологічну експертизу також .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

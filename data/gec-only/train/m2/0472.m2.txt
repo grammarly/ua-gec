@@ -1,0 +1,50 @@
+S " Ви під арештом , докторе Ву-ху , також відомий як Пітерс " , - сказав він - " за недозволену законами штату медичну практику . "
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 17 18|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 26 27|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S - Хто ви ? - спитав я .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Я скажу Вам хто він , - сказав пан мер , сидячи у ліжку .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Він - детектив , що працює на Медичну спілку штату .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Conjunction|||який|||REQUIRED|||-NONE-|||1
+
+S Він слідував за вами через п'ять країн .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він прийшов до мене вчора і ми разом вигадали цю схему щоб спіймати Вас .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Гадаю , Ви більше не лікуватимете , пане Факіре .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Як Ви назвали мою хворобу , доку ? - засміявся мер , - що ж , в будь-якому разі це не розм'якшення мозку , я думаю .
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S - Детектив , - мовив я .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||Детективе|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Правильно , - сказав Бідль .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Я маю направити Вас до шерифа .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

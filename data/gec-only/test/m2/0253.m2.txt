@@ -1,0 +1,32 @@
+S Про що більше всього Ви думаєте ?
+A 2 4|||G/Comparison|||найбільше|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||ви|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||ви|||REQUIRED|||-NONE-|||2
+
+S Про роботу , навчання , відпочинок , квартиру , машину , їжу , як виглядаєте , здоров'я ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Одним словом про себе , чи не так ?
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Цікаво , але людина займає дуже мало простору у всесвіті .
+A 9 10|||Spelling|||Всесвіті|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||Всесвіті|||REQUIRED|||-NONE-|||2
+
+S Але думки , чомусь занадто зосереджені на тому самому просторі що займає лише тіло .
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 10 11|||G/Conjunction|||який|||REQUIRED|||-NONE-|||2
+
+S Може іноді варто думати про щось інше ?
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S : -)
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

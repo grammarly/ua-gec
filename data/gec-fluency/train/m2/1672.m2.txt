@@ -1,0 +1,87 @@
+S - Це за сім - то рублів ? - бурмоче потопельник .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Іди ти , кажу , до пса ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Ми не хочемо ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Чого ти не бажаєш ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||F/Style|||хочеш|||REQUIRED|||-NONE-|||1
+
+S Відповідай виразно !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Потопельник мовчить і , тремтячи всім тілом від холоду , стукає зубами .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Одне тільки звання , що живий , - каже Онисим , - а подивитися , так і на людину не схожий .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Gender|||Одна|||REQUIRED|||-NONE-|||1
+A 3 4|||F/Style|||назва|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||F/Style|||то|||REQUIRED|||-NONE-|||1
+
+S Капель б йому якихось ...
+A 0 1|||F/Style|||Крапель|||REQUIRED|||-NONE-|||1
+
+S - Капель ... - передражнює писар .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||F/Style|||Крапель|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Які тут краплі ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Людина втопився , а він - краплі !
+A 1 2|||G/Gender|||втопилася|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Відкачувати треба !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Що роти пороззявляли ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Народ байдужий !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Біжіть швидше в волостное за рогожею та качайте !
+A 2 3|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 3 4|||F/Calque|||волосну управу|||REQUIRED|||-NONE-|||1
+
+S Кілька людей зриваються з місця і біжать до села за рогожею .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S На писаря знаходить натхнення .
+A 2 3|||F/Style|||сходить|||REQUIRED|||-NONE-|||1
+
+S Він засукує рукава , потирає долонями боки і робить масу дрібних рухів тіла , які свідчать про надлишок енергії і рішучості .
+A 9 10|||F/Style|||багато|||REQUIRED|||-NONE-|||1
+
+S - не натовп , не натовп , - бурмоче він .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||Не|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Які зайві , йдіть !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Поїхали за урядником ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S А ви б йшли , Герасим Алпатич , - звертається він до старшини .
+A 2 3|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 4|||F/PoorFlow|||б|||REQUIRED|||-NONE-|||1
+A 6 6|||G/Case|||е|||REQUIRED|||-NONE-|||1
+A 7 7|||G/Case|||у|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ви назюзюкался , і в вашому цікавому положенні найкраще тепер сидіти вдома .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||F/Calque|||становищі|||REQUIRED|||-NONE-|||1
+

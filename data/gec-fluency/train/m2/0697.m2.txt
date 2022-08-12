@@ -1,0 +1,49 @@
+S Старий Бехермен був митцем який жив на .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||G/UngrammaticalStructure|||унизу|||REQUIRED|||-NONE-|||1
+
+S Йому було за 60 років і мав Михаїльську Ангельську Мойсейську бороду яка закручується від голови розпусника через тіло чортеня . Бехермен був невдахою в мистецтві .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 6|||G/UngrammaticalStructure|||він|||REQUIRED|||-NONE-|||1
+A 7 10|||G/UngrammaticalStructure|||закручену бороду, як в Архангела Михаїла чи в Мойсея,|||REQUIRED|||-NONE-|||1
+A 10 11|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 19|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S 40 річним вмів користуватися щіткою без досяганя достатньо близько щоб торкнутися кінчика його Містреса халата .
+A 0 2|||Spelling|||40-річним|||REQUIRED|||-NONE-|||1
+A 3 2|||G/UngrammaticalStructure|||він|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||він умів|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||досягання|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Він завжди збирався малювати шедеври але ніколи не починав .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Протягом декількох років він нічого не намалював крім зараз і тоді поганої картини торгівлі і реклами .
+A 1 2|||F/Style|||кількох|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||окрім|||REQUIRED|||-NONE-|||1
+
+S Він заробляв не багато служучи як позиціонером для цих молодий живописців в окрузі які не могли платити ціну професіоналу .
+A 2 4|||Spelling|||небагато|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 7|||G/UngrammaticalStructure|||працюючи натурником|||REQUIRED|||-NONE-|||1
+A 8 9|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||G/Number|||молодих|||REQUIRED|||-NONE-|||1
+A 13 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 16 18|||F/PoorFlow|||найняти|||REQUIRED|||-NONE-|||1
+A 18 19|||G/Case|||професіонала|||REQUIRED|||-NONE-|||1
+
+S Він пив напиток щоб продовжити і досі говорив про його шедевер який скоро буде готовий .
+A 2 3|||F/Calque|||напій|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||F/Other|||свій|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||шедевр|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Протягом решти життя він був злим маленьким старим чоловіком який сильно скаржився на м'якість інших людей , і які розглядали себе як спеціалісти в чеканні щоб захистити 2 молодих художників в студії вище .
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 25 25|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 30 31|||Spelling|||у|||REQUIRED|||-NONE-|||1
+

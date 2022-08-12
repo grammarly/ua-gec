@@ -1,0 +1,76 @@
+S Стрибаючою рукою підніс Стьопа чарку до роту , а незнайомець одним разом проковтнув вміст своєї чарки .
+A 0 1|||F/Style|||Тремтячою|||REQUIRED|||-NONE-|||1
+A 6 7|||G/Case|||рота|||REQUIRED|||-NONE-|||1
+A 10 12|||F/PoorFlow|||за раз|||REQUIRED|||-NONE-|||1
+A 0 1|||F/Style|||Тремтячою|||REQUIRED|||-NONE-|||2
+A 3 4|||F/Calque|||Степан|||REQUIRED|||-NONE-|||2
+A 6 7|||G/Case|||рота|||REQUIRED|||-NONE-|||2
+A 10 12|||F/Calque|||за раз|||REQUIRED|||-NONE-|||2
+A 13 14|||Spelling|||уміст|||REQUIRED|||-NONE-|||2
+
+S Прожовуючи шматок ікри , Стьопа видавив з себе слова :
+A 6 7|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 1 2|||F/Style|||грудку|||REQUIRED|||-NONE-|||2
+A 4 5|||F/Calque|||Степан|||REQUIRED|||-NONE-|||2
+A 5 7|||F/Style|||витиснув із|||REQUIRED|||-NONE-|||2
+
+S - А ви що ж ... закусити ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 5 6|||Punctuation|||…|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 6 7|||G/Tense|||закусили|||REQUIRED|||-NONE-|||2
+
+S - Щиро дякую , я не закусую ніколи , - відповів незнайомець і налив по другій .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 6 7|||Spelling|||закушую|||REQUIRED|||-NONE-|||2
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Відкрив каструлю - в ній виявились сосиски в томаті .
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 5 6|||F/Style|||були|||REQUIRED|||-NONE-|||2
+
+S І ось проклята зелень перед очима розтанула , стали вимовлятися слова , і , головне , Стьопа дещо пригадав .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 8 9|||F/Style|||почали|||REQUIRED|||-NONE-|||2
+A 16 17|||F/Calque|||Степан|||REQUIRED|||-NONE-|||2
+
+S Саме , що справа була вчора на Сходні , на дачі у автора скетчів Хустова , куди цей Хустов возив Стьопу в таксомоторі .
+A 0 1|||F/Style|||Зокрема|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||в|||REQUIRED|||-NONE-|||1
+A 0 1|||F/PoorFlow|||А саме|||REQUIRED|||-NONE-|||2
+A 3 5|||F/Calque|||діялося все|||REQUIRED|||-NONE-|||2
+A 19 19|||F/PoorFlow|||і|||REQUIRED|||-NONE-|||2
+A 20 21|||F/Calque|||Степана|||REQUIRED|||-NONE-|||2
+A 21 22|||G/Prep|||на|||REQUIRED|||-NONE-|||2
+
+S Згадалося навіть , як наймали цей таксомотор у " Метрополя " , був це при цьому якийсь актор не актор ... с патефоном у валізі .
+A 18 18|||Punctuation|||-|||REQUIRED|||-NONE-|||1
+A 21 22|||Spelling|||з|||REQUIRED|||-NONE-|||1
+A 7 11|||G/Prep|||біля “Метрополя”|||REQUIRED|||-NONE-|||2
+A 13 16|||F/PoorFlow|||ще|||REQUIRED|||-NONE-|||2
+A 21 22|||Spelling|||з|||REQUIRED|||-NONE-|||2
+
+S Так , так , так , це було ще на дачі !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Ще , пригадується , вили собаки від цього патефону .
+A 8 9|||G/Case|||патефона|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Case|||патефона|||REQUIRED|||-NONE-|||2
+
+S Ось лише дама , яку Стьопа хотів поцілувати , лишилась не роз'ясненою ... дідько її знає , хто вона ... здається , в радіо служить , а можливо і ні .
+A 11 12|||F/Style|||поясненою|||REQUIRED|||-NONE-|||1
+A 22 23|||G/Prep|||на|||REQUIRED|||-NONE-|||1
+A 24 25|||F/Style|||працює|||REQUIRED|||-NONE-|||1
+A 28 28|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 6|||F/Calque|||Степан|||REQUIRED|||-NONE-|||2
+A 9 12|||F/PoorFlow|||залишилася нез’ясованою|||REQUIRED|||-NONE-|||2
+A 19 20|||Punctuation|||… ,|||REQUIRED|||-NONE-|||2
+A 22 23|||Punctuation|||на|||REQUIRED|||-NONE-|||2
+A 24 25|||G/Prep|||працює|||REQUIRED|||-NONE-|||2
+A 27 29|||F/Style|||може , й|||REQUIRED|||-NONE-|||2
+

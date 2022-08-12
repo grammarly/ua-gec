@@ -1,0 +1,65 @@
+S Приїхав він до Москви з вечірнім поїздом .
+A 4 5|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Поки артільник ходив за його багажем , він встиг випити в буфеті дві пляшки пива ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Від пива він став дуже добрим , так що , коли візник віз його з вокзалу на Пресні , він весь час бурмотів :
+A 7 10|||F/PoorFlow|||тож|||REQUIRED|||-NONE-|||1
+
+S - Ти , візник , хороший візник ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Case|||візнику|||REQUIRED|||-NONE-|||1
+
+S Я люблю російських людей !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S ..
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Ти російська , і моя дружина російська , і я росіянин ...
+A 1 2|||G/UngrammaticalStructure|||росіянин|||REQUIRED|||-NONE-|||1
+A 6 7|||G/UngrammaticalStructure|||росіянка|||REQUIRED|||-NONE-|||1
+
+S Мій батько німець , а я російська людина ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я бажаю битися з Німеччиною ...
+A 1 2|||F/Style|||хочу|||REQUIRED|||-NONE-|||1
+
+S Як він і мріяв , двері відчинила йому кухарка Марія .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - І ти росіянин , і я росіянин ... - бурмотів він , віддаючи Марії багаж .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Всі ми російські люди і маємо російські мови ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||Усі|||REQUIRED|||-NONE-|||1
+
+S А де Наташа ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Вона спить .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ну , не буди її ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Тсс ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я сам розбуджу ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я бажаю її налякати і буду сюрприз ...
+A 1 2|||F/Style|||хочу|||REQUIRED|||-NONE-|||1
+A 5 6|||G/UngrammaticalStructure|||зробити|||REQUIRED|||-NONE-|||1
+
+S Тсс !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Сонна Марія взяла багаж і пішла в кухню .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

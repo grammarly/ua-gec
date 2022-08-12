@@ -1,0 +1,42 @@
+S Він сів дуже близько до свого тата під його маленьким табуретом .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Боб тримав у руці свою всохлу маленьку руку , ніби любив дитину , і хотів утримати його біля себе , і боявся , що його можуть у нього забрати .
+A 16 17|||G/Gender|||її|||REQUIRED|||-NONE-|||1
+A 24 25|||G/Gender|||її|||REQUIRED|||-NONE-|||1
+
+S - Спіріт , - сказав Скрудж із зацікавленістю , якої раніше ніколи не відчував , - скажи мені , чи залишиться жити Крихітний Тім .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Я бачу вільне місце " , сказав Гхост , “ У бідному комина - кутку і милиця без господаря , дбайливо збережена .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||G/Gender|||сказала|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 12|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 13 16|||G/Case|||комині-кутку|||REQUIRED|||-NONE-|||1
+
+S Якщо ці тіні залишаться незмінними у майбутньому , дитина помре » .
+A 10 11|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S " Ні , ні " , сказав Скрудж . " О , ні , добрий Спіріт ! скажи , що його пощадять " .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 17 18|||Spelling|||Скажи|||REQUIRED|||-NONE-|||1
+
+S « Якщо ці тіні залишаться незмінними у майбутньому , ніхто інший з моєї раси , - повернувся Гхост , - не знайде його тут .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 19 20|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Що тоді ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Якщо йому подобається вмирати , йому краще зробити це і зменшити надлишок населення " .
+A 13 14|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+

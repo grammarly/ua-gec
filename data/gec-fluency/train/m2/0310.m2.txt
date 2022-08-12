@@ -1,0 +1,43 @@
+S - Вона була створена для більш високих речей , - сказав Гудлау .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 7|||F/PoorFlow|||вищих|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Я сам її знайду .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Але ви скажіть мені , як вам вдалося знайти місце , де ці останки були недоречно закопані .
+A 15 16|||F/Style|||невдало|||REQUIRED|||-NONE-|||1
+
+S Я розповів йому до останньої деталі .
+A 3 3|||F/PoorFlow|||все|||REQUIRED|||-NONE-|||1
+
+S Я показав йому креслення інженера з чітко позначеними відстанями .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Після того , як він професійно подивився на це , він відкинувся назад у своєму кріслі і окотив мене вибухом зверхнього , сардонічного сміху .
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 11|||F/Style|||то|||REQUIRED|||-NONE-|||1
+A 17 18|||F/Calque|||оповив|||REQUIRED|||-NONE-|||1
+
+S - Ви -- дурень , Джим , - сказав він , коли нарешті зміг знову говорити .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Case|||Джиме|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Це ваша гра , - сказав я терпеливо і погладив пальцями свої дві " шістки " .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||F/Calque|||стримано|||REQUIRED|||-NONE-|||1
+
+S - Двадцять , - сказав Гудлау , роблячи крейдою два хрестика на столі .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||G/Number|||хрестики|||REQUIRED|||-NONE-|||1
+
+S - Чому це я дурень ? - спитав я . - Сховані скарби знаходили й раніше , у багатьох місцях .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

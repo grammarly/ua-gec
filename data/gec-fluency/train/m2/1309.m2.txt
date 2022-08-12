@@ -1,0 +1,63 @@
+S " Це ти , Джимі Велс ? " закричав чоловік у дверях .
+A 4 5|||Spelling|||Джиммі|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Case|||Велсе|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Благослови моє серце ! " вигукнув новий прибулий , схопивши своїми руками дві руки іншого .
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 9|||F/PoorFlow|||новоприбулий|||REQUIRED|||-NONE-|||1
+
+S " Це Боб , впевнений , що це доля .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||упевнений|||REQUIRED|||-NONE-|||1
+
+S Я була впевнена , ща знайду вас тут якби ви ще тут жили .
+A 1 3|||G/UngrammaticalStructure|||знав|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||що|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Добре , добре , добре ! -- двадцять років це довгий час .
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||Двадцять|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Старе минуло , Боб ; Я б хотів , щоб це тривало , тож ми могли там ще пообідати .
+A 3 4|||G/Case|||Бобе|||REQUIRED|||-NONE-|||1
+
+S Як Захід ставився до вас , старий ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " " Біллі ; Захід Це дало мені все , про що я просив .
+A 4 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 8|||G/Gender|||дав|||REQUIRED|||-NONE-|||1
+
+S Ти сильно змінився , Джимі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я ніколи не думав , що ти будеш такий високий з два-три дюйми .
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Prep|||на|||REQUIRED|||-NONE-|||1
+
+S " " Ох , я трохи виріс після двадцяти . "
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 11|||Punctuation|||" .|||REQUIRED|||-NONE-|||1
+
+S " У Нью-Йорку все добре , Джиммі ? "
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 2|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Помірковано .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я займаю посаду в одному із департаментів міста .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Давай , Боб ; Ми поїдемо в одне місце , яке я знаю , і матимемо довгу розмову про старі часи . "
+A 7 8|||G/Case|||Бобе|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 17 18|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+

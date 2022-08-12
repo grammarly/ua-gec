@@ -1,0 +1,95 @@
+S Де мені краще жити , в квартирі чи у приватному будинку ?
+A 4 5|||Punctuation|||:|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Таке питання я задаю собі постійно і час від часу відповідаю собі різносторонньо .
+A 3 4|||F/Collocation|||ставлю|||REQUIRED|||-NONE-|||1
+A 1 2|||F/Style|||запитання|||REQUIRED|||-NONE-|||2
+A 3 4|||F/Collocation|||ставлю|||REQUIRED|||-NONE-|||2
+A 12 13|||F/Style|||різнобічно|||REQUIRED|||-NONE-|||2
+
+S Квартира дає такі переваги як мобільність та доступність на противагу заміського будинку , де навіть щоб купити продукти потрібно буде послуговуватися транспортним засобом .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||G/Case|||заміському|||REQUIRED|||-NONE-|||1
+A 11 12|||F/Repetition|||будинкові|||REQUIRED|||-NONE-|||1
+A 18 18|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 18 18|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Хоча разом з тим , віддаленість будинку краще для здоровя людини , як фізичного так і психологічного .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||здоров'я|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||:|||REQUIRED|||-NONE-|||1
+A 12 13|||F/PoorFlow|||і|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 14 15|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 9 10|||Spelling|||здоров’я|||REQUIRED|||-NONE-|||2
+A 11 12|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 16 17|||F/Style|||психічного|||REQUIRED|||-NONE-|||2
+
+S Заміський будинок може бути копією раю на цій землі )
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 10 10|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Підстрижена зелена травичка , хвойні дерева , невеличкий басейн , кущики корисних ягід для карапузиків , романтичні вечірні посиденьки під зоряним небом - це те , що може зсолоджувати наше житя , закарбовувати незабутні миті !
+A 22 23|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 30 31|||Spelling|||життя|||REQUIRED|||-NONE-|||1
+A 22 23|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 28 29|||F/Style|||підсолоджувати|||REQUIRED|||-NONE-|||2
+A 30 31|||Spelling|||життя|||REQUIRED|||-NONE-|||2
+
+S Сусіди .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Напевно це саме болюче питання .
+A 2 4|||G/Comparison|||найболючіше|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 2 4|||G/Comparison|||найболючіше|||REQUIRED|||-NONE-|||2
+
+S Квартира передбачає багато сусідів , а багато сусідів - це багато подразників .
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Можна незважати на більшість з них але ж куди дітися від кухонного штину тьоті Зіни або затхлого запаху черевиків дяді Толі ?
+A 1 2|||Spelling|||не зважати|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||не зважати|||REQUIRED|||-NONE-|||2
+A 4 5|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 9 10|||G/Aspect|||подітися|||REQUIRED|||-NONE-|||2
+A 12 13|||F/Style|||смороду|||REQUIRED|||-NONE-|||2
+A 13 14|||F/Calque|||тітки|||REQUIRED|||-NONE-|||2
+
+S В приватному будинку хоч і менше сусідів але буває , що деякі можуть замінити здесяток квартирних .
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||із десяток|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||2
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 14 15|||Spelling|||з десяток|||REQUIRED|||-NONE-|||2
+
+S Чого вартує тьотя Люба з її величезною кучею відходів домашнього тваринництва .
+A 1 2|||F/Style|||варта|||REQUIRED|||-NONE-|||1
+A 7 8|||F/Calque|||купою|||REQUIRED|||-NONE-|||1
+A 2 3|||F/Calque|||тітка|||REQUIRED|||-NONE-|||2
+A 7 8|||F/Calque|||купою|||REQUIRED|||-NONE-|||2
+
+S Та все ж таки , розмірковуючи роками про вибір де проживати в квартирі чи будинку , я приходжу до висновку , що молодим жаданніше жити в міській квартирі , а вже доросліючи - перебиратися в заміський будинок .
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 17 19|||F/Collocation|||доходжу|||REQUIRED|||-NONE-|||1
+A 23 24|||F/Style|||краще|||REQUIRED|||-NONE-|||1
+A 31 33|||F/Style|||потім|||REQUIRED|||-NONE-|||1
+A 32 33|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 11 11|||Punctuation|||:|||REQUIRED|||-NONE-|||2
+A 31 32|||G/UngrammaticalStructure|||старшим|||REQUIRED|||-NONE-|||2
+A 32 33|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+

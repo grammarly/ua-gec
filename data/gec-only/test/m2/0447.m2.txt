@@ -1,0 +1,66 @@
+S Я підвівся і вказав на нього великою ложкою .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S " Гудло Бенкс " , - промовив я , - " Я зовсім не хвилююсь про твою освіту .
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Мені завжди важко терпіти її в будь-кому , це ж стосується і тебе .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Що для тебе зробило твоє навчання ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Це прокляття для тебе та нудота для твоїх друзів .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Геть , " - я сказав , - " геть зі своїми водяними знаками та варіаціями !
+A 2 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 7 9|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Вони для мене - ніщо .
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Вони не повинні відволікати мене від квесту . "
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 1 1|||G/UngrammaticalStructure|||і|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Я вказав своєю ложкою через річку на невелику гору химерної форми .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S " Я збираюсь шукати скарб на тій горі . " - продовжував я , - " Тепер вирішуй чи ти зі мною , чи ні .
+A 8 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Spelling|||тепер|||REQUIRED|||-NONE-|||1
+A 18 18|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 2 3|||Spelling|||збираюся|||REQUIRED|||-NONE-|||2
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 14 16|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 18 18|||Punctuation|||:|||REQUIRED|||-NONE-|||2
+A 22 23|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Вирішуй . "
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+

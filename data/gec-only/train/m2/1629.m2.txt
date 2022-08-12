@@ -1,0 +1,84 @@
+S - Зараз його на столи класти будуть , - відповів дід .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Підемо , дитинко , пора спати .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Кучер і Олексьо повернулися в сарай .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Помолилися богу та й роззулися .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Степан ліг в кутку на підлозі , Олексій у санях .
+A 2 3|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S Сарайні двері були вже закриті , смерділо горілим від погашеного ліхтаря .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Трохи згодом Олексь підняв голову і подивився навколо себе ; крізь щілини дверей видно було світло від тих же чотирьох вікон .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Дідусю , мені страшно ! - сказав він .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ну , спи , спи ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Я кажу тобі , мені моторошно !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Що тобі моторошно ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Охі ти бешкетник !
+A 0 1|||Spelling|||Ох|||REQUIRED|||-NONE-|||1
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Case|||бешкетнику|||REQUIRED|||-NONE-|||1
+
+S Мовчання .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Олекса раптом вискочив з саней , голосно заплакав і підбіг до діда .
+A 3 4|||Spelling|||із|||REQUIRED|||-NONE-|||1
+
+S - Що ти ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Чого тобі ? - злякався кучер , теж підводячись .
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Я чую виття !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Хто виє ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Страшно , дід ... Чуєш ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Case|||діду|||REQUIRED|||-NONE-|||1
+
+S Кучер прислухався .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Це плачуть , - сказав він .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ну піди , дурнику .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Їм шкода , ну і плачуть .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S - Я в село хочу ... - продовжував онук , схлипуючи і тремтячи всім тілом .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Дід , поїдемо в село до мами ; поїдемо , діду , милий , бог тебе за це відправить у царство небесне ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||Діду|||REQUIRED|||-NONE-|||1
+

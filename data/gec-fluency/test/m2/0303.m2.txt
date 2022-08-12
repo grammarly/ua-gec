@@ -1,0 +1,100 @@
+S Воно відкрилось .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 2|||G/Number|||Вони прочинилися|||REQUIRED|||-NONE-|||2
+
+S І маленька дівчинка , значно молодща за хлопчика , полетіла , немов дротик , обхоплюючи своїми руками його шию і невпинно цілуючи його , промовляла до нього як " Дорогий , дорогий братику " .
+A 5 6|||Spelling|||молодша|||REQUIRED|||-NONE-|||1
+A 27 28|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||молодша|||REQUIRED|||-NONE-|||2
+A 14 15|||G/Particle|||обхопивши|||REQUIRED|||-NONE-|||2
+A 23 24|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+A 24 24|||G/UngrammaticalStructure|||Вона|||REQUIRED|||-NONE-|||2
+A 27 27|||Punctuation|||:|||REQUIRED|||-NONE-|||2
+A 27 28|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S " Я прийла щоб повернути тебе додому " - сказала дитина , аплодуючи своїми маленькими долонями , і згинаючись від сміху .
+A 2 3|||Spelling|||прийшла|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 2 3|||Spelling|||прийшла|||REQUIRED|||-NONE-|||2
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 7 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 12 13|||F/Style|||плескаючи|||REQUIRED|||-NONE-|||2
+A 16 17|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S " Забрати тебе додому , додому ! "
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 7 8|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S " Додому , мала Фен ? " - відповів хлопчик .
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 8 9|||F/Style|||запитав|||REQUIRED|||-NONE-|||2
+
+S " Так ! " - сказала дитина , сповнена радості .
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S " Додому , раз і назавжди .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Додому , навіки і віки .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 2 5|||F/Collocation|||на віки вічні|||REQUIRED|||-NONE-|||2
+
+S Батько зараз значно добріший , ніж він був раніше , цей дім немов Рай !
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 13 14|||Spelling|||рай|||REQUIRED|||-NONE-|||2
+
+S Він говорив так лагідно до мене одного вечора , вкладючи мене спати , що я навіть не побоялася спитати його чи повернешься ти додому , і він сказав Так , ти повинен повернутися , і відправив мене на автобус , щоб привести тебе .
+A 9 10|||Spelling|||вкладаючи|||REQUIRED|||-NONE-|||1
+A 20 20|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 21 22|||Spelling|||повернешся|||REQUIRED|||-NONE-|||1
+A 28 28|||Punctuation|||:|||REQUIRED|||-NONE-|||1
+A 28 28|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 34 35|||G/UngrammaticalStructure|||він|||REQUIRED|||-NONE-|||1
+A 4 6|||G/Prep|||зі мною|||REQUIRED|||-NONE-|||2
+A 9 10|||Spelling|||вкладаючи|||REQUIRED|||-NONE-|||2
+A 20 20|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 21 22|||Spelling|||повернешся|||REQUIRED|||-NONE-|||2
+A 25 26|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||2
+A 28 28|||Punctuation|||:|||REQUIRED|||-NONE-|||2
+A 28 28|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 30 31|||F/Style|||він|||REQUIRED|||-NONE-|||2
+A 33 33|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+A 34 34|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 35 36|||F/Style|||посадив|||REQUIRED|||-NONE-|||2
+
+S І тобі бути чоловіком ! " - сказала дитина , розпоющивши очі - " і ніколи не повернешся сюди , але спершу , ми будем разом усе Різдво , і матимемо найвеселіший час у всьому світі .
+A 5 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||розплющивши|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 36 37|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 1 3|||F/PoorFlow|||ти будеш|||REQUIRED|||-NONE-|||2
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 10 11|||Spelling|||розплющивши|||REQUIRED|||-NONE-|||2
+A 12 12|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 12 14|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 22 23|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 29 31|||F/Calque|||проведемо|||REQUIRED|||-NONE-|||2
+A 31 32|||G/UngrammaticalStructure|||найвеселіше|||REQUIRED|||-NONE-|||2
+
+S "
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+

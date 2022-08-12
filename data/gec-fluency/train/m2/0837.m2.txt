@@ -1,0 +1,27 @@
+S Це не було адресовано Скруджу , чи кому завгодно кого він бачив , але це дало негайний ефект .
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 9|||F/PoorFlow|||комусь іншому|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Скрудж знову побачив себе .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він був старшим ; чоловіком в розквіті сил .
+A 5 6|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S Його лице не було торкання старість ; але воно отримало риси догляду і скупості .
+A 3 5|||G/UngrammaticalStructure|||зачепила|||REQUIRED|||-NONE-|||1
+
+S Його очі мерехтіння жадібністю і неспокоєм , які показували натхнення що взяло початок , і де падала тінь дерева що росло в ньому .
+A 2 3|||G/UngrammaticalStructure|||мерехтіли|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 19 19|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 19 20|||G/Conjunction|||яке|||REQUIRED|||-NONE-|||1
+
+S Він не був один , але сказано стороною дівчинки - феї в нічній сорочці : в чиїх очах були сльози , які блистіли на світлі Яким світився Привид минулого різдва
+A 22 23|||F/Calque|||блищали|||REQUIRED|||-NONE-|||1
+A 25 25|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 25 26|||Spelling|||яким|||REQUIRED|||-NONE-|||1
+A 29 30|||Spelling|||Різдва|||REQUIRED|||-NONE-|||1
+A 30 30|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

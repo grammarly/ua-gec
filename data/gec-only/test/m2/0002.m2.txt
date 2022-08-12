@@ -1,0 +1,44 @@
+S Наступного ранку рівно о одинадцятій годині , коли я сидів сам , дядько Том шаштався в готелі і попросив у лікаря підійти і побачити Джанге Банк , хто , воно здавалось , це був майор і дуже хворий чоловік .
+A 3 4|||Spelling|||об|||REQUIRED|||-NONE-|||1
+A 14 15|||G/UngrammaticalStructure|||шастав|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 27 30|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||об|||REQUIRED|||-NONE-|||2
+
+S " Я не є доктор " - сказав я : " Чому вам не піти до лікаря ? " .
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 11|||Punctuation|||. —|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 9 11|||Punctuation|||. —|||REQUIRED|||-NONE-|||2
+A 12 12|||G/UngrammaticalStructure|||б|||REQUIRED|||-NONE-|||2
+A 18 20|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S " Босс " - сказав він : " Доктор Хоскінс має проїхати 20 миль по країні , щоб побачити хворих персон .
+A 2 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 8|||Punctuation|||. —|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 10 16|||G/Tense|||поїхав на 20 миль від міста|||REQUIRED|||-NONE-|||2
+
+S Він є єдиний лікар в місті і Масса банки сильно погано обурудувані .
+A 1 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Він відправив мені , щоб спитав чи погоджуйтеся хоч прийти " .
+A 2 3|||G/Case|||мене|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||погоджуєтеся|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S " Як чоловік до чоловіка " - я сказав : " Я буду йти і пошукаю його пізніше " .
+A 5 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 5 6|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+

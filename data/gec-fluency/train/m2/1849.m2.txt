@@ -1,0 +1,46 @@
+S " Джонсі , дорога " , сказала Сью , нахилившись до неї , " ти пообіцяєш мені тримати очі закритими та не дивитись у вікно допоки я не закінчу роботу ?
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 19 20|||F/Collocation|||заплющеними|||REQUIRED|||-NONE-|||1
+A 25 25|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Я повинна завершити ці малюнки до завтра .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Мені потрібне це світло , перш ніж я намалюю падіння тіні . "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Ти не можеш малювати в іншій кімнаті ? " , холодно запитала Джонсі .
+A 11 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Я скоріше б хотіла бути біля тебе " , сказала Сью .
+A 3 4|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||F/PoorFlow|||б|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Крім того , я не хочу , щоб ти продовжувала дивитись на ці листки плюща . "
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 18 18|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S " Скажи мені як тільки закінчиш " , сказала Джонсі , закриваючи свої очі , лежачи білою та нерухомою як впала статуя , " тому що хочу побачити останню осінь .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 5|||F/PoorFlow|||щойно|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 23 24|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Мені набридло чекати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Мені набридло думати .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Я хочу звільнитись від усього та плисти вниз , вниз , так само як один із тих бідних втомлених листків .
+A 20 20|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+
+S "
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+

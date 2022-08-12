@@ -1,0 +1,50 @@
+S Історик жив усамітнено , не мав ні рідних , ні знайомих у Москві .
+A 6 7|||Spelling|||ані|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||ані|||REQUIRED|||-NONE-|||1
+
+S І , уявіть , одного разу виграв сто тисяч рублів .
+A 0 1|||Spelling|||Й|||REQUIRED|||-NONE-|||1
+
+S - Ви б бачили мій подив - шепотів гість у чорному капелюсі , - коли я сунув руку в кошик з брудною білизною , глянув : на ній той самий номер , що й в газеті !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 4|||F/PoorFlow|||Бачили б ви|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||F/Style|||встромив|||REQUIRED|||-NONE-|||1
+A 18 19|||G/Prep|||до|||REQUIRED|||-NONE-|||1
+A 19 20|||G/Case|||кошика|||REQUIRED|||-NONE-|||1
+A 34 35|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S Облігацію , - розтлумачив - мені в музеї дали .
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
+
+S Вигравши сто тисяч , загадковий гість Івана вчинив так : накупив книг й кинув у свою кфмнату на М'ясницькій ...
+A 16 17|||Spelling|||кімнату|||REQUIRED|||-NONE-|||1
+
+S - Трясця , кляте болото ! - проричав гість .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 7|||Punctuation|||! —|||REQUIRED|||-NONE-|||1
+A 7 8|||F/Style|||проревів|||REQUIRED|||-NONE-|||1
+
+S ... і винайняв у забудівельникуа в провулку поблизу Арбата ...
+A 4 5|||F/Calque|||забудовника|||REQUIRED|||-NONE-|||1
+
+S - Ви знаєтк , що таке - забудовники= >забудівельники ? - запитав гість в Івана і поясниі : - Це невеличка зграйка шахраїв , котрі дивним чином вціліли в Москві ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||знаєте|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 9|||F/Other|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Spelling|||пояснив|||REQUIRED|||-NONE-|||1
+A 24 25|||F/Style|||які|||REQUIRED|||-NONE-|||1
+A 27 28|||Spelling|||уціліли|||REQUIRED|||-NONE-|||1
+
+S Винайняв у забудівельника дві кімнати в підвалі маленького будиночка в садочку .
+A 2 3|||F/Calque|||забудовника|||REQUIRED|||-NONE-|||1
+A 8 10|||G/Case|||будинку|||REQUIRED|||-NONE-|||1
+A 10 10|||G/Prep|||у|||REQUIRED|||-NONE-|||1
+
+S Службу в музеї покинув і почав вигадувати роман про Понтія Пілата .
+A 10 11|||Spelling|||Пилата|||REQUIRED|||-NONE-|||1
+

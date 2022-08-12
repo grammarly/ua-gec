@@ -1,0 +1,42 @@
+S У XVI столітті в Італії була популярною така розвага як математичні диспути .
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Детальніше про це можна почитати у книжці " Колумби математики " ( https://chtyvo.org.ua/authors/Konforovych_Andrii/Kolumby_matematyky/) в розділі про Нікколо Тарталью ( сторінка 96 книги , сторінка 50 у DJVU ) .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S З давніх давен в Києві проводиться турнір математичних боїв ( гаразд - гаразд , з початку 2000-них років ) .
+A 2 2|||Spelling|||-|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 16 17|||Spelling|||2000-х|||REQUIRED|||-NONE-|||1
+A 2 2|||Spelling|||-|||REQUIRED|||-NONE-|||2
+A 3 4|||Spelling|||у|||REQUIRED|||-NONE-|||2
+A 14 15|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 16 17|||Spelling|||2000-х|||REQUIRED|||-NONE-|||2
+
+S А нещодавно було оголошено про турнір астрономічних боїв для школярів .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Реєстрація команд до 10 серпня .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Детально можна почитати отут : https://www.astrosandbox.com/fights.
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 2 3|||G/Aspect|||прочитати|||REQUIRED|||-NONE-|||2
+
+S Наскільки я розумію , турнір всеукраїнський , тобто Києвом не обмежується .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Задачі обіцяють ДУЖЕ складні .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 2 3|||Spelling|||дуже|||REQUIRED|||-NONE-|||2
+
+S Але якщо ви знаєте школярів , що люблять асторономію і можуть зібрати команду , то це буде чудова літня розвага .
+A 6 7|||G/Conjunction|||які|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||астрономію|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||астрономію|||REQUIRED|||-NONE-|||2
+

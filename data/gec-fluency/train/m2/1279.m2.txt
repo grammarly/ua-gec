@@ -1,0 +1,44 @@
+S " Окей , ти дурень , Джим , " сказав він , коли міг говорити .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||G/Case|||Джиме|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Це ваша гра " , - терпляче сказав я , перебираючи свою подвійну шістку .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Двадцять , - сказав Гудло , роблячи крейдою два хрести на столі .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Чому я дурень ? " спитав я .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Захований скарб був віднайдений в багатьох місцях раніше . "
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 5|||G/VerbVoice|||віднайшли|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S " Тому що , " сказав він , " при обчисленні точки на річці , куди би потрапила ваша лінія , ви нехтували допустити варіацію .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 18 18|||F/PoorFlow|||би|||REQUIRED|||-NONE-|||1
+A 23 23|||F/PoorFlow|||тим, щоб|||REQUIRED|||-NONE-|||1
+
+S Варіація там буде дев’ять градусів на захід .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Дай мені свій олівець . "
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Гудло Бенкс швидко фігурував на звороті конверта .
+A 3 4|||F/Style|||креслив|||REQUIRED|||-NONE-|||1
+
+S " Дистанція , з півночі на південь , лінії , що йде від іспанської місії , " сказав він , " становить рівно двадцять дві милі .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 20 21|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+

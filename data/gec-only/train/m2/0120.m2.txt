@@ -1,0 +1,7 @@
+S Я : Лише у свої 30 з чимось років починаю розуміти , що більше не можу , як раніше , провести ніч без сну та вранці поводитись , як нормальна людина .
+A 6 7|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 27 28|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||“|||REQUIRED|||-NONE-|||2
+A 6 7|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 31 31|||Punctuation|||”|||REQUIRED|||-NONE-|||2
+

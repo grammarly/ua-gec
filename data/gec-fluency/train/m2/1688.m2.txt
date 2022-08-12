@@ -1,0 +1,50 @@
+S Я піднявся та вказав на нього великою олов'яною ложкою , щойно вийнятою з мийки .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Гудлоу Бенкс " , сказала я , " Мене не хвилює твоя освіта .
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Gender|||сказав|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Мені завжди важко було стерпіти це в будь-кому , і я зневажав це в тобі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Що для вас врешті решт навчання ?
+A 2 3|||F/Other|||тебе|||REQUIRED|||-NONE-|||1
+A 4 4|||Spelling|||-|||REQUIRED|||-NONE-|||1
+
+S Це прокляття для вас і нудьга для ваших друзів .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Геть , " сказав я " геть ви з вашими водяними знаками та варіаціями !
+A 0 8|||F/PoorFlow|||Забирайся геть|||REQUIRED|||-NONE-|||1
+A 9 10|||F/Other|||твоїми|||REQUIRED|||-NONE-|||1
+
+S Вони нічого для мене не варті .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Вони не відводікуть мене від завдання . "
+A 2 3|||Spelling|||відволічуть|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Я вказав своєю ложкою через річку до маленької гори що була схожою на сідло .
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Case|||схожа|||REQUIRED|||-NONE-|||1
+
+S " Я збираюсь шукати ту гору " , я пішов туди , " за скарбом " .
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Вирішіть зараз ви в справі чи ні .
+A 2 2|||Punctuation|||:|||REQUIRED|||-NONE-|||1
+
+S Якщо ви не хочете , щоб водяний знак чи варіація потрясли вашу душу , ви не справжній авантюрист .
+A 1 2|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+A 14 14|||F/PoorFlow|||тоді|||REQUIRED|||-NONE-|||1
+
+S Вирішуй . "
+A 0 2|||G/Number|||Вирішуйте|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,68 @@
+S Той усміхнувся та промовив :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Це маленька слабкість .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Вона дуже високої думки про той роман , що написав я .
+A 8 9|||G/Conjunction|||який|||REQUIRED|||-NONE-|||1
+
+S - Про що роман ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Роман про Понтія Пілата .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||Пилата|||REQUIRED|||-NONE-|||1
+
+S Тут знову загойдались та застрибали язички свічок , заграв посуд на столі , Воланд засміявся громовим образом , але нікого не злякав і сміхом цим нікого не здивував .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Бегемот чомусь аплодував .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Про що , про що ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Про кого ? - заговорив Воланд , перестав сміятися .
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 7|||G/UngrammaticalStructure|||коли|||REQUIRED|||-NONE-|||1
+
+S - Ось тепер ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Це ж чудово !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S І Ви не могли знайти іншої теми ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Дайте поглянути , - Воланд протягнув руку долонею до гори .
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Я , нажаль , не можу цього зробити , - відповів мастер , - бо я спалив його в печі .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||на жаль|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Пробачте , не повірю , - відповів Воланд , цього бути не може .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Рукопис не горить . - Він повернувся до Бегемота та сказав : - Ну-ка дай сюди роман .
+A 3 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||він|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Кіт моментально зістрибнув зі стільця , та всі побачили , що він сидів на товстій пачці рукописів .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Верхній примірник кіт , поклонившись , подав Воланду .
+A 0 1|||G/Case|||Верхнього|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||примірника|||REQUIRED|||-NONE-|||1
+
+S Маргарита затремтіла , хвилюючись знову до сліз :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+

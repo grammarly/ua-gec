@@ -1,0 +1,24 @@
+S Переклад https://en.wikipedia.org/wiki/The_Power_of_Habit, досить непоганий .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 1 2|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 2 2|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Зміст - опис нейрологічного циклу формування , закріплення та зміни звичок .
+A 1 2|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Після прочитання мимоволі починаєшь експериментувати зі змінамі своїх звичок ( не знаю - наскільки це надовго ) .
+A 3 4|||Spelling|||починаєш|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||змінами|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||починаєш|||REQUIRED|||-NONE-|||2
+A 6 7|||Spelling|||змінами|||REQUIRED|||-NONE-|||2
+A 7 8|||F/Style|||власних|||REQUIRED|||-NONE-|||2
+A 12 12|||G/UngrammaticalStructure|||, чи|||REQUIRED|||-NONE-|||2
+A 12 14|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S У цілому - раджу .
+A 0 2|||F/PoorFlow|||Загалом|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+

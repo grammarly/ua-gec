@@ -1,0 +1,72 @@
+S Платформа і ступені полустанку мокрі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Подекуди біліє нещодавно випав , що тане сніг .
+A 3 4|||G/UngrammaticalStructure|||випалий сніг|||REQUIRED|||-NONE-|||1
+A 5 7|||F/PoorFlow|||але який уже почав танути|||REQUIRED|||-NONE-|||1
+A 7 8|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S У самому полустанку світло і натоплено жарко , як у лазні .
+A 5 7|||F/Repetition|||спекотно|||REQUIRED|||-NONE-|||1
+
+S Погано пахне .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Крім десяткових ваг і невеликого жовтого дивана , на якому спить якийсь чоловік в кондукторської форми , в приміщенні немає ніяких меблів .
+A 13 14|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 14 15|||G/Case|||кондукторській|||REQUIRED|||-NONE-|||1
+A 15 16|||G/Case|||формі|||REQUIRED|||-NONE-|||1
+
+S Ліворуч дві навстіж відкриті двері .
+A 1 2|||F/PoorFlow|||двоє|||REQUIRED|||-NONE-|||1
+A 3 4|||F/PoorFlow|||відчинених|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Case|||дверей|||REQUIRED|||-NONE-|||1
+
+S В одну з них видно телеграфний верстат і лампа з зеленим ковпаком , в іншу - невелика кімнатка , наполовину зайнята темним Шкапа .
+A 1 2|||G/Number|||одні|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Case|||лампу|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 14 15|||G/Number|||інші|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||G/Case|||невелику|||REQUIRED|||-NONE-|||1
+A 17 18|||G/Case|||кімнату|||REQUIRED|||-NONE-|||1
+A 20 21|||G/Case|||зайняту|||REQUIRED|||-NONE-|||1
+
+S У цій кімнатці на підвіконні сидять оберкондуктор і машиніст .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Обидва вони мнуть в руках якусь шапку і сперечаються .
+A 2 3|||F/Style|||зминають|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||у|||REQUIRED|||-NONE-|||1
+
+S - Це не справжній бобер , а польський , - каже машиніст .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Справжні бобри Не такі бувають .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||не|||REQUIRED|||-NONE-|||1
+
+S Всією цією шапці , якщо хочете знати , чи красна ціна - п'ять карбованців !
+A 0 1|||G/Case|||Усій|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||цій|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Розумієте ви багато ... - ображається оберкондуктор .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - П'ять карбованців !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S А ось ми зараз купця запитаємо .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Пан Малихіна , - звертається він до старого , - як по-вашому : польська це бобер чи справжній ?
+A 1 1|||G/Case|||е|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Case|||Малихін|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 13 14|||G/Gender|||польський|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,61 @@
+S Але у нашому спілкуванні , і нашим відвідуванням та бедсідуванням з Мей Марта , ні Гудлі Бенкс ні Я можемо дізнатись що одного з нас вона переважає .
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||G/Case|||наших|||REQUIRED|||-NONE-|||1
+A 7 8|||G/Case|||відвідувань|||REQUIRED|||-NONE-|||1
+A 9 10|||G/UngrammaticalStructure|||бесідувань|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 18 19|||Spelling|||я не|||REQUIRED|||-NONE-|||1
+A 21 21|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 10|||F/PoorFlow|||з нашого спілкування разом, відвідин чи особистих бесід|||REQUIRED|||-NONE-|||2
+A 12 14|||G/Case|||Мартою|||REQUIRED|||-NONE-|||2
+A 17 17|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 18 19|||Spelling|||я|||REQUIRED|||-NONE-|||2
+A 19 28|||F/PoorFlow|||не могли здогадатися, кому вона надає перевагу.|||REQUIRED|||-NONE-|||2
+
+S Мей Марта була природжено ухильна і знала ще з колиски як розгадувати людей .
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 0 14|||F/PoorFlow|||У Мей Марти було природне вміння ухилятися, і знала з колиски, як тримати людей у здогадках. ..|||REQUIRED|||-NONE-|||2
+
+S Так як я сказала , старий чоловік Мангум був придуркуватим .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 0 4|||G/Gender|||Як я і казав|||REQUIRED|||-NONE-|||2
+A 9 10|||F/Style|||розсіяним|||REQUIRED|||-NONE-|||2
+
+S Після довгого часу він дізнався в один день , що маленький метелик повинен був сказати йому , що 2 молодих чоловіка пробували кинути стіку через голову малої дитини , дочки , або деякого такого технічного , хто дивиться за його комфортом .
+A 18 19|||F/Style|||двоє|||REQUIRED|||-NONE-|||1
+A 20 21|||G/Case|||чоловіків|||REQUIRED|||-NONE-|||1
+A 23 24|||Spelling|||сітку|||REQUIRED|||-NONE-|||1
+A 30 31|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 32 34|||F/PoorFlow|||когось|||REQUIRED|||-NONE-|||1
+A 0 8|||F/PoorFlow|||Лише згодом одного дня він дізнався|||REQUIRED|||-NONE-|||2
+A 9 15|||F/PoorFlow|||— мабуть, маленький метелик сказав|||REQUIRED|||-NONE-|||2
+A 17 17|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 18 19|||F/Style|||двоє|||REQUIRED|||-NONE-|||2
+A 20 21|||G/Case|||чоловіків|||REQUIRED|||-NONE-|||2
+A 21 25|||F/PoorFlow|||намагаються закрутити|||REQUIRED|||-NONE-|||2
+A 26 28|||F/Style|||молодій особі|||REQUIRED|||-NONE-|||2
+A 29 30|||F/Style|||доньці|||REQUIRED|||-NONE-|||2
+A 32 35|||F/PoorFlow|||певному технічному придатку|||REQUIRED|||-NONE-|||2
+A 36 37|||G/Conjunction|||що|||REQUIRED|||-NONE-|||2
+A 37 41|||F/PoorFlow|||дбає про його комфорт|||REQUIRED|||-NONE-|||2
+
+S Я ніколи не знав , що вчені можуть підходити до таких випадків .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 8 12|||F/PoorFlow|||розглядати такі випадки|||REQUIRED|||-NONE-|||2
+
+S Старий Мангум усним ..... , і англійською також не використовуючи латину ніж прості посилання на Orgetorix , Rex Helvetii , які я сам використовував .
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 24|||F/PoorFlow|||словесно промаркував нас і легко класифікував Гудлі й мене як найнижчого ряду хребетних; і англійською він казав те саме, не вдаючись до латини складнішої, ніж Orgetorix, Rex Helvetii, якими я також послуговувався|||REQUIRED|||-NONE-|||2
+
+S І він сказав нам що якщо він коли -небуть спіймає нас навколо його будинку знову , він додасть нас до свого збіговиська .
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||-небудь|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Prep|||біля|||REQUIRED|||-NONE-|||1
+A 16 17|||F/Repetition|||то|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 7 9|||Spelling|||коли-небудь|||REQUIRED|||-NONE-|||2
+A 11 12|||G/Prep|||біля|||REQUIRED|||-NONE-|||2
+A 16 22|||F/PoorFlow|||то долучить нас до своєї колекції|||REQUIRED|||-NONE-|||2
+

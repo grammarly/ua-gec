@@ -1,0 +1,60 @@
+S Бобчинскький .
+A 0 1|||Spelling|||Бобчинський|||REQUIRED|||-NONE-|||1
+
+S Вибачте , вибачте : усе по черзі .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Як тільки мав я задоволення вийти від вас після того , як ви вирішила обурится полученним листом , так - с , - так я тоді ж прибіг ... вже , будь-ласка , не перебивайте , Петро Іванович !
+A 0 4|||F/PoorFlow|||Щойно я мав|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 13 14|||G/Number|||вирішили|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||обуритися|||REQUIRED|||-NONE-|||1
+A 15 16|||F/Calque|||отриманим|||REQUIRED|||-NONE-|||1
+A 23 24|||G/Conjunction|||то|||REQUIRED|||-NONE-|||1
+A 27 27|||F/PoorFlow|||і|||REQUIRED|||-NONE-|||1
+A 31 32|||Spelling|||будь ласка|||REQUIRED|||-NONE-|||1
+A 36 38|||G/Case|||Петре Івановичу|||REQUIRED|||-NONE-|||1
+
+S Я вже все , все , все знаю -с .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Так я , ось як бачите , забіг до Коробкину .
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 9 10|||G/Case|||Коробкіна|||REQUIRED|||-NONE-|||1
+
+S А не зустрівши Коробкина - то дома , звернув до Растаковського , а не заставши Растаковского , зайшов ось до Івана Кузьмича , щоб повідомити йому отриманную вами новину , да , йдучи звідти , зустрівся с Петром Івановичем ...
+A 3 4|||Spelling|||Коробкіна|||REQUIRED|||-NONE-|||1
+A 4 6|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Style|||вдома|||REQUIRED|||-NONE-|||1
+A 15 16|||Spelling|||Растаковського|||REQUIRED|||-NONE-|||1
+A 26 29|||F/PoorFlow|||новину, яку і ви отримали|||REQUIRED|||-NONE-|||1
+A 30 31|||G/UngrammaticalStructure|||а|||REQUIRED|||-NONE-|||1
+A 36 37|||G/UngrammaticalStructure|||із|||REQUIRED|||-NONE-|||1
+
+S Добчинський ( встручаючись ) .
+A 2 3|||Spelling|||втручаючись|||REQUIRED|||-NONE-|||1
+
+S Біля будки , де продаються пироги .
+A 4 5|||F/Style|||продають|||REQUIRED|||-NONE-|||1
+
+S Бобчинський .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Біля будки , де продаються пироги .
+A 4 5|||F/Style|||продають|||REQUIRED|||-NONE-|||1
+
+S Так , зустрівшись з Петром Івановичем , і говорячи йому : « Чи чули ви про новину , яку отримав Антон Антонович з достовірного листа ? »
+A 2 4|||F/Calque|||зустрівши|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Case|||Петра|||REQUIRED|||-NONE-|||1
+A 5 7|||G/Case|||Івановича|||REQUIRED|||-NONE-|||1
+A 8 9|||F/Style|||кажучи|||REQUIRED|||-NONE-|||1
+A 15 16|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 22 23|||Spelling|||із|||REQUIRED|||-NONE-|||1
+
+S А Петр Іванович вже учув про це від ключниці вашої Авдотьї , яка , не знаю , навіщось була послана до Филиппа Антоновичу Почечуєва .
+A 1 2|||F/Calque|||Петро|||REQUIRED|||-NONE-|||1
+A 4 5|||F/Style|||чув|||REQUIRED|||-NONE-|||1
+A 21 22|||Spelling|||Филипа|||REQUIRED|||-NONE-|||1
+A 22 23|||G/Case|||Антоновича|||REQUIRED|||-NONE-|||1
+

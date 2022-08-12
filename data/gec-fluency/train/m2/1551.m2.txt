@@ -1,0 +1,68 @@
+S Абогін раптом подзвонив .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Коли на його зов ніхто не відкликався , він ще раз подзвонив і кинув дзвіночок на підлогу ; той глухо вдарився об килим и видав жалісний , точно передсмертний стон .
+A 3 4|||F/Calque|||поклик|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Repetition|||відізвався|||REQUIRED|||-NONE-|||1
+A 23 24|||Spelling|||і|||REQUIRED|||-NONE-|||1
+A 27 28|||F/Style|||наче|||REQUIRED|||-NONE-|||1
+A 29 30|||F/Calque|||стогін|||REQUIRED|||-NONE-|||1
+
+S З'явився лакей .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Де ви зховались , дідько бі вас взяв ?! - накинувся на нього хазяїн , зжимаючи кулакию - Де ти був щойно ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||сховались|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||би|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||узяв|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||F/Calque|||стискаючи|||REQUIRED|||-NONE-|||1
+A 17 18|||Spelling|||кулаки|||REQUIRED|||-NONE-|||1
+A 18 18|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Пішов , скажи , хай цему пану подадуть коляску , а мені вели карету подати !
+A 5 6|||Spelling|||цьому|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Style|||панові|||REQUIRED|||-NONE-|||1
+A 8 9|||F/Style|||візок|||REQUIRED|||-NONE-|||1
+
+S Стій ! - крикнув він , коли лакей повернувся йти геть .
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Завтра щоб жодного зрадникане залишалось в домі !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||зрадника не|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 7 8|||F/Style|||будинку|||REQUIRED|||-NONE-|||1
+
+S Все геть !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Наймаю нових !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Гадіни !
+A 0 1|||Spelling|||Гадини|||REQUIRED|||-NONE-|||1
+
+S В очікуванні екіпажів Абогін та лікар мовчали .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S До першого вже повернулись вігляд ситості та витонченості .
+A 4 5|||Spelling|||вигляд|||REQUIRED|||-NONE-|||1
+
+S Він крокував по гостинній , витонченно тряс головою і , очевидно , щось задумав .
+A 3 4|||F/Calque|||вітальні|||REQUIRED|||-NONE-|||1
+
+S Гнів його ще не минув , але він старався подати вигляд , що не помічає свого ворога ...
+A 9 11|||F/Calque|||вдавати|||REQUIRED|||-NONE-|||1
+
+S Лікар же стояв , тримаючись однією рукою за зай столу и дивився на Абогіна с тим глибоким , дещо цинічним не нарним призрінням , з яким можуть тільки горе та бездолья , коли бачать перед собою ситість та витонченість
+A 8 9|||Spelling|||край|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||і|||REQUIRED|||-NONE-|||1
+A 14 15|||Spelling|||з|||REQUIRED|||-NONE-|||1
+A 20 20|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 21 22|||G/UngrammaticalStructure|||вдаваним|||REQUIRED|||-NONE-|||1
+A 22 23|||F/Calque|||презирством|||REQUIRED|||-NONE-|||1
+A 30 31|||G/UngrammaticalStructure|||лінивство|||REQUIRED|||-NONE-|||1
+

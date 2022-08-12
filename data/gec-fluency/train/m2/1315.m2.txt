@@ -1,0 +1,76 @@
+S Буфетчик повільно піднявся , піднес руку , щоб поправити шляпу , і усвідомив , що її на голові нема .
+A 0 1|||F/Calque|||Буфетник|||REQUIRED|||-NONE-|||1
+A 2 3|||F/Style|||підвівся|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||підніс|||REQUIRED|||-NONE-|||1
+A 9 10|||F/Calque|||капелюха|||REQUIRED|||-NONE-|||1
+A 15 16|||G/Gender|||його|||REQUIRED|||-NONE-|||1
+
+S Йому жахливо як не хотілося повертатися , але шляпу було шкода .
+A 1 2|||F/Style|||жах|||REQUIRED|||-NONE-|||1
+A 8 9|||F/Calque|||капелюха|||REQUIRED|||-NONE-|||1
+
+S Трохи подумавши , він все ж таки повернувся і сказав .
+A 4 5|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+
+S - Що ще там ? - запитала його проклята Гела{=> .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S – } - Я шляпку забув , - шепнув він , показуючи свою лисину .
+A 2 3|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||F/Calque|||капелюха|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Гела повернулася , буфетчик подумки плюнув і закрив очі .
+A 3 4|||F/Calque|||буфетник|||REQUIRED|||-NONE-|||1
+A 7 8|||F/Collocation|||заплющив|||REQUIRED|||-NONE-|||1
+
+S Коли він їх відкрив , Гела подала йому шляпу і шпагу з темною рукояткою .
+A 8 9|||F/Calque|||капелюх|||REQUIRED|||-NONE-|||1
+A 12 13|||G/Gender|||темним|||REQUIRED|||-NONE-|||1
+A 13 14|||F/Calque|||руків'ям|||REQUIRED|||-NONE-|||1
+
+S - Не млє , - шупнув буфетчик , відпихуючи шпагу і швидко надягаючи шляпу .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||Spelling|||моє|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||шепнув|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Calque|||буфетник|||REQUIRED|||-NONE-|||1
+A 12 13|||F/Style|||надіваючи|||REQUIRED|||-NONE-|||1
+A 13 14|||F/Calque|||капелюха|||REQUIRED|||-NONE-|||1
+
+S - Ви дійсно без шапки прийшли ? - здивувалася Гела
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 3|||F/Style|||справді|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Буфетчик щось буркнув і швидко пішов донизу .
+A 0 1|||F/Calque|||Буфетник|||REQUIRED|||-NONE-|||1
+
+S Його голові чогось було незручно і занадто тепло в шляпці ; він зняв її , і підстрибнув від страху , тихо вскрикнув .
+A 9 10|||F/Calque|||капелюсі|||REQUIRED|||-NONE-|||1
+A 13 14|||G/Gender|||його|||REQUIRED|||-NONE-|||1
+A 21 22|||F/Calque|||зойкнувши|||REQUIRED|||-NONE-|||1
+
+S В руках у нього був бархатний берет з петушиним пером .
+A 5 6|||F/Calque|||оксамитовий|||REQUIRED|||-NONE-|||1
+A 8 9|||F/Calque|||півнячим|||REQUIRED|||-NONE-|||1
+
+S Буфетчик перехрестився .
+A 0 1|||F/Calque|||Буфетник|||REQUIRED|||-NONE-|||1
+
+S В ту саму мить берет мявкнув , перетворився в чорного кота і , вскочив назад на голову Андрію Фокичу , всіма когтями вцепився в його лисіну .
+A 0 4|||Spelling|||Тієї самої миті|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Prep|||нявкнув|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Particle|||на|||REQUIRED|||-NONE-|||1
+A 13 14|||F/Calque|||скочивши|||REQUIRED|||-NONE-|||1
+A 21 23|||F/Calque|||кігтями вчепився|||REQUIRED|||-NONE-|||1
+A 25 26|||Spelling|||лисину|||REQUIRED|||-NONE-|||1
+
+S Випустив крик відчаю , буфетчик кинувся бігти донизу , а котиквпав з голови і бризнув догори по сходах
+A 0 3|||F/PoorFlow|||Відчайдушно закричавши|||REQUIRED|||-NONE-|||1
+A 4 5|||F/Calque|||буфетник|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||котик упав|||REQUIRED|||-NONE-|||1
+A 14 15|||F/Style|||чкурнув|||REQUIRED|||-NONE-|||1
+

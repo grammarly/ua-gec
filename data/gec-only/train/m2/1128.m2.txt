@@ -1,0 +1,44 @@
+S « Займіться виконанням своїх обов'язків , офіцере » - сказав Мейєр , життєрадісно усміхаючись .
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Пан Біддл поклав свою долоню на мою руку .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S « Вас заарештовано , докторе Ваг-ху , також відомий як Пітерс » - мовив він , « За нелегальну медичну практику » .
+A 11 12|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 12 13|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 17 18|||Spelling|||за|||REQUIRED|||-NONE-|||1
+
+S - Хто ви ? Спитав я .
+A 0 1|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||"|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||– спитав|||REQUIRED|||-NONE-|||1
+
+S « Я скажу тобі , що це за один » , сказав пан Мейєр , сідаючи у ліжку .
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S « Він детектив , винайманий Державним Медичним Агенством .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||G/Case|||Державне|||REQUIRED|||-NONE-|||1
+A 6 7|||G/Case|||медичне|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||агентство|||REQUIRED|||-NONE-|||1
+
+S Він слідував за тобою через п'ять країн .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він прийшов до мене вчора і ми розробили цей план , щоб зловити тебе на гарячому .
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Думаю ви більше не займатиметеся медичною практикою у цих краях , пане Факір .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S На що ви казали я хворий , лікарю ? » — розсміявся Мейєр , « ускладнений , що ж , у будь якому разі це не було розрідження мізків . »
+A 9 10|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 21 23|||Spelling|||будь-якому|||REQUIRED|||-NONE-|||1
+A 29 30|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 31 31|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

@@ -1,0 +1,77 @@
+S Альтернативна історія в якій Португалія об'єднавшись з Бразилією по суті виграла в 2-й Світовій війні .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 5 5|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||Другій|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||світовій|||REQUIRED|||-NONE-|||1
+
+S Записка португальського солдата
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Вересень 49-го
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Японія майже наша , ще одна авантюра нашої імперії схоже вдалась .
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+
+S Та я себе питаю - скільки можна ?
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Колись багато років тому я хотів побачити цілий світ і вибратись з рідного Порту , а тепер я хочу просто повернутись додому і побачити сестру .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Писала що одружилась місяць тому , що ж поздоровляю її .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S А я тим часом для себе зрозумів , що суші не для мене , рибу треба або смажити , або варити .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Скільки було цих став які мені не сподобались , в Іспанії , Карибських островах , Англії , Америці , безліч ... і думаю ще буде багато таких .
+A 3 4|||Spelling|||страв|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 12 12|||G/UngrammaticalStructure|||на|||REQUIRED|||-NONE-|||1
+A 15 15|||G/UngrammaticalStructure|||в|||REQUIRED|||-NONE-|||1
+
+S Замолоду я радів об'єднанню з Бразилією , і й досі радий , та зараз ми надто великі .
+A 8 9|||F/Other|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Один з пілотів , який захоплювався історією , казав мені що більшої держави в світі не було , ні монголи , ні британці не були настільки великими як ми зараз , й думав наскільки ми так протримаємось .
+A 1 2|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 27 27|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 31 32|||Spelling|||і|||REQUIRED|||-NONE-|||1
+A 33 33|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 33 34|||F/Style|||скільки|||REQUIRED|||-NONE-|||1
+
+S Той пілот розбився біля Ньюфаундленда .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Багато було таких хлопців .
+A 3 4|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S І багато було таких сильних держав .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Майже нікого не лишилось з гігантів з якими можна битись ... крім одного .
+A 4 5|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||окрім|||REQUIRED|||-NONE-|||1
+
+S Пригадую янкі називали лідера червоних Дядьком Семом , коли ми вимінювали їх нагороди на консерви з портвейном .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Number|||їхні|||REQUIRED|||-NONE-|||1
+
+S Нам кажуть що війни з червоними не буде , та думаю це лише питання часу , ми виконаємо наш обов'язок де б ми не були , до кінця , тільки б той кінець прийшов вже якомога швидше . "
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 10|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 10 11|||F/Style|||гадаю|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 20 20|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 34 35|||Spelling|||уже|||REQUIRED|||-NONE-|||1
+A 37 38|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 39 39|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+

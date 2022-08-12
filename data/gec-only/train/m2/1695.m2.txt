@@ -1,0 +1,54 @@
+S - Будь ласка , погоджується обер - кондуктор .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 8|||Spelling|||оберкондуктор|||REQUIRED|||-NONE-|||1
+
+S - Ось і відмінно ! - радіє начальник станції .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - У такому випадку вам нічого тут чекати , зараз й їдте !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||і|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||їдьте|||REQUIRED|||-NONE-|||1
+
+S Я вас зараз й відправлю !
+A 3 4|||Spelling|||і|||REQUIRED|||-NONE-|||1
+
+S Відмінно !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Він робить Малахіну під козирек та , читаючи на шляху балки , біжіть до себе .
+A 12 13|||Spelling|||біжить|||REQUIRED|||-NONE-|||1
+
+S Старик дуже задоволений щойно відбувшууся розмовою ; він усміхається та оглядає всю залу , нібито розшукуючи : чи є тут щось приємне ?
+A 3 5|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||й|||REQUIRED|||-NONE-|||1
+
+S - А ми все ж таки вип'ємо , - говорить він , беручи обер - кондуктора під руку .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 16|||Spelling|||оберкондуктора|||REQUIRED|||-NONE-|||1
+
+S - Нібито ще рано пити .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Ні , ви ж дозвольте мені вас пригостити з луб'язності .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||люб'язності|||REQUIRED|||-NONE-|||1
+
+S Обідва йдуть до буфету .
+A 0 1|||Spelling|||Обидва|||REQUIRED|||-NONE-|||1
+
+S Випивши , обер - кондуктор дового вибирає чім би закусити .
+A 2 5|||Spelling|||оберкондуктор|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||довго|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Spelling|||чим|||REQUIRED|||-NONE-|||1
+
+S Цей чоловік похилого віку , дуже повний , з полиняним , пухким обличчям .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Повнота в нього неприємна , обрюзгла , з жовтизною , що буває у людей які багато п'ють та сплять не вчасно .
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+

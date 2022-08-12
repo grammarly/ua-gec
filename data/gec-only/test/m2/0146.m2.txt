@@ -1,0 +1,47 @@
+S " Пробач мене , - сказав я , - втім , я не думаю , що ти знайдеш Джолнса " .
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 3|||G/Case|||мені|||REQUIRED|||-NONE-|||2
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Таксі зупинилося перед одним з найбільш захопливих резиденцій на бульварі .
+A 3 4|||G/Gender|||однією|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Gender|||однією|||REQUIRED|||-NONE-|||2
+
+S Ходячий туди - сюди перед будинком був чоловік з довгими червоними вусами та з маркою детектива , яка майоріє на комірі його пальто .
+A 8 9|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 0 7|||G/UngrammaticalStructure|||Перед будинком туди-сюди ходив|||REQUIRED|||-NONE-|||2
+A 18 19|||G/Tense|||майоріла|||REQUIRED|||-NONE-|||2
+A 22 23|||G/Case|||пальта|||REQUIRED|||-NONE-|||2
+
+S Зараз та тоді чоловік би зголив ті вуса аби витерти лице , та тоді я б розпізнав одразу славетну візитівку великого детектива Нью-Йорка .
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Джолнс тримав гострий погляд на двері та вікна будинку .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S " Що ж , докторе , - сказав Найт , не стримуючи нотку тріумфу в його голосі , - ви бачили ?"
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||G/Case|||нотки|||REQUIRED|||-NONE-|||1
+A 18 19|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 18 19|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S " Це неймовірно , неймовірно ! " - я не міг втриматися вигукувати одразу як таксі поїхало на дорозі назад .
+A 6 7|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 14 14|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S " Втім , як ви це зробили ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Завдяки якому індуктивному процесу ... "
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+

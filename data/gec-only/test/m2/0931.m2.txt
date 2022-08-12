@@ -1,0 +1,95 @@
+S Сліпучі спалахи світла та джазові ритми фокстроту охоплюють атмосферу бального турніру .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Кожен раунд триває довгі , але радісно винагороджуючі 7 , 5 хвилин безперервного пробігу п’яти танців , маючи шанс набрати кисню в легені , лиш роблячи поклон .
+A 6 8|||G/UngrammaticalStructure|||варті радості|||REQUIRED|||-NONE-|||1
+A 11 12|||G/Number|||хвилини|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Case|||довгих|||REQUIRED|||-NONE-|||2
+A 7 8|||G/UngrammaticalStructure|||проведених|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 17 18|||G/UngrammaticalStructure|||маємо|||REQUIRED|||-NONE-|||2
+A 23 24|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 24 27|||G/UngrammaticalStructure|||лише під час поклону|||REQUIRED|||-NONE-|||2
+
+S Це мистецтво естетичних рухів в екстремальних умовах .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S " І фінальний танець - Квікстеп ! " - оголошує суддя .
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||квікстеп|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 5 6|||Spelling|||квікстеп|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Решта шість пар і я з Яною кланяємось після попереднього танцю .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Починається музика , і ми встрибуємо у перший такт стрімкої річки занурювальних ритмів Квікстепу .
+A 13 14|||Spelling|||квікстепу|||REQUIRED|||-NONE-|||1
+A 13 14|||G/Case|||квікстепа|||REQUIRED|||-NONE-|||2
+
+S “ Повільно , повільно , швидко , швидко , повільно ” - я подумки повторюю ритм наступної фігури , щоб не збитися - ми увійшли бездоганно .
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 22 23|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 22 22|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 22 23|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S Зворотний поворот , квік опен реверз , чверть - поворот - пройшло перших тридцять секунд ; ми танцювали перше коло на бальній підлозі .
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Адреналін змушує нас рухатися вперед , але солоний присмак поту нагадує нам про те , що нам слід якось заощадити енергію , що залишилася , щоб вижити наступні 60 секунд .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S З цих причин ми розробили стратегію , яка дозволить нам балансувати між продуктивністю та залишками сил .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Spelling|||Із|||REQUIRED|||-NONE-|||2
+
+S За два дні до змагань Яна сказала мені : " Все ж є щось спільне між фігурами квікстепу і маятником " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 17 18|||G/Case|||квікстепа|||REQUIRED|||-NONE-|||2
+
+S Ця ідея мене вразила : махові рухи ніг схожі на махи маятника .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S То чому б тоді не використовувати його властивості ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S На першому кроці - ми докладаємо найбільших зусиль ; на наступних кроках ми дотримуємося інерції , подібної до маятника , якого відпускають після перебування на вершині .
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 6 7|||G/Case|||найбільше|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S Таким чином , ми можемо виграти деякий час , щоб відновити свої сили .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Природний спін , V6 , тіпсі праворуч і ліворуч - ми робимо все , що в наших силах , до кінця мелодії .
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S " I feel sympathy for that wonderful , windy town " - Я від душі ворушу губами слова " Чикаго " Френка Сінатри - музика затихає ; Ми з Яною стомлююче , але радісно вклоняємось .
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 12 13|||Spelling|||я|||REQUIRED|||-NONE-|||1
+A 23 24|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 30 31|||G/UngrammaticalStructure|||стомлено|||REQUIRED|||-NONE-|||1
+A 11 11|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 11 13|||Spelling|||— я|||REQUIRED|||-NONE-|||2
+A 23 23|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+A 23 25|||Spelling|||Музика|||REQUIRED|||-NONE-|||2
+A 26 27|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+A 30 31|||G/UngrammaticalStructure|||втомлено|||REQUIRED|||-NONE-|||2
+A 34 34|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+

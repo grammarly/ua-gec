@@ -1,0 +1,36 @@
+S О , чудово !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Чудово !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S " Що сьогодні ? " прокричав Скрудж , гукаючи вниз до хлопця у недільній одежі , який ймовірно чудернацько виглядав поруч з ним .
+A 5 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 12|||G/Prep|||хлопця вниз|||REQUIRED|||-NONE-|||1
+A 17 18|||Spelling|||імовірно|||REQUIRED|||-NONE-|||1
+A 21 22|||Spelling|||із|||REQUIRED|||-NONE-|||1
+
+S " А ? " відповів хлопець , увесь у здивуванні .
+A 4 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Що сьогодні , мій веселий компаньон ? " гукнув Скрудж .
+A 6 7|||G/Case|||компаньйоне|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Согодні ! " - відповів хлопець .
+A 1 2|||Spelling|||Сьогодні|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Чому , Різдво . " " Це Різдво ! " вигукнув Скрудж йому .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S " Я маю не пропустити це " .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Духи влаштували це все в одну ніч .
+A 4 7|||G/Case|||однієї ночі|||REQUIRED|||-NONE-|||1
+

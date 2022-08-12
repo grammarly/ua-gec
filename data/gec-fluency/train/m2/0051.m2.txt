@@ -1,0 +1,39 @@
+S Знову привид здійняв крик , струсонув свлїм ланцюгом та заломив свої химерні руки .
+A 6 7|||Spelling|||своїм|||REQUIRED|||-NONE-|||1
+
+S - Ти закований , - сказав Скрудж , тремтячи .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Скажи , чому ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Я ношу ланцюк , якого виковав за життя , - відвовів Привид .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||ланцюг|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||викував|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||відповів|||REQUIRED|||-NONE-|||1
+
+S - Я зробив його кільце за кільцем , ярд за ярдом , я зковав його за власною волею , і за власною волею я ношу його .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||Spelling|||скував|||REQUIRED|||-NONE-|||1
+
+S Цей визерунок дивує тебе ?
+A 1 2|||Spelling|||візерунок|||REQUIRED|||-NONE-|||1
+
+S Скрудж тремтів дедалі більше .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - А чи знав би ти , - продовжував Привид , - вагу та довжину міцної спиралі , яку ти носиш ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||Spelling|||спіралі|||REQUIRED|||-NONE-|||1
+
+S Вона була б настільки ж довга та важка , як і цей ланцюг , сім свят Різдва назад .
+A 3 4|||F/Style|||така|||REQUIRED|||-NONE-|||1
+
+S З того часу ти заробив його .
+A 0 3|||F/Style|||Відтоді|||REQUIRED|||-NONE-|||1
+

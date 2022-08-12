@@ -1,0 +1,100 @@
+S Тут адміністратор підстрибнув і закричав так , що Римський здригнувся :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S - Згадав !
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Згадав !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S В Пушкіно відкрилася нова чебуречна " Ялта " !
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||2
+
+S Все зрозуміло !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Поїхав туди , напився і тепер звітам шле телеграми !
+A 6 7|||F/Style|||звідти|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Style|||звідти|||REQUIRED|||-NONE-|||2
+A 7 8|||F/Style|||надсилає|||REQUIRED|||-NONE-|||2
+
+S - Ну , це вже занадто , - трясучи щокою , відповів Римський , і в очах його горів по-справжньому дужий гнів , - ну що ж , дорого йому ця прогулянка обійдеться , - тут він раптом спіткнувся і нерішуче добавив : аде як же так , адже розшук ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 23 24|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 34 35|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 41 42|||F/Calque|||додав|||REQUIRED|||-NONE-|||1
+A 43 44|||Spelling|||-NONE-|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 8 9|||F/Style|||сіпаючись|||REQUIRED|||-NONE-|||2
+A 20 21|||F/Style|||сильний|||REQUIRED|||-NONE-|||2
+A 23 24|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 34 35|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 41 42|||F/Style|||додав|||REQUIRED|||-NONE-|||2
+A 44 43|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 43 44|||Spelling|||Але|||REQUIRED|||-NONE-|||2
+A 45 46|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||2
+A 50 51|||Punctuation|||…|||REQUIRED|||-NONE-|||2
+
+S - Це нісенітниця !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Його власні жартики , - перебив владний адміністратор і запитав : - А пакунок таки везти ?
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 11 12|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S - Обов'язково , - відповів Римський .
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S І знову відчинились двері і ввійшла ця сама ...
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 4 6|||Spelling|||й увійшла|||REQUIRED|||-NONE-|||2
+
+S " Вона " - чомусь з сумом подумав Римський .
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||із|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 5 6|||Spelling|||із|||REQUIRED|||-NONE-|||2
+
+S І обидвоє встали назустріч поштарці .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Цього разу в телеграмі були слова :
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S " Дякую підтвердження терміново п'ятсот розшук мене завтра вилітаю Москву Лиходєєв " .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A 0 1|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+
+S - Він з глузду з'їхав ... - ледь чутно мовив Варенуха .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 2 3|||Spelling|||із|||REQUIRED|||-NONE-|||2
+A 5 6|||Punctuation|||…|||REQUIRED|||-NONE-|||2
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Римський в свою чергу задзвенів ключем , вийняв з скриньки вогнестійкої каси гроші , відрахував п'ятсот рублів , зателефонував , вручив кур'єру гроші і послав його до телеграфу .
+A 1 1|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 1 4|||F/PoorFlow|||своєю чергою|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||Spelling|||зі|||REQUIRED|||-NONE-|||1
+A 21 22|||F/Style|||кур'єрові|||REQUIRED|||-NONE-|||1
+A 1 2|||Spelling|||у|||REQUIRED|||-NONE-|||2
+A 8 9|||Spelling|||зі|||REQUIRED|||-NONE-|||2
+

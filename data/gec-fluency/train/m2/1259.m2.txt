@@ -1,0 +1,52 @@
+S Бузкова спина здригнулася , але , ймовірно , випадково , бо не міг же іноземець зрозуміти те , що говорили по-російськи Коров'єв і його супутник .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Кароші ? - строго питав бузковий покупець .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 5|||F/Style|||– суворо|||REQUIRED|||-NONE-|||1
+
+S - Світова , - відповідав продавець , кокетливо колупаючи вістрям ножа під шкірою .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 4|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Кароші люблю , поганий - ні , - суворо говорив іноземець .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Як же ! - захоплено відповідав продавець .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Тут наші знайомі відійшли від іноземця з його лососиною до краю кондитерського прилавка .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Жарко сьогодні , - звернувся Коров'єв до молоденької , червонощокої продавщиці і не отримав від неї ніякої відповіді на це .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||F/Calque|||Спекотно|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||F/Calque|||продавчині|||REQUIRED|||-NONE-|||1
+
+S - Скільки коштують мандарини ? - поцікавився тоді у неї Коров'єв .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Тридцять копійок кіло , - відповіла продавщиця .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 3 3|||G/Prep|||за|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Все кусається , - зітхнувши , зауважив Коров'єв , - ех , ех ... - Він трохи ще подумав і запросив свого супутника : - Їж , Бегемот .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 25 26|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 28 29|||G/Case|||Бегемоте|||REQUIRED|||-NONE-|||1
+
+S Товстун узяв свій примус під пахву , опанував верхнім мандарином в піраміді і , тут же зі шкурою зжерти його , взявся за другий .
+A 7 8|||F/Style|||заволодів|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 17 18|||F/Style|||шкіркою|||REQUIRED|||-NONE-|||1
+A 18 19|||G/Particle|||з'ївши|||REQUIRED|||-NONE-|||1
+

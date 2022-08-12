@@ -1,0 +1,51 @@
+S Моя улюблена тварина Собака !
+A 3 4|||Spelling|||— собака|||REQUIRED|||-NONE-|||1
+
+S Така велика .. мабуть резершнауцер Білого кольору подобається та взагалі собаки мені імпонують .
+A 0 1|||G/Gender|||Такий|||REQUIRED|||-NONE-|||1
+A 1 2|||G/Gender|||великий|||REQUIRED|||-NONE-|||1
+A 3 3|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||Spelling|||різеншнауцер|||REQUIRED|||-NONE-|||1
+A 5 6|||Spelling|||білого|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||F/Other|||і|||REQUIRED|||-NONE-|||1
+
+S Вони вірні , веселі , захищають та вміють спілкуватися подумки - Розумні !
+A 10 11|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||розумні|||REQUIRED|||-NONE-|||1
+
+S В дитинстві мені не дозволяли заводити тваринок .
+A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
+
+S А так хотілося !
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Саме про білу велику собаку я мрію , з довгою шерстю .. та з чарівною посмішкою .
+A 2 3|||G/Gender|||білого|||REQUIRED|||-NONE-|||1
+A 3 4|||G/Gender|||великого|||REQUIRED|||-NONE-|||1
+A 12 12|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+
+S Тільки така собака , думаю любить простор і хотіла б жити у будинку .
+A 1 2|||G/Gender|||такий|||REQUIRED|||-NONE-|||1
+A 4 5|||F/PoorFlow|||на мою думку,|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||простір|||REQUIRED|||-NONE-|||1
+A 8 9|||G/Gender|||хотів|||REQUIRED|||-NONE-|||1
+A 9 10|||Spelling|||би|||REQUIRED|||-NONE-|||1
+
+S В мене є дача , поблизу озера думаю моїй собаці сподобалось би там купатися , а потім струшувати краплі води навкруги себе .
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 8|||F/Repetition|||гадаю,|||REQUIRED|||-NONE-|||1
+A 18 18|||F/PoorFlow|||із себе|||REQUIRED|||-NONE-|||1
+A 20 22|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S Я б назвала її Аскольд і мабуть чудово було б разом в ліс ходити та на кургани дивитися , відчувати їх велич та силу .
+A 1 2|||F/PoorFlow|||-NONE-|||REQUIRED|||-NONE-|||1
+A 3 3|||F/PoorFlow|||б|||REQUIRED|||-NONE-|||1
+A 4 5|||G/Case|||Аскольдом|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 7 7|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 11 12|||Spelling|||у|||REQUIRED|||-NONE-|||1
+A 20 21|||G/Other|||їхні|||REQUIRED|||-NONE-|||1
+

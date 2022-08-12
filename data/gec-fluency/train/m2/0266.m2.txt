@@ -1,0 +1,122 @@
+S - Я ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Сімдесят п'ять карбованців , окрім нагородних ...
+A 5 6|||F/Style|||преміальних|||REQUIRED|||-NONE-|||1
+A 5 6|||F/Style|||винагороди|||REQUIRED|||-NONE-|||2
+
+S Крім того ми маємо , дохід від свічок і зайців .
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S - Полюванням займаєтесь ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 3|||F/PoorFlow|||Полюєте|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S - Ні , зайцями в нас називать безквиткових пасажирів - Зайці
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Spelling|||називають|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 6 7|||G/Number|||називають|||REQUIRED|||-NONE-|||2
+A 9 10|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+A 11 11|||Punctuation|||.|||REQUIRED|||-NONE-|||2
+
+S Минула ще одна хвилина в тиші .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Стичкін ( це прізвище таке , одна суцільна помилка ) піднявся і в хвилюванні , ходив по кімнаті .
+A 6 7|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||1
+A 10 11|||F/Style|||підвівся|||REQUIRED|||-NONE-|||1
+A 12 14|||F/PoorFlow|||схвильовано|||REQUIRED|||-NONE-|||1
+A 14 15|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 15 16|||F/PoorFlow|||почав ходити|||REQUIRED|||-NONE-|||1
+A 16 17|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||1
+A 17 18|||G/Case|||кімнатою|||REQUIRED|||-NONE-|||1
+A 6 7|||F/Repetition|||-NONE-|||REQUIRED|||-NONE-|||2
+A 10 11|||F/Style|||підвівся|||REQUIRED|||-NONE-|||2
+A 12 14|||F/PoorFlow|||схвильовано|||REQUIRED|||-NONE-|||2
+A 14 15|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 15 16|||F/PoorFlow|||почав ходити|||REQUIRED|||-NONE-|||2
+A 16 17|||G/UngrammaticalStructure|||-NONE-|||REQUIRED|||-NONE-|||2
+A 17 18|||G/Case|||кімнатою|||REQUIRED|||-NONE-|||2
+
+S - Мені молодої дружини не треба - казав він - я вже людина похила , мені треба така котра ... ну наче ... спокійна й солідна ... і наче вашої комплекції ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 6|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||G/Aspect|||сказав|||REQUIRED|||-NONE-|||1
+A 9 9|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 10 11|||Spelling|||Я|||REQUIRED|||-NONE-|||1
+A 13 14|||F/Style|||літня|||REQUIRED|||-NONE-|||1
+A 18 18|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 30 31|||F/Style|||статури|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 6 7|||Punctuation|||, —|||REQUIRED|||-NONE-|||2
+A 9 9|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 13 14|||F/Style|||похилого віку|||REQUIRED|||-NONE-|||2
+A 18 18|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 18 19|||F/Style|||що|||REQUIRED|||-NONE-|||2
+A 21 21|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+
+S - Бог його зна , що ви кажете ... - засміялась сваха , закриваючи хусткою своє бурякове обличчя .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 13 14|||F/Style|||затуляючи|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 3 4|||F/Style|||знає|||REQUIRED|||-NONE-|||2
+A 9 10|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S - Що ж довго думати ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 2|||F/PoorFlow|||А чого|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+
+S Ви мені близькі до серця , й для мене ви підходите вашими якостями .
+A 5 10|||F/PoorFlow|||і|||REQUIRED|||-NONE-|||1
+A 11 11|||G/Prep|||за|||REQUIRED|||-NONE-|||1
+A 5 6|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+A 7 12|||F/PoorFlow|||підходите|||REQUIRED|||-NONE-|||2
+
+S Людина я позитивна , твереза , і якщо вам подобаюсь , то ... чому б і ні ?
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Дозвольте вам зробити пропозицію руки і серця !
+A 2 7|||F/PoorFlow|||освідчитись|||REQUIRED|||-NONE-|||1
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||2
+
+S Сваха аж проплакала , засміялась , і у знак своєї згоди , почокалась зі Стичкіним .
+A 12 13|||F/Calque|||цокнулась|||REQUIRED|||-NONE-|||1
+A 2 3|||F/Style|||розплакалась|||REQUIRED|||-NONE-|||2
+A 7 8|||G/Prep|||на|||REQUIRED|||-NONE-|||2
+A 12 13|||F/Calque|||поцокалася|||REQUIRED|||-NONE-|||2
+
+S - Ну - сказав щасливий обер - кондуктор - тепер дозвольте вам пояснити , якої я бажаю від вас поведімки й способу життя ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 16 17|||F/Style|||хочу|||REQUIRED|||-NONE-|||1
+A 19 20|||Spelling|||поведінки|||REQUIRED|||-NONE-|||1
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 2 2|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 2 3|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 5 8|||Spelling|||оберкондуктор|||REQUIRED|||-NONE-|||2
+A 8 8|||Punctuation|||,|||REQUIRED|||-NONE-|||2
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||2
+A 19 20|||Spelling|||поведінки|||REQUIRED|||-NONE-|||2
+
+S Я людина сувора , солідна , позитивна , тому бажаю , щоб моя жінка була теж сувора , і розуміла , що я для неї опора й підтримка .
+A 9 10|||F/Style|||хочу|||REQUIRED|||-NONE-|||1
+A 13 14|||F/Style|||дружина|||REQUIRED|||-NONE-|||1
+A 17 18|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+A 25 25|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 17 18|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||2
+

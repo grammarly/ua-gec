@@ -1,0 +1,94 @@
+S - Почекай , панночко , заховаймося , - прошепотів Заглоба .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Голос лунав все чіткіше .
+A 2 3|||Spelling|||усе|||REQUIRED|||-NONE-|||1
+
+S - Бачиш щось , паночку ? - запитала Олена .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 6 7|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Бачу .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Хто наближається ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Кобзар з лірою .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Пахолок його супроводжує .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Якраз знімають взуття .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Перейдуть до нас через річку .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Невдовзі плюскання води засвідчило , що , власне , переходять .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S Заглоба з Оленою вийшли зі сховку .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Слава Богу ! - сказав голосно шляхтич .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - На віки Слава - відповів дід , - А хто там є ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 1 3|||Spelling|||Навіки|||REQUIRED|||-NONE-|||1
+A 3 4|||Spelling|||слава|||REQUIRED|||-NONE-|||1
+A 4 4|||Punctuation|||,|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 7 8|||Punctuation|||.|||REQUIRED|||-NONE-|||1
+A 8 9|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Християни .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Не бійся , діду , ми свої .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Щоб вам святий Миколай дав здоров'я і щастя .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - А звідки , діду , йдете ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - З Броварів .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - А ця дорога куди веде ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - До хуторів , пане , до села ...
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - А до Золотоноші нею дійдемо ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Можна , пане .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Давно вже вийшли з Броварів ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Вчора рано , - пане .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+A 4 5|||Punctuation|||-NONE-|||REQUIRED|||-NONE-|||1
+
+S - А в Розлогах були ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S - Були .
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
+S Але кажуть , що туди " лицарі " прийшли , щоб битва була .
+A -1 -1|||noop|||-NONE-|||-NONE-|||-NONE-|||1
+
+S - Хто ж це сказав ?
+A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
+
