@@ -3,7 +3,7 @@
 """
 
 from collections import defaultdict
-from ua_gec import Corpus
+from ua_gec import Corpus, AnnotationLayer
 
 
 
@@ -50,8 +50,25 @@ def check_double_annotated(corpus):
                 broken.append(doc.doc_id)
 
     if broken:
-        print(f"{len(broken)} docs don't match source")
-        print('\n'.join(sorted(broken)))
+        print(f"{len(broken)} docs have different source in annotator 1 and annotator 2:")
+        print(', '.join(sorted(broken)))
+
+
+def check_gec_only_and_gec_fluency_source_match():
+    """Check that GEC-only and GEC-Fluency has the same number of source sentences. """
+
+    corpus_gec = Corpus("all", annotation_layer=AnnotationLayer.GecOnly)
+    corpus_fluency = Corpus("all", annotation_layer=AnnotationLayer.GecAndFluency)
+
+    broken = []
+    for doc1, doc2 in zip(corpus_gec, corpus_fluency):
+        if doc1.source.strip() != doc2.source.strip():
+            broken.append(doc1.doc_id)
+
+
+    if broken:
+        print(f"{len(broken)} docs have different source in GEC-only and GEC-Fluency:")
+        print(', '.join(sorted(broken)))
 
 
 def main():
@@ -60,6 +77,7 @@ def main():
     check_files_without_annotations(corpus)
     check_files_with_missing_detailed_annotations(corpus)
     check_double_annotated(corpus)
+    check_gec_only_and_gec_fluency_source_match()
 
 if __name__ == "__main__":
     main()
