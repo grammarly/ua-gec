@@ -3,5 +3,3 @@
 {-=>—:::error_type=Punctuation} Як чоловік чоловіку{,-=>, -:::error_type=Punctuation} кажу я, {–- =>— :::error_type=Punctuation}Я поїду й огляну його.
 {Отжу=>Отже:::error_type=Spelling}{=>,:::error_type=Punctuation} я поклав бутилку ліків {в=>у:::error_type=Spelling} портфель та пішов {в гору=>угору:::error_type=Spelling} до маєтку мера, кінцевий будинок в {селещі=>селищі:::error_type=Spelling}, з мансардною кришею та {двума=>двома:::error_type=Spelling} срібними псами на {газані=>газоні:::error_type=Spelling}.
 {Цьому меру Бенкс було зовсім погано, але його вуса та ноги=>Цей мер Бенкс увесь сховався у ліжку, що виднілися лише борода і ступні ніг:::error_type=G/UngrammaticalStructure}. Він створював внутрішній шум, який {могли почути кожен в=>міг почути кожен у:::error_type=G/Number} {Сан Франциско=>Сан-Франциско:::error_type=Spelling}{=>,:::error_type=Punctuation} хто гуляв у парку. Молодий чоловік стояв біля {ліжку=>ліжка:::error_type=G/Case}, тримаючи стакан {з=>із:::error_type=Spelling} водою.
-
-

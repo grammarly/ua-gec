@@ -5,5 +5,3 @@
 "О, я не знаю{"=>:::error_type=Punctuation}, {=>一 :::error_type=Punctuation}сказав я. {"=>一 :::error_type=Punctuation}Рундли досі переглядають рівнини та {сельских=>сільських:::error_type=Spelling} жителів. Можливо, виробники паперу намагалися {вчинити шахрайство=>шахраювати:::error_type=F/PoorFlow}{=>":::error_type=Punctuation}.
 І тоді {Гуло=>Гудло:::error_type=Spelling} Бенкс злетів так само, як і його посвідчення. Він скинув окуляри з носа і глянув на мене.
 "Я часто казав тобі, що ти дурень. {-=>一:::error_type=Punctuation} сказав він{=>.:::error_type=Punctuation} {-=>一 :::error_type=Punctuation}{Ви=>Ти:::error_type=F/Other} {дозволили=>дозволив:::error_type=G/Number} себе нав‘язувати. І у вас є {притензії=>претензії:::error_type=Spelling} до мене{=>":::error_type=Punctuation}.
-
-

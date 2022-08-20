@@ -52,5 +52,3 @@ c(Швеція, Норвегія, Фінляндія) = 180.
 6.66 36.66 76.66
 
 Результат: А має заплатити 6.66, Б  {-=>—:::error_type=Punctuation} 36.66{  => :::error_type=Punctuation}і С {-=>—:::error_type=Punctuation} 76.66.
-
-

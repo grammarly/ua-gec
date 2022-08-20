@@ -9,5 +9,3 @@
 {-=>—:::error_type=Punctuation} {Я вибачаюсь=>Вибачте:::error_type=G/UngrammaticalStructure}, {-=>—:::error_type=Punctuation} сказав він, і обличчя його потемніло, {-=>—:::error_type=Punctuation} ви не можете почекати хвилинку? Я хочу {товаришу=>товаришеві:::error_type=F/PoorFlow} {декілька=>кілька:::error_type=F/Style} слів сказати.
 
 {-=>—:::error_type=Punctuation} О, із задоволенням! {-=>—:::error_type=Punctuation} викрикнув невідомий, {-=>—:::error_type=Punctuation} тут {та=>так:::error_type=G/UngrammaticalStructure} добре під липами, а я, до речі, нікуди й не поспішаю.
-
-

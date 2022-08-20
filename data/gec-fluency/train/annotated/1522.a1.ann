@@ -27,5 +27,3 @@
 {-=>—:::error_type=Punctuation} Це плачуть, {-=>—:::error_type=Punctuation} сказав він. {-=>—:::error_type=Punctuation} {Ну піди,=>Ох, ти,:::error_type=F/Style} дурнику. Їм шкода, ну і плачуть.
 
 {-=>—:::error_type=Punctuation} Я в село хочу ... {-=>—:::error_type=Punctuation} продовжував онук, схлипуючи і тремтячи всім тілом. {-=>—:::error_type=Punctuation} {Дід=>Діду:::error_type=G/Case}, поїдемо в село до мами; поїдемо, діду{,=>:::error_type=Punctuation} милий, {бог=>Бог:::error_type=Spelling} тебе за це відправить у царство небесне{ =>:::error_type=Punctuation}...
-
-

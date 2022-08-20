@@ -7,5 +7,3 @@
 {-=>":::error_type=Punctuation} Хто ви?{=>":::error_type=Punctuation} {Спитав=>– спитав:::error_type=Spelling} я.
 
 «Я скажу тобі, що це за один{»=>:::error_type=Punctuation}, {=>— :::error_type=Punctuation}сказав пан Мейєр, сідаючи у ліжку. {«=>— :::error_type=Punctuation}Він детектив, винайманий {Державним=>Державне:::error_type=G/Case} {Медичним=>медичне:::error_type=G/Case} {Агенством=>агентство:::error_type=Spelling}. Він слідував за тобою через п'ять країн. Він прийшов до мене вчора{=>,:::error_type=Punctuation} і ми розробили цей план, щоб зловити тебе на гарячому. Думаю{=>,:::error_type=Punctuation} ви більше не займатиметеся медичною практикою у цих краях, пане Факір. На що ви казали я хворий, лікарю?{»=>:::error_type=Punctuation} — розсміявся Мейєр, {«=>— :::error_type=Punctuation}ускладнений, що ж, у {будь якому=>будь-якому:::error_type=Spelling} разі це не було розрідження мізків{.=>:::error_type=Punctuation}»{=>.:::error_type=Punctuation}
-
-

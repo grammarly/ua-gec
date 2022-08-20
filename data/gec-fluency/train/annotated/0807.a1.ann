@@ -3,5 +3,3 @@
 "{--Ні=>Ні:::error_type=Punctuation} ти будеш",{=> —:::error_type=Punctuation} сказав я {рішучо=>рішуче:::error_type=Spelling}.
 
 "Не банальними методами{"=>:::error_type=Punctuation}, {=>— :::error_type=Punctuation}сказав Лицар. {"=>—:::error_type=Punctuation}Я міг би цілий місяць ходити Бродвегом без сенсу. Але ви викликали в мене гордість, лікарю; і якщо я сьогодні не зможу вам {показаи=>показати:::error_type=Spelling} Шармока Джолнеса, я обіцяю {тобі я =>:::error_type=G/UngrammaticalStructure}ніколи більше не {вбивав=>вбивати:::error_type=G/Tense} або {грабував=>грабувати:::error_type=G/Tense} {в=>у:::error_type=Spelling} {твому=>твоєму:::error_type=Spelling} місті знову{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
-
-

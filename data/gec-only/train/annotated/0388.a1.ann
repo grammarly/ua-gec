@@ -4,5 +4,3 @@
 Полісмен покрутив {своєю=>своїм:::error_type=G/Gender} {дубиною =>дубцем:::error_type=G/Gender}{=> :::error_type=Punctuation}і ступив крок чи два.
 {=>":::error_type=Punctuation}Я буду в дорозі. Сподіваюсь, {з=>із:::error_type=Spelling} вашим другом буде все впорядку, коли він приїде.{=> :::error_type=Punctuation}Збираєтесь назначити {=> :::error_type=Punctuation}точний час для нього?{=>"\n:::error_type=Punctuation}
 {=>":::error_type=Punctuation}Я повинен сказати ні! {=>— :::error_type=Punctuation}відповів інший. {=>— :::error_type=Punctuation}Я дам йому щонайменше пів години. Якщо Джиммі живе на Землі, він прибуде вчасно. Бувайте, {офіцер=>офіцере:::error_type=G/Case}{=>":::error_type=Punctuation}.
-
-
