@@ -258,7 +258,7 @@ class AnnotatedText:
         for match in self.ANNOTATION_PATTERN.finditer(text):
             source, suggestions, meta_text = match.groups()
             start = match.start() - amend
-            end = start + len(source)
+            end = start + len(_unescape(source))
             if suggestions != NO_SUGGESTIONS:
                 suggestions = suggestions.split("|")
             else:
