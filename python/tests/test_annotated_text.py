@@ -208,6 +208,12 @@ def test_newline_in_annotation():
     assert text.get_annotations()[0].suggestions == ["\n"]
     assert text.get_annotated_text() == r"One{; =>\n}Two"
 
+def test_newline_in_annotation_in_source():
+    text = AnnotatedText(r"One {1\n2=>1. 2.}Two")
+    assert text.get_original_text() == "One 1\n2Two"
+    assert text.get_corrected_text() == "One 1. 2.Two"
+    assert text.get_annotations()[0].suggestions == ["1. 2."]
+    assert text.get_annotated_text() == r"One {1\n2=>1. 2.}Two"
 
 def test_string_representation():
     # AnnotatedText should pretend
