@@ -155,3 +155,7 @@ class Corpus:
         
         assert len(match) == 1
         return match[0]
+
+    @property
+    def data_dir(self):
+        return self._data_dir
