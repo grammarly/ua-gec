@@ -2,9 +2,9 @@
 
 {-=>—:::error_type=Punctuation} Ах, як же я цього не передбачив!
 
-{-=>—:::error_type=Punctuation} Не варто турбуватися, {прокуратор=>прокураторе:::error_type=G/Case}, {-=>—:::error_type=Punctuation} сказав Афраній і продовжив розповідати: {-=>—:::error_type=Punctuation} Тіла Дісмаса і Гестаса з виклюваними {хижі=>хижими:::error_type=G/Case} {птахи=>птахами:::error_type=G/Case} очима підняли і негайно ж кинулися на пошуки третього тіла. Його виявили незабаром. Один чоловік...
+{-=>—:::error_type=Punctuation} Не варто турбуватися, {прокуратор=>прокураторе:::error_type=G/Case}, {-=>—:::error_type=Punctuation} сказав Афраній і продовжив розповідати: {-=>—:::error_type=Punctuation} Тіла Дісмаса і Гестаса з {=>очима, що їх:::error_type=F/PoorFlow} {виклюваними=>виклювали:::error_type=G/VerbVoice} {хижими=>хижі:::error_type=G/Case} {птахами=>птахи:::error_type=G/Case}{=>,:::error_type=Punctuation} {очима =>:::error_type=F/PoorFlow}підняли і негайно ж кинулися на пошуки третього тіла. Його виявили незабаром. Один чоловік...
 
-{-=>—:::error_type=Punctuation} Левій Матвій {-=>—:::error_type=Punctuation} не запитально, а скоріше ствердно сказав Пилат.
+{-=>—:::error_type=Punctuation} Левій Матвій {-=>—:::error_type=Punctuation} не запитально, а {скоріше=>радше:::error_type=F/Style} ствердно сказав Пилат.
 
 {-=>—:::error_type=Punctuation} Так, {прокуратор=>прокураторе:::error_type=G/Case} ...
 
