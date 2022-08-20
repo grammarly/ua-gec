@@ -9,5 +9,3 @@
 "У Нью-Йорку все добре, Джиммі?"
 
 "Помірковано. Я займаю посаду в одному із департаментів міста. Давай, {Боб=>Бобе:::error_type=G/Case}{;=>,:::error_type=Punctuation} {Ми =>:::error_type=F/PoorFlow}поїдемо в одне місце, яке я знаю, і{  => :::error_type=Punctuation}матимемо довгу розмову про старі часи{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
-
-

@@ -4,5 +4,3 @@
 {-=>—:::error_type=Punctuation} Ну{ =>:::error_type=Punctuation}, тут є перебільшення. {Просьогоднішній=>Про сьогоднішній:::error_type=Spelling} вечір я знаю більш ніж точно. Звісно, якщо на Бронній мені цеглина не звалиться на голову...
 {-=>—:::error_type=Punctuation} Цеглина ні з того ні з сього,{-=> —:::error_type=Punctuation} перервав незнайомець,{-=> —:::error_type=Punctuation} нікому і ніколи на голову не впаде.  У вашому випадку, готовий{  => :::error_type=Punctuation}вас запевнити{ =>:::error_type=Punctuation}, вам вона не погрожує. Ви помрете іншою смертю.
 {-=>—:::error_type=Punctuation} Можливо,{=> :::error_type=Punctuation}ви{,=>:::error_type=Punctuation} знаєте якою саме? {-=>—:::error_type=Punctuation} {з=>із:::error_type=Spelling} зовсім натуральною іронією спитав Берліоз{ =>:::error_type=Punctuation}, починаючи якусь дійсно дивну розмову.{-=> —:::error_type=Punctuation} І скажете мені{ =>:::error_type=Punctuation}?
-
-

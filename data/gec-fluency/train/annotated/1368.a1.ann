@@ -4,5 +4,3 @@
 {=>":::error_type=Punctuation}Мені погіршало вчора ввечері, ай, боляче, {=>一 :::error_type=Punctuation}сказав мер. {=>一 :::error_type=Punctuation}Дасте мені щось від цього? Так, лікарю?{=>":::error_type=Punctuation}
 {=>":::error_type=Punctuation}Пане {Фідл=>Бідле:::error_type=Spelling}, чи не {відкриєте ви=>могли б ви відсунути:::error_type=F/PoorFlow} фіранку на вікні?{=>":::error_type=Punctuation}
 {=>":::error_type=Punctuation}Бідл{,=>:::error_type=Punctuation} сказав{ молодик=>::::error_type=F/PoorFlow}, {може=>"Може:::error_type=Spelling}{=>,:::error_type=Punctuation} {б=>:::error_type=F/PoorFlow} ви з'їли{=> б:::error_type=F/PoorFlow} трохи яєчні з шинкою, {Дядько=>дядьку:::error_type=G/Case} {Джеймс=>Джеймсе:::error_type=G/Case}?
-
-

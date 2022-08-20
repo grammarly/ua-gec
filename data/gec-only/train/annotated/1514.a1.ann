@@ -5,5 +5,3 @@
  {- =>":::error_type=Punctuation}Я воліла {б=>би:::error_type=Spelling} бути тут, {-=>—:::error_type=Punctuation} сказала Сью.  {-=>—:::error_type=Punctuation} Крім того, я не хочу, щоб ти {продовжував=>продовжувала:::error_type=G/Gender} дивитись на ці безглузді листки плюща{=>":::error_type=Punctuation}.
 
  "Скажи мені, як тільки закінчиш{"=>:::error_type=Punctuation}, {=>— :::error_type=Punctuation}сказала Джонсі, закривши очі, лежачи білою і нерухомою, як впала статуя, {"=>— :::error_type=Punctuation}тому що я хочу бачити, як падає остання. Мені набридло чекати. Я {втомився=>втомилася:::error_type=G/Gender}  Я хочу розв’язати все, і плисти вниз, вниз, як один із тих бідних, втомлених {листя=>листків:::error_type=G/Number}{=>.:::error_type=Punctuation}
-
-

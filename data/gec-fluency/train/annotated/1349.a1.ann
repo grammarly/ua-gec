@@ -2,5 +2,3 @@
 "{ =>:::error_type=Punctuation}Прошу мене вибачити, {" -=>—:::error_type=Punctuation} відповів я. {"=>— :::error_type=Punctuation}Але я не вірю, що ви знайдете Джолнса{. =>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 Кеб зупинився перед однією з найкрасивіших будівель на вулиці. Перед будинком{,=>:::error_type=Punctuation} {крокуючи=>крокував:::error_type=G/UngrammaticalStructure} {взад і вперед, перебував=>туди-сюди:::error_type=F/PoorFlow} чоловік з довгими рудими вусами, з бляхою поліцейського на лацкані пальта. Час від часу чоловік прибирав свої вуса, щоб обтерти обличчя, аж тоді я {відразу =>:::error_type=F/PoorFlow}впізнав добре знайомі риси видатного {Нью-Йоркського=>нью-йоркського:::error_type=Spelling} детектива. Джолнс пильно стежив за дверима і вікнами будинку.
 "Отже, лікарю, {"=>:::error_type=Punctuation} {-=>—:::error_type=Punctuation} промовив Найт, не в змозі притлумити переможні нотки в голосі, {"=> — :::error_type=Punctuation}{Ви=>ви:::error_type=Spelling} бачили? "
-
-

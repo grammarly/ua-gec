@@ -5,5 +5,3 @@
 "Та ну, офіцере {"=>:::error_type=Punctuation}, {-=>—:::error_type=Punctuation} кажу я гідно. {- "=>— :::error_type=Punctuation}Я також можу зробити це якнайкраще". А потім я звертаюся до старих {Бенків=>Бенксів:::error_type=Spelling} і брязкаю ланцюгами.
 
 "{Містер=>Містере:::error_type=G/Case} {Мейєрс=>Мейєрсе:::error_type=G/Case}, {-=>—:::error_type=Punctuation} кажу я, {-=>—:::error_type=Punctuation} скоро настане час, коли ви повірите, що особистий магнетизм {-=>—:::error_type=Punctuation} це успіх. І ви будете впевнені, що це вдалося і в цьому випадку{ =>:::error_type=Punctuation}".
-
-
