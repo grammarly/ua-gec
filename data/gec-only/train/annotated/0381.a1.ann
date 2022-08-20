@@ -7,5 +7,3 @@
 «Хто ви такий?»{=> —:::error_type=Punctuation} я спитав у нього.
 
 «Я відповім тобі{=>,:::error_type=Punctuation} хто він такий{»=>:::error_type=Punctuation},{=> —:::error_type=Punctuation} каже містер мер{=>,:::error_type=Punctuation} сидячи на ліжку. {«=>— :::error_type=Punctuation}Він, детектив, {зо=>який:::error_type=Spelling} працює на Державне {Медичне=>медичне:::error_type=Spelling} {Товариство=>товариство:::error_type=Spelling}. Він переслідував вас у 5 країнах. Він прийшов до мене вчора{=>,:::error_type=Punctuation} і ми вигадали план, щоби спіймати вас. Я{  => :::error_type=Punctuation}сподіваюсь{=>,:::error_type=Punctuation} ви більш не будете {лікувати=>лікуватимете:::error_type=G/Tense} у цій частині світу, містере Факір. Що ви там казали{=>,:::error_type=Punctuation} у мене?{»=>:::error_type=Punctuation} {=>— :::error_type=Punctuation}доктор засміявся, {«=>— :::error_type=Punctuation}щось складне, але{=>,:::error_type=Punctuation} як ви {бчите=>бачите:::error_type=Spelling}{=>,:::error_type=Punctuation} на{  => :::error_type=Punctuation}мій мозок це не вплинуло»{=>.:::error_type=Punctuation}
-
-

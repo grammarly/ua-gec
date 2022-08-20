@@ -15,4 +15,3 @@
 {-=>—:::error_type=Punctuation} Це можна виразити коротше, одним словом {-=>—:::error_type=Punctuation} {бродяга=>волоцюга:::error_type=F/Style}, {-=>—:::error_type=Punctuation} сказав прокуратор і спитав: {- =>:::error_type=Punctuation}Рідні є ?
 {-=>—:::error_type=Punctuation} Немає нікого. Я один у світі.
 {-=>—:::error_type=Punctuation} {Чи знаєш ти грамоту=>Ти письменний?:::error_type=F/PoorFlow}?
-

@@ -3,5 +3,3 @@
 "Є шанси, {- =>—:::error_type=Punctuation}сказав доктор, стискаючи худу руку Сью{.=>,:::error_type=Punctuation} {-=>—:::error_type=Punctuation} з хорошим харчуванням ти переможеш. А зараз я маю маю побачити іншого пацієнта. Його ім'я Берман, я думаю він художник. Пневмонія. Він старий і слабкий чоловік та й випадок тяжкий. Я не вірю в нього,{  => :::error_type=Punctuation}але сьогодні він переїжджає в лікарню для більшої зручності{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 На наступний день доктор сказав Сью: {"вВона=>"Вона:::error_type=Spelling} поза небезпекою. Ти перемогла. Хороше харчування і догляд {-=>—:::error_type=Punctuation} ось і все{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 Після обіду Сью повернулася до ліжка{=>,:::error_type=Punctuation} де лежала Джонсі, і {в'язав=>в'язала:::error_type=G/Gender} {дуже =>:::error_type=G/UngrammaticalStructure}вовняний{,=>:::error_type=Punctuation} синій шашлик. І обійняла її рукою і подушки.
-
-

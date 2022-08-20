@@ -2,5 +2,3 @@
 "Що таке, {любий=>люба:::error_type=G/Gender}?" {-=>—:::error_type=Punctuation} запитала Сью.
 "Шість{"=>:::error_type=Punctuation}, {-=>—:::error_type=Punctuation} {сказав=>сказала:::error_type=G/Gender} Джонсі майже пошепки. {"=>— :::error_type=Punctuation}Вони зараз падають швидше. Три дні тому їх {було=>була:::error_type=G/Gender} майже сотня. В мене голова розболілася, поки {рахував=>рахувала:::error_type=G/Gender} їх. Але тепер це легко. Он ще один полетів. Зараз їх лишилося лише п'ять".
 "П'ять чого, {любий=>люба:::error_type=G/Gender}? Скажи {своїх=>своїй:::error_type=G/Number} Сьюді".
-
-

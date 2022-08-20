@@ -11,5 +11,3 @@
 {-=>—:::error_type=Punctuation} У мене за нього серце болить, {-=>—:::error_type=Punctuation} сказала дочка. {-=>—:::error_type=Punctuation} Нам нудно, але ж йому, {мама=>мамо:::error_type=G/Case}, ще нудніше.
 
 {-=>—:::error_type=Punctuation} Ще б! {День-Денський=>Увесь день:::error_type=G/UngrammaticalStructure} по судах, а вночі, як сич, один {в=>у:::error_type=Spelling} порожній квартирі.
-
-

@@ -3,5 +3,3 @@
 "Та, я трохи виріс після двадцяти{ =>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 "{ =>:::error_type=Punctuation}Як поживаєш {в=>у:::error_type=Spelling} Нью-Йорку, Джиммі, все добре?"
 "{ Більш менш=>Більш-менш:::error_type=Spelling}. Я працюю в одному з департаментів міста. Давай{=>,:::error_type=Punctuation} {Боб=>Бобе:::error_type=G/Case}, пішли прогуляємося до {старихьзнайомих=>старих знайомих:::error_type=Spelling} місць і будемо довго говорити про старі  часи{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
-
-
