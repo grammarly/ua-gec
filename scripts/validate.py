@@ -61,10 +61,9 @@ def check_gec_only_and_gec_fluency_source_match():
     corpus_fluency = Corpus("all", annotation_layer=AnnotationLayer.GecAndFluency)
 
     broken = []
-    for doc1, doc2 in zip(corpus_gec, corpus_fluency):
+    for doc1, doc2 in zip(corpus_fluency, corpus_gec):
         if doc1.source.strip() != doc2.source.strip():
-            broken.append(doc1.doc_id)
-
+            broken.append(f"{doc1.doc_id}.annotator_id={doc1.meta.annotator_id}")
 
     if broken:
         print(f"{len(broken)} docs have different source in GEC-only and GEC-Fluency:")
