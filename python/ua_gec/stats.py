@@ -15,7 +15,8 @@ class CorpusStatistics:
         self.compute()
 
     def compute(self):
-        docs = self.corpus.get_documents()
+        all_docs = self.corpus.get_documents()  # annotated by all annotators
+        docs = [doc for doc in all_docs if doc.meta.annotator_id == 1]  # unique source docs
 
         self.stats["Total"] = {}
         self.stats["Total"]["All"] = self._subset_stats(docs)
@@ -25,7 +26,8 @@ class CorpusStatistics:
         self.stats["By occupation"] = self._breakdown(docs, "occupation")
         self.stats["By submission type"] = self._breakdown(docs, "submission_type")
         self.stats["By translation lang"] = self._breakdown(docs, "source_language")
-        self.stats["Number of errors"] = self._count_errors(docs)
+        self.stats["Number of errors (by 2 annotators)"] = self._count_errors(all_docs)
+        del self.stats['By translation lang']['']
 
     def _subset_stats(self, docs):
         stats = {}
