@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 from codecs import open
 from os import path
 
-VERSION = "2.0.0.dev0"
+VERSION = "2.0.0"
 here = path.abspath(path.dirname(__file__))
 
 # Get the long description from the README file
@@ -36,6 +36,8 @@ setup(
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
+        "Programming Language :: Python :: 3.10",
+        "Programming Language :: Python :: 3.11",
     ],
     keywords="gec ukrainian dataset corpus grammatical error correction grammarly",
     packages=find_packages(exclude=["docs", "tests"]),
