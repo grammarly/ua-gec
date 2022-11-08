@@ -1,19 +1,28 @@
+[Українською](./README_ua.md)
+
 # UA-GEC: Grammatical Error Correction and Fluency Corpus for the Ukrainian Language
 
 This repository contains UA-GEC data and an accompanying Python library.
+
+## What's new
+
+* **November 2022**: Version 2.0 released, featuring more data and detailed annotations.
+* **January 2021**: Initial release.
+
+See [CHANGELOG.md](./CHANGELOG.md) for detailed updates.
 
 
 ## Data
 
 All corpus data and metadata stay under the `./data`. It has two subfolders
-for [train and test splits](#train-test-split)
+for [gec-fluency and gec-only corpus versions](#annotation-format)
 
-Each split (train and test) has further subfolders for different data
+Both corpus versions contain two subfolders [train and test splits](#train-test-split) with different data
 representations:
 
-`./data/{train,test}/annotated` stores documents in the [annotated format](#annotation-format)
+`./data/{gec-fluency,gec-only}/{train,test}/annotated` stores documents in the [annotated format](#annotation-format)
 
-`./data/{train,test}/source` and `./data/{train,test}/target` store the
+`./data/{gec-fluency,gec-only}/{train,test}/source` and `./data/{gec-fluency,gec-only}/{train,test}/target` store the
 original and the corrected versions of documents. Text files in these
 directories are plain text with no annotation markup. These files were
 produced from the annotated data and are, in some way, redundant. We keep them
@@ -25,33 +34,61 @@ because this format is convenient in some use cases.
 `./data/metadata.csv` stores per-document metadata. It's a CSV file with
 the following fields:
 
-- `id` (str): document identifier.
-- `author_id` (str): document author identifier.
-- `is_native` (int): 1 if the author is native-speaker, 0 otherwise
+- `id` (str): document identifier;
+- `author_id` (str): document author identifier;
+- `is_native` (int): 1 if the author is native-speaker, 0 otherwise;
 - `region` (str): the author's region of birth. A special value "Інше"
   is used both for authors who were born outside Ukraine and authors
   who preferred not to specify their region.
-- `gender` (str): could be "Жіноча" (female), "Чоловіча" (male), or "Інша" (other).
-- `occupation` (str): one of "Технічна", "Гуманітарна", "Природнича", "Інша"
-- `submission_type` (str): one of "essay", "translation", or "text\_donation"
+- `gender` (str): could be "Жіноча" (female), "Чоловіча" (male), or "Інша" (other);
+- `occupation` (str): one of "Технічна", "Гуманітарна", "Природнича", "Інша";
+- `submission_type` (str): one of "essay", "translation", or "text\_donation";
 - `source_language` (str): for submissions of the "translation" type, this field
     indicates the source language of the translated text. Possible values are
-    "de", "en", "fr", "ru", and "pl".
-- `annotator_id` (int): ID of the annotator who corrected the document.
-- `partition` (str): one of "test" or "train"
-- `is_sensitive` (int): 1 if the document contains profanity or offensive language
+    "de", "en", "fr", "ru", and "pl";
+- `annotator_id` (int): ID of the annotator who corrected the document;
+- `partition` (str): one of "test" or "train";
+- `is_sensitive` (int): 1 if the document contains profanity or offensive language.
 
 ## Annotation format
 
 Annotated files are text files that use the following in-text annotation format:
-`{error=>edit:::error_type=Tag}`, where `error` and `edit` stand for the text item before
-and after correction respectively, and `Tag` denotes an error category
-(`Grammar`, `Spelling`, `Punctuation`, or `Fluency`).
+`{error=>edit:::error_type=Tag}`, where `error` and `edit` stand for a text item before
+and after correction respectively, and `Tag` denotes an error category and an error subcategory in case of Grammar- and Fluency-related errors.
 
 Example of an annotated sentence:
 ```
-    I {likes=>like:::error_type=Grammar} turtles.
+    I {likes=>like:::error_type=G/Number} turtles.
 ```
+
+Below you can see a list of error types presented in the corpus:
+- `Spelling`: spelling errors;
+- `Punctuation`: punctuation errors.
+
+Grammar-related errors:
+- `G/Case`: incorrect usage of case of any notional part of speech;
+- `G/Gender`: incorrect usage of gender of any notional part of speech;
+- `G/Number`: incorrect usage of number of any notional part of speech;
+- `G/Aspect`: incorrect usage of verb aspect;
+- `G/Tense`: incorrect usage of verb tense;
+- `G/VerbVoice`: incorrect usage of verb voice;
+- `G/PartVoice`:  incorrect usage of participle voice;
+- `G/VerbAForm`:  incorrect usage of an analytical verb form;
+- `G/Prep`: incorrect preposition usage;
+- `G/Participle`: incorrect usage of participles;
+- `G/UngrammaticalStructure`: digression from syntactic norms;
+- `G/Comparison`: incorrect formation of comparison degrees of adjectives and adverbs;
+- `G/Conjunction`: incorrect usage of conjunctions;
+- `G/Other`: other grammatical errors.
+
+Fluency-related errors:
+- `F/Style`: style errors;
+- `F/Calque`: word-for-word translation from other languages;
+- `F/Collocation`: unnatural collocations;
+- `F/PoorFlow`: unnatural sentence flow;
+- `F/Repetition`: repetition of words;
+- `F/Other`: other fluency errors.
+
 
 An accompanying Python package, `ua_gec`, provides many tools for working with
 annotated texts. See its documentation for details.
@@ -73,18 +110,26 @@ Next section lists the per-split statistics.
 
 UA-GEC contains:
 
-| Split     | Documents | Sentences |  Tokens | Authors |
-|:---------:|:---------:|----------:|--------:|:-------:|
-| train     | 851       | 18,225    | 285,247 | 416     |
-|  test     | 160       | 2,490     | 43,432  | 76      |
-| **TOTAL** | 1,011     | 20,715    | 328,779 | 492     |
+### GEC+Fluency
 
-See [stats.txt](./stats.txt) for detailed statistics generated by the following
-command (`ua-gec` must be [installed](#getting-started) first):
+| Split     | Documents | Sentences |  Tokens | Authors | Errors | 
+|:---------:|:---------:|----------:|--------:|:-------:|--------|
+| train     | 1,706     | 31,038    | 457,017 | 752     | 38,213 |
+| test      |   166     |  2,697    | 43,601  | 76      |  7,858 |
+| **TOTAL** | 1,872     | 33,735    | 500,618 | 828     | 46,071 |
 
-```
-$ make stats
-```
+See [stats.gec-fluency.txt](./stats.gec-fluency.txt) for detailed statistics.
+
+
+### GEC-only
+
+| Split     | Documents | Sentences |  Tokens | Authors | Errors | 
+|:---------:|:---------:|----------:|--------:|:-------:|--------|
+| train     | 1,706     | 31,046    | 457,004 | 752     | 30,049 |
+| test      |   166     |  2,704    |  43,605 |  76     |  6,169 |
+| **TOTAL** | 1,872     | 33,750    | 500,609 | 828     | 36,218 |
+
+See [stats.gec-only.txt](./stats.gec-only.txt) for detailed statistics.
 
 
 ## Python library
@@ -98,7 +143,7 @@ documents, read metadata, work with annotations, etc.
 The package can be easily installed by `pip`:
 
 ```
-    $ pip install ua_gec==1.1
+    $ pip install ua_gec
 ```
 
 Alternatively, you can install it from the source code:
@@ -116,7 +161,7 @@ Once installed, you may get annotated documents from the Python code:
 ```python
     
     >>> from ua_gec import Corpus
-    >>> corpus = Corpus(partition="train")
+    >>> corpus = Corpus(partition="train", annotation_layer="gec-only")
     >>> for doc in corpus:
     ...     print(doc.source)         # "I likes it."
     ...     print(doc.target)         # "I like it."
@@ -134,17 +179,16 @@ class is described in the [next section](#working-with-annotations)
 annotated texts. It can iterate over annotations, get annotation error
 type, remove some of the annotations, and more.
 
-While we're working on a detailed documentation, here is an example to
-get you started. It will remove all Fluency annotations from a text:
+Here is an example to get you started. It will remove all F/Style annotations from a text:
 
 ```python
     >>> from ua_gec import AnnotatedText
-    >>> text = AnnotatedText("I {likes=>like:::error_type=Grammar} it.")
+    >>> text = AnnotatedText("I {likes=>like:::error_type=G/Number} it.")
     >>> for ann in text.iter_annotations():
     ...     print(ann.source_text)       # likes
     ...     print(ann.top_suggestion)    # like
     ...     print(ann.meta)              # {'error_type': 'Grammar'}
-    ...     if ann.meta["error_type"] == "Fluency":
+    ...     if ann.meta["error_type"] == "F/Style":
     ...         text.remove(ann)         # or `text.apply(ann)`
 ```
 
@@ -154,8 +198,8 @@ get you started. It will remove all Fluency annotations from a text:
 Some documents are annotated with multiple annotators. Such documents
 share `doc_id` but differ in `doc.meta.annotator_id`.
 
-Currently, entire test set is annotated with two annotators.
-Train set contains under 50 double-annotated docs.
+Currently, test sets for gec-fluency and gec-only are annotated by two annotators.
+The train sets contain 45 double-annotated docs.
 
 
 ## Contributing
@@ -180,6 +224,7 @@ The [accompanying paper](https://arxiv.org/abs/2103.16997) is:
 
 ## Contacts
 
-* oleksiy.syvokon@gmail.com
-* olena.nahorna@grammarly.com
 * nastasiya.osidach@grammarly.com
+* olena.nahorna@grammarly.com
+* oleksiy.syvokon@gmail.com
+* pavlo.kuchmiichuk@gmail.com

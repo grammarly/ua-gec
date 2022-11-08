@@ -4,6 +4,13 @@
 
 This repository contains UA-GEC data and an accompanying Python library.
 
+## What's new
+
+* **November 2022**: Version 2.0 released, featuring more data and detailed annotations.
+* **January 2021**: Initial release.
+
+See [CHANGELOG.md](./CHANGELOG.md) for detailed updates.
+
 
 ## Data
 
@@ -107,9 +114,9 @@ UA-GEC contains:
 
 | Split     | Documents | Sentences |  Tokens | Authors | Errors | 
 |:---------:|:---------:|----------:|--------:|:-------:|--------|
-| train     | 1,766     | 33,087    | 489,561 | 756     | 38,922 |
-| test      |   332     |  5,394    | 87,202  | 76      |  7,860 |
-| **TOTAL** | 2,098     | 38,481    | 576,763 | 832     | 46,781 |
+| train     | 1,706     | 31,038    | 457,017 | 752     | 38,213 |
+| test      |   166     |  2,697    | 43,601  | 76      |  7,858 |
+| **TOTAL** | 1,872     | 33,735    | 500,618 | 828     | 46,071 |
 
 See [stats.gec-fluency.txt](./stats.gec-fluency.txt) for detailed statistics.
 
@@ -118,9 +125,9 @@ See [stats.gec-fluency.txt](./stats.gec-fluency.txt) for detailed statistics.
 
 | Split     | Documents | Sentences |  Tokens | Authors | Errors | 
 |:---------:|:---------:|----------:|--------:|:-------:|--------|
-| train     | 1,766     | 33,097    | 489,547 | 756     | 29,814 |
-| test      |   332     |  5,408    |  87,210 |  76     |  5,931 |
-| **TOTAL** | 2,098     | 38,505    | 576,757 | 832     | 35,745 |
+| train     | 1,706     | 31,046    | 457,004 | 752     | 30,049 |
+| test      |   166     |  2,704    |  43,605 |  76     |  6,169 |
+| **TOTAL** | 1,872     | 33,750    | 500,609 | 828     | 36,218 |
 
 See [stats.gec-only.txt](./stats.gec-only.txt) for detailed statistics.
 

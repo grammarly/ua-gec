@@ -1,9 +1,9 @@
 # Changelog
 
-## [2.0.0.dev0] - 2022-08-xx
+## [2.0.0] - 2022-11-09
 ### Added
-- XXXX new documents
-- TODO: detailed annotations
+- 861 new documents (13,020 new sentences)!
+- Detailed annotations (22 error categories vs. 4 categories in v1)
 - GEC-only annotations
 - Multiple annotators per document (as indicated by `doc.meta.annotator_id`)
 
