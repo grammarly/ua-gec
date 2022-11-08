@@ -42,8 +42,10 @@ setup(
     package_data={
         "ua_gec": [
             "data/*",
-            "data/train/annotated/*",
-            "data/test/annotated/*",
+            "data/gec-fluency/train/annotated/*",
+            "data/gec-fluency/test/annotated/*",
+            "data/gec-only/train/annotated/*",
+            "data/gec-only/test/annotated/*",
         ]
     },
     # include_package_data=True,
