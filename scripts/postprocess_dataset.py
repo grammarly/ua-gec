@@ -33,7 +33,9 @@ def main(data_dir="./data", annotation_layer="gec-only"):
 
 
 def do_partition(out_dir, corpus):
+
     for doc in tqdm.tqdm(corpus.get_documents()):
+
         src = split_sentences(doc.source)
         tgt = split_sentences(doc.target)
         output_src, output_tgt = align_sentences(src, tgt)
@@ -56,26 +58,99 @@ def do_partition(out_dir, corpus):
         path_src.write_text("\n".join(output_src))
         path_tgt.write_text("\n".join(output_tgt))
 
-        # Write tokenized sentences
+    _realign_corpus_sentences(out_dir, corpus)
+    _tokenize_corpus(out_dir, corpus)
+
+
+def _realign_corpus_sentences(out_dir, corpus):
+    """Fix sentence alignment in some cases. """
+
+    # In some cases, the number of sentences differs between source and target.
+    # This happens when:
+    # - the doc has two annotators
+    # - one of the annotator edits newline characters (i.e., changes the number
+    #   of sentences)
+    # In this case, align_sentences() correctly aligns (src, tgt1) and (src, tgt2),
+    # effectively producing two versions of src of different length. We assume
+    # the the source is the same for both tgt1 and tgt2, so we write only one.
+    #
+    # This function finds such cases and fixes them by joining some sentences
+    # in whatever file out of (src, tgt1, tgt2) has more sentences.
+    for doc in tqdm.tqdm(corpus.get_documents()):
+
+        # The problem only occurs when there are two annotators
+        if doc.meta.annotator_id != 2:
+            continue
+
+        path_src = out_dir / "source-sentences" / f"{doc.doc_id}.src.txt"
+        path_tgt1 = out_dir / "target-sentences" / f"{doc.doc_id}.a1.txt"
+        path_tgt2 = out_dir / "target-sentences" / f"{doc.doc_id}.a2.txt"
+
+        src = path_src.read_text().split("\n")
+        tgt1 = path_tgt1.read_text().split("\n")
+        tgt2 = path_tgt2.read_text().split("\n")
+
+        if len(src) == len(tgt1) == len(tgt2):
+            continue  # no problem here
+        
+        print(f"Fixing sentence alignment for {doc.doc_id}")
+        print(f"  src: {len(src)} sentences")
+        print(f" tgt1: {len(tgt1)} sentences")
+        print(f" tgt2: {len(tgt2)} sentences")
+
+        # Make sure the source has joined sentences
+        #import ipdb; ipdb.set_trace()
+        if len(src) > len(tgt1):
+            src, tgt1 = align_sentences(src, tgt1)
+        if len(src) > len(tgt2):
+            src, tgt2 = align_sentences(src, tgt2)
+
+        # Make sure that both tagets match the source
+        if len(tgt1) > len(src):
+            src, tgt1 = align_sentences(src, tgt1)
+        if len(tgt2) > len(src):
+            src, tgt2 = align_sentences(src, tgt2)
+
+        if not (len(src) == len(tgt1) == len(tgt2)):
+            print("  FAILED TO FIX ALIGNMENT")
+            print(f"  src: {len(src)} sentences")
+            print(f" tgt1: {len(tgt1)} sentences")
+            print(f" tgt2: {len(tgt2)} sentences")
+
+        # Write the fixed files
+        path_src.write_text("\n".join(src) + "\n")
+        path_tgt1.write_text("\n".join(tgt1) + "\n")
+        path_tgt2.write_text("\n".join(tgt2) + "\n")
+
+
+def _tokenize_corpus(out_dir, corpus):
+    """Write tokenized sentences. """
+
+    for doc in tqdm.tqdm(corpus.get_documents()):
+        fname_src = f"{doc.doc_id}.src.txt"
+        fname_tgt = f"{doc.doc_id}.a{doc.meta.annotator_id}.txt"
         path_src = out_dir / "source-sentences-tokenized" / fname_src
         path_tgt = out_dir / "target-sentences-tokenized" / fname_tgt
+        src_sents = (out_dir / "source-sentences" / fname_src).read_text().split("\n")
+        tgt_sents = (out_dir / "target-sentences" / fname_tgt).read_text().split("\n")
         path_src.parent.mkdir(exist_ok=True)
         path_tgt.parent.mkdir(exist_ok=True)
-        tokenized_src = [tokenize(s) for s in output_src]
-        tokenized_tgt = [tokenize(s) for s in output_tgt]
+        tokenized_src = [tokenize(s) for s in src_sents]
+        tokenized_tgt = [tokenize(s) for s in tgt_sents]
         path_src.write_text("\n".join(tokenized_src))
         path_tgt.write_text("\n".join(tokenized_tgt))
 
 
-def align_sentences(src_sentences, tgt_sentences):
-    combinations = [
-        (1, 1),
-        (1, 2),
-        (1, 3),
-        (2, 1),
-        (3, 1),
-        (2, 2),
-    ]
+def align_sentences(src_sentences, tgt_sentences, combinations=None):
+    if combinations is None:
+        combinations = [
+            (1, 1),
+            (1, 2),
+            (1, 3),
+            (2, 1),
+            (3, 1),
+            (2, 2),
+        ]
     result_src = []
     result_tgt = []
     pos_src = 0
