@@ -16,3 +16,7 @@ postprocess:
 	rm -rf data/gec-*/train/target*
 	./scripts/postprocess_dataset.py --annotation-layer gec-fluency
 	./scripts/postprocess_dataset.py --annotation-layer gec-only
+
+m2:
+	./scripts/make_m2.py --partition test --layer gec-fluency --output data/gec-fluency/test/gec-fluency.test.m2
+	./scripts/make_m2.py --partition test --layer gec-only --output data/gec-only/test/gec-only.test.m2
