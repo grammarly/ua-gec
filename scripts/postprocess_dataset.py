@@ -58,12 +58,42 @@ def do_partition(out_dir, corpus):
         path_src.write_text("\n".join(output_src))
         path_tgt.write_text("\n".join(output_tgt))
 
-    _realign_corpus_sentences(out_dir, corpus)
+    _realign_corpus_sentences_1(out_dir, corpus)
+    _realign_corpus_sentences_2(out_dir, corpus)
     _tokenize_corpus(out_dir, corpus)
 
 
-def _realign_corpus_sentences(out_dir, corpus):
-    """Fix sentence alignment in some cases. """
+def _realign_corpus_sentences_1(out_dir, corpus):
+    """Fix sentence alignment for trailing newlines. """
+
+    # Sometimes, the list of sentences may include newlines.
+    # For example, a source sentence consists of a quotation mark,
+    # and the target removes that, so the sentence is an empty line.
+    # We need to realign these cases, but realign target to source.
+
+    for doc in tqdm.tqdm(corpus.get_documents()):
+        a = doc.meta.annotator_id
+        path_src = out_dir / "source-sentences" / f"{doc.doc_id}.src.txt"
+        path_tgt = out_dir / "target-sentences" / f"{doc.doc_id}.a{a}.txt"
+
+        src = path_src.read_text().split("\n")
+        tgt = path_tgt.read_text().strip().split("\n")
+
+        if len(src) == len(tgt):
+            continue  # no problem here
+
+        print(f"Realigning {doc.doc_id} (a{a})")
+        print(f"  old: {len(src)} -> {len(tgt)}")
+        tgt, src = align_sentences(tgt, src)
+        path_tgt.write_text("\n".join(tgt))
+        path_src.write_text("\n".join(src))
+        print(f"  new: {len(src)} -> {len(tgt)}")
+
+
+def _realign_corpus_sentences_2(out_dir, corpus):
+    """Fix sentence alignment in case of two annotators changing
+    the number of sentences in source.
+    """
 
     # In some cases, the number of sentences differs between source and target.
     # This happens when:
@@ -141,16 +171,15 @@ def _tokenize_corpus(out_dir, corpus):
         path_tgt.write_text("\n".join(tokenized_tgt))
 
 
-def align_sentences(src_sentences, tgt_sentences, combinations=None):
-    if combinations is None:
-        combinations = [
-            (1, 1),
-            (1, 2),
-            (1, 3),
-            (2, 1),
-            (3, 1),
-            (2, 2),
-        ]
+def align_sentences(src_sentences, tgt_sentences):
+    combinations = [
+        (1, 1),
+        (1, 2),
+        (1, 3),
+        (2, 1),
+        (3, 1),
+        (2, 2),
+    ]
     result_src = []
     result_tgt = []
     pos_src = 0
