@@ -28,6 +28,8 @@ directories are plain text with no annotation markup. These files were
 produced from the annotated data and are, in some way, redundant. We keep them
 because this format is convenient in some use cases.
 
+`./data/{gec-fluency,gec-only}/test/*.m2` contains M2 files.
+
 
 ## Metadata
 
