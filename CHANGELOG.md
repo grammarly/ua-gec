@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.1.0] - 2022-12-12
+### Added
+- m2 files
+- API access to sentence-split and tokenized version of source and target texts
+
+### Fixed
+- Mismatch in length of sentence-split source and targets in some cases.
+
+
 ## [2.0.0] - 2022-11-09
 ### Added
 - 861 new documents (13,020 new sentences)!

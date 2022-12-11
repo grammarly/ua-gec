@@ -20,9 +20,10 @@ class AnnotationLayer(str, enum.Enum):
 class Document:
     """A single annotated document with metadata. """
 
-    def __init__(self, annotated, meta):
+    def __init__(self, annotated, meta, partition_dir=None):
         self._annotated = annotated
         self.meta = meta
+        self._partition_dir = partition_dir
 
     def __str__(self):
         return self.annotated
@@ -39,8 +40,32 @@ class Document:
         return self.annotated.get_original_text()
 
     @property
+    def source_sentences(self):
+        fname = f"{self.meta.doc_id}.src.txt"
+        path = self._partition_dir / "source-sentences" / fname
+        return path.read_text().split("\n")
+
+    @property
+    def source_sentences_tokenized(self):
+        fname = f"{self.meta.doc_id}.src.txt"
+        path = self._partition_dir / "source-sentences-tokenized" / fname
+        return path.read_text().split("\n")
+
+    @property
     def target(self):
         return self.annotated.get_corrected_text()
+
+    @property
+    def target_sentences(self):
+        fname = f"{self.meta.doc_id}.a{self.meta.annotator_id}.txt"
+        path = self._partition_dir / "target-sentences" / fname
+        return path.read_text().split("\n")
+
+    @property
+    def target_sentences_tokenized(self):
+        fname = f"{self.meta.doc_id}.a{self.meta.annotator_id}.txt"
+        path = self._partition_dir / "target-sentences-tokenized" / fname
+        return path.read_text().split("\n")
 
     @property
     def doc_id(self):
@@ -125,9 +150,10 @@ class Corpus:
         # Iterate in a streaming fashion
         for meta in self._get_metadata():
             filename = f"{meta.doc_id}.a{meta.annotator_id}.ann"
-            path = self._data_dir / meta.partition / "annotated" / filename
+            partition_dir = self._data_dir / meta.partition
+            path = partition_dir / "annotated" / filename
             text = AnnotatedText(path.read_text())
-            doc = Document(text, meta=meta)
+            doc = Document(text, meta=meta, partition_dir=partition_dir)
             yield doc
 
     def get_documents(self):

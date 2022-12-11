@@ -42,6 +42,25 @@ class TestCorpus:
         assert s in doc_fluency
         assert s not in doc_gec
 
+    def test_source_sentences(self):
+        corpus = Corpus("test")
+        doc = corpus.get_doc("1224")
+        assert isinstance(doc.source_sentences, list)
+        assert len(doc.source_sentences) == 6
+
+    def test_source_sentences_tokenized(self):
+        corpus = Corpus("test")
+        doc = corpus.get_doc("1224")
+        assert isinstance(doc.source_sentences_tokenized, list)
+        assert len(doc.source_sentences_tokenized) == 6
+        assert doc.source_sentences_tokenized[0] == "Шон Байзель ."
+
+    def test_target_sentences(self):
+        corpus = Corpus("test")
+        doc_a1 = corpus.get_doc("1224", annotator_id=1)
+        doc_a2 = corpus.get_doc("1224", annotator_id=2)
+        assert isinstance(doc_a1.target_sentences, list)
+        assert doc_a1.target_sentences != doc_a2.target_sentences
 
     @pytest.fixture
     def corpus(self):
