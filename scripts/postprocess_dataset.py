@@ -55,8 +55,8 @@ def do_partition(out_dir, corpus):
         path_tgt = out_dir / "target-sentences" / fname_tgt
         path_src.parent.mkdir(exist_ok=True)
         path_tgt.parent.mkdir(exist_ok=True)
-        path_src.write_text("\n".join(output_src))
-        path_tgt.write_text("\n".join(output_tgt))
+        path_src.write_text("\n".join(output_src) + "\n")
+        path_tgt.write_text("\n".join(output_tgt) + "\n")
 
     _realign_corpus_sentences_1(out_dir, corpus)
     _realign_corpus_sentences_2(out_dir, corpus)
@@ -85,8 +85,8 @@ def _realign_corpus_sentences_1(out_dir, corpus):
         print(f"Realigning {doc.doc_id} (a{a})")
         print(f"  old: {len(src)} -> {len(tgt)}")
         tgt, src = align_sentences(tgt, src)
-        path_tgt.write_text("\n".join(tgt))
-        path_src.write_text("\n".join(src))
+        path_tgt.write_text("\n".join(tgt) + "\n")
+        path_src.write_text("\n".join(src) + "\n")
         print(f"  new: {len(src)} -> {len(tgt)}")
 
 
@@ -167,8 +167,8 @@ def _tokenize_corpus(out_dir, corpus):
         path_tgt.parent.mkdir(exist_ok=True)
         tokenized_src = [tokenize(s) for s in src_sents]
         tokenized_tgt = [tokenize(s) for s in tgt_sents]
-        path_src.write_text("\n".join(tokenized_src))
-        path_tgt.write_text("\n".join(tokenized_tgt))
+        path_src.write_text("\n".join(tokenized_src) + "\n")
+        path_tgt.write_text("\n".join(tokenized_tgt) + "\n")
 
 
 def align_sentences(src_sentences, tgt_sentences):
