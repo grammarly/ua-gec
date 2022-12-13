@@ -534,10 +534,6 @@ S Та в будь-якій країні знайдуться небайдужі
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
 S # 0035
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
@@ -882,10 +878,6 @@ A 1 2|||Spelling|||Припустімо|||REQUIRED|||-NONE-|||0
 A 18 19|||F/PoorFlow||||||REQUIRED|||-NONE-|||0
 A 0 1|||Punctuation|||—|||REQUIRED|||-NONE-|||1
 A 22 23|||F/Style|||кількох|||REQUIRED|||-NONE-|||1
-
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S # 0097
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -1593,10 +1585,6 @@ S Хто дочитав — молодець , так переможемо :)!
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A 7 8|||Punctuation|||!|||REQUIRED|||-NONE-|||1
 
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
 S # 0109
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
@@ -1691,10 +1679,6 @@ A 8 9|||G/Conjunction|||який|||REQUIRED|||-NONE-|||0
 A 2 3|||G/Case|||темне|||REQUIRED|||-NONE-|||1
 A 8 9|||G/Conjunction|||що|||REQUIRED|||-NONE-|||1
 A 14 17|||F/PoorFlow|||пробирався навпомацки|||REQUIRED|||-NONE-|||1
-
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S # 0111
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -2123,10 +2107,6 @@ A 4 5|||F/Collocation|||порушує|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S Але якщо брати головне , то ця картина нагадує нам , що кожен перехожий , якого ми бачимо на вулиці , не був народжений без надії на щось краще .
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
-S 
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
@@ -2622,10 +2602,6 @@ S Нарешті , ми могли говорити .
 A 1 2|||Punctuation||||||REQUIRED|||-NONE-|||0
 A 1 2|||Punctuation||||||REQUIRED|||-NONE-|||1
 
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
 S # 0142
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
@@ -3012,10 +2988,6 @@ A 18 20|||F/PoorFlow|||шляхом|||REQUIRED|||-NONE-|||1
 A 22 23|||F/PoorFlow|||А втім|||REQUIRED|||-NONE-|||1
 
 S Завдяки якому індуктивному процесу ... "
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
-S 
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
@@ -3664,14 +3636,6 @@ A 15 16|||Punctuation|||—|||REQUIRED|||-NONE-|||1
 A 26 28|||F/Collocation|||майже|||REQUIRED|||-NONE-|||1
 A 28 29|||F/Collocation|||непритомний|||REQUIRED|||-NONE-|||1
 
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
 S # 0172
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
@@ -3765,10 +3729,6 @@ A 20 21|||Spelling|||“ Lumipallo|||REQUIRED|||-NONE-|||1
 A 21 21|||M:PUNCT|||”|||REQUIRED|||-NONE-|||1
 
 S Таке питаєте .
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
-S 
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
@@ -4596,10 +4556,6 @@ S Допис користувача IvanBannikov на https://habr.com/ru/post/4
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
 S # 0202
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
@@ -4700,14 +4656,6 @@ A 0 1|||Spelling|||У|||REQUIRED|||-NONE-|||1
 A 3 4|||Spelling|||все|||REQUIRED|||-NONE-|||1
 
 S Хочу повертатись сюди знову і знову .
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
-S 
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
@@ -4927,10 +4875,6 @@ A 5 6|||Spelling|||що|||REQUIRED|||-NONE-|||0
 A 8 8|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
 A 8 8|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
 
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
 S # 0212
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
@@ -5077,10 +5021,6 @@ A 39 39|||Spelling|||-|||REQUIRED|||-NONE-|||1
 A 40 41|||Spelling|||і|||REQUIRED|||-NONE-|||1
 A 58 59|||Punctuation|||, —|||REQUIRED|||-NONE-|||1
 A 59 60|||Spelling|||якомога|||REQUIRED|||-NONE-|||1
-
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S # 0214
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -6273,10 +6213,6 @@ A 7 8|||Spelling|||у|||REQUIRED|||-NONE-|||1
 A 10 11|||R:PUNCT|||.|||REQUIRED|||-NONE-|||1
 A 11 12|||R:OTHER|||:-)|||REQUIRED|||-NONE-|||1
 
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
 S # 0278
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
@@ -6396,10 +6332,6 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S Наступне Різдво хочу відсвяткувати з татом в селі .
 A 6 7|||Spelling|||у|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S # 0280
@@ -6612,10 +6544,6 @@ A 5 6|||Punctuation||||||REQUIRED|||-NONE-|||0
 A 9 9|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
 A 5 6|||Punctuation||||||REQUIRED|||-NONE-|||1
 A 9 9|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
-
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S # 0291
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -7110,10 +7038,6 @@ A 13 14|||Punctuation|||—|||REQUIRED|||-NONE-|||1
 A 22 23|||Punctuation||||||REQUIRED|||-NONE-|||1
 A 29 31|||F/Calque|||проведемо|||REQUIRED|||-NONE-|||1
 A 31 32|||G/UngrammaticalStructure|||найвеселіше|||REQUIRED|||-NONE-|||1
-
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S # 0305
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -7831,10 +7755,6 @@ S https://www.smh.com.au/culture/books/from-fire-evacuation-rooms-diary-of-a-wom
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
 S # 0331
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
@@ -8248,10 +8168,6 @@ S netflix про chaos engeneering : https://medium.com/netflix-techblog/tagged/
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
 S # 0339
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
@@ -8486,10 +8402,6 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S Бережіть себе , усе буде Космос !
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
-S 
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
@@ -8914,10 +8826,6 @@ A 33 33|||Punctuation|||"|||REQUIRED|||-NONE-|||0
 A 2 3|||F/Calque|||зачепили|||REQUIRED|||-NONE-|||1
 A 9 10|||Punctuation||||||REQUIRED|||-NONE-|||1
 
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
 S # 0430
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
@@ -9233,10 +9141,6 @@ A 9 12|||G/UngrammaticalStructure||||||REQUIRED|||-NONE-|||1
 S Вирішуй . "
 A 1 3|||Punctuation|||" .|||REQUIRED|||-NONE-|||0
 A 2 3|||Punctuation||||||REQUIRED|||-NONE-|||1
-
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S # 0449
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -9709,10 +9613,6 @@ A 15 16|||Punctuation|||,|||REQUIRED|||-NONE-|||1
 A 16 17|||Punctuation||||||REQUIRED|||-NONE-|||1
 A 22 22|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
 
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
 S # 0506
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
@@ -10030,10 +9930,6 @@ A 21 22|||F/Style|||кур'єрові|||REQUIRED|||-NONE-|||0
 A 1 2|||Spelling|||у|||REQUIRED|||-NONE-|||1
 A 8 9|||Spelling|||зі|||REQUIRED|||-NONE-|||1
 
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
 S # 0576
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
@@ -10255,10 +10151,6 @@ A 4 5|||Spelling|||побратимів|||REQUIRED|||-NONE-|||1
 A 12 13|||Punctuation||||||REQUIRED|||-NONE-|||1
 A 15 16|||F/Style|||благодійність|||REQUIRED|||-NONE-|||1
 
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
 S # 0621
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
@@ -10310,10 +10202,6 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S # Логічно ?
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
-S 
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
@@ -10966,10 +10854,6 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S # Логічно ?
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
-S 
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
@@ -12019,10 +11903,6 @@ A 4 5|||F/PoorFlow|||міс|||REQUIRED|||-NONE-|||1
 A 5 6|||F/PoorFlow|||Джонсі|||REQUIRED|||-NONE-|||1
 A 7 8|||Punctuation||||||REQUIRED|||-NONE-|||1
 
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
 S # 0773
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
@@ -12408,10 +12288,6 @@ S День почався з того , що її господар , столя�
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A 13 14|||F/Style|||одягнув|||REQUIRED|||-NONE-|||1
 A 19 20|||F/Style|||якусь|||REQUIRED|||-NONE-|||1
-
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S # 0828
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -13262,10 +13138,6 @@ S Отаке .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
 S # 0843
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
@@ -13788,10 +13660,6 @@ A 13 14|||Punctuation||||||REQUIRED|||-NONE-|||0
 A 0 1|||Spelling|||Але|||REQUIRED|||-NONE-|||1
 A 13 14|||Punctuation||||||REQUIRED|||-NONE-|||1
 
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
 S # 0863
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
@@ -14163,10 +14031,6 @@ A 12 16|||F/PoorFlow||||||REQUIRED|||-NONE-|||1
 A 25 26|||F/PoorFlow|||, яка|||REQUIRED|||-NONE-|||1
 A 26 27|||F/PoorFlow|||охоплює|||REQUIRED|||-NONE-|||1
 A 27 28|||F/PoorFlow|||шукачів|||REQUIRED|||-NONE-|||1
-
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S # 0888
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -15088,14 +14952,6 @@ S завжди залишайтеся спокійними : ви – найкр
 A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||0
 A 0 0|||Punctuation|||—|||REQUIRED|||-NONE-|||1
 A 5 6|||Punctuation|||—|||REQUIRED|||-NONE-|||1
-
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
-
-S 
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S # 0909
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0

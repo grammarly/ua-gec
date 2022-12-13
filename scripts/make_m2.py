@@ -60,6 +60,7 @@ def get_sentence_edits(errant_, doc):
     doc_index = 0  # character index in the document (source)
     src_text = doc.source
     for src_sent, tgt_sent in zip(doc.source_sentences_tokenized, doc.target_sentences_tokenized):
+        assert src_sent.strip()
         src = errant_.parse(src_sent)
         tgt = errant_.parse(tgt_sent)
         edits = errant_.annotate(src, tgt)

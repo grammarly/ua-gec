@@ -43,13 +43,13 @@ class Document:
     def source_sentences(self):
         fname = f"{self.meta.doc_id}.src.txt"
         path = self._partition_dir / "source-sentences" / fname
-        return path.read_text().split("\n")
+        return path.read_text().rstrip("\n").split("\n")
 
     @property
     def source_sentences_tokenized(self):
         fname = f"{self.meta.doc_id}.src.txt"
         path = self._partition_dir / "source-sentences-tokenized" / fname
-        return path.read_text().split("\n")
+        return path.read_text().rstrip("\n").split("\n")
 
     @property
     def target(self):
@@ -59,13 +59,13 @@ class Document:
     def target_sentences(self):
         fname = f"{self.meta.doc_id}.a{self.meta.annotator_id}.txt"
         path = self._partition_dir / "target-sentences" / fname
-        return path.read_text().split("\n")
+        return path.read_text().rstrip("\n").split("\n")
 
     @property
     def target_sentences_tokenized(self):
         fname = f"{self.meta.doc_id}.a{self.meta.annotator_id}.txt"
         path = self._partition_dir / "target-sentences-tokenized" / fname
-        return path.read_text().split("\n")
+        return path.read_text().rstrip("\n").split("\n")
 
     @property
     def doc_id(self):

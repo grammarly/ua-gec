@@ -50,17 +50,11 @@ class CorpusStatistics:
 
     @cache
     def count_source_sentences(self, doc):
-        with open(f"./data/{self.layer}/{doc.meta.partition}/source-sentences-tokenized/{doc.doc_id}.src.txt") as f:
-            content = f.read()
-            sents = [s for s in content.split("\n") if s.strip()]
-            return len(sents)
+        return len(doc.source_sentences)
 
     @cache
     def count_tokens(self, doc):
-        with open(f"./data/{self.layer}/{doc.meta.partition}/source-sentences-tokenized/{doc.doc_id}.src.txt") as f:
-            content = f.read()
-            tokens = content.split()
-            return len(tokens)
+        return sum(len(s.split()) for s in doc.source_sentences_tokenized)
 
     def _breakdown(self, docs, field):
         """Compute statistics with breakdown by `field`.
