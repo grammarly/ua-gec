@@ -20,3 +20,5 @@ postprocess:
 m2:
 	./scripts/make_m2.py --partition test --layer gec-fluency --output data/gec-fluency/test/gec-fluency.test.m2
 	./scripts/make_m2.py --partition test --layer gec-only --output data/gec-only/test/gec-only.test.m2
+	./scripts/make_m2.py --partition train --layer gec-fluency --output data/gec-fluency/train/gec-fluency.train.m2
+	./scripts/make_m2.py --partition train --layer gec-only --output data/gec-only/train/gec-only.train.m2
