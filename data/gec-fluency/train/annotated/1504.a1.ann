@@ -2,7 +2,7 @@
 
  {-=>—:::error_type=Punctuation} Я абсолютно не розумію, {-=>—:::error_type=Punctuation} говорив він зверху, {-=>—:::error_type=Punctuation} причин такого різкого {звернення=>поводження:::error_type=F/Style} зі мною{ =>:::error_type=Punctuation}...
 
- І тут цю промову на самому початку перебив{=> важкий низький голос, що:::error_type=F/PoorFlow} невідомо звідки почувся {важкий низький голос=>:::error_type=F/PoorFlow}:
+ І тут цю промову на самому початку перебив{=> важкий низький голос, що:::error_type=F/PoorFlow} невідомо звідки почувся{ =>:::error_type=Punctuation}{важкий низький голос=>:::error_type=F/PoorFlow}:
 
  {-=>—:::error_type=Punctuation} Що відбувається {в=>у:::error_type=Spelling} квартирі?{ =>:::error_type=Punctuation} Мені заважають займатися.
 

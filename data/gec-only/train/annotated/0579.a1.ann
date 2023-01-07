@@ -35,7 +35,7 @@ sum-up:
 Image for postImage for post
 Приклад створення портфоліо на сайті finviz
 {В=>У:::error_type=Spelling} пошуку можна писати часткову чи повну назву. У результатах{,=>:::error_type=Punctuation} з’явиться тікер. Переношу тікер у відповідне поле, кількість shares вказую 1. Для отримання ціни{,=>:::error_type=Punctuation} достатньо натиснути “Get Today’s Price”.
-UPD: у чаті круто {підмітили=>зауважили:::error_type=F/Style}, що{=>,:::error_type=Punctuation} ставлячи в колонку Shares одиниці, {=>дані :::error_type=F/PoorFlow}у таблиці будуть викривлені {дані=>:::error_type=F/PoorFlow}. Вартість акцій різна, а інвестувати у кожну компанію рекомендують однакову суму. Тому для кожної компанії{,=>:::error_type=Punctuation} кількість акцій буде різною,{ в=>:::error_type=F/PoorFlow} {залежності=>залежно:::error_type=F/PoorFlow} від загальної суми інвестицій — це position sizing (приклад у таблиці нижче).
+UPD: у чаті круто {підмітили=>зауважили:::error_type=F/Style}, що{=>,:::error_type=Punctuation} ставлячи в колонку Shares одиниці, {=>дані :::error_type=F/PoorFlow}у таблиці будуть викривлені{ =>:::error_type=Punctuation}{дані=>:::error_type=F/PoorFlow}. Вартість акцій різна, а інвестувати у кожну компанію рекомендують однакову суму. Тому для кожної компанії{,=>:::error_type=Punctuation} кількість акцій буде різною,{ в=>:::error_type=F/PoorFlow} {залежності=>залежно:::error_type=F/PoorFlow} від загальної суми інвестицій — це position sizing (приклад у таблиці нижче).
 На цьому сайті доступні не всі компанії, оскільки він орієнтований більше на американський ринок цінних паперів.
 Image for post
 Image for post

@@ -4,4 +4,4 @@
 
 Але одного дня раз {-=>—:::error_type=Punctuation} і щось уже виходить, і виходить краще, що раніше ніяк не виходило.
 
-{Все=>Усе:::error_type=Spelling} це зараз я проходжу. І ролик {=>дуже :::error_type=F/PoorFlow}відгукується {дуже=>:::error_type=F/PoorFlow}.
+{Все=>Усе:::error_type=Spelling} це зараз я проходжу. І ролик {=>дуже :::error_type=F/PoorFlow}відгукується{ =>:::error_type=Punctuation}{дуже=>:::error_type=F/PoorFlow}.

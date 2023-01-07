@@ -2,7 +2,7 @@
 
 {«=>:::error_type=Punctuation}Містер Біддл кладе свою руку на {міою=>мою:::error_type=Spelling} руку.{»=>:::error_type=Punctuation}
 
-«Ви заарештовані, докторе Во-Ху{,=> на:::error_type=Punctuation} прізвисько Пітер{»=>:::error_type=Punctuation}, {=>— :::error_type=Punctuation}каже він, {«=>— :::error_type=Punctuation}за практикування медицини {не маючи=>без:::error_type=F/PoorFlow} державної сертифікації {.»=>».:::error_type=Punctuation}
+«Ви заарештовані, докторе Во-Ху{,=> на:::error_type=Punctuation} прізвисько Пітер{»=>:::error_type=Punctuation}, {=>— :::error_type=Punctuation}каже він, {«=>— :::error_type=Punctuation}за практикування медицини {не маючи=>без:::error_type=F/PoorFlow} державної сертифікації{ =>:::error_type=Punctuation}{.»=>».:::error_type=Punctuation}
 
 «Хто ви такий?»{=> —:::error_type=Punctuation} я спитав у нього.
 
