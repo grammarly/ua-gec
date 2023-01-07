@@ -16,4 +16,4 @@
 
 {-=>一:::error_type=Punctuation} Що ж? Подобається?
 
-{-=>一:::error_type=Punctuation} Так, споруда подобається. Зовні гарний театр, не стану сперечатися, але щодо самих артистів {-=>一:::error_type=Punctuation} вибач. Може{ бути,=>,:::error_type=F/PoorFlow} вони і хороші люди, генії, Дідероти[77], але{=>,:::error_type=Punctuation} {з моєї точки зору=>на мою думку,:::error_type=F/Calque} вони для мистецтва вбивці і більше нічого. {Якщо б у моїй владі=>Якби моя воля :::error_type=F/Collocation}, я {б=>:::error_type=F/PoorFlow} їх з Петербургу вислав{=> би:::error_type=F/PoorFlow}. Хто над ними у вас головний?
+{-=>一:::error_type=Punctuation} Так, споруда подобається. Зовні гарний театр, не стану сперечатися, але щодо самих артистів {-=>一:::error_type=Punctuation} вибач. Може{ бути,=>,:::error_type=F/PoorFlow} вони і хороші люди, генії, Дідероти[77], але{=>,:::error_type=Punctuation} {з моєї точки зору=>на мою думку,:::error_type=F/Calque} вони для мистецтва вбивці і більше нічого. {Якщо б у моїй владі=>Якби моя воля:::error_type=F/Collocation}, я {б=>:::error_type=F/PoorFlow} їх з Петербургу вислав{=> би:::error_type=F/PoorFlow}. Хто над ними у вас головний?

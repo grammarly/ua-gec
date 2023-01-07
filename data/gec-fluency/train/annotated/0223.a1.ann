@@ -1,8 +1,8 @@
 Випадок у магазині
 
 Якось {заходу=>заходжу:::error_type=Spelling} в АТБ{  => :::error_type=Punctuation}і раптом чую: "Бабушка, надіньте маску!"
-Подивилась: це до мене молодий {чоловіче=>чоловік:::error_type=G/Case} , "охраннік"{ =>:::error_type=Punctuation}, чи як він ще зветься. Звичайно, маску я натягнула{ =>:::error_type=Punctuation}, а сама думаю{ =>:::error_type=Punctuation}: "{ =>:::error_type=Punctuation}Яка я тобі{  => :::error_type=Punctuation}"бабушка" ?
- Скупилася , підходжу до цього ж "охранніка" : "{Доброго=>Добрий:::error_type=G/Case} {дня =>день:::error_type=G/Case},{онучок =>онучку:::error_type=G/Case}". Він на мене здивовано дивиться .
-{-=>—:::error_type=Punctuation} Що, я не твоя бабуся ? А  ти ж мене назвав{  => :::error_type=Punctuation}"бабушкой{ =>:::error_type=Punctuation}". Вибач, але краще до покупців звертатися якось{  => :::error_type=Punctuation}по-іншому .
- {-=>—:::error_type=Punctuation} То що : "женщина" чи{  => :::error_type=Punctuation}"дєвушка"{ =>:::error_type=Punctuation}?
+Подивилась: це до мене молодий {чоловіче=>чоловік:::error_type=G/Case}{ =>:::error_type=Punctuation}, "охраннік"{ =>:::error_type=Punctuation}, чи як він ще зветься. Звичайно, маску я натягнула{ =>:::error_type=Punctuation}, а сама думаю{ =>:::error_type=Punctuation}: "{ =>:::error_type=Punctuation}Яка я тобі{  => :::error_type=Punctuation}"бабушка"{ =>:::error_type=Punctuation}?
+ Скупилася{ =>:::error_type=Punctuation}, підходжу до цього ж "охранніка"{ =>:::error_type=Punctuation}: "{Доброго=>Добрий:::error_type=G/Case} {дня =>день:::error_type=G/Case},{онучок =>онучку:::error_type=G/Case}". Він на мене здивовано дивиться{ =>:::error_type=Punctuation}.
+{-=>—:::error_type=Punctuation} Що, я не твоя бабуся{ =>:::error_type=Punctuation}? А  ти ж мене назвав{  => :::error_type=Punctuation}"бабушкой{ =>:::error_type=Punctuation}". Вибач, але краще до покупців звертатися якось{  => :::error_type=Punctuation}по-іншому{ =>:::error_type=Punctuation}.
+ {-=>—:::error_type=Punctuation} То що{ =>:::error_type=Punctuation}: "женщина" чи{  => :::error_type=Punctuation}"дєвушка"{ =>:::error_type=Punctuation}?
  {-=>—:::error_type=Punctuation} Але ж є дуже хороше слово {-=>—:::error_type=Punctuation} пані{ =>:::error_type=Punctuation}. Я Вам його {рекомендую =>раджу:::error_type=F/Style}.

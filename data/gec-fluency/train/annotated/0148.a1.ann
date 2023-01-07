@@ -12,6 +12,6 @@
 {-=>—:::error_type=Punctuation} Я точно не знаю, {-=>—:::error_type=Punctuation} швидко відповів арештований,  {-=>—:::error_type=Punctuation} я не пам'ятаю своїх батьків. Мені казали, що мій батько був сирійцем...
 {-=>—:::error_type=Punctuation} Де ти живеш постійно?
 {-=>—:::error_type=Punctuation} У мене немає постійної домівки,{-=> —:::error_type=Punctuation} сором'язливо відповів арештант, {-=>—:::error_type=Punctuation} я подорожую з міста до міста.
-{-=>—:::error_type=Punctuation} Це можна виразити коротше, одним словом {-=>—:::error_type=Punctuation} {бродяга=>волоцюга:::error_type=F/Style}, {-=>—:::error_type=Punctuation} сказав прокуратор і спитав: {- =>:::error_type=Punctuation}Рідні є ?
+{-=>—:::error_type=Punctuation} Це можна виразити коротше, одним словом {-=>—:::error_type=Punctuation} {бродяга=>волоцюга:::error_type=F/Style}, {-=>—:::error_type=Punctuation} сказав прокуратор і спитав: {- =>:::error_type=Punctuation}Рідні є{ =>:::error_type=Punctuation}?
 {-=>—:::error_type=Punctuation} Немає нікого. Я один у світі.
 {-=>—:::error_type=Punctuation} {Чи знаєш ти грамоту=>Ти письменний?:::error_type=F/PoorFlow}?
