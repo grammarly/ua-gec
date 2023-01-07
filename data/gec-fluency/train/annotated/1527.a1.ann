@@ -12,6 +12,6 @@
 
 {-=>—:::error_type=Punctuation} Усе…
 
-{Доктор=>Лікар:::error_type=F/Calque}, що не вмів говорити ні з {тими, хто плаче=>жінками:::error_type=F/PoorFlow} {жінками=>:::error_type=F/PoorFlow}, ні з дітьми, {=>які плачуть, :::error_type=F/PoorFlow}погладив його по гарячій голові і пробурмотів:
+{Доктор=>Лікар:::error_type=F/Calque}, що не вмів говорити ні з {тими, хто плаче=>жінками:::error_type=F/PoorFlow}{ =>:::error_type=Punctuation}{жінками=>:::error_type=F/PoorFlow}, ні з дітьми, {=>які плачуть, :::error_type=F/PoorFlow}погладив його по гарячій голові і пробурмотів:
 
 {-=>—:::error_type=Punctuation} Нічого, бідний хлопчик{=>у:::error_type=G/Case}, нічого ... На цьому світі не можна прожити без хвороб ... {Міша=>Мішо:::error_type=G/Case}, хто я? Ти впізнаєш?

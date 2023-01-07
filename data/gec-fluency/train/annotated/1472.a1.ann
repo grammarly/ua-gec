@@ -8,7 +8,7 @@
 
 {-=>—:::error_type=Punctuation} Чудова річ! {-=>—:::error_type=Punctuation} вигукнув Азазелло, {-=>—:::error_type=Punctuation} от це я люблю. Один-два і готово! Не то, що тоді в {Олександрівсьокму=>Олександрівському:::error_type=Spelling} саду.
 
-{-=>—:::error_type=Punctuation} {Йо=>Ой:::error_type=F/Style}, не нагадуйте мені, {Азазело=>Азазелло:::error_type=Spelling}! Я {=>тоді :::error_type=F/PoorFlow}була дурна {тоді=>:::error_type=F/PoorFlow}. Та, між іншим, мене і не можна обвинувачувати за це {-=>—:::error_type=Punctuation} бо не {кожного дня=>щодня:::error_type=F/PoorFlow} зустрічаєшся з нечистою силою!
+{-=>—:::error_type=Punctuation} {Йо=>Ой:::error_type=F/Style}, не нагадуйте мені, {Азазело=>Азазелло:::error_type=Spelling}! Я {=>тоді :::error_type=F/PoorFlow}була дурна{ =>:::error_type=Punctuation}{тоді=>:::error_type=F/PoorFlow}. Та, між іншим, мене і не можна обвинувачувати за це {-=>—:::error_type=Punctuation} бо не {кожного дня=>щодня:::error_type=F/PoorFlow} зустрічаєшся з нечистою силою!
 
 {-=>—:::error_type=Punctuation} {Ще б,=>Аякже:::error_type=F/Style} {-=>—:::error_type=Punctuation} підтверджував {Азазело=>Азазелло:::error_type=Spelling}, {-=>—:::error_type=Punctuation} якщо {б=>би:::error_type=Spelling} {кожного дня=>щодня:::error_type=F/PoorFlow}, це було б приємно!
 
