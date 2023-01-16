@@ -6,6 +6,7 @@
 - API access to sentence-split and tokenized version of source and target texts
 
 ### Fixed
+- Many punctuation whitespace fixes -- contributed by @danmysak
 - Mismatch in length of sentence-split source and targets in some cases.
 
 
