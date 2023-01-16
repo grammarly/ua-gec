@@ -16,6 +16,7 @@ postprocess:
 	rm -rf data/gec-*/train/target*
 	./scripts/postprocess_dataset.py --annotation-layer gec-fluency
 	./scripts/postprocess_dataset.py --annotation-layer gec-only
+	bash -c './scripts/normalize_trailing_newslines.py data/gec-{only,fluency}/{test,train}/*/*{.txt,.ann}'
 
 m2:
 	./scripts/make_m2.py --partition test --layer gec-fluency --output data/gec-fluency/test/gec-fluency.test.m2
