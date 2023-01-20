@@ -1,9 +1,12 @@
-.PHONY: install stats postprocess
+.PHONY: install stats postprocess m2 check
 
 
 install:
 	cd python/ua_gec && ln -sf ../../data data
 	cd python && python3 setup.py develop
+
+check:
+	./scripts/validate.py
 
 stats:
 	./python/ua_gec/stats.py all gec-fluency | tee stats.gec-fluency.txt
