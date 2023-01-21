@@ -58,8 +58,17 @@ def do_partition(out_dir, corpus):
         path_src.write_text("\n".join(output_src))
         path_tgt.write_text("\n".join(output_tgt))
 
-    _realign_corpus_sentences_1(out_dir, corpus)
-    _realign_corpus_sentences_2(out_dir, corpus)
+    for iteration in range(1, 4):
+        num_affected = 0
+        num_affected += _realign_corpus_sentences_1(out_dir, corpus)
+        num_affected += _realign_corpus_sentences_2(out_dir, corpus)
+        #print(f"Iter {iteration}: realigned {num_affected} docs")
+        if num_affected == 0:
+            # May need a couple of iterations
+            break
+    else:
+        print(f"WARNING: Realign didn't converge for {corpus}")
+
     _tokenize_corpus(out_dir, corpus)
 
 
@@ -71,6 +80,7 @@ def _realign_corpus_sentences_1(out_dir, corpus):
     # and the target removes that, so the sentence is an empty line.
     # We need to realign these cases, but realign target to source.
 
+    num_affected = 0
     for doc in tqdm.tqdm(corpus.get_documents()):
         a = doc.meta.annotator_id
         path_src = out_dir / "source-sentences" / f"{doc.doc_id}.src.txt"
@@ -87,7 +97,10 @@ def _realign_corpus_sentences_1(out_dir, corpus):
         tgt, src = align_sentences(tgt, src)
         path_tgt.write_text("\n".join(tgt))
         path_src.write_text("\n".join(src))
+        num_affected += 1
         print(f"  new: {len(src)} -> {len(tgt)}")
+
+    return num_affected
 
 
 def _realign_corpus_sentences_2(out_dir, corpus):
@@ -106,6 +119,7 @@ def _realign_corpus_sentences_2(out_dir, corpus):
     #
     # This function finds such cases and fixes them by joining some sentences
     # in whatever file out of (src, tgt1, tgt2) has more sentences.
+    num_affected = 0
     for doc in tqdm.tqdm(corpus.get_documents()):
 
         # The problem only occurs when there are two annotators
@@ -123,13 +137,13 @@ def _realign_corpus_sentences_2(out_dir, corpus):
         if len(src) == len(tgt1) == len(tgt2):
             continue  # no problem here
         
+        num_affected += 1
         print(f"Fixing sentence alignment for {doc.doc_id}")
         print(f"  src: {len(src)} sentences")
         print(f" tgt1: {len(tgt1)} sentences")
         print(f" tgt2: {len(tgt2)} sentences")
 
         # Make sure the source has joined sentences
-        #import ipdb; ipdb.set_trace()
         if len(src) > len(tgt1):
             src, tgt1 = align_sentences(src, tgt1)
         if len(src) > len(tgt2):
@@ -151,6 +165,8 @@ def _realign_corpus_sentences_2(out_dir, corpus):
         path_src.write_text("\n".join(src) + "\n")
         path_tgt1.write_text("\n".join(tgt1) + "\n")
         path_tgt2.write_text("\n".join(tgt2) + "\n")
+
+    return num_affected
 
 
 def _tokenize_corpus(out_dir, corpus):
@@ -191,6 +207,12 @@ def align_sentences(src_sentences, tgt_sentences):
         best_src = None
         best_tgt = None
         for take_src, take_tgt in combinations:
+
+            # If take_src reaches the end of source, make sure that we
+            # reach the end of target as well
+            if pos_src + take_src >= len(src_sentences):
+                take_tgt = len(tgt_sentences) - pos_tgt
+
             src = " ".join(src_sentences[pos_src : pos_src + take_src])
             tgt = " ".join(tgt_sentences[pos_tgt : pos_tgt + take_tgt])
             dist = damerau_levenshtein_distance(src, tgt)
