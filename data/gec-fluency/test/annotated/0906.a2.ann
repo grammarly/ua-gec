@@ -65,7 +65,7 @@
 
 ЩО РОБИТИ?
 {не=>Не:::error_type=Spelling} боятися! { зберігати=>Зберігати:::error_type=Spelling} спокій{!=>:::error_type=Punctuation} (бути сильним просто зараз){=>!:::error_type=Punctuation}
-{сказати=>Сказати:::error_type=Spelling} прямо: {=>“:::error_type=Punctuation}Мені не подобається те, що ти говориш! Будь ласка, спинись! {(СТОП)=>Стоп!”:::error_type=Spelling}
+{сказати=>Сказати:::error_type=Spelling} прямо: {=>“:::error_type=Punctuation}Мені не подобається те, що ти говориш! Будь ласка, спинись! {(СТОП)=>Стоп!”:::error_type=Spelling}{=>.:::error_type=Punctuation}
 {жартувати=>Жартувати:::error_type=Spelling}. Жарт у відповідь на образу {–=>—:::error_type=Punctuation} найкраща зброя (це обеззброїть нападника){=>.:::error_type=Punctuation}
 Якщо всі методи використано, тоді правило 4:{  => :::error_type=Punctuation}йди і шукай дорослого, котрому довіряєш! {розкажи=>Розкажи:::error_type=Spelling} про проблему йому!
 

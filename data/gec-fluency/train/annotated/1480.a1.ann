@@ -1,6 +1,6 @@
 {-=>—:::error_type=Punctuation} Завдання! { -=>—:::error_type=Punctuation} каже Яша, прислухаючись.{ =>:::error_type=Punctuation} {-=>—:::error_type=Punctuation} {Повинно=>Мабуть:::error_type=F/Calque}, поїзд важкий.{  => :::error_type=Punctuation}Ніяк не зрушить.
 
- {-=>—:::error_type=Punctuation} Раніше не був важкий, а тепер раптом поважчав.{  => :::error_type=Punctuation}Ні, {брат=>брате:::error_type=G/Case}, це означає{=>, що:::error_type=F/PoorFlow} обер-кондуктор з ним не поділився.{  => :::error_type=Punctuation}Піди-но знеси йому, а то він до ранку буде смикати.
+ {-=>—:::error_type=Punctuation} Раніше не був важкий, а тепер раптом поважчав.{  => :::error_type=Punctuation}Ні, {брат=>брате:::error_type=G/Case}, це означає{=>, що:::error_type=F/PoorFlow} {обер-кондуктор=>оберкондуктор:::error_type=Punctuation} з ним не поділився.{  => :::error_type=Punctuation}Піди-но знеси йому, а то він до ранку буде смикати.
 
  Яша бере у старого {трьохрублевий=>трирублевий:::error_type=Spelling} папірець і стрибає з вагона.{  => :::error_type=Punctuation}Його важкі кроки глухо лунають {поза=>з-за:::error_type=G/Prep} вагона і поступово вщухають.{  => :::error_type=Punctuation}Тиша ... У сусідньому вагоні протяжно і тихо мукає бик, {точно=>наче:::error_type=F/Style} співає.
 

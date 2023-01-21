@@ -5,4 +5,4 @@
 Жирков{,=>:::error_type=Punctuation}  {обережнл=>обережно:::error_type=Spelling} {зателефонував=>подзвонив:::error_type=F/Style}. Через хвилину за дверима було чути кроки і в замковій {дирці=>дірці:::error_type=Spelling} {маякнуво=>промайнуло:::error_type=G/UngrammaticalStructure} світло.
 
 {-=>—:::error_type=Punctuation} Хто тут? {-=>—:::error_type=Punctuation} запитав  {захриплий=>хриплий:::error_type=G/Aspect} чоловічий голос з не російським акцентом.
-«Попи, повинно бути чоловік, {-=>—:::error_type=Punctuation} розмірковував Жирков. {-=>—:::error_type=Punctuation} Потрібно збрехати що-небудь...»
+«Попи, повинно бути чоловік, {-=>—:::error_type=Punctuation} розмірковував Жирков. {-=>—:::error_type=Punctuation} Потрібно збрехати що-небудь...»{=>.:::error_type=Punctuation}

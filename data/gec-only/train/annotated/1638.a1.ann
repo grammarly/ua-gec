@@ -1,6 +1,6 @@
 "Цей мер Бенкс був у ліжку{=>,:::error_type=Punctuation} окрім його вусів та ніг. Він створював внутрішні звуки, які мав би кожен {в=>у:::error_type=Spelling} Сан-Франциско, прогулюючись парками. Молодий чоловік стояв біля ліжка,{=> :::error_type=Punctuation}тримаючи склянку води.
 
-"{Док=>Доку:::error_type=G/Case}, {-=>一:::error_type=Punctuation} сказав мер, {-=>一:::error_type=Punctuation} я жахливо захворів. Я збираюся померти. Чи можеш ти зробити щось для мене?"
+"{Док=>Доку:::error_type=G/Case}, {-=>一:::error_type=Punctuation} сказав мер, {-=>一:::error_type=Punctuation} я жахливо захворів. Я збираюся померти. Чи можеш ти зробити щось для мене?"{=>.:::error_type=Punctuation}
 
 "{Містер,=>Містере:::error_type=G/Case} мер",{-=> 一:::error_type=Punctuation} сказав я, {"=>一:::error_type=Punctuation} я не остаточно регулярний учень С.К.Лапіуса. Я ніколи не брав курси в медичному коледжі{" - сказав я=>:::error_type=Punctuation}. {"=>:::error_type=Punctuation}Я просто прийшов як приятель, щоб побачити{=>,:::error_type=Punctuation} чи зможу я бути асистентом".
 

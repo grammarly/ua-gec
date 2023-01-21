@@ -16,7 +16,7 @@
 Місце дії. {Сама велика=>Найбільша:::error_type=G/Comparison} та {сама сильна=>найсильніша:::error_type=G/Comparison} країна. В його країні {саме більше=>найбільше:::error_type=G/Comparison} військо, {саме велике=>найбільше:::error_type=G/Comparison} ВВП, та {самі=>найбільш:::error_type=G/Comparison} патріотичні громадяни.
 
 Жираф.
-Такий самий жираф{=>,:::error_type=Punctuation} як і {усі=>всі:::error_type=Spelling}, такі самі коричневі плями на такій самій жовтій шкірі{=>,:::error_type=Punctuation} як у інших жирафів, {в=>у:::error_type=Spelling} нього така сама довга шия, такі самі ноги і хвіст. Жираф {ні чим=>нічим:::error_type=Spelling} не відрізняється від інших жирафів.
+Такий самий жираф{=>,:::error_type=Punctuation} як і {усі=>всі:::error_type=Spelling}, такі самі коричневі плями на такій самій жовтій шкірі{=>,:::error_type=Punctuation} як {у=>в:::error_type=Spelling} інших жирафів, {в=>у:::error_type=Spelling} нього така сама довга шия, такі самі ноги і хвіст. Жираф {ні чим=>нічим:::error_type=Spelling} не відрізняється від інших жирафів.
 
 Африка. Савана{=>,:::error_type=Punctuation} в якій повно дерев, на деревах багато зелених{ =>:::error_type=Punctuation}, соковитих листочків. Жирафи нудьгують{ =>:::error_type=Punctuation}, {в=>у:::error_type=Spelling} них достатньо їжі і води. Вони сперечаються між собою про те, якими за висотою мають бути дерева{=>,:::error_type=Punctuation} щоб з них було{=> можна:::error_type=F/PoorFlow} {як умога=>якомога:::error_type=Spelling} зручніше їсти.
 
@@ -50,12 +50,12 @@
 Парад.
 Президент стоїть на трибуні століть та розмахує однією або двома руками, підскакує {та=>і:::error_type=F/Style} кричить. Трибуна величезна{=>,:::error_type=Punctuation} його майже не {помітно =>видно:::error_type=F/Style}{=>, :::error_type=Punctuation}так само як і Жука.
 Жук сидить поряд із президентом на {бархатній=>оксамитовій:::error_type=F/Calque} червоній {подушечкі=>подушечці:::error_type=Spelling}. Подушечка {покладена=>лежить:::error_type=G/VerbVoice} у {красиву=>красивій:::error_type=G/Case} {коробочку=>коробочці:::error_type=G/Case}. Мрія Жука {збулася=>здійснилася:::error_type=F/Collocation}. Його помітили та оцінили. Тепер він герой{=>.:::error_type=Punctuation}
-Однакові Жирафи однаково {шагають=>крокують:::error_type=F/Calque} на площах та дорогах. Жирафи {йідуть=>їдуть:::error_type=Spelling} у однакових {лікувальних машинах=>автомобілях швидкої допомоги:::error_type=F/PoorFlow} та однакових пожежних {кругомходах=>всюдиходах:::error_type=F/Calque}.{  => :::error_type=Punctuation}Летять у однаковіх рятувальних літаках. Тягнуть переставлені на колеса однакові рятувальні човни.
+Однакові Жирафи однаково {шагають=>крокують:::error_type=F/Calque} на площах та дорогах. Жирафи {йідуть=>їдуть:::error_type=Spelling} {у=>в:::error_type=Spelling} однакових {лікувальних машинах=>автомобілях швидкої допомоги:::error_type=F/PoorFlow} та однакових пожежних {кругомходах=>всюдиходах:::error_type=F/Calque}.{  => :::error_type=Punctuation}Летять {у=>в:::error_type=Spelling} однаковіх рятувальних літаках. Тягнуть переставлені на колеса однакові рятувальні човни.
 Незадоволений президент{=>,:::error_type=Punctuation} упрівши{=>,:::error_type=Punctuation} {криком звертається=>кричить:::error_type=F/PoorFlow} до Жука.
-{=>":::error_type=Punctuation}Яка дурня{,=>!:::error_type=Punctuation}. Що вони роблять, як вони їдуть, ці Жирафи{=>,:::error_type=Punctuation} як їх не обирай, {вони =>:::error_type=F/Repetition}все одно всі однакові, і кожен Жираф тупіший за попереднього, вони не можуть навіть приблизно бути такими розумними{=>,:::error_type=Punctuation} як я{.=>!":::error_type=Punctuation}
+{=>":::error_type=Punctuation}Яка дурня{,=>!:::error_type=Punctuation}. Що вони роблять, як вони їдуть, ці Жирафи{=>,:::error_type=Punctuation} як їх не обирай, {вони =>:::error_type=F/Repetition}все одно всі однакові, і кожен Жираф тупіший за попереднього, вони не можуть навіть приблизно бути такими розумними{=>,:::error_type=Punctuation} як я{.=>!".:::error_type=Punctuation}
 Президент {вигуркує=>вигукує:::error_type=Spelling} {ругань=>лайку:::error_type=F/Calque} та {корить=>докоряє:::error_type=F/Calque} {усіх=>усім:::error_type=G/Case}. {Хватає=>Хапає:::error_type=F/Calque} красиву коробочку {із=>зі:::error_type=Spelling} Жуком та {намагаєттся=>намагається:::error_type=Spelling} її жбурнути у натовп.
  Нафтовий магнат хапає руку{  => :::error_type=Punctuation}та падає навколішки перед президентом. Притискує до себе руку з коробочкою та з {писком і хлюпсою=>пищанням і рюмсанням:::error_type=F/Calque}{=>,:::error_type=Punctuation} заливаючись сльозами{=>,:::error_type=Punctuation} мовить{.=>::::error_type=Punctuation}
-{Товарищу=>Товаришу:::error_type=Spelling} {президенту=>президенте:::error_type=G/Case}!!!{=>":::error_type=Punctuation}
+{Товарищу=>Товаришу:::error_type=Spelling} {президенту=>президенте:::error_type=G/Case}!!!{=>".:::error_type=Punctuation}
 Повзаючи навколішки, хапаючи за штання{=>,:::error_type=Punctuation} {обнімає=>обіймає:::error_type=F/Calque} президента за {оби дві=>обидві:::error_type=Spelling} ноги.
 {=>":::error_type=Punctuation}Дайте я сам, дайте я сам викину цього Жука. Будь ласочка{,=>".:::error_type=Punctuation}
 Цілує йому чоботи. Не відпускаючи обох ніг руками.
@@ -64,6 +64,6 @@
 Президент{ =>::::error_type=Punctuation}
 {=>":::error_type=Punctuation}Жбурляй{=>":::error_type=Punctuation}.
 Протягує коробку з Жуком Нафтовому магнату. Магнат жбурляє коробку. Коробка летить. Жук підлітає над парадом, внизу Жирафи високо {піднмають=>піднімають:::error_type=Spelling} підборіддя, {їдуть=>йдуть:::error_type=F/Style} {маршом=>маршем:::error_type=G/Case}. Високо на світлі сонця Жук починає переливатись різними кольорами. Він {робиться=>стає:::error_type=F/Collocation} різнокольоровим. Відблиск від Жука падає на Жирафів{=>,:::error_type=Punctuation} вони теж стають різнокольоровими. Жирафи дивляться один на одного та починають кричати один одному{.=>::::error_type=Punctuation}
-{=>":::error_type=Punctuation}Що за неподобство!{=>":::error_type=Punctuation}
+{=>":::error_type=Punctuation}Що за неподобство!{=>".:::error_type=Punctuation}
 А Жук летить і кричить на весь парад{.=>::::error_type=Punctuation}
 {=>":::error_type=Punctuation}Я {ворсатий=>волохатий:::error_type=F/Calque} Жук{=>,:::error_type=Punctuation} який змінив {весь=>увесь:::error_type=Spelling} світ{.=>:::error_type=Punctuation}!!!!!! Ура{=>":::error_type=Punctuation}.

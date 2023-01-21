@@ -1,6 +1,6 @@
 "Ох, я трохи виріс {з того момену=>відтоді:::error_type=F/Calque} як мені було двадцять{=>":::error_type=Punctuation}.{"=>:::error_type=Punctuation}
 
-"Працюєш добре в {Н'ю-Йорку=>Нью-Йорку:::error_type=Spelling}, {Джимі=>Джиммі:::error_type=Spelling}?"
+"Працюєш добре в {Н'ю-Йорку=>Нью-Йорку:::error_type=Spelling}, {Джимі=>Джиммі:::error_type=Spelling}?"{=>.:::error_type=Punctuation}
 
 "Непогано. Я маю посаду в одному із міських департаментів. Приходь, {Боб=>Бобе:::error_type=G/Case}; ми підемо до місця{=>,:::error_type=Punctuation} яке я знаю, і матимемо гарну довгу бесіду про старі часи{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 

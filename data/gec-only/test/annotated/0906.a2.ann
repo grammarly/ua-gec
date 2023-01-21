@@ -10,7 +10,8 @@
 1{=>):::error_type=Punctuation} {– =>:::error_type=Punctuation}щось, що ти знаєш (пароль, пін-код){ =>;:::error_type=Punctuation}
 2{=>):::error_type=Punctuation} {– =>:::error_type=Punctuation}щось, чим володієш (мережа має побачити{,=>:::error_type=Punctuation} {н-д =>:::error_type=G/UngrammaticalStructure}смартфон: унікальний код на смартфон, який людина отримує на пристрій і вводить на вимогу){=>;:::error_type=Punctuation}
 3{=>):::error_type=Punctuation} {– =>:::error_type=Punctuation}щось, чим ти є (біометричні дані, {н-д =>:::error_type=G/UngrammaticalStructure}відбиток пальця, малюнок вени на руці, сітківка та ін.)
-Надійний пароль {–=>—:::error_type=Punctuation} це{:=>:::error_type=Punctuation}{\n=> :::error_type=Punctuation}довгий пароль{=>,:::error_type=Punctuation} {– =>:::error_type=Punctuation}12 і більше символів (краще довгий{=>,:::error_type=Punctuation} ніж різний)\nрізні символи{=>.:::error_type=Punctuation}
+Надійний пароль {–=>—:::error_type=Punctuation} це{:=>:::error_type=Punctuation}{\n=> :::error_type=Punctuation}довгий пароль{=>,:::error_type=Punctuation} {– =>:::error_type=Punctuation}12 і більше символів (краще довгий{=>,:::error_type=Punctuation} ніж різний)
+різні символи{=>.:::error_type=Punctuation}
 Захист пристроїв {–=>—:::error_type=Punctuation} це як зводити стіни й {стелі=>стелю:::error_type=G/Number} в помешканні: пристрої потрібно блокувати, шифрувати{=>.:::error_type=Punctuation}
 
 ПІДСУМКИ:
@@ -65,7 +66,7 @@
 
 ЩО РОБИТИ?
 {не=>Не:::error_type=Spelling} боятися! { зберігати=>Зберігати:::error_type=Spelling} спокій{!=>:::error_type=Punctuation} (бути сильним просто зараз){=>!:::error_type=Punctuation}
-{сказати=>Сказати:::error_type=Spelling} прямо: {=>“:::error_type=Punctuation}Мені не подобається те, що ти говориш! Будь ласка, спинись! {(СТОП)=>Стоп!”:::error_type=Spelling}
+{сказати=>Сказати:::error_type=Spelling} прямо: {=>“:::error_type=Punctuation}Мені не подобається те, що ти говориш! Будь ласка, спинись! {(СТОП)=>Стоп!”.:::error_type=Spelling}
 {жартувати=>Жартувати:::error_type=Spelling}. Жарт у відповідь на образу {–=>—:::error_type=Punctuation} найкраща зброя (це обеззброїть нападника){=>.:::error_type=Punctuation}
 Якщо всі методи використано, тоді правило 4:{  => :::error_type=Punctuation}йди і шукай дорослого, котрому довіряєш! {розкажи=>Розкажи:::error_type=Spelling} про проблему йому!
 

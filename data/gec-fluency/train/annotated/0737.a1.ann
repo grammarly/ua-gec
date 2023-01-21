@@ -6,6 +6,6 @@
 
 «Пане {Фідл=>Фідле:::error_type=G/Case},{»=>:::error_type=Punctuation} — кажу я, {«=>—:::error_type=Punctuation}відхиліть трохи фіранки, будь ласка{.=>:::error_type=Punctuation}»{=>.:::error_type=Punctuation}
 
-«{Бідл=>Бідле:::error_type=G/Case},{»=>:::error_type=Punctuation} — каже молодик. {«=>—:::error_type=Punctuation}Чи не хочеться {Вам=>вам:::error_type=Spelling} з'їсти яєшню з салом, дядьку Джеймсе?»
+«{Бідл=>Бідле:::error_type=G/Case},{»=>:::error_type=Punctuation} — каже молодик. {«=>—:::error_type=Punctuation}Чи не хочеться {Вам=>вам:::error_type=Spelling} з'їсти яєшню з салом, дядьку Джеймсе?»{=>.:::error_type=Punctuation}
 
 «Пане {голова»=>голово:::error_type=G/Case}{=>,:::error_type=Punctuation} — кажу я, прикладаю своє вухо до його правого плеча і прислухаюсь. {«=>—:::error_type=Punctuation}У {Вас=>вас:::error_type=Spelling} тяжкий випадок суперзапалення правої ключиці {клавесину=>клавесина:::error_type=Spelling}{.=>:::error_type=Punctuation}»{=>.:::error_type=Punctuation}

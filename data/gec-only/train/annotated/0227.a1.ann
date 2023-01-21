@@ -1,6 +1,6 @@
 “Якби я {знайшла=>знайшов:::error_type=G/Gender} триста тисяч доларів{»=>, — :::error_type=Punctuation}
 {Сказала=>сказав:::error_type=G/Gender} я йому, {«=>— :::error_type=Punctuation}я би облетіла всю землю, щоб знайти Марту Мангум».
-«{вона=>Вона:::error_type=Spelling} означає щось величне{»=>:::error_type=Punctuation}, {=>— :::error_type=Punctuation}сказав Годло. {«=>— :::error_type=Punctuation}Я знайду її сам. Але скажи мені{=>,:::error_type=Punctuation} як ти дізнався про місце{=>,:::error_type=Punctuation} де ...»
+«{вона=>Вона:::error_type=Spelling} означає щось величне{»=>:::error_type=Punctuation}, {=>— :::error_type=Punctuation}сказав Годло. {«=>— :::error_type=Punctuation}Я знайду її сам. Але скажи мені{=>,:::error_type=Punctuation} як ти дізнався про місце{=>,:::error_type=Punctuation} де ...»{=>.:::error_type=Punctuation}
 Я {сказала=>сказав:::error_type=G/Gender} йому в найменших деталях. Я {показала=>показав:::error_type=G/Gender} йому малюнок з чіткими дистанціями.
 Після майстерного огляду він вернувся в своє крісло і гучно засміявся
 «Ітак, ти дурень, {Джим=>Джиме:::error_type=G/Case}»{=>, —:::error_type=Punctuation} він сказав, коли{  => :::error_type=Punctuation}зміг.

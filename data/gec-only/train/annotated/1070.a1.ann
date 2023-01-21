@@ -4,7 +4,7 @@
 
 "{Повільно=>Повільний:::error_type=G/UngrammaticalStructure}!" {-=>—:::error_type=Punctuation} повторив Привид.
 
-"Сім років мертвих{"=>:::error_type=Punctuation}, {-=>—:::error_type=Punctuation} роздумував Скрудж. {"=>— :::error_type=Punctuation}І постійно подорожую!"
+"Сім років мертвих{"=>:::error_type=Punctuation}, {-=>—:::error_type=Punctuation} роздумував Скрудж. {"=>— :::error_type=Punctuation}І постійно подорожую!"{=>.:::error_type=Punctuation}
 
 "Весь час{"=>:::error_type=Punctuation}, {-=>—:::error_type=Punctuation} сказав Привид. {“=>— :::error_type=Punctuation}Ні відпочинку, ні спокою. Невпинне катування каяття{ =>:::error_type=Punctuation}".
 
