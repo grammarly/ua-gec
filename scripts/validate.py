@@ -2,6 +2,7 @@
 """Validate data for consistency.
 """
 
+from textwrap import shorten
 from collections import defaultdict
 from ua_gec import Corpus, AnnotationLayer
 
@@ -108,9 +109,25 @@ def check_m2_error_types():
                         print(f"Unknown category in {fname}: {category}")
 
 
+def check_fluency_in_gec_only():
+    """Check that gec-only does not contain any fluency edits. """
+
+    corpus = Corpus("all", annotation_layer=AnnotationLayer.GecOnly)
+    broken = set()
+    for doc in corpus:
+        for ann in doc.annotated.get_annotations():
+            if ann.meta["error_type"].startswith("F/"):
+                broken.add(f"{doc.doc_id}.annotator_id={doc.meta.annotator_id}")
+
+    if broken:
+        print(f"{len(broken)} docs have fluency edits in GEC-only:")
+        print(shorten(', '.join(sorted(broken)), width=200))
+
+
 def main():
     corpus = Corpus("all")
 
+    check_fluency_in_gec_only()
     check_m2_error_types()
     check_files_without_annotations(corpus)
     check_files_with_missing_detailed_annotations(corpus)
