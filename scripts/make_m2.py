@@ -11,6 +11,7 @@ M2 specifics:
 """
 import argparse
 import re
+import sys
 from io import StringIO
 
 import errant
@@ -72,6 +73,9 @@ def get_sentence_edits(errant_, doc):
             if edit.o_start == edit.o_end:
                 insertions_by_token[edit.o_start] = edit
             
+        # Copy error types from annotated text
+        # TODO: Insertions at the end are missed by this loop
+        #       (this should be handled by the heuristics below in 99% cases)
         for token_idx, token in enumerate(src):
             doc_index = src_text.find(token.text, doc_index)
             assert doc_index != -1
@@ -93,6 +97,21 @@ def get_sentence_edits(errant_, doc):
                     edit = insertions_by_token[token_idx]
                     edit.type = error_type
             doc_index += len(token.text)
+
+        # If we missed to find some annotations, try heuristics
+        for edit in edits:
+            if edit.type.endswith("PUNCT"):
+                edit.type = "Punctuation"
+
+            if edit.type[1] == ":":  # Errant's error type
+                for ann in doc.annotated.get_annotations():
+                    if ann.source_text == edit.o_str and ann.top_suggestion == edit.c_str:
+                        edit.type = ann.meta['error_type']
+                        break
+                else:
+                    print(f"Can't find error type, doc_id={doc.doc_id}, {edit.o_str}=>{edit.c_str}", file=sys.stderr)
+                    # Better than nothing
+                    edit.type = "Other"
 
         edits_by_sentence.append(edits)
 
