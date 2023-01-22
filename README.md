@@ -191,7 +191,7 @@ Here is an example to get you started. It will remove all F/Style annotations fr
     ...     print(ann.top_suggestion)    # like
     ...     print(ann.meta)              # {'error_type': 'Grammar'}
     ...     if ann.meta["error_type"] == "F/Style":
-    ...         text.remove(ann)         # or `text.apply(ann)`
+    ...         text.remove(ann)         # or `text.apply_correction(ann)`
 ```
 
 
