@@ -95,7 +95,7 @@ def check_m2_error_types():
     for layer in (AnnotationLayer.GecOnly, AnnotationLayer.GecAndFluency):
         for partition in ("train", "test"):
             corpus = Corpus(partition, annotation_layer=layer)
-            known_categories = {"noop"}
+            known_categories = {"noop", "Other"}
             for doc in corpus:
                 for ann in doc.annotated.get_annotations():
                     known_categories.add(ann.meta["error_type"])
