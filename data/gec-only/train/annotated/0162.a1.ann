@@ -1,4 +1,4 @@
-"Я не лікар{"=>:::error_type=Punctuation}, {=>— :::error_type=Punctuation}кажу я. {"=>— :::error_type=Punctuation}Чому б тобі не піти знайти лікаря?"
+"Я не лікар{"=>:::error_type=Punctuation}, {=>— :::error_type=Punctuation}кажу я. {"=>— :::error_type=Punctuation}Чому б тобі не піти знайти лікаря?"{=>.:::error_type=Punctuation}
 
 "Бос{"=>:::error_type=Punctuation}, {=>— :::error_type=Punctuation}каже він. {"=>—:::error_type=Punctuation} Лікар Госкінс за тватцять миль вітвітуює по селах теяких хволих. Він єтиний лікар у місті, а Мелу Бенксу туже погано. Він послав мене плосити вас плиїхати, сех, буть ласка".
 

@@ -1,4 +1,4 @@
-"{Док=>Доку:::error_type=G/Case},{"=>:::error_type=Punctuation} {-=>—:::error_type=Punctuation} каже майор, {"=>— :::error_type=Punctuation}я тяжко хворий. Скоро помру{=>.:::error_type=Punctuation} Ви справді ніяк не можете мені допомогти?"
+"{Док=>Доку:::error_type=G/Case},{"=>:::error_type=Punctuation} {-=>—:::error_type=Punctuation} каже майор, {"=>— :::error_type=Punctuation}я тяжко хворий. Скоро помру{=>.:::error_type=Punctuation} Ви справді ніяк не можете мені допомогти?"{=>.:::error_type=Punctuation}
 
 "{Містер=>Містере:::error_type=G/Case} Майор,{"=>—:::error_type=Punctuation} кажу я{,=>.:::error_type=Punctuation} {"=>—:::error_type=Punctuation} Я не учень С. К. Лапіуса і навіть не проходив курс у медицинському коледжі. Я лише прийшов сюди як товариш, щоб подивитися, чи зможу я бути корисним{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 

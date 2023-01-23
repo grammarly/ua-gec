@@ -4,6 +4,6 @@
 
 "Я часто казав тобі, що ти дурень{"=>:::error_type=Punctuation}, {=>— :::error_type=Punctuation}він сказав. {"=>— :::error_type=Punctuation}Ти дозволив себе обдурити повному телепню. Та ти обдурив і мене теж"{=>.:::error_type=Punctuation}
 
-"Як{"=>:::error_type=Punctuation}, я спитав, {"=>— :::error_type=Punctuation}я обдурив тебе?"
+"Як{"=>:::error_type=Punctuation}, я спитав, {"=>— :::error_type=Punctuation}я обдурив тебе?"{=>.:::error_type=Punctuation}
 
 "Своїм невіглаством{"=>:::error_type=Punctuation}, він відповів. {"=>— :::error_type=Punctuation}Двічі я знаходив {в=>у:::error_type=Spelling} твоїх планах такі недоліки, яких загальна середня освіта мала би дати тобі уникнути{=>":::error_type=Punctuation}. Також{"=>:::error_type=Punctuation}, {=>— :::error_type=Punctuation}він продовжив,{=> —:::error_type=Punctuation} {"=>:::error_type=Punctuation}Женучись за цим шахрайством, мені довелося понести такі витрати, {які=>скільки:::error_type=G/Conjunction} я не міг собі дозволити. Все, з мене досить{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}

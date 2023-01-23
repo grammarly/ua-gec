@@ -6,7 +6,7 @@
 
  "Якщо це дуже зручно, сер."
 
- "Це {не зручно=>незручно:::error_type=Spelling},{"=> —:::error_type=Punctuation} сказав Скрудж, {"=>—:::error_type=Punctuation}і це нечесно.{  => :::error_type=Punctuation}Якби я зупинив це за {півкрони=>пів крони:::error_type=Spelling}, ви б подумали, що погано звикли, я буду зв’язаний?{ =>:::error_type=Punctuation}"
+ "Це {не зручно=>незручно:::error_type=Spelling},{"=> —:::error_type=Punctuation} сказав Скрудж, {"=>—:::error_type=Punctuation}і це нечесно.{  => :::error_type=Punctuation}Якби я зупинив це за {півкрони=>пів крони:::error_type=Spelling}, ви б подумали, що погано звикли, я буду зв’язаний?{ =>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 
  {Клієр=>Клерк:::error_type=G/UngrammaticalStructure} ледь усміхнувся.
 

@@ -2,10 +2,10 @@
 
 "Чи це ти, {Джимме=>Джиме:::error_type=Spelling} Веллсе?"{=> —:::error_type=Punctuation} закричав чоловік {в=>у:::error_type=Spelling} дверях.
 
-"Благослови мене{=>,:::error_type=Punctuation} Маріє!" {=>— :::error_type=Punctuation}вигукнув новоприбулий, схопивши своїми руками обидві руки іншого. "Це Боб, точно він. Я був {впевнений=>упевнений:::error_type=Spelling}, що знайду тебе тут, якщо ти ще живий. Так{, =>-:::error_type=Punctuation}так{, =>-:::error_type=Punctuation}так! {--=>—:::error_type=Punctuation} двадцять років {=>— :::error_type=Punctuation}це довгий термін. Минуле відійшло, {Боббе=>Бобе:::error_type=Spelling}; я {б =>:::error_type=F/PoorFlow}хотів{=> би:::error_type=F/PoorFlow}, щоб воно тривало, і ми могли б ще раз пообідати. Як захід обійшовся з тобою, старий{ чоловіче=>:::error_type=F/PoorFlow}?"
+"Благослови мене{=>,:::error_type=Punctuation} Маріє!" {=>— :::error_type=Punctuation}вигукнув новоприбулий, схопивши своїми руками обидві руки іншого. "Це Боб, точно він. Я був {впевнений=>упевнений:::error_type=Spelling}, що знайду тебе тут, якщо ти ще живий. Так{, =>-:::error_type=Punctuation}так{, =>-:::error_type=Punctuation}так! {--=>—:::error_type=Punctuation} двадцять років {=>— :::error_type=Punctuation}це довгий термін. Минуле відійшло, {Боббе=>Бобе:::error_type=Spelling}; я {б =>:::error_type=F/PoorFlow}хотів{=> би:::error_type=F/PoorFlow}, щоб воно тривало, і ми могли б ще раз пообідати. Як захід обійшовся з тобою, старий{ чоловіче=>:::error_type=F/PoorFlow}?"{=>.:::error_type=Punctuation}
 
 "Дідько; він дав мені все, що я просив. Ти змінився, {Джимме=>Джиме:::error_type=Spelling}. Я думав{=>,:::error_type=Punctuation} ти {був =>:::error_type=G/UngrammaticalStructure}{нищим=>нижчий:::error_type=G/Case}, на {дюйми =>:::error_type=F/PoorFlow}два або три{.=> дюйми:::error_type=F/PoorFlow}"{=>.:::error_type=Punctuation}
 
 "Хе, я трохи виріс після двадцяти{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 
-"{В=>У:::error_type=Spelling} Нью-Йорку справи йдуть добре, {Джимме=>Джиме:::error_type=Spelling}?"
+"{В=>У:::error_type=Spelling} Нью-Йорку справи йдуть добре, {Джимме=>Джиме:::error_type=Spelling}?"{=>.:::error_type=Punctuation}

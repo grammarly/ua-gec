@@ -4,6 +4,6 @@
 
 Пити вино, пиво {-=>—:::error_type=Punctuation} це відпочинок? Для {Вашої=>вашої:::error_type=Spelling} печінки точно ні.
 
-Шопінг? Постійний аналіз{=>::::error_type=Punctuation} подобається/не подобається.
+Шопінг? Постійний аналіз{=>::::error_type=Punctuation} подобається{/=> / :::error_type=Punctuation}не подобається.
 
 Отже, якщо {Ви=>ви:::error_type=Spelling} вважаєте{=>,:::error_type=Punctuation} що мозок та печінка {=>— :::error_type=Punctuation}це щось відокремлене від Вас, то можете вважати{=>,:::error_type=Punctuation} що все {вище зазначене=>вищезазначене:::error_type=Spelling} {=>— :::error_type=Punctuation}це відпочинок. Якщо ж Ви дійсно хочете відпочити, варто спочатку визначитись, що {Ви=>ви:::error_type=Spelling} вважаєте під {'=>“:::error_type=Punctuation}Я{'=>”:::error_type=Punctuation} у виразі{=>::::error_type=Punctuation} {'=>“:::error_type=Punctuation}Я хочу відпочити{'=>”:::error_type=Punctuation}. Для {=>“:::error_type=Punctuation}Я{ -=>” —:::error_type=Punctuation} руки-ноги {=>— :::error_type=Punctuation}це один відпочинок, а для Я {-=>—:::error_type=Punctuation} людина {-=>—:::error_type=Punctuation} зовсім інший. {#=>:::error_type=Punctuation}Логічно?{)=>:::error_type=Punctuation}

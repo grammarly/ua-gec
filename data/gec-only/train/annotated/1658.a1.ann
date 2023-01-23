@@ -2,9 +2,9 @@
 
 {"=>:::error_type=Punctuation}Я киваю на містера Біддла, сідаю біля ліжка і відчуваю пульс мера. "Дайте мені подивитись на вашу печінку {-=>—:::error_type=Punctuation} я маю на увазі ваш язик ", {-=>—:::error_type=Punctuation} кажу. Потім піднімаю повіки і дивлюсь на зіниці.
 
-"Як давно у вас проблеми?"
+"Як давно у вас проблеми?"{=>.:::error_type=Punctuation}
 
-"{ =>:::error_type=Punctuation}Мене збили {-=> —:::error_type=Punctuation} ой-ой {-=>—:::error_type=Punctuation} {вчора=>учора:::error_type=Spelling} ввечері, {-=>—:::error_type=Punctuation} каже мер. {-=>—:::error_type=Punctuation} Дайте мені щось, докторе, ви ж дасте?{ =>:::error_type=Punctuation}"
+"{ =>:::error_type=Punctuation}Мене збили {-=> —:::error_type=Punctuation} ой-ой {-=>—:::error_type=Punctuation} {вчора=>учора:::error_type=Spelling} ввечері, {-=>—:::error_type=Punctuation} каже мер. {-=>—:::error_type=Punctuation} Дайте мені щось, докторе, ви ж дасте?{ =>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 
 "{ =>:::error_type=Punctuation}Містере Скрипку, {-=>—:::error_type=Punctuation} кажу я, {-=>—:::error_type=Punctuation} трохи підніміть жалюзі, будь ласка{ =>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 

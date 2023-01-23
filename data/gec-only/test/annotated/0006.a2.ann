@@ -8,7 +8,7 @@
 
 Ми прийшли, але діти ще не гуляють. Сказали нам почекати{=>,:::error_type=Punctuation} поки група вийде.
 
-Надя щось не в захваті, каже: "{не=>Не:::error_type=Spelling} піду!"
+Надя щось не в захваті, каже: "{не=>Не:::error_type=Spelling} піду!"{=>.:::error_type=Punctuation}
 
 Ох, все дуже заплутано. Ми у вересні подивимось{=>,:::error_type=Punctuation} який в Уляни буде розклад {в=>у:::error_type=Spelling} школі {й=>та:::error_type=Spelling} {по =>:::error_type=G/UngrammaticalStructure}гуртках, і як воно буде Надії в садочку, і вирішимо{=>,:::error_type=Punctuation} як краще ходити. {В=>А:::error_type=G/UngrammaticalStructure} поки що {вересень=>у вересні:::error_type=G/Case} будем повну оплату робити.
 
@@ -16,7 +16,7 @@
 
 {Всі=>Усі:::error_type=Spelling} батьки в шоці{=>.:::error_type=Punctuation} ))
 
-Отож, я й сама ні в чому не впевнена{=>.:::error_type=Punctuation}
+Отож, я {й=>і:::error_type=Spelling} сама ні в чому не впевнена{=>.:::error_type=Punctuation}
 
 А мені здається{=>,:::error_type=Punctuation} що "все"{=>,:::error_type=Punctuation} вже не будуть закривати. Люди всі втомилися, всім байдуже{=>.:::error_type=Punctuation}
 

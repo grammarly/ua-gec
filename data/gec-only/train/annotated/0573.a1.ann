@@ -2,7 +2,7 @@
 {-=>—:::error_type=Punctuation} Нічого, пішли вип'ємо. Я сам, {брат=>брате:::error_type=G/Case}, не п'ю{ =>:::error_type=Punctuation}, {так=>але:::error_type=G/Conjunction} тут нашому {брату=>братові:::error_type=G/Case} актору знижка, майже {півціни=>пів ціни :::error_type=Spelling}{-=>—:::error_type=Punctuation} не {хочешь=>хочеш:::error_type=Spelling}, {так=>та:::error_type=G/Conjunction} все одно {вип'єшь=>вип'єш:::error_type=Spelling}. Ходімо!
 Приятелі підходять до буфету та випивають.
 {-=>—:::error_type=Punctuation} Надивився я на ваши театри. Добрі{ =>:::error_type=Punctuation}, нічого сказати,{.=>:::error_type=Punctuation} {-=>—:::error_type=Punctuation} бурчить благородний батько, {посміхаясь=>посміхаючись:::error_type=G/Particle}. {-=>— :::error_type=Punctuation}Мерсі, не очікував. А {щє=>ще:::error_type=Spelling} столиця, центр мистецтва! Дивитись соромно.
-{-=>— :::error_type=Punctuation}Був у Александрівці? {-=>—:::error_type=Punctuation} питає газетчик?
+{-=>— :::error_type=Punctuation}Був {у=>в:::error_type=Spelling} Александрівці? {-=>—:::error_type=Punctuation} питає газетчик?
 Благородний батько презирливо маше рукою та усміхається. Малиновий ніс його морщиться та видає уссіхнений звук.
 {-=>—:::error_type=Punctuation} Був{!-=>! —:::error_type=Punctuation} відповідає він як би неохоче
 {-=>—:::error_type=Punctuation} {і=>І:::error_type=Spelling} як? Подобається?

@@ -1,5 +1,5 @@
 "{Констебле"=>Констеблю:::error_type=G/Case}, {-=>—:::error_type=Punctuation} {вимовив=>промовив:::error_type=F/Style} я{=>,:::error_type=Punctuation} {- "=>— :::error_type=Punctuation}це гарна ніч".
-"Чи отримали ви міську ліцензію{"=>:::error_type=Punctuation}, {-=>—:::error_type=Punctuation} спитав він{=>,:::error_type=Punctuation} {- "=>— :::error_type=Punctuation}для продажу цього незаконного "спуджу", який ви з лестощів називаєте ліками?"
+"Чи отримали ви міську ліцензію{"=>:::error_type=Punctuation}, {-=>—:::error_type=Punctuation} спитав він{=>,:::error_type=Punctuation} {- "=>— :::error_type=Punctuation}для продажу цього незаконного "спуджу", який ви з лестощів називаєте ліками?"{=>.:::error_type=Punctuation}
 "Не отримав{"=>:::error_type=Punctuation}, {-=>—:::error_type=Punctuation} відповів я. {"=>— :::error_type=Punctuation}Я не знав, що у вас є {місто=>таке місце:::error_type=F/Style}. Якщо я знайду його завтра, то отримаю{ таку=>:::error_type=F/Repetition}, якщо це необхідно{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 "Я буду вимушений затримати вас до того", {=>— :::error_type=Punctuation}сказав {констебель=>констебль:::error_type=Spelling}.
 "Я припиняю продаж {та=>і:::error_type=F/Other} повертаюсь до готелю. Я мав розмову з господарем про це{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}

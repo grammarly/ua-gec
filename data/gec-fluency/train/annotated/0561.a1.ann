@@ -4,8 +4,8 @@
 
 "Ви бачите, містере Тідл{"=>:::error_type=Punctuation},{=>—:::error_type=Punctuation} кажу я, {"=>— :::error_type=Punctuation}дива сучасної науки"{=>.:::error_type=Punctuation}
 
-"Бідл{"=>:::error_type=Punctuation}, {=>— :::error_type=Punctuation}каже він{,=>.:::error_type=Punctuation} {"=>— :::error_type=Punctuation}Коли ви дасте дядькові решту лікування, докторе Пух-пух?"
+"Бідл{"=>:::error_type=Punctuation}, {=>— :::error_type=Punctuation}каже він{,=>.:::error_type=Punctuation} {"=>— :::error_type=Punctuation}Коли ви дасте дядькові решту лікування, докторе Пух-пух?"{=>.:::error_type=Punctuation}
 
 "Ваф-ху{"=>:::error_type=Punctuation}, {=>— :::error_type=Punctuation}кажу я. {"=>— :::error_type=Punctuation}Я повернусь завтра {в=>об:::error_type=G/Prep} {одинадцять=>одинадцятій:::error_type=G/Case}. Коли він прокинеться{=>,:::error_type=Punctuation} дайте йому вісім крапель турпентину та три фунти стейку. Доброго ранку{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 
-{"=>:::error_type=Punctuation}Наступного ранку я прийшов у визначений час.{  => :::error_type=Punctuation}"Добре, містере Рідл{"=>, —:::error_type=Punctuation} сказав я, коли він відкрив двері спальні, {"=>— :::error_type=Punctuation}як там дядько цього ранку?"
+{"=>:::error_type=Punctuation}Наступного ранку я прийшов у визначений час.{  => :::error_type=Punctuation}"Добре, містере Рідл{"=>, —:::error_type=Punctuation} сказав я, коли він відкрив двері спальні, {"=>— :::error_type=Punctuation}як там дядько цього ранку?"{=>.:::error_type=Punctuation}
