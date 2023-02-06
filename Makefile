@@ -1,13 +1,12 @@
-.PHONY: install stats postprocess
+.PHONY: install postprocess m2 check stats
 
 
 install:
 	cd python/ua_gec && ln -sf ../../data data
 	cd python && python3 setup.py develop
 
-stats:
-	./python/ua_gec/stats.py all gec-fluency | tee stats.gec-fluency.txt
-	./python/ua_gec/stats.py all gec-only | tee stats.gec-only.txt
+check:
+	./scripts/validate.py
 
 postprocess:
 	rm -rf data/gec-*/test/source*
@@ -23,3 +22,7 @@ m2:
 	./scripts/make_m2.py --partition test --layer gec-only --output data/gec-only/test/gec-only.test.m2
 	./scripts/make_m2.py --partition train --layer gec-fluency --output data/gec-fluency/train/gec-fluency.train.m2
 	./scripts/make_m2.py --partition train --layer gec-only --output data/gec-only/train/gec-only.train.m2
+
+stats:
+	./python/ua_gec/stats.py all gec-fluency | tee stats.gec-fluency.txt
+	./python/ua_gec/stats.py all gec-only | tee stats.gec-only.txt

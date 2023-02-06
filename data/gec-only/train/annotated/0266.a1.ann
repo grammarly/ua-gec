@@ -1,17 +1,17 @@
-{-=>—:::error_type=Punctuation} Я? Сімдесят п'ять карбованців, окрім {нагородних=>преміальних:::error_type=F/Style}... Крім того{=>,:::error_type=Punctuation} ми маємо{,=>:::error_type=Punctuation} дохід від свічок і зайців.
+{-=>—:::error_type=Punctuation} Я? Сімдесят п'ять карбованців, окрім нагородних... Крім того{=>,:::error_type=Punctuation} ми маємо{,=>:::error_type=Punctuation} дохід від свічок і зайців.
 
-{-=>—:::error_type=Punctuation} {Полюванням займаєтесь=>Полюєте:::error_type=F/PoorFlow}?
+{-=>—:::error_type=Punctuation} Полюванням займаєтесь?
 
 {-=>—:::error_type=Punctuation} Ні, зайцями в нас {називать=>називають:::error_type=Spelling} безквиткових пасажирів{ - Зайці =>.:::error_type=G/UngrammaticalStructure}
 
-Минула ще одна хвилина в тиші. Стичкін (це прізвище таке, {одна =>:::error_type=F/Repetition}суцільна помилка) {піднявся=>підвівся:::error_type=F/Style} і {в хвилюванні=>схвильовано:::error_type=F/PoorFlow}{,=>:::error_type=Punctuation} {ходив=>почав ходити:::error_type=F/PoorFlow} {по=>:::error_type=G/UngrammaticalStructure} {кімнаті=>кімнатою:::error_type=G/Case}.
+Минула ще одна хвилина в тиші. Стичкін (це прізвище таке, одна суцільна помилка) піднявся і в хвилюванні{,=>:::error_type=Punctuation} ходив {по=>:::error_type=G/UngrammaticalStructure} {кімнаті=>кімнатою:::error_type=G/Case}.
 
-{-=>—:::error_type=Punctuation} Мені молодої дружини не треба{=>,:::error_type=Punctuation} {-=>—:::error_type=Punctuation} {казав=>сказав:::error_type=G/Aspect} він{=>.:::error_type=Punctuation} {-=>—:::error_type=Punctuation} {я=>Я:::error_type=Spelling} вже людина {похила=>літня:::error_type=F/Style}, мені треба така{=>,:::error_type=Punctuation} котра... ну наче... спокійна й солідна... і наче вашої {комплекції=>статури:::error_type=F/Style}...
+{-=>—:::error_type=Punctuation} Мені молодої дружини не треба{=>,:::error_type=Punctuation} {-=>—:::error_type=Punctuation} {казав=>сказав:::error_type=G/Aspect} він{=>.:::error_type=Punctuation} {-=>—:::error_type=Punctuation} {я=>Я:::error_type=Spelling} вже людина похила, мені треба така{=>,:::error_type=Punctuation} котра... ну наче... спокійна й солідна... і наче вашої комплекції...
 
-{- =>—:::error_type=Punctuation}Бог його зна, що ви кажете... {-=>—:::error_type=Punctuation} засміялась сваха, {закриваючи=>затуляючи:::error_type=F/Style} хусткою своє бурякове обличчя.
+{- =>—:::error_type=Punctuation}Бог його зна, що ви кажете... {-=>—:::error_type=Punctuation} засміялась сваха, закриваючи хусткою своє бурякове обличчя.
 
-{-=>—:::error_type=Punctuation} {Що=>А чого:::error_type=F/PoorFlow} ж довго думати? Ви мені близькі до серця{, й для мене ви=> і:::error_type=F/PoorFlow} підходите {=>за :::error_type=G/Prep}вашими якостями. Людина я позитивна, твереза, і якщо вам подобаюсь, то... чому б і ні? Дозвольте вам {зробити пропозицію руки і серця=>освідчитись:::error_type=F/PoorFlow}!
+{-=>—:::error_type=Punctuation} Що ж довго думати? Ви мені близькі до серця, й для мене ви підходите {=>за :::error_type=G/Prep}вашими якостями. Людина я позитивна, твереза, і якщо вам подобаюсь, то... чому б і ні? Дозвольте вам зробити пропозицію руки і серця!
 
-Сваха аж проплакала, засміялась, і у знак своєї згоди, {почокалась=>цокнулась:::error_type=F/Calque} зі Стичкіним.
+Сваха аж проплакала, засміялась, і у знак своєї згоди, почокалась зі Стичкіним.
 
-{-=>—:::error_type=Punctuation} Ну{=>,:::error_type=Punctuation} {-=>—:::error_type=Punctuation} сказав щасливий обер-кондуктор{=>,:::error_type=Punctuation} {-=>—:::error_type=Punctuation} тепер дозвольте вам пояснити, якої я {бажаю=>хочу:::error_type=F/Style} від вас {поведімки=>поведінки:::error_type=Spelling} й способу життя... Я людина сувора, солідна, позитивна, тому {бажаю=>хочу:::error_type=F/Style}, щоб моя {жінка=>дружина:::error_type=F/Style} була теж сувора{,=>:::error_type=Punctuation} і розуміла, що я для неї {=>— :::error_type=Punctuation}опора й підтримка.
+{-=>—:::error_type=Punctuation} Ну{=>,:::error_type=Punctuation} {-=>—:::error_type=Punctuation} сказав щасливий обер-кондуктор{=>,:::error_type=Punctuation} {-=>—:::error_type=Punctuation} тепер дозвольте вам пояснити, якої я бажаю від вас {поведімки=>поведінки:::error_type=Spelling} й способу життя... Я людина сувора, солідна, позитивна, тому бажаю, щоб моя жінка була теж сувора{,=>:::error_type=Punctuation} і розуміла, що я для неї {=>— :::error_type=Punctuation}опора й підтримка.
