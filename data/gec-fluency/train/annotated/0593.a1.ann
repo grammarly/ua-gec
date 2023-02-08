@@ -1,5 +1,5 @@
 Здійнявся вітер{=>.:::error_type=Punctuation}
-«Здійнявся вітер{!=>! :::error_type=Punctuation}Намагаймось жити!»{=>.:::error_type=Punctuation} — Поль Валері.
+«Здійнявся вітер{!=>! :::error_type=Punctuation}Намагаймось жити!» — Поль Валері.
 {=>— :::error_type=Punctuation}Ось, тримай.
 {=>— :::error_type=Punctuation}Дякую. Можна я почитаю вдома?
 — Але там англійською.{=> :::error_type=Punctuation}— Візьму в брата словник.
@@ -103,7 +103,7 @@
 "Il faut tenter de vivre."
 Напис: "Вагон екстра класу"
 "Le vent se lève.Il faut tenter de vivre{=>":::error_type=Punctuation}.{"»=>:::error_type=Punctuation}
-«Здійнявся вітер!.. Намагаймось жити!{=>".:::error_type=Punctuation}
+«Здійнявся вітер!.. Намагаймось жити!{=>":::error_type=Punctuation}
 Землетрус!
 Паровоз зараз вибухне!
 — Що з вами?— Щось із ногою.

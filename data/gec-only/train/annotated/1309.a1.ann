@@ -6,6 +6,6 @@
 
 "Ох, я трохи виріс після двадцяти{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
 
-"У Нью-Йорку все добре, Джиммі?"{=>.:::error_type=Punctuation}
+"У Нью-Йорку все добре, Джиммі?"
 
 "Помірковано. Я займаю посаду в одному із департаментів міста. Давай, {Боб=>Бобе:::error_type=G/Case}{;=>,:::error_type=Punctuation} Ми поїдемо в одне місце, яке я знаю, і{  => :::error_type=Punctuation}матимемо довгу розмову про старі часи{.=>:::error_type=Punctuation}"{=>.:::error_type=Punctuation}
