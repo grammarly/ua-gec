@@ -6,6 +6,7 @@ This repository contains UA-GEC data and an accompanying Python library.
 
 ## What's new
 
+* **May 2023**: [Shared Task on Ukrainian GEC](https://unlp.org.ua/shared-task/) results published.
 * **November 2022**: Version 2.0 released, featuring more data and detailed annotations.
 * **January 2021**: Initial release.
 
