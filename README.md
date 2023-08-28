@@ -6,6 +6,7 @@ This repository contains UA-GEC data and an accompanying Python library.
 
 ## What's new
 
+* **May 2023**: [Shared Task on Ukrainian GEC](https://unlp.org.ua/shared-task/) results published.
 * **November 2022**: Version 2.0 released, featuring more data and detailed annotations.
 * **January 2021**: Initial release.
 
@@ -214,13 +215,21 @@ The train sets contain 45 double-annotated docs.
 The [accompanying paper](https://arxiv.org/abs/2103.16997) is:
 
 ```
-@misc{syvokon2021uagec,
-      title={UA-GEC: Grammatical Error Correction and Fluency Corpus for the Ukrainian Language},
-      author={Oleksiy Syvokon and Olena Nahorna},
-      year={2021},
-      eprint={2103.16997},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}}
+@inproceedings{syvokon-etal-2023-ua,
+    title = "{UA}-{GEC}: Grammatical Error Correction and Fluency Corpus for the {U}krainian Language",
+    author = "Syvokon, Oleksiy  and
+      Nahorna, Olena  and
+      Kuchmiichuk, Pavlo  and
+      Osidach, Nastasiia",
+    booktitle = "Proceedings of the Second Ukrainian Natural Language Processing Workshop (UNLP)",
+    month = may,
+    year = "2023",
+    address = "Dubrovnik, Croatia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.unlp-1.12",
+    pages = "96--102",
+    abstract = "We present a corpus professionally annotated for grammatical error correction (GEC) and fluency edits in the Ukrainian language. We have built two versions of the corpus {--} GEC+Fluency and GEC-only {--} to differentiate the corpus application. To the best of our knowledge, this is the first GEC corpus for the Ukrainian language. We collected texts with errors (33,735 sentences) from a diverse pool of contributors, including both native and non-native speakers. The data cover a wide variety of writing domains, from text chats and essays to formal writing. Professional proofreaders corrected and annotated the corpus for errors relating to fluency, grammar, punctuation, and spelling. This corpus can be used for developing and evaluating GEC systems in Ukrainian. More generally, it can be used for researching multilingual and low-resource NLP, morphologically rich languages, document-level GEC, and fluency correction. The corpus is publicly available at https://github.com/grammarly/ua-gec",
+}
 ```
 
 
