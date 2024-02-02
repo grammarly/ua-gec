@@ -2,8 +2,11 @@ from setuptools import setup, find_packages
 from codecs import open
 from os import path
 
-VERSION = "2.1.0"
 here = path.abspath(path.dirname(__file__))
+
+# Read __version__
+with open(path.join(here, "ua_gec", "version.py")) as f:
+    exec(f.read())
 
 # Get the long description from the README file
 with open(path.join(here, "README.md"), encoding="utf-8") as f:
@@ -15,7 +18,7 @@ setup(
     # Versions should comply with PEP440. For a discussion on single-sourcing
     # the version across setup.py and the project code, see
     # https://packaging.python.org/en/latest/single_source_version.html
-    version=VERSION,
+    version=__version__,
     author="Oleksiy Syvokon",
     author_email="oleksiy.syvokon@gmail.com",
     description="UA-GEC: Grammatical Error Correction and Fluency Corpus for the Ukrainian language",
@@ -38,16 +41,25 @@ setup(
         "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3.10",
         "Programming Language :: Python :: 3.11",
+        "Programming Language :: Python :: 3.12",
     ],
     keywords="gec ukrainian dataset corpus grammatical error correction grammarly",
     packages=find_packages(exclude=["docs", "tests"]),
     package_data={
         "ua_gec": [
             "data/*",
+            "data/gec-fluency/train/source*/*",
+            "data/gec-fluency/train/target*/*",
             "data/gec-fluency/train/annotated/*",
             "data/gec-fluency/test/annotated/*",
+            "data/gec-fluency/test/source*/*",
+            "data/gec-fluency/test/target*/*",
+            "data/gec-only/train/source*/*",
+            "data/gec-only/train/target*/*",
             "data/gec-only/train/annotated/*",
             "data/gec-only/test/annotated/*",
+            "data/gec-only/test/source*/*",
+            "data/gec-only/test/target*/*",
         ]
     },
     # include_package_data=True,

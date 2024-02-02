@@ -26,7 +26,7 @@ class Document:
         self._partition_dir = partition_dir
 
     def __str__(self):
-        return self.annotated
+        return str(self.annotated)
 
     def __repr__(self):
         return "<Document(`{}`)>".format(self.annotated)
