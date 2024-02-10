@@ -253,6 +253,8 @@ def tokenize(text: str) -> [str]:
 
 
 if __name__ == "__main__":
+    assert locale.getpreferredencoding() == "UTF-8"
+
     parser = argparse.ArgumentParser()
     parser.add_argument("--path", default="./data")
     parser.add_argument("--annotation-layer",

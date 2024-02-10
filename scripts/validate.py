@@ -102,7 +102,7 @@ def check_m2_error_types():
 
             fname = f"{layer.value}.{partition}.m2"
             m2_path = corpus.data_dir / partition / fname
-            for line in m2_path.read_text().splitlines():
+            for line in m2_path.read_text(encoding="utf-8").splitlines():
                 if line.startswith("A"):
                     category = line.split("|||")[1]
                     if category not in known_categories:

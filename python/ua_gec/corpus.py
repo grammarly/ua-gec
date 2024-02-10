@@ -43,13 +43,13 @@ class Document:
     def source_sentences(self):
         fname = f"{self.meta.doc_id}.src.txt"
         path = self._partition_dir / "source-sentences" / fname
-        return path.read_text().rstrip("\n").split("\n")
+        return path.read_text(encoding="utf-8").rstrip("\n").split("\n")
 
     @property
     def source_sentences_tokenized(self):
         fname = f"{self.meta.doc_id}.src.txt"
         path = self._partition_dir / "source-sentences-tokenized" / fname
-        return path.read_text().rstrip("\n").split("\n")
+        return path.read_text(encoding="utf-8").rstrip("\n").split("\n")
 
     @property
     def target(self):
@@ -59,13 +59,13 @@ class Document:
     def target_sentences(self):
         fname = f"{self.meta.doc_id}.a{self.meta.annotator_id}.txt"
         path = self._partition_dir / "target-sentences" / fname
-        return path.read_text().rstrip("\n").split("\n")
+        return path.read_text(encoding="utf-8").rstrip("\n").split("\n")
 
     @property
     def target_sentences_tokenized(self):
         fname = f"{self.meta.doc_id}.a{self.meta.annotator_id}.txt"
         path = self._partition_dir / "target-sentences-tokenized" / fname
-        return path.read_text().rstrip("\n").split("\n")
+        return path.read_text(encoding="utf-8").rstrip("\n").split("\n")
 
     @property
     def doc_id(self):
@@ -121,7 +121,8 @@ class Corpus:
 
     def _load_metadata(self):
         self._metadata = []
-        reader = csv.DictReader((self._data_dir / ".." / "metadata.csv").open())
+        path = self._data_dir / ".." / "metadata.csv"
+        reader = csv.DictReader(path.open(encoding="utf-8"))
         for row in reader:
             if self.partition == "all" or row["partition"] == self.partition:
                 for annotator_id in row["annotator_id"].split():
@@ -152,7 +153,7 @@ class Corpus:
             filename = f"{meta.doc_id}.a{meta.annotator_id}.ann"
             partition_dir = self._data_dir / meta.partition
             path = partition_dir / "annotated" / filename
-            text = AnnotatedText(path.read_text())
+            text = AnnotatedText(path.read_text(encoding="utf-8"))
             doc = Document(text, meta=meta, partition_dir=partition_dir)
             yield doc
 
